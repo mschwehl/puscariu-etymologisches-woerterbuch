@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="363">
+  
+  <lemma>cinci</lemma>
+   
+  <!-- Assuming cinei -> cinci -->
+  
+  <pos>num.</pos>
+  
+  <variants>[ar. țînțĭ, daher der Name der Aromunen Țînțarĭ, mgl. țînțĭ, ir. țînțĭ]</variants>
+   
+  <!-- Assuming tsints, Tsintsari, tsints, tSints -> țînțĭ, Țînțarĭ, țînțĭ, țînțĭ -->
+  
+  <definition>„fünf“</definition>
+  
+  <etymology source="C. I. L. X 7172, 5939 etc.">
+    
+    <etymon lang="Lat">CINQUE</etymon>
+     (= 
+    <etymon lang="Lat">QUINQUE</etymon>
+    , welches auch zu 
+    <form>cinci</form>
+     geworden wäre) 
+    <!-- Assuming cixaur -> CINQUE -->
+    
+    <cognates>
+      
+      <form lang="it">cinque</form>
+      , 
+      <form lang="sard-log">chimbe</form>
+      , 
+      <form lang="eng">tschinch</form>
+      , 
+      <form lang="pv">cinc</form>
+      , 
+      <form lang="fr">cinq</form>
+      , 
+      <form lang="sp">cinco</form>
+      , 
+      <form lang="pg">cinco</form>
+      . 
+      <!-- Assuming t$ink’ -> tschinch, cine -> cinc -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

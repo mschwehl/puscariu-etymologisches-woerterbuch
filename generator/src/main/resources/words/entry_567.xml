@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="567">
+  
+  <lemma>făclie</lemma>
+   
+  <!-- Assuming fächli]e -> făclie -->
+  
+  <usage>
+    (
+    <source_ref>Dosoft. Viaţa sf. 293b, 307b</source_ref>
+    , etc.)
+  </usage>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Fackel“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. I § 495">
+    
+    <etymon lang="Lat">FACŬLA, -AM</etymon>
+     
+    <!-- Assuming vaclülna -> FACŬLA -->
+    
+    <cognates>
+      
+      <form lang="it">fiaccola?</form>
+      , 
+      <form lang="abruzz">?</form>
+       „fiaccola di canne“, 
+      <form lang="frl">fale</form>
+      , 
+      <form lang="pv">falha</form>
+      , 
+      <form lang="a-frz">faille</form>
+      , (
+      <form lang="sp">hacha</form>
+      , 
+      <form lang="pg">facha</form>
+      ). 
+      <!-- Interpretation needed for făgola, farchia -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. flacără.</reference>
+  
+  <borrowing_note>
+    <form>Făclă</form>
+     sf, 
+    <form>făclie</form>
+     sf. stammen aus ung. 
+    <etymon lang="hu">fáklya</etymon>
+    .
+  </borrowing_note>
+  
+</entry>

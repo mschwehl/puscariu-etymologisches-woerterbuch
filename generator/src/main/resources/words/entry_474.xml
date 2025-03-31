@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="474">
+  
+  <lemma>cutreier</lemma>
+   
+  <!-- Assuming eutreier -> cutreier -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„durchwandern“</definition>
+  
+  <usage>
+    fast nur in der Ver­bindung 
+    <example>c. pămîntul</example>
+     „die Erde durchwandern“, eigtl. „die Erde dreschen, stampfen“
+  </usage>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CONTRIBULO, -ARE</etymon>
+     (mit dem Sinn von rum. 
+    <form>treier</form>
+    ). 
+    <!-- Assuming € COxTRIBULO -> < CONTRIBULO -->
+    
+  </etymology>
+  
+</entry>

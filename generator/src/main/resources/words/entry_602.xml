@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="602">
+  
+  <lemma>fiastru</lemma>
+   
+  <!-- Assuming fiâstru -> fiastru -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. hilastru]</variants>
+   
+  <!-- Assuming Ailastru -> hilastru -->
+  
+  <definition>„Stiefsohn‘‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FILIASTER, -TRUM</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">thjeshtër?</form>
+      , 
+      <form lang="it">figliastro</form>
+      , 
+      <form lang="ven">fiastro</form>
+      , 
+      <form lang="berg">fiastra fem.</form>
+      , 
+      <form lang="frl">fiiastri?</form>
+      , 
+      <form lang="pv">filhastre</form>
+      , 
+      <form lang="sp">hijastro</form>
+      . 
+      <!-- Interpretation needed for Oicstre, figliasiro, fijastri -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. păstoric].</variants>
+   
+  <!-- Assuming pastoric -> păstoric -->
+  
+</entry>

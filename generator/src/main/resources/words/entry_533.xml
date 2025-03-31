@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="533">
+  
+  <lemma>dinte</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. ir. =, mgl. dinți]</variants>
+   
+  <!-- Assuming m -> =, dinti -> dinți -->
+  
+  <definition>„Zahn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DENS, DENTEM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">dente</form>
+      , 
+      <form lang="sard">dente</form>
+      , 
+      <form lang="pg">dente</form>
+      , 
+      <form lang="eng">daint?</form>
+      , 
+      <form lang="pv">dent</form>
+      , 
+      <form lang="cat">dent</form>
+      , 
+      <form lang="fr">dent</form>
+      , 
+      <form lang="sp">diente</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Der „Augenzahn“ heißt 
+    <example>dintele ochiului</example>
+    , desgleichen im 
+    <example lang="a-berg">ol dent ogial</example>
+    , 
+    <example lang="muggia">dient uliai?</example>
+    , 
+    <example lang="pirano">?</example>
+    , 
+    <example lang="crema">dent ügial?</example>
+    . 
+    <!-- Interpretation needed for otăiâl, ügial -->
+    
+  </usage_note>
+  
+</entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="393">
+  
+  <lemma>coif</lemma>
+  
+  <lemma_variants>
+    (+ 
+    <form>coiuf?</form>
+     
+    <source_ref>Varl. 1642 I f. 56</source_ref>
+    )
+  </lemma_variants>
+   
+  <!-- Assuming coiufü -> coiuf? -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Helm“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*COFEA, -AM</etymon>
+     „Haube“ (
+    <etymon lang="Lat">cofia</etymon>
+     bei Venantius Fortunatus) 
+    <!-- Assuming *cürka -> *COFEA, corsa -> cofia -->
+    
+    <cognates>
+      
+      <form lang="it">cuffia</form>
+      , 
+      <form lang="fr">coiffe</form>
+      , 
+      <form lang="sp">cofia</form>
+      , 
+      <form lang="pg">coifa</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

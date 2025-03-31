@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="240">
+  
+  <lemma>buric</lemma>
+   
+  <!-- Assuming burte -> buric -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. —, mgl. - auch „Magen“, ir. —]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„Nabel“</definition>
+  
+  <etymology_discussion source="Zauner: Körperteile, 497; Dens. H. l. r. 84; W. Meyer-Lübke (mündlich); Zauner: Körperteile, 498">
+    
+    <etymology>
+      
+      <etymon lang="Lat">UMBILĪCUS, -UM</etymon>
+       
+      <!-- Assuming UNBILIcus, -un -> UMBILĪCUS, -UM -->
+      
+      <cognates_base>
+        (
+        <form lang="it">ombelico</form>
+         ist gelehrt), 
+        <form lang="sard">umbiligu</form>
+        , 
+        <form lang="eng">umbli</form>
+        , (
+        <form lang="a-pv">ombrilh</form>
+        , 
+        <form lang="fr">nombril</form>
+        , 
+        <form lang="gal">umbrigo?</form>
+          
+        <etymon lang="Lat">*UMBILICULUS</etymon>
+        ), 
+        <form lang="n-pv">embourigou?</form>
+        , 
+        <form lang="sp">ombligo</form>
+        , 
+        <form lang="pg">umbigo</form>
+        . 
+        <!-- Assuming unglih -> umbli, umbrilk -> ombrilh, galliz. brillas -> umbrigo?, embourigon -> embourigou?, embigo -> umbigo -->
+        
+      </cognates_base>
+      
+    </etymology>
+    
+    <phonological_change>
+      Das rum. Wort setzt ein 
+      <phoneme>o</phoneme>
+       statt 
+      <phoneme>i</phoneme>
+       voraus, desgleichen: 
+      <cognates>
+        <form lang="ven">bonigolo</form>
+        , 
+        <form lang="aquil">?</form>
+        , 
+        <form lang="cerign">?</form>
+        , 
+        <form lang="bari">?</form>
+        , 
+        <form lang="vast">?</form>
+        , 
+        <form lang="atessa">?</form>
+        , 
+        <form lang="muggia">buligul</form>
+        , 
+        <form lang="triest">bonigolo</form>
+        , 
+        <form lang="piem">amburi</form>
+        , 
+        <form lang="frl">bunigul</form>
+        , 
+        <form lang="pv">emborilh</form>
+      </cognates>
+       und dieser Übergang läßt sich eher als durch den Einfluß des Labials, durch eine Anlehnung an 
+      <etymon lang="Lat">UMBŌ, -ŌNEM</etymon>
+       „erhabene Rundung“ erklären. 
+      <!-- Interpretation of forms like mujjichiru needed -->
+      
+    </phonological_change>
+    
+    <phonological_change>
+      Für den Ausfall des Anlautes 
+      <morpheme>um-</morpheme>
+      , welcher als unbest. Artikel aufgefaßt wurde, vgl. neben den obigen Bei­spielen noch die von Zauner angeführten Formen aus Südfrankreich.
+
+    </phonological_change>
+    
+  </etymology_discussion>
+  
+</entry>

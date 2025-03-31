@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="61">
+  
+  <lemma>alerg</lemma>
+  
+  <verb_class>I</verb_class>
+   
+  <!-- Assuming ki. -> I? -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. alag, mgl. lag, ir. alerg]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„rennen“</definition>
+  
+  <etymology_discussion>
+    
+    <proposed_etymology>
+      
+      <etymon lang="Lat">*ALLARGO, -ARE</etymon>
+       
+      <!-- Assuming <* Ar.-LARGO -> <*ALLARGO -->
+      
+      <comment>
+        (
+        <etymon lang="Lat">LARGUS</etymon>
+         im Sinne von „weit“ wird durch ar. 
+        <form>largu</form>
+         adj., alb. 
+        <form lang="alb">larg</form>
+         adj. und ir. 
+        <form>lorže</form>
+         adv. bezeugt):
+      </comment>
+       
+      <!-- Assuming lorge -> lorže -->
+      
+      <cognates>
+        
+        <form lang="alb">largonj</form>
+         „entferne“, 
+        <!-- Assuming fargon -> largonj -->
+        
+        <form lang="it">allargare in mare</form>
+         „in die See stechen“,
+
+        <form lang="gen">alargar-se</form>
+         „sich entfernen“,
+
+        <form lang="sard">allargare</form>
+        .
+
+      </cognates>
+      
+    </proposed_etymology>
+    
+    <phonological_change source="Meyer-Lübke, Rom. Gramm. I, § 273">
+      Nach Meyer-Lübke wird 
+      <form>*alarg</form>
+       &gt; 
+      <form>alerg</form>
+       durch den Einfluß des sinnverwandten 
+      <form>merg</form>
+      .
+
+    </phonological_change>
+    
+    <phonological_parallel>
+      Auch der Schwund des 
+      <phoneme>r</phoneme>
+       im ar. 
+      <form>alag</form>
+       hat ein Seitenstück im ir. 
+      <form>meg</form>
+       (= 
+      <form>merg</form>
+      ).
+
+    </phonological_parallel>
+    
+  </etymology_discussion>
+  
+</entry>

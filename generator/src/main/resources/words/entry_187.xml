@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="187">
+  
+  <lemma>băzăochiu</lemma>
+   
+  <!-- Assuming bäsädchiü -> băzăochiu -->
+  
+  <feminine_neuter>-che</feminine_neuter>
+   
+  <!-- Assuming -e -> -che -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„absonderlich“</definition>
+  
+  <etymology_discussion source="Tiktin: Wörterb. 171">
+    soll ein 
+    <etymon lang="Lat">*BIS-OCULUS, -A, -UM</etymon>
+     darstellen und die Neben­form 
+    <form>băzăochi</form>
+     durch slav. 
+    <etymon lang="slav">bezokъ</etymon>
+     „augenlos“ beeinflußt sein. 
+    <!-- Assuming *zis-Anöcunus -> *BIS-OCULUS -->
+    
+    <comparison>
+      Vgl. sp. 
+      <form lang="sp">bisojo</form>
+       u. sard. 
+      <form lang="sard">bajoccu</form>
+       „schielend“.
+    </comparison>
+    
+  </etymology_discussion>
+  
+</entry>

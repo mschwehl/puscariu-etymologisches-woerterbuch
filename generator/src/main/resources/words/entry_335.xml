@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="335">
+  
+  <lemma>cer</lemma>
+  
+  <lemma_variants>(+ cerĭ)</lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. țer, ir. țer]</variants>
+   
+  <!-- Assuming tser -> țer, i$er -> țer -->
+  
+  <definition>„Himmel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CAELUM</etymon>
+     
+    <!-- Assuming CELUN -> CAELUM -->
+    
+    <cognates>
+      
+      <form lang="alb">qiell</form>
+      , 
+      <form lang="it">cielo</form>
+      , 
+      <form lang="eng">tschel</form>
+      , 
+      <form lang="pv">cel</form>
+      , 
+      <form lang="cat">cel</form>
+      , 
+      <form lang="fr">ciel</form>
+      , 
+      <form lang="sp">cielo</form>
+      , 
+      <form lang="pg">céu</form>
+      . 
+      <!-- Assuming liet -> qiell, t$el -> tschel, ceo -> céu -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note source="Zauner: Körperteile 393">
+    
+    <example>Cerul gurii</example>
+     [ar. 
+    <example>țerul din gură</example>
+    , mgl. 
+    <example>țer</example>
+    , ir. 
+    <example>țer</example>
+    ] „Gaumen“, wie 
+    <example lang="it">il cielo della bocca</example>
+    , 
+    <example lang="a-berg">el cel de la bocha</example>
+     „palatum“, 
+    <example lang="sp">el cielo de la boca</example>
+    , 
+    <example lang="pg">o céu da boca</example>
+    . Zauner bestimmt die Geographie dieses Ausdruckes näher. Vgl. auch alb. 
+    <form lang="alb">qiellzë</form>
+     eigtl. „kleiner Himmel“, wie blg. 
+    <etymon lang="bg">nebce</etymon>
+    , russ. 
+    <etymon lang="ru">nëbo</etymon>
+     (Plur. 
+    <form>neba</form>
+     „Gaumen“, aber 
+    <form>nebo</form>
+    , Plur. 
+    <form>nebesa</form>
+     „Himmel“), vgl ngr. 
+    <etymon lang="ngr">οὐρανίσκος</etymon>
+    . 
+    <!-- Assuming {$er] -> țer, k’eleze -> qiellzë, nebtse -> nebce, n&bo -> nëbo, otewviexos -> οὐρανίσκος -->
+    
+  </usage_note>
+  
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="267">
+  
+  <lemma>cănuesc?</lemma>
+   
+  <!-- Assuming eündse -> cănuiesc? -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„werde grau“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CĀNESCO, -ERE</etymon>
+     
+    <!-- Assuming CCAsfsco, -*iRR (= -ERE) -> CĀNESCO, -ERE -->
+    
+    <cognates>
+      vgl. 
+      <form lang="fr">chanoir</form>
+      . 
+      <!-- Assuming chaneir -> chanoir -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. fac cu păr șin].</variants>
+   
+  <!-- Assuming wenä -> păr șin? -->
+  
+</entry>

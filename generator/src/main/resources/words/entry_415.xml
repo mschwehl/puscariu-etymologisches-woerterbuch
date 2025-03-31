@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="415">
+  
+  <lemma>creștin</lemma>
+   
+  <!-- Assuming erestin -> creștin -->
+  
+  <pos>sm. adj.</pos>
+  
+  <variants>[ar. mgl. criștin]</variants>
+   
+  <!-- Assuming mel. cristi -> mgl. criștin -->
+  
+  <definition>„Christ, christlich“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CHRISTIANUS, -A, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="rtr?">?</form>
+      , 
+      <form lang="rtr?">?</form>
+      , 
+      <form lang="it">cristiano</form>
+      , 
+      <form lang="sp">cristiano</form>
+      , 
+      <form lang="eng">cristian</form>
+      , 
+      <form lang="pv">crestian</form>
+      , 
+      <form lang="fr">chrétien, crétin</form>
+      , 
+      <form lang="pg">cristão</form>
+      . 
+      <!-- Interpretation needed for kristere, kestere, kristiaun, christäo -->
+      
+    </cognates>
+    
+    <semantic_note>
+      Wie im Rum., hat das Wort im Alb., Abruzz., Rätorom u. Franz, auch die Bedeutung „Mensch“, vgl. 
+      <example lang="it">Cristiani di Dio, che fate?</example>
+       mit rum. 
+      <example>om de Dumnezeu, ce faci?</example>
+    </semantic_note>
+    
+  </etymology>
+  
+</entry>

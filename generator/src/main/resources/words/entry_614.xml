@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="614">
+  
+  <lemma>fîneață</lemma>
+   
+  <!-- Assuming finedta -> fîneață -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Weide“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FENACEA, -AM</etymon>
+    . Vgl. 
+    <ref target_lemma="fînaț">fînaț</ref>
+    .
+
+  </etymology>
+  
+  <variants>[ar. livadă].</variants>
+   
+  <!-- Assuming livade -> livadă -->
+  
+</entry>

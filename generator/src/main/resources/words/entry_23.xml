@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="23">
+  
+  <lemma>adecă</lemma>
+  
+  <lemma_variants>(âdică)</lemma_variants>
+  
+  <pos>conj.</pos>
+  
+  <definition>„nämlich“</definition>
+  
+  <etymology_discussion>
+    leitet 
+    <proposed_etymology source="Candrea-Hecht, Rom. XXXI, 296—297; G. Ebeling, Zeitschr. rom. Phil, XXIV, 525">
+      aus 
+      <etymon lang="Lat">ADDE ... QUOD</etymon>
+       „füge hinzu, daß“ ab.
+    </proposed_etymology>
+    
+    <comment>
+      (Ebeling stellt auch für 
+      <form lang="a-frz">ades</form>
+       ein 
+      <etymon lang="Lat">AD IPSO</etymon>
+       auf).
+    </comment>
+    
+    <variants>[ar. (sclamă, va dzied, demöc, mgl. demee)].</variants>
+    
+  </etymology_discussion>
+  
+</entry>

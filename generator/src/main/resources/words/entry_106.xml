@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="106">
+  
+  <lemma>arăd</lemma>
+   
+  <!-- Assuming arăde -> arăd -->
+  
+  <inflection>-usei, -üs</inflection>
+   
+  <!-- Assuming -üs, Îl -> -üs -->
+  
+  <verb_class>II</verb_class>
+   
+  <!-- Assuming II vb. -->
+  
+  <pos>vb.</pos>
+  
+  <variants>
+    (răduc 
+    <source_ref>Cuv. d. b. 1, 298</source_ref>
+    )
+  </variants>
+  
+  <definition>„vergleichen, gleichen“</definition>
+  
+  <etymology source="Haşdeu: Cuv. d. b. I, 298; Tiktin, Wörterbuch 86">
+    
+    <etymon lang="Lat">[AD] REDUCO, -XI, -UCTUM, -ERE</etymon>
+     
+    <!-- Assuming [ap +] nepico -> [AD] REDUCO -->
+    
+    <comment>
+      („zurückführen auf etwas ähnliches“ vgl. 
+      <example>aduce cu cineva</example>
+       = „er sieht Jmd. ähn­lich“)
+    </comment>
+    
+    <cognates>
+      
+      <form lang="it">ridurre</form>
+      ,
+
+      <form lang="bol">ardüser</form>
+      ,
+
+      <form lang="fr">reduire</form>
+      ,
+
+      <form lang="sp">reducir</form>
+      , 
+      <!-- Assuming redueir -> reducir -->
+      
+      <form lang="pg">reduzir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

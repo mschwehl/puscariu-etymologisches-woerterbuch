@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="43">
+  
+  <lemma>aier</lemma>
+   
+  <!-- Assuming diev -> aier -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. aeru W, ir. aner „Himmel“]</variants>
+  
+  <definition>„Luft“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AĒR, AĔREM</etymon>
+     
+    <!-- Assuming CARR, AERBM -> AĒR, AĔREM -->
+    
+    <cognates>
+      
+      <form lang="alb">ajer</form>
+      ,
+
+      <form lang="it">aria</form>
+      ,
+
+      <form lang="ven">ajere</form>
+      ,
+
+      <form lang="sard">aera</form>
+      ,
+
+      <form lang="valt">äjer</form>
+      , 
+      <form lang="eng">äjer</form>
+      , 
+      <!-- valtell. = Valtellina? -->
+      
+      <form lang="pv">aire</form>
+      , 
+      <form lang="sp">aire</form>
+      ,
+
+      <form lang="fr">air</form>
+      ,
+
+      <form lang="pg">ar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <comment>
+    [Ar. gewöhnlich 
+    <form>vîntu</form>
+     „Luft“, sonst kennt P. nur 
+    <form>aeră</form>
+     „Kühle“.
+  </comment>
+   
+  <!-- P. = Puscariu? -->
+  
+</entry>

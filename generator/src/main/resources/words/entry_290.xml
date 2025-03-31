@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="290">
+  
+  <lemma>care</lemma>
+   
+  <!-- Assuming eäre -> care -->
+  
+  <pos>pron.</pos>
+  
+  <variants>[ar. care, ca(r)i, mgl. cari, ir. care]</variants>
+   
+  <!-- Assuming core -> care -->
+  
+  <definition>„welcher“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">QUALIS, -E</etymon>
+    
+    <cognates>
+      
+      <form lang="it">quale</form>
+      , 
+      <form lang="frl">qual</form>
+      , 
+      <form lang="pv">qual</form>
+      , 
+      <form lang="pg">qual</form>
+      , 
+      <form lang="fr">quel</form>
+      , 
+      <form lang="sp">cual</form>
+      . 
+      <!-- Assuming kal -> qual -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

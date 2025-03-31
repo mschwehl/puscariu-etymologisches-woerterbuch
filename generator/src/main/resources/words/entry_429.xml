@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="429">
+  
+  <lemma>cufund</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„versenken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CONFUNDO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">FUNDUS</etymon>
+    ). 
+    <!-- Assuming $ TOR FUNDU -> CONFUNDO -->
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. afund.</reference>
+  
+  <related_form>
+    Daneben 
+    <form>scufund</form>
+     I vb. „versenken“, wie kal. 
+    <form lang="cal">scufundare</form>
+    .
+
+  </related_form>
+  
+  <variants>[ar. afundu, afundusescu?].</variants>
+   
+  <!-- Assuming ahändusescu -> afundusescu? -->
+  
+</entry>

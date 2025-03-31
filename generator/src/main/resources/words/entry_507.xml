@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="507">
+  
+  <lemma>descarc</lemma>
+   
+  <!-- Assuming descäre -> descarc -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. discarcu, mgl. discarc]</variants>
+   
+  <!-- Assuming discareu -> discarcu, disearc -> discarc -->
+  
+  <definition>„entladen“</definition>
+  
+  <etymology source="Dens. H. l. r. 169">
+    
+    <etymon lang="Lat">DISCARRICO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">shkarkoj, çarkoj</form>
+      , 
+      <form lang="it">scaricare</form>
+      , 
+      <form lang="eng">schargiar?</form>
+      , 
+      <form lang="pv">descargar</form>
+      , 
+      <form lang="sp">descargar</form>
+      , 
+      <form lang="pg">descargar</form>
+      , 
+      <form lang="fr">décharger</form>
+      . 
+      <!-- Assuming Skarkon, tSarkon -> shkarkoj, çarkoj, sk’arger -> schargiar?, decharger -> décharger -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

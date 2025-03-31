@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="225">
+  
+  <lemma>brumar</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„November“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*BRŪMARIUS</etymon>
+     (sc. 
+    <etymon lang="Lat">MENSIS</etymon>
+    , eigtl. Monat des Winteranfangs) 
+    <!-- Assuming # -> * -->
+    
+    <cognates>
+      
+      <form lang="frl">brumai?</form>
+      . 
+      <!-- Assuming brumajo -> brumai? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Oktober heißt 
+    <form>brumărel</form>
+    , also ein Diminut. davon, vgl. alb. 
+    <example lang="alb">muaj i brymës së parë</example>
+     (= erster Reifmonat) „Oktober“, 
+    <example lang="alb">muaj i brymës së dytë</example>
+     (= zweiter Reifmonat) „November“.
+
+  </usage_note>
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="587">
+  
+  <lemma>făt</lemma>
+   
+  <!-- Assuming făt -> făt -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. fet, mgl. fet]</variants>
+  
+  <definition>„Junge werfen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FETO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="march">fetà</form>
+       „kalben“, 
+      <form lang="bol">fdar?</form>
+      , 
+      <form lang="abruzz">fetà</form>
+      , 
+      <form lang="sard">fetare?</form>
+       „fig­liare, far razza“, 
+      <form lang="frl">fedà</form>
+       „Lämmer werfen“. 
+      <!-- Interpretation needed for fdar, fedare -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. oțelează mă?].</variants>
+   
+  <!-- Assuming otelese me -> oțelează mă? -->
+  
+</entry>

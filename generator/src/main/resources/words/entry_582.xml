@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="582">
+  
+  <lemma>fărîmă</lemma>
+   
+  <!-- Assuming fărimă -> fărîmă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Brocken“</definition>
+  
+  <etymology source="Zeitsch. rom. Phil. XXVIII, 739">
+    
+    <etymon lang="Lat">*FARĪMEN</etymon>
+     (Koll. von 
+    <etymon lang="Lat">FAR</etymon>
+    , als Sing. aufgefaßt)
+
+    <cognates>
+      
+      <form lang="alb">thërrime</form>
+       (daraus ar. 
+      <form>sărmă?</form>
+      ); dav. 
+      <form>fărîm</form>
+       vb. I (auch 
+      <form>sfărîm</form>
+      , 
+      <form>(s)fărîm</form>
+      , 
+      <form>(s)fărîm</form>
+      , 
+      <form>(s)fărîmează?</form>
+       IV vb., alb. 
+      <form lang="alb">thërmoj</form>
+       (&gt; ar. 
+      <form>sărmu?</form>
+       ] vb.)). 
+      <!-- Interpretation needed for Gerime, särmä, (S)farm, (s)fărm, (s)färtmese, Oermon, särmu -->
+      
+    </cognates>
+    
+    <rejected_etymology>
+      Die alte Ableitung von 
+      <etymon lang="Lat">FRAGMEN, *FRAGMINARE</etymon>
+       wird widerlegt.
+
+    </rejected_etymology>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="531">
+  
+  <lemma>dimînd</lemma>
+   
+  <!-- Assuming dimându -> dimînd -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„verlangen, bestellen‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DEMANDO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">dimandare, domandare</form>
+      , 
+      <form lang="eng">dumandar?</form>
+      , 
+      <form lang="pv">demandar</form>
+      , 
+      <form lang="sp">demandar</form>
+      , 
+      <form lang="pg">demandar</form>
+      , 
+      <form lang="fr">demander</form>
+      , 
+      <form lang="cat">demanar</form>
+      . 
+      <!-- Assuming dumander -> dumandar? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[daco-rum. cer].</variants>
+  
+</entry>

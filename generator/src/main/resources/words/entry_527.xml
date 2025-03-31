@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="527">
+  
+  <lemma>despun</lemma>
+   
+  <!-- Assuming + despinii -> despun -->
+  
+  <inflection>-pusei, -pus</inflection>
+   
+  <!-- Assuming -usei, -üsü -> -pusei, -pus -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„befehlen“</definition>
+  
+  <derived_forms>
+    (davon 
+    <form>+despus</form>
+     sm. „Herrschaft“, 
+    <form>despuitor</form>
+     sm. „Herrscher“)
+  </derived_forms>
+   
+  <!-- Assuming des­pusi -> despus, despuitoriu -> despuitor -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">DISPONO, -POSUI, -POSITUM, -PONERE</etymon>
+     „anordnen“. Im Rom. tragen die entsprechenden Wörter gelehrtes Gepräge. 
+    <!-- Assuming DIs-Pöno -> DISPONO, -s[rJrun -> -POSITUM -->
+    
+  </etymology>
+  
+</entry>

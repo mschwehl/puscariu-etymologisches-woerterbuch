@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="293">
+  
+  <lemma>car</lemma>
+   
+  <!-- Assuming eardu) -> car -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Holzwurm‘“</definition>
+  
+  <etymology source="Meyer-Lübke: Wiener Studien XXV, 95; Schuchardt: Zeitschr. rom. Phil. XXVI, 411 Anm.">
+    
+    <etymon lang="Lat">CARIES, -UM</etymon>
+     (
+    <example lang="Lat">est animal qui et tinea dicitur</example>
+     
+    <source_ref>C. Gl. V, 444, 44</source_ref>
+    )
+
+    <cognates>
+      
+      <comment>cares:</comment>
+       
+      <form lang="eng">aragno?</form>
+      , 
+      <form lang="eng">carie?</form>
+      , 
+      <form lang="n-pv">carie?</form>
+      , 
+      <form lang="pg">quera</form>
+      . 
+      <!-- Interpretation needed for arag, kera, keiro -->
+      
+      <comment>Ableitungen dieses Wortes stellt Schuchardt zusammen.</comment>
+      
+    </cognates>
+    
+    <cognates>
+      <form lang="dignac?">ker</form>
+      .
+    </cognates>
+     
+    <!-- Assuming dign. -> Dignac? -->
+    
+  </etymology>
+  
+</entry>

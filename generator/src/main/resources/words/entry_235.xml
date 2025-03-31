@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="235">
+  
+  <lemma>bulz</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Klumpen, Ball“</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki S. 52">
+    
+    <etymon lang="Lat">*BULTIUS, -UM</etymon>
+    ; 
+    <form>bulgur</form>
+     (
+    <form>bulgăr</form>
+    ) sm. „Klumpen, Ball“  
+    <etymon lang="Lat">*BULGURUS, -UM</etymon>
+    , von dem bei Festus belegten 
+    <etymon lang="Lat">BULGA</etymon>
+     „Sack“ (keltischer Abstammung vgl. irisch 
+    <form lang="ga">bolg</form>
+     „Sack‘), woraus wahrscheinlich auch 
+    <form lang="fr">bouge</form>
+     „partie bombée d'un objet“ (
+    <form lang="it">bolgia</form>
+    , 
+    <form lang="versilia">bolgio</form>
+     „sacco o sacchetto di farina‘‘). 
+    <!-- Assuming *nurerus -> *BULTIUS, *süLetuus -> *BULGURUS, dan ol;jet -> d'un objet -->
+    
+  </etymology>
+  
+  <variants>[ar. gurguș].</variants>
+   
+  <!-- Assuming gurgüßu -> gurguș -->
+  
+</entry>

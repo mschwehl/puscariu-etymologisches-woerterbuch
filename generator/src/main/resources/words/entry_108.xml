@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="108">
+  
+  <lemma>arăt</lemma>
+   
+  <!-- Assuming cect -> arăt -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„zeigen“</definition>
+   
+  <!-- Moved definition outside variants -->
+  
+  <variants>
+    [ar. nur in der Drohung 
+    <form>îț-arăt</form>
+     — „ieh zeige dir“, ir. arotu]
+  </variants>
+   
+  <!-- Assuming fs-arăt -> îț-arăt -->
+  
+  <etymology_discussion>
+    Die ir. Form weist auf altes 
+    <phoneme>a</phoneme>
+    , daher ist Miklosichs 
+    <rejected_etymology>
+      <etymon lang="Lat">*AD-RECTO, -ARE</etymon>
+    </rejected_etymology>
+     unwahrscheinlich und Hasdeu’s (
+    <reference type="bibliographic">Etym. Magn. Rom. 1557</reference>
+    ) auch sonst wenig überzeugendes 
+    <rejected_etymology>
+      <etymon lang="Lat">AD-REPUTO, -ARE</etymon>
+    </rejected_etymology>
+     zu verwerfen. Candrea (
+    <reference type="bibliographic">Rom. XXXI, 301</reference>
+    ) setzt ein 
+    <rejected_etymology>
+      <etymon lang="Lat">*AR-RATO, -ARE</etymon>
+    </rejected_etymology>
+     von 
+    <etymon lang="Lat">ratus</etymon>
+     „berechnet“ an, welches auch wegen der Bedeutung schwer annehmbar ist, so daß Meyer-Lübke’s (
+    <reference type="bibliographic">Zeitschr. rom. Phil. XIX, 574</reference>
+    ) 
+    <proposed_etymology>
+      <etymon lang="Lat">ELATO, -ARE</etymon>
+    </proposed_etymology>
+    , das bei Cassiodor belegt ist, wohl am besten paßt, obwohl der Sinnesübergang nicht ganz klar ist.
+
+  </etymology_discussion>
+  
+</entry>

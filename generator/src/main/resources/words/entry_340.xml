@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="340">
+  
+  <lemma>cerbice</lemma>
+  
+  <usage>
+    (
+    <source_ref>Dosoft. Viaţa sf. 20°</source_ref>
+    , etc.)
+  </usage>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. țerbițe]</variants>
+   
+  <!-- Assuming tSerbilse -> țerbițe -->
+  
+  <definition>„Nacken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CERVIX, -ĪCEM</etymon>
+     
+    <!-- Assuming CornvIx, -iceu -> CERVIX, -ĪCEM -->
+    
+    <cognates>
+      
+      <form lang="sard-log">chervighe?</form>
+      , vgl. 
+      <form lang="abruzz">cervicare?</form>
+       „schütteln“, 
+      <form lang="tess">?</form>
+      , 
+      <form lang="sard-camp">cerbigai?</form>
+        
+      <etymon lang="Lat">*CERVICARE</etymon>
+      ; 
+      <!-- Interpretation needed for kervija, Servikare, Sürbyä, Serbigai -->
+      
+    </cognates>
+    
+    <comment>sonst ge­lehrt.</comment>
+    
+  </etymology>
+  
+  <variants>[ar. cucurbetă, zvercă, mgl. fătănie].</variants>
+   
+  <!-- Assuming Fut(i)inie -> fătănie -->
+  
+</entry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="10">
+  
+  <lemma>aceră</lemma>
+   
+  <!-- Assuming deeră is OCR error -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Adler“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AQUILA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="sic">acula</form>
+      ,
+
+      <form lang="berg">dgola</form>
+      ,
+
+      <form lang="sard">dbile</form>
+      ,
+
+      <form lang="groe">aguja</form>
+      ,
+
+      <form lang="fass">Egua</form>
+      ,
+
+      <form lang="eng">eula</form>
+      ,
+
+      <form lang="fr">aigle</form>
+      ,
+
+      <form lang="pv">aigla</form>
+      ,
+
+      <form lang="sp">aguila</form>
+      ,
+
+      <form lang="pg">aguia</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <comment>[ar. vâltur, mel. condur].</comment>
+  
+</entry>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="178">
+  
+  <lemma>băier</lemma>
+   
+  <!-- Assuming bäier -> băier -->
+  
+  <pos>sm.</pos>
+  
+  <related_form>
+    
+    <form>băieră</form>
+     
+    <pos>sf.</pos>
+     
+    <!-- Assuming baierä -> băieră -->
+    
+  </related_form>
+  
+  <definition>„Band“</definition>
+  
+  <variants>
+    [ar. bair, baieră „Kette, Band, Reihe“, daraus 
+    <form>îmbăir</form>
+     I vb. „anreihen, erzählen“, mgl. baier „Kette, Perlenschnur“, ir. baiere „Haarflechtband‘]
+  </variants>
+   
+  <!-- Assuming mbdir -> îmbăir -->
+  
+  <etymology source="Zeitschr. rom. Phil. XXXVIII, 690">
+    substantivierte Form von 
+    <etymon lang="Lat">VARIUS, -A, -UM</etymon>
+     „bunt, farbig“, mit der Grundbedeutung: „Schmuckgegenstände” (vgl. 
+    <example lang="Lat">variare pectus lapillis</example>
+     „die Brust mit Steinchen schmücken‘ ):
+
+    <cognates>
+      
+      <form lang="it">vaio</form>
+      , 
+      <form lang="sard">barju</form>
+      , 
+      <form lang="prov">vair</form>
+      , 
+      <form lang="a-frz">vair</form>
+      . 
+      <!-- Assuming bardzu -> barju, pr. -> prov. -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt kl.-russ. 
+    <form lang="ukr">baior</form>
+     „aus Wolle geflochtene Schnur“.
+
+  </borrowing_note>
+  
+</entry>

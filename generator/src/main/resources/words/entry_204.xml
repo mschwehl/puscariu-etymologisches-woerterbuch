@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="204">
+  
+  <lemma>biserică</lemma>
+  
+  <lemma_variants>
+    (+ 
+    <form>băsearecă</form>
+    , 
+    <form>besearecă</form>
+    )
+  </lemma_variants>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. băsear(i)că, bisear(i)că, mgl. băserică, biserică, ir. baserikă]</variants>
+   
+  <!-- Assuming baserike -> baserikă -->
+  
+  <definition>„Kirche“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BASILICA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="vegl">basalka</form>
+      ,
+
+      <form lang="valt">buselga</form>
+      ,
+
+      <form lang="bellinz">basergna</form>
+      , 
+      <!-- Assuming baserya -> basergna -->
+      
+      <form lang="eng">baselgia</form>
+      . 
+      <!-- Assuming baseldza -> baselgia -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

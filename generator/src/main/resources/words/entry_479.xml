@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="479">
+  
+  <lemma>cuvînt</lemma>
+   
+  <!-- Assuming euvint -> cuvînt -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. cuvînt]</variants>
+  
+  <definition>„Wort, Rede“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CONVENTUM</etymon>
+     „Übereinkunft“
+
+    <cognates>
+      
+      <form lang="alb">kuvend</form>
+       (ar. 
+      <form>cuvendă</form>
+      ) „Unterredung, Rede“ (sonst im Rom. das Kirchenwort: 
+      <form lang="it">convento</form>
+      , 
+      <form lang="eng">convent</form>
+      , 
+      <form lang="fr">couvent</form>
+      , 
+      <form lang="pv">coven</form>
+      , 
+      <form lang="sp">convento</form>
+      , 
+      <form lang="pg">convento</form>
+       im Sinne „Zusammenkunft, Kloster“). 
+      <!-- Assuming convuxrum -> CONVENTUM -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

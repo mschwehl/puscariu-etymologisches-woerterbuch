@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="537">
+  
+  <lemma>doamnă</lemma>
+   
+  <!-- Assuming dodmnä -> doamnă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„Herrin“</definition>
+  
+  <etymology source="C. I. L. II, 7671, 7833">
+    
+    <etymon lang="Lat">DOMNA, -AM</etymon>
+     (= 
+    <etymon lang="Lat">DOMINA</etymon>
+    ) 
+    <!-- Assuming pămxa -> DOMNA -->
+    
+    <cognates>
+      
+      <form lang="it">donna</form>
+      , 
+      <form lang="eng">dunna</form>
+      , 
+      <form lang="fr">dame</form>
+      , 
+      <form lang="pv">(dom)na</form>
+      , 
+      <form lang="sp">dueña, dona</form>
+      , 
+      <form lang="pg">dona</form>
+      . 
+      <!-- Assuming duena -> dueña -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="195">
+  
+  <lemma>bătrîn</lemma>
+   
+  <!-- Assuming bätrin -> bătrîn -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj. sb.</pos>
+  
+  <variants>[ar. bĭtîrnu sb., mgl. bĭtorn, ir. betăr]</variants>
+   
+  <!-- Assuming bitärnu -> bĭtîrnu, bitorn -> bĭtorn -->
+  
+  <definition>„alt, Greis“</definition>
+  
+  <etymology source="Dens. H. l. r. 195 etc.">
+    
+    <etymon lang="Lat">VETERANUS, -A, -UM</etymon>
+     (Belege für VETERANUS und BETERANUS aus Inschriften; woselbst auch die Bedeutung „antiquus vel vetustus“ nachgewiesen wird) 
+    <!-- Assuming VRTRANUS, BETRANUS -> VETERANUS, BETERANUS -->
+    
+    <cognates>
+      
+      <form lang="vegl">vetrun</form>
+      ,
+
+      <form lang="frl">vedran</form>
+       „avanzato in età“, 
+      <form lang="a-triest">vedrana</form>
+       (fem.).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

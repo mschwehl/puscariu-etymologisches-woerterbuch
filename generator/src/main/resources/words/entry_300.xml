@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="300">
+  
+  <lemma>căruntu?</lemma>
+   
+  <!-- Assuming eärıtiü -> căruntu? or căruntit? -->
+  
+  <feminine_neuter>-e</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„beduselt“</definition>
+  
+  <etymology source="A. Candrea (mündlich)">
+    
+    <etymon lang="Lat">*CANŪTEUS, -UM</etymon>
+     (von 
+    <etymon lang="Lat">CĀNUS</etymon>
+    ), eigtl. „grau“, vgl. frz. „gris.“ 
+    <!-- Assuming * CANULBUS -> *CANŪTEUS -->
+    
+  </etymology>
+  
+</entry>

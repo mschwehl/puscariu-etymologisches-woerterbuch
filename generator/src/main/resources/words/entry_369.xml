@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="369">
+  
+  <lemma>cinez</lemma>
+   
+  <!-- Assuming eindz (cin) -> cinez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. țin, ir. țîn]</variants>
+   
+  <!-- Assuming tsin -> țin, tsiru -> țîn -->
+  
+  <definition>„zum Abend­mal speisen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CĒNO, -ARE</etymon>
+     
+    <!-- Assuming chxo -> CĒNO -->
+    
+    <cognates>
+      
+      <form lang="it">cenare</form>
+      , 
+      <form lang="eng">tschanar?</form>
+      , 
+      <form lang="pv">cenar</form>
+      , 
+      <form lang="a-cat">cenar</form>
+      , 
+      <form lang="sp">cenar</form>
+      , 
+      <form lang="pg">cear</form>
+      . 
+      <!-- Assuming tăner -> tschanar? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

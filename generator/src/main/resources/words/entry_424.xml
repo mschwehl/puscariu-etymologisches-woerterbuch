@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="424">
+  
+  <lemma>cucă</lemma>
+   
+  <!-- Assuming cuie -> cucă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>
+    „Hügel, welcher einsam in der Ebene her­vorragt (
+    <source_ref>Liuba-Jana: Mäidan 49</source_ref>
+    )”.
+  </definition>
+  
+  <etymology_discussion>
+    Etymol. unbekannt. Vgl. 
+    <form lang="it">cucco</form>
+     „cima di forma conico-tondeggiante“, vgl. lat. 
+    <etymon lang="Lat">CUCULLUS</etymon>
+     ‚Haube“.
+
+  </etymology_discussion>
+  
+  <derived_forms>
+    Davon abgeleitet 
+    <form>cucui</form>
+     I vb. „emporsteigen, kraxeln“. 
+    <!-- Assuming cueüf -> cucui -->
+    
+  </derived_forms>
+  
+  <homonym_distinction>
+    Davon verschieden ist 
+    <form>cucă</form>
+     sf. „Mütze, welche der Sultan den rum. Fürsten gab“  türk. 
+    <etymon lang="tr">kuka</etymon>
+    .
+
+  </homonym_distinction>
+  
+</entry>

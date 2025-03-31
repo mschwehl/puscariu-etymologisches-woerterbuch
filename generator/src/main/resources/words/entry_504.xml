@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="504">
+  
+  <lemma>des</lemma>
+  
+  <feminine_neuter>deasă</feminine_neuter>
+   
+  <!-- Assuming dedsă -> deasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. ndes, mgl. =]</variants>
+  
+  <definition>„dicht“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DENSUS, -A, -UM</etymon>
+    .
+
+  </etymology>
+  
+  <usage_note source="Verfassers: Lat. Ti u. Ki, S. 41">
+    Als Adv. bedeutet 
+    <form>des</form>
+     „oft“, auch 
+    <form>ades</form>
+     und 
+    <form>adese</form>
+     (verkürzt aus 
+    <example>adese ori</example>
+    ). Vgl. 
+    <ref target_lemma="rar">rar</ref>
+    . — Davon verschieden ist 
+    <form>des</form>
+     in der Ver­bindung 
+    <example>des de dimineață</example>
+     „in aller Frühe“ und geht wie die Neben­form 
+    <form>dins de dimineață</form>
+     (
+    <source_ref>Ib. III, 173</source_ref>
+    ) zeigt, auf 
+    <etymon lang="Lat">DE + IPSO + DE MANE</etymon>
+     (+ Suff. 
+    <suffix>-eață</suffix>
+    ) zurück.
+
+  </usage_note>
+  
+</entry>

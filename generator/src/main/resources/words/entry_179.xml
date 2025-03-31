@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="179">
+  
+  <lemma>batjocură</lemma>
+   
+  <!-- Assuming bajscwrä -> batjocură -->
+  
+  <lemma_variants>(batjocură)</lemma_variants>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <definition>„Spott“</definition>
+  
+  <usage_note>
+    das man als 
+    <form>bat</form>
+     + 
+    <form>joc</form>
+     + 
+    <form>-ură</form>
+     fühlt, daher auch 
+    <example>îmi bat joc</example>
+     „spotte“ sagt (ähnlich ar. 
+    <example>mi batu pezu ku tsineva</example>
+    ; 
+    <form>pezu, peză</form>
+      
+    <etymon lang="ngr">παίζω</etymon>
+     „jouer, badiner“)
+
+  </usage_note>
+  
+  <etymology_discussion source="Verfassers Lat. Ti u. Ki S. 24">
+    ist kaum aus diesen Elementen entstanden, da man in diesem Falle ein 
+    <form>*jocbătură</form>
+     (wie 
+    <example>mână-șterg-ură</example>
+    , 
+    <example>codo-bat-ură</example>
+    , 
+    <example>cap-întort-ură</example>
+    ; 
+    <example lang="it">latti-vend-olo</example>
+    , 
+    <example lang="it">terre-muot-olo</example>
+     etc. vgl. 
+    <reference type="bibliographic">Meyer-Lübke, Rom. Gramm. II § 430</reference>
+    ) erwarten würde. Das Wort ist von ital. 
+    <cognates>
+      <form lang="it">baiocca, baiucola, bazzecola</form>
+    </cognates>
+     „bagatella“, 
+    <form lang="sillano">bazula</form>
+    , 
+    <form lang="lucca">bazzora</form>
+     „ineptia?“ schwerlich zu trennen. 
+    <!-- Assuming bajucca, bajucola -> baiocca, baiucola; badzora -> bazzora; talferia -> ineptia? -->
+    
+  </etymology_discussion>
+  
+</entry>

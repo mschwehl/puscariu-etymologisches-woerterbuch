@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="542">
+  
+  <lemma>dor</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. dor auch „Schmerz“, mgl. =]</variants>
+   
+  <!-- Assuming => -> = -->
+  
+  <definition>„Sehnsucht, Heimweh“</definition>
+  
+  <etymology source="C. I. L. III, 3551, Sp. 1903 bis, X, 1760 etc.; Meyer-Lübke: Rom. Gramm. II § 398">
+    
+    <etymon lang="Lat">DOLUS, -UM</etymon>
+     (Postverb. Subst. von 
+    <etymon lang="Lat">DOLERE</etymon>
+    , oft belegt auf Inschr.) 
+    <!-- Assuming pönus -> DOLUS, poLärr -> DOLERE -->
+    
+    <cognates>
+      
+      <form lang="it">duolo</form>
+      , 
+      <form lang="triest">dôl</form>
+      , 
+      <form lang="a-eng">döl</form>
+      , 
+      <form lang="sard">dolu</form>
+      , 
+      <form lang="fr">deuil</form>
+      , 
+      <form lang="prov">dol</form>
+      , 
+      <form lang="sp">duelo</form>
+      , 
+      <form lang="pg">dô</form>
+      . 
+      <!-- Assuming dl -> dôl, pt. -> prov., dö -> dô -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

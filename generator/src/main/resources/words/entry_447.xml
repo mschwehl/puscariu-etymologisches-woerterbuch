@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="447">
+  
+  <lemma>cunosc</lemma>
+   
+  <!-- Assuming cunöse -> cunosc -->
+  
+  <inflection>cunoscu(i)?, cunoscut</inflection>
+   
+  <!-- Assuming -iti, Mt -> cunoscu(i)?, cunoscut -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. ir. cunosc, mgl. =]</variants>
+   
+  <!-- Assuming cunoscu -> cunosc, > -> = -->
+  
+  <definition>„kennen“</definition>
+  
+  <etymology source="Meyer-Lübke: Ein­führung § 32">
+    
+    <etymon lang="Lat">*COGNŌSCO, -ERE</etymon>
+     (statt 
+    <etymon lang="Lat">COGNOSCO</etymon>
+    , nach 
+    <etymon lang="Lat">NOSCO</etymon>
+    ) 
+    <!-- Assuming FCONOSCO -> *COGNŌSCO -->
+    
+    <cognates>
+      
+      <form lang="it">conoscere</form>
+      , 
+      <form lang="sard-log">connoschere?</form>
+      , 
+      <form lang="a-pv">conoiscer?</form>
+      , 
+      <form lang="fr">connaître</form>
+      , 
+      <form lang="sp">conocer</form>
+      . 
+      <!-- Assuming konmoskere -> connoschere?, congisser -> conoiscer? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

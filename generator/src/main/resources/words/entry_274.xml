@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="274">
+  
+  <lemma>căpătîi</lemma>
+   
+  <!-- Assuming eäpätitit -> căpătîi -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ban. căpătîn?, ar. căpiti?, căpitîria căpitiua?, mgl. căpitoi?, căpitoi?]</variants>
+   
+  <!-- Interpretation needed for căpătinhu, căpitihu, căpitiria căpitiuiia, căpitonhu, cupitonu -->
+  
+  <definition>„Kopfende, Kissen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CAPITANEUM, -UM</etymon>
+     
+    <!-- Assuming CAPITANEUS -> CAPITANEUM -->
+    
+    <cognates>
+      
+      <form lang="rovigno">capetano?</form>
+      , 
+      <form lang="muggia">cavedana?</form>
+      , 
+      <form lang="emil">cavdana?</form>
+      . 
+      <!-- Interpretation needed -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

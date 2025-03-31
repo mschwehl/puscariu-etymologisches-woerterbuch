@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="312">
+  
+  <lemma>cat</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„suchen, Sorge tragen“</definition>
+  
+  <etymology source="Zeitschrift rom. Phil. XXXVII 676-679">
+     
+    <!-- Assuming XXX VLI -> XXXVII -->
+    
+    <etymon lang="Lat">CAPTO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="rtr">catar</form>
+       „finden“, 
+      <form lang="sp">catar</form>
+      , 
+      <form lang="pg">catar</form>
+       „sehen, beobachten, kosten“.
+
+    </cognates>
+    
+    <semantic_development>
+Die Sinnesentwicklung ist folgende: „etwas erhaschen“ — „etwas mit den Augen erhaschen“, — „erblicken“, — „sehen“, — „nach etwas sehen = suchen“ (— „finden“ —) — „nach Jm. sehen = um Jm. Sorge tragen“.
+</semantic_development>
+    
+  </etymology>
+  
+</entry>

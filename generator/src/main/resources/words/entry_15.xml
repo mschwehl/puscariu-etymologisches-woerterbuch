@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="15">
+  
+  <lemma>acöper</lemma>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. acoapir]</variants>
+  
+  <definition>„bedecken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*AD-COOPERIO, -IRE</etymon>
+     
+    <!-- Assuming * 10- -> *AD- -->
+    
+  </etymology>
+  
+  <reference type="internal">vgl. coper.</reference>
+  
+</entry>

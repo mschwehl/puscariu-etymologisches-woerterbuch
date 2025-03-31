@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="269">
+  
+  <lemma>cap</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. =, cap]</variants>
+   
+  <!-- Assuming cop -> cap -->
+  
+  <definition>„Kopf, Ende“</definition>
+  
+  <etymology source="Zauner: Körperteile, 355f">
+    
+    <etymon lang="Lat">CAPUT</etymon>
+     (oder 
+    <etymon lang="Lat">*CAPUM</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="it">capo</form>
+      , 
+      <form lang="frl">cjâf</form>
+      , 
+      <form lang="eng">chav</form>
+      , 
+      <form lang="pv">cap</form>
+      , 
+      <form lang="fr">chef</form>
+      , 
+      <form lang="sp">cabo</form>
+      , 
+      <form lang="pg">cabo</form>
+      . 
+      <!-- Assuming k’av -> cjâf, ko -> chav -->
+      
+    </cognates>
+    
+    <plural_formation>
+      Die Mehrzahl 
+      <etymon lang="Lat">CAPITA</etymon>
+       hat 
+      <form>capete</form>
+       [vgl. „
+      <example>să bat în capete</example>
+      “. ar. 
+      <form>capite</form>
+      , mgl. 
+      <form>capiți</form>
+      , ir. 
+      <form>căpețe?</form>
+      ] ergeben, desgleichen im 
+      <form lang="a-it">capeta</form>
+       (
+      <source_ref>Ristoro d’Arezzo 3?, 32 etc.</source_ref>
+      ), 
+      <form lang="a-abruzz">capita</form>
+      , 
+      <form lang="a-sard">capita</form>
+      , 
+      <form lang="n-sard">cabide</form>
+      ; davon ein neuer Sing. 
+      <form>căpăt</form>
+       sm. „Ende“ [ar. 
+      <form>capit</form>
+       „Wolle vom Kopf“]. 
+      <!-- Assuming capiti -> capiți, copete -> căpețe? -->
+      
+    </plural_formation>
+    
+    <usage_comparison>
+      Vgl. 
+      <example>capul satului</example>
+       = 
+      <example lang="a-sard">capu de villa</example>
+       „Dorf­ende“.
+
+    </usage_comparison>
+    
+  </etymology>
+  
+</entry>

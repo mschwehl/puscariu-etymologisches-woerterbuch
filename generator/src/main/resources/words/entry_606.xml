@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="606">
+  
+  <lemma>fierar</lemma>
+   
+  <!-- Assuming fierär -> fierar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. chirar, mgl. ierar]</variants>
+   
+  <!-- Assuming kirar -> chirar -->
+  
+  <definition>„Schmid“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FERRARIUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">ferraio</form>
+      , 
+      <form lang="sp">herrero</form>
+      , 
+      <form lang="pg">ferreiro</form>
+      . 
+      <!-- Assuming ferrajo -> ferraio -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

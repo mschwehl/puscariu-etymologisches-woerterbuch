@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="138">
+  
+  <lemma>ascult</lemma>
+   
+  <!-- Assuming aseiilt -> ascult -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. ascultu, mgl. scult, ir. ascutu]</variants>
+   
+  <!-- Assuming asculte -> ascultu, iv. -> ir. -->
+  
+  <definition>„hören, horchen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AUSCULTO, -ARE</etymon>
+     (Caper, K. VII, 108, 6 = 
+    <etymon lang="Lat">AUSCULTO</etymon>
+    ) 
+    <!-- Assuming asciuro -> AUSCULTO -->
+    
+    <cognates>
+      
+      <form lang="it">ascoltare</form>
+      ,
+
+      <form lang="sard-log">ascultare</form>
+      ,
+
+      <form lang="eng">ascoltar</form>
+      , 
+      <!-- Assuming Skulter -> ascoltar -->
+      
+      <form lang="pv">ascotar</form>
+      , 
+      <!-- Assuming ascoutar -> ascotar -->
+      
+      <form lang="a-frz">escoter</form>
+      , 
+      <!-- Assuming ascouter -> escoter -->
+      
+      <form lang="norm">ecouter</form>
+      , 
+      <form lang="pik">ecouter</form>
+      , 
+      <!-- Assuming akut£ -> ecouter -->
+      
+      <form lang="wall">schoter</form>
+      , 
+      <!-- Assuming Jiute -> schoter? -->
+      
+      <form lang="a-sp">escuchar</form>
+       
+      <!-- Assuming ascuchar -> escuchar -->
+      
+      <comment>
+        (und mit Einmischung des Prefixes 
+        <prefix>ex-</prefix>
+        : 
+        <form lang="it">scoltare</form>
+        , 
+        <form lang="fr">écouter</form>
+        , 
+        <form lang="a-pv">escotar</form>
+        , 
+        <form lang="n-sp">escuchar</form>
+        , 
+        <form lang="pg">escutar</form>
+        ).
+      </comment>
+       
+      <!-- Assuming escoutar -> escotar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

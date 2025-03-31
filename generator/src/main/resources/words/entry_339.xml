@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="339">
+  
+  <lemma>cerb</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. țerbu, mgl. țerb]</variants>
+   
+  <!-- Assuming tserbu, tserb -> țerbu, țerb -->
+  
+  <definition>„Hirsch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CERVUS, -UM</etymon>
+     
+    <!-- Assuming ctnvvs -> CERVUS -->
+    
+    <cognates>
+      
+      <form lang="it">cervo</form>
+      , 
+      <form lang="cat">cervo</form>
+      , 
+      <form lang="pg">cervo</form>
+      ,
+
+      <form lang="sic">cervu</form>
+      , 
+      <form lang="sard-log">chervu</form>
+      , 
+      <form lang="sard-camp">cerbu</form>
+      , 
+      <form lang="eng">tscherf</form>
+      , 
+      <form lang="pv">cerb</form>
+      , 
+      <form lang="fr">cerf</form>
+      , 
+      <form lang="sp">ciervo</form>
+      . 
+      <!-- Assuming kervu -> chervu, tăerbu -> cerbu, i$erf -> tscherf -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Zum Weihnachtsspiel 
+    <form>cerb</form>
+     vgl. russ. 
+    <form lang="ru">olen'?</form>
+    .
+  </usage_note>
+   
+  <!-- Assuming Q.ICHB -> olen'? -->
+  
+</entry>

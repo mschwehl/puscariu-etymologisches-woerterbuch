@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="433">
+  
+  <lemma>cui</lemma>
+   
+  <!-- Assuming eıtiit -> cui -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ban. ir. cui]</variants>
+   
+  <!-- Assuming kunu -> cui -->
+  
+  <definition>„Nagel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CUNEUS, -UM</etymon>
+     
+    <!-- Assuming cünzus -> CUNEUS -->
+    
+    <cognates>
+      
+      <form lang="alb">kunj</form>
+      , 
+      <form lang="it">conio</form>
+      , 
+      <form lang="sic">cugnu?</form>
+      , 
+      <form lang="lecce">cugnu?</form>
+      , 
+      <form lang="valmagg">chön?</form>
+      , 
+      <form lang="mesol">con?</form>
+      , 
+      <form lang="eng">cugn?</form>
+      , 
+      <form lang="pv">cunh</form>
+      , 
+      <form lang="fr">coin</form>
+      , 
+      <form lang="sp">cuño</form>
+      , 
+      <form lang="pg">cunho</form>
+      . 
+      <!-- Assuming km -> kunj, cogno -> conio, kunu -> cugnu?, k’ön -> chön?, kuen -> cugn?, cuâio -> cuño -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. pîn(d)ură; ghivoid? „Huf­nagel“].</variants>
+   
+  <!-- Assuming yuvoidu -> ghivoid? -->
+  
+</entry>

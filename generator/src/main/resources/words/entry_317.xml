@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="317">
+  
+  <lemma>cățină?</lemma>
+   
+  <!-- Interpretation of cătină needed -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <definition>„Rückgrat“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CATENA, -AM</etymon>
+     „Kette“
+
+    <cognates>
+      
+      <form lang="it">catena</form>
+      , 
+      <form lang="eng">chadaina</form>
+      , 
+      <form lang="pv">cadena</form>
+      , 
+      <form lang="sp">cadena</form>
+      , 
+      <form lang="fr">chaîne</form>
+      , 
+      <form lang="pg">cadea</form>
+       (vgl. frz. 
+      <form lang="fr">chignon</form>
+      ). 
+      <!-- Assuming k’atana -> chadaina -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

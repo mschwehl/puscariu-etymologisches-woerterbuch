@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="420">
+  
+  <lemma>cruț</lemma>
+   
+  <!-- Assuming erut -> cruț -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„sparen, schonen‘, eigtl. „die Ausgaben kürzen“</definition>
+  
+  <etymology source="Dens. H. l. r. 852">
+    
+    <etymon lang="Lat">*CURTIO, -ARE</etymon>
+     
+    <!-- Assuming FCÜRTIO -> *CURTIO -->
+    
+    <cognates>
+      
+      <form lang="alb">kursenj</form>
+       „bin sparsam. schone“. 
+      <!-- Assuming kurtsen -> kursenj -->
+      
+    </cognates>
+    
+    <borrowing_note>
+Das rum. Wort braucht nicht aus dem Alb. entlehnt zu sein, wie Dens. annimmt.
+</borrowing_note>
+    
+  </etymology>
+  
+  <variants>[ar. iertu „schone“].</variants>
+   
+  <!-- Assuming lertu -> iertu -->
+  
+</entry>

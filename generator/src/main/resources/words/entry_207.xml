@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="207">
+  
+  <lemma>blîndețe</lemma>
+   
+  <!-- Assuming biindete -> blîndețe -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Zahmheit“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BLANDITIA, -AM</etymon>
+    . 
+    <!-- Assuming -AXM -> -AM -->
+    
+  </etymology>
+  
+</entry>

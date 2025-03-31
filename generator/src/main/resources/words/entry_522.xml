@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="522">
+  
+  <lemma>desmierd</lemma>
+  
+  <lemma_variants>(dezmierd)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. dizmierd]</variants>
+   
+  <!-- Assuming disterdu -> dizmierd -->
+  
+  <definition>„liebkosen, ver­zärteln, verhätscheln“</definition>
+  
+  <etymology source="H. Candrea (mündlich)">
+    nach mündlicher Mitteilung von H. Candrea, 
+    <etymon lang="Lat">*DISMERDO, -ARE</etymon>
+     eigtl. „Säuglinge aus schmutzigen Tüchern in reine legen‘, dabei „verzärteln, damit sie nicht weinen“, daraus „verzärteln“, vgl. 
+    <example lang="fr">cajoler</example>
+     „durch Liebkosung in den Käfig locken“ — „liebkosen“. 
+    <!-- Assuming *pis-MERDO -> *DISMERDO -->
+    
+  </etymology>
+  
+</entry>

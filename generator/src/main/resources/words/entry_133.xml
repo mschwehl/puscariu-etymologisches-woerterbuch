@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="133">
+  
+  <lemma>așa</lemma>
+   
+  <!-- Assuming asd -> așa -->
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. așe, ași(tse), mgl. sa, ir. (a)șo]</variants>
+   
+  <!-- Assuming ase, asi(tse) -> așe, ași(tse), mel. -> mgl., (a)5o -> (a)șo -->
+  
+  <definition>„so“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ACCEUM SIC</etymon>
+     
+    <!-- Assuming A sic -> *ACCEUM SIC -->
+    
+    <cognates>
+      
+      <form lang="gen">axi</form>
+      , 
+      <form lang="sp">así</form>
+      ; 
+      <!-- Assuming gen. sp. asi -> split -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="internal">vgl. acși.</reference>
+  
+  <derived_forms source="Hasdeu, Etym. Magn. Rom.">
+    Nach a.-serb. 
+    <form lang="osrb">takožde</form>
+     entstand aus 
+    <form>*ași</form>
+     ein 
+    <form>așijdere</form>
+     „ebenfalls“.
+
+  </derived_forms>
+  
+</entry>

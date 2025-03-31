@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="484">
+  
+  <lemma>dărîpăn</lemma>
+   
+  <!-- Assuming dărâpăn -> dărîpăn -->
+  
+  <lemma_variants>(derapăn)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+   
+  <!-- Assuming implicit I vb -->
+  
+  <pos>vb.</pos>
+  
+  <definition>„zerstören“, refl. „herunterkommen“</definition>
+  
+  <etymology source="Candrea-Hecht: Les éléments lat. S. 11">
+    
+    <etymology>
+      
+      <etymon lang="Lat">*DERAPINO, -ARE</etymon>
+       (aus 
+      <etymon lang="Lat">E + DERIPIO</etymon>
+      , rückgebildet aus 
+      <etymon lang="Lat">DERIPIO</etymon>
+      , + 
+      <suffix>-INO</suffix>
+      ).
+
+    </etymology>
+    
+    <rejected_etymology>
+      Ein von Candrea-Hecht vorgeschlagenes 
+      <etymon lang="Lat">*DERIPINO</etymon>
+       stößt auf lautliche Schwierigkeiten, da 
+      <phoneme>ea</phoneme>
+       nach inl. 
+      <phoneme>p</phoneme>
+       nicht zu 
+      <phoneme>a</phoneme>
+       wird.
+
+    </rejected_etymology>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="377">
+  
+  <lemma>cîștig</lemma>
+   
+  <!-- Assuming cîştig -> cîștig -->
+  
+  <lemma_variants>(căștig)</lemma_variants>
+   
+  <!-- Assuming căştig -> câștig -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„gewinnen, erwerben‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CASTIGO, -ARE</etymon>
+     
+    <!-- Assuming -Ană -> -ARE -->
+    
+    <cognates>
+      
+      <form lang="it">castigare</form>
+      , 
+      <form lang="sud-sard">castiai?</form>
+      , 
+      <form lang="eng">chastiar?</form>
+      , 
+      <form lang="pv">castiar</form>
+      , 
+      <form lang="fr">châtier</form>
+      , 
+      <form lang="sp">castigar</form>
+      , 
+      <form lang="pg">castigar</form>
+      . 
+      <!-- Assuming kastiai -> castiai?, k’astier -> chastiar? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_development_discussion>
+    Das Wort bewahrt in den meisten rom. Sprachen die lat. Bedeutung „züchtigen“, doch heißt 
+    <form lang="a-frz">chastier</form>
+     „be­lehren“, 
+    <form lang="a-frz">se chastier</form>
+     „sich bessern“, 
+    <form lang="a-sp">castigar</form>
+     „sich belehren, profitieren“ (
+    <example lang="a-sp">„en el lobo castigué que feciesse o que non“.</example>
+     
+    <source_ref>Juan Ruiz: Libro de buen amor. 83</source_ref>
+     „vom Wolfe habe ich profitiert, was ich zu tun habe und was nicht‘), 
+    <form lang="sard">castiai</form>
+     „sehen“. Wenn man noch die ar, alt-rum. und dial. Bedeutungen des rum. Wortes kennt (ar. 
+    <form>căștig, căștighez</form>
+     „sich kümmern, auf etwas achtgeben‘“, alt-rum. „sich kümmern“: 
+    <example>„și de veșminte ce te căștigi?“</example>
+     
+    <source_ref>Gaster: Chrest. I, 88, 2</source_ref>
+    , dial. (Sälaj.) 
+    <example>mă câștig</example>
+     „beklage mich“ 
+    <source_ref>Tribuna, 1890, S. 342</source_ref>
+    , dial. (Moți) 
+    <form>căștig</form>
+     „pflegen, Sorge tragen“ 
+    <source_ref>Frîncu-Candrea: Rom. d. m. ap. 254, 260</source_ref>
+    ), so erklärt sich der Bedeutungs­wandel folgendermaßen: einerseits: „züchtigen‘“ — „belehren“ (a.-frz.) — „eine Lehre bekommen“, — dabei „profitieren“ (a.-sp.) — „ge­winnen“ (rum.), andererseits: „sich züchtigen‘“ (vgl. „sich beklagen“), — „sich Mühe geben“ — „Sorge tragen‘ (rum. alt.-arum.) — „acht geben“, — „pflegen“ (rum.) — „um etwas sehen‘ — „sehen“ (sard.).
+
+  </semantic_development_discussion>
+  
+  <derived_forms>
+    Dazu das Postverbale 
+    <form>cîștig</form>
+     sm. „Gewinn“ [ar. 
+    <form>căștigă</form>
+     „Sorge‘“), vgl. 
+    <form lang="it">castigo?</form>
+    , 
+    <form lang="eng">chastio?</form>
+    , 
+    <form lang="pv">castig</form>
+    , 
+    <form lang="sp">castigo</form>
+    , 
+    <form lang="fr">châtie</form>
+    .
+  </derived_forms>
+   
+  <!-- Assuming castiga, k’astia, castia, châtie -->
+  
+</entry>

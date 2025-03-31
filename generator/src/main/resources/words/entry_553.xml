@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="553">
+  
+  <lemma>duios</lemma>
+   
+  <!-- Assuming duiös -> duios -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+   
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„schmachtend“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*DOLŌSUS, -A, -UM</etymon>
+     (von 
+    <etymon lang="Lat">DOLEO</etymon>
+    ) 
+    <!-- Assuming *poLEOSUS -> *DOLŌSUS -->
+    
+    <cognates>
+      
+      <form lang="it">doglioso</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. dofus?, -e].</variants>
+   
+  <!-- Assuming dofu -> dofus? -->
+  
+</entry>

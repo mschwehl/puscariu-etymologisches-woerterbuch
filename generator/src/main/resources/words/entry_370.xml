@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="370">
+  
+  <lemma>cingă</lemma>
+   
+  <!-- Assuming cîngă -> cingă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Gurt“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CINGA, -AM</etymon>
+    : 
+    <cognates>
+      <form lang="sic">cinga</form>
+    </cognates>
+    , aus 
+    <etymon lang="Lat">CINGŬLA, -AM</etymon>
+     (
+    <cognates>
+      <form lang="alb">kingël?</form>
+      , 
+      <form lang="it">cigna, cinghia</form>
+      , 
+      <form lang="fr">sangle</form>
+      , 
+      <form lang="pv">cencha?</form>
+      , 
+      <form lang="sp">cincha?</form>
+    </cognates>
+    ), welches durch Metathese zu 
+    <etymon lang="Lat">CINGLA, -AM</etymon>
+     wurde: rum. 
+    <form>chingă</form>
+    . 
+    <!-- Assuming k’ingele -> kingël?, cenha -> cencha?, ceiia -> cincha? -->
+    
+  </etymology>
+  
+  <variants>[mgl. clingă, vgl. ar. ghiglă?].</variants>
+   
+  <!-- Assuming yingla -> ghiglă? -->
+  
+</entry>

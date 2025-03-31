@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="580">
+  
+  <lemma>făptură</lemma>
+   
+  <!-- Assuming fäptärd -> făptură -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Figur, Schöpfung“</definition>
+  
+  <etymology source="Dens. H. l. r. 190">
+    
+    <etymon lang="Lat">FACTURA, -AM</etymon>
+     
+    <!-- Assuming racrüra -> FACTURA -->
+    
+    <cognates>
+      
+      <form lang="alb">fetyrë</form>
+       „Aussehen“, 
+      <form lang="it">fattura</form>
+       (bedeutet, wie rum. 
+      <form>făcătură</form>
+       u. pv. 
+      <form>faitura</form>
+       „Hexerei, Zauber‘).
+
+    </cognates>
+    
+    <comment>
+      <etymon lang="Lat">FACTURA</etymon>
+       im Sinne „Schöpfung“ belegt Dens.
+    </comment>
+    
+  </etymology>
+  
+</entry>

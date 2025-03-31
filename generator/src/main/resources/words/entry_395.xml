@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="395">
+  
+  <lemma>coper</lemma>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <reference type="internal">(vgl. acoper)</reference>
+  
+  <variants>[ar. coapir W., acoapir P., mgl. cupireș IV, ir. coper(esc)]</variants>
+   
+  <!-- Assuming cupires -> cupireș, koper(esc)w] -> coper(esc) -->
+  
+  <definition>„bedecken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">COOPERIO, -IRE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">coprire</form>
+      , 
+      <form lang="eng">cuvrir</form>
+      , 
+      <form lang="pv">cobrir</form>
+      , 
+      <form lang="n-pv">curbir</form>
+      , 
+      <form lang="fr">couvrir</form>
+      , 
+      <form lang="sp">cobrir</form>
+      . 
+      <!-- Assuming kovrir -> cuvrir, cowvrir -> couvrir -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

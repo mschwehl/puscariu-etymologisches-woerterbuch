@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="236">
+  
+  <lemma>bumbac</lemma>
+   
+  <!-- Assuming bumbäc -> bumbac -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. X, ir. bumboc]</variants>
+   
+  <!-- X = missing data? -->
+  
+  <definition>„Baumwolle“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*BOMBACUM</etymon>
+     (statt 
+    <etymon lang="Lat">BOMBYX, -ACEM</etymon>
+    ) 
+    <!-- Assuming # -> * -->
+    
+    <cognates>
+      
+      <form lang="it">bombace?</form>
+      , 
+      <!-- Assuming bâco -> bombace? -->
+      
+      <form lang="cal">vombacu</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Auch srb. croat. 
+    <form lang="sh">bumbak</form>
+    .
+  </borrowing_note>
+  
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="82">
+  
+  <lemma>amnăr</lemma>
+   
+  <!-- Assuming ummeir -> amnăr -->
+  
+  <lemma_variants>(amănar)</lemma_variants>
+   
+  <!-- Assuming amänär -> amănar -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Feuerstein“</definition>
+  
+  <related_form>
+    
+    <form>mînar</form>
+     
+    <pos>sm.</pos>
+     
+    <definition>„Griff“</definition>
+     
+    <!-- Assuming minder -> mînar -->
+    
+    <variants>[ar. mănăr „Griff, Feuerstein, Schäfchen zum Spielen der Kinder“, mănear W. „Griff“, mgl. amnar, manar „Feuerstein“, mînar „Griff“]</variants>
+     
+    <!-- Assuming mändr -> mănăr, münar -> mînar -->
+    
+  </related_form>
+  
+  <etymology_discussion>
+    Die Etymologie dieser Wortsippe ist nicht klar. Zugrunde liegt wohl 
+    <etymon lang="Lat">MANUARIUM</etymon>
+     (vgl. Körting? No. 5922 und Archivio glott. ital. IV, 147), kaum 
+    <etymon lang="Lat">IGNIARIUM</etymon>
+    .
+
+  </etymology_discussion>
+  
+</entry>

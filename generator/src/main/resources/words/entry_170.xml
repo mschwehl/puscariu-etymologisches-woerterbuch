@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="170">
+  
+  <lemma>aur</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. &gt;]</variants>
+  
+  <definition>„Gold“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AURUM</etymon>
+     
+    <!-- Assuming Aaurun -> AURUM -->
+    
+    <cognates>
+      
+      <form lang="alb">ar</form>
+      ,
+
+      <form lang="it">oro</form>
+      , 
+      <form lang="sp">oro</form>
+      ,
+
+      <form lang="eng">aur</form>
+      , 
+      <form lang="pv">aur</form>
+      ,
+
+      <form lang="fr">or</form>
+      ,
+
+      <form lang="pg">ouro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. (m)ălamă].</variants>
+   
+  <!-- Assuming (ajmălamă -> (m)ălamă -->
+  
+</entry>

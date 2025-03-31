@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="529">
+  
+  <lemma>descind?</lemma>
+   
+  <!-- Assuming + destind -> descind? -->
+  
+  <usage>(Ps. Sch. 113, 25)</usage>
+  
+  <definition>„herabsteigen“</definition>
+  
+  <related_form>
+    sonst durch 
+    <form>desting, -nse, -ns</form>
+     III vb. ersetzt, welches aus dem Prtz. 
+    <form>destins</form>
+     zurückgebildet wurde, da einem 
+    <form>încins</form>
+     sowohl 
+    <form>încind</form>
+    , als auch 
+    <form>încing</form>
+    , einem 
+    <form>întins</form>
+     sowohl 
+    <form>întind</form>
+     als auch 
+    <form>înting</form>
+     entsprach
+
+  </related_form>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DESCENDO, -NDI, -NSUM, -ERE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">scendere</form>
+      , 
+      <form lang="pv">deissendre</form>
+      , 
+      <form lang="fr">descendre</form>
+      , 
+      <form lang="sp">descender</form>
+      , 
+      <form lang="pg">descender</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. dipun].</variants>
+  
+</entry>

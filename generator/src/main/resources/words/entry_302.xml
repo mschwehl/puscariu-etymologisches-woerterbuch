@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="302">
+  
+  <lemma>casă</lemma>
+   
+  <!-- Assuming edsă -> casă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. &gt;, ir. casă]</variants>
+   
+  <!-- Assuming cose -> casă -->
+  
+  <definition>„Haus“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CASA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">casa</form>
+      , 
+      <form lang="pv">casa</form>
+      , 
+      <form lang="cat">casa</form>
+      , 
+      <form lang="sp">casa</form>
+      , 
+      <form lang="pg">casa</form>
+      , 
+      <form lang="eng">chesa</form>
+      , 
+      <form lang="fr">chez</form>
+      . 
+      <!-- Assuming k’esa -> chesa -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

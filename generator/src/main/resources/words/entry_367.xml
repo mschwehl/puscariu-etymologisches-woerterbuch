@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="367">
+  
+  <lemma>cîne</lemma>
+   
+  <!-- Assuming cine (câine) -> cîne -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =, mgl. coini, ir. câne]</variants>
+   
+  <!-- Assuming căre -> câne -->
+  
+  <definition>„Hund“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CANIS, -EM</etymon>
+     
+    <!-- Assuming -Eu -> -EM -->
+    
+    <cognates>
+      
+      <form lang="alb">qen, ken</form>
+      , 
+      <form lang="it">cane</form>
+      , 
+      <form lang="fr">chien</form>
+      , 
+      <form lang="eng">chaun</form>
+      , 
+      <form lang="pv">can</form>
+      , 
+      <form lang="fr">chien</form>
+      , 
+      <form lang="pg">cão</form>
+      . 
+      <!-- Assuming k’en, ken -> qen, ken; fe. Fan -> fr. chien?; k’aun -> chaun; câo -> cão -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

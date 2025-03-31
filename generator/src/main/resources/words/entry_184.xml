@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="184">
+  
+  <lemma>bărbie</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Kinn“</definition>
+  
+  <etymology_discussion source="Tiktin Wörth. 158; Zauner: Körperteile, 409; Conv. lit. XXXVIII, 701">
+    
+    <etymology>
+      
+      <etymon lang="Lat">*BARBILIA, -AM</etymon>
+       (von 
+      <etymon lang="Lat">*BARBILE</etymon>
+       „Sitz des Bartes“‘)
+
+      <cognates>
+        
+        <form lang="it">barbiglio</form>
+         „carne pendente dal collo dei galli e anche dei becchi“.
+
+      </cognates>
+      
+    </etymology>
+    
+    <!-- References indicate discussion/alternative views -->
+    
+  </etymology_discussion>
+  
+  <variants>[ar. grumaz].</variants>
+   
+  <!-- Assuming gran -> grumaz -->
+  
+</entry>

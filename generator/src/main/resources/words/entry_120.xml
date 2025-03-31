@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="120">
+  
+  <lemma>arină</lemma>
+   
+  <!-- Assuming arnä -> arină -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming o -> = -->
+  
+  <definition>„Sand“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARENA, -AM</etymon>
+     
+    <!-- Assuming CanExa -> ARENA -->
+    
+    <cognates>
+      
+      <form lang="alb">rërë</form>
+      , 
+      <!-- Assuming rerg -> rërë -->
+      
+      <form lang="it">rena</form>
+      ,
+
+      <form lang="sic">rina</form>
+      , 
+      <!-- Assuming vina -> rina -->
+      
+      <form lang="pv">arena</form>
+      , 
+      <form lang="sp">arena</form>
+      ,
+
+      <form lang="a-frz">areine</form>
+      ,
+
+      <form lang="pg">area</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

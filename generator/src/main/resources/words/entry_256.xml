@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="256">
+  
+  <lemma>calce</lemma>
+   
+  <!-- Assuming cälce -> calce -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„calendula, caltha palustris“</definition>
+  
+  <etymology source="Candrea Hecht: Rom. XXXI, 304">
+    
+    <etymon lang="Lat">CALX, -CEM</etymon>
+     „Ferse“;
+
+    <cognates>
+      
+      <form lang="it">calcio</form>
+      , 
+      <form lang="cal">cauce?</form>
+      , 
+      <form lang="sp">coz</form>
+      . 
+      <!-- Assuming catse -> cauce? -->
+      
+    </cognates>
+    
+    <semantic_note>
+      Die Blume heißt meist 
+      <form>calcea calului</form>
+       = Pferdehuf, desgleichen im srb. 
+      <form lang="sr">kopitac</form>
+       „kleiner Huf“, kruss. 
+      <form lang="ru">lapki</form>
+       „kleine Pfoten“, gallisch 
+      <form lang="cy">troed yr ebol</form>
+       „Fohlenbein“.
+
+    </semantic_note>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="641">
+  
+  <lemma>frămînt</lemma>
+   
+  <!-- Assuming främint -> frămînt -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. frimintu, firmintu, frimit?, mgl. frimînt]</variants>
+   
+  <!-- Assuming frimit -> frimit?, frimint -> frimînt -->
+  
+  <definition>„gären, kneten‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FERMENTO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">fermentare</form>
+      , 
+      <form lang="fr">fermenter</form>
+      , 
+      <form lang="cat">fermentar</form>
+      , 
+      <form lang="sp">fermentar</form>
+      , 
+      <form lang="pg">fermentar</form>
+       (vgl. cat. 
+      <form lang="cat">ferment</form>
+       „Sauerteig“).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

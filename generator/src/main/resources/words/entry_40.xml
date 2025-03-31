@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="40">
+  
+  <lemma>agust</lemma>
+   
+  <!-- Assuming agüst -> agust -->
+  
+  <pos>sm.</pos>
+  
+  <variants>
+    (Frîncu-Candrea 120, auch 
+    <form>gust</form>
+     Magn. Etym. Rom. 539)
+  </variants>
+  
+  <definition>„August“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AUGUSTUS, -UM</etymon>
+     
+    <!-- Assuming AdisTus -> AUGUSTUS -->
+    
+    <comment>
+      (= 
+      <etymon lang="Lat">AUGUSTUS</etymon>
+      )
+    </comment>
+    
+    <cognates>
+      
+      <form lang="alb">gust</form>
+      ,
+
+      <form lang="it">agosto</form>
+      , 
+      <form lang="sp">agosto</form>
+      , 
+      <form lang="pg">agosto</form>
+      ,
+
+      <form lang="eng">avuost</form>
+      ,
+
+      <form lang="fr">août</form>
+      ,
+
+      <form lang="pv">agust</form>
+      ,
+(
+      <form lang="got">agaustus</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Auch: 
+    <form>gustar</form>
+     
+    <pos>sm.</pos>
+     mit dem Suffixe der übrigen Monatsnamen.
+  </derived_forms>
+  
+  <comment>[ar. argustu ist Neologismus].</comment>
+  
+</entry>

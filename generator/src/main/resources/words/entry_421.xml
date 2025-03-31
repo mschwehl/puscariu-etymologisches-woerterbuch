@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="421">
+  
+  <lemma>cu</lemma>
+  
+  <pos>präp.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„mit“</definition>
+  
+  <etymology source="Kurth, Jb. X, 488—496">
+    
+    <etymon lang="Lat">CUM</etymon>
+     
+    <!-- Assuming Cotu -> CUM -->
+    
+    <cognates>
+      
+      <form lang="it">con</form>
+      , 
+      <form lang="sp">con</form>
+      , 
+      <form lang="pg">com</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

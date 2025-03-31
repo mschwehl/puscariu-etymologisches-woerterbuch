@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="282">
+  
+  <lemma>căprior</lemma>
+   
+  <!-- Assuming eäpriör -> căprior -->
+  
+  <pos>sm.</pos>
+  
+  <related_form>
+    
+    <form>căprioară</form>
+     
+    <pos>sf.</pos>
+    
+  </related_form>
+  
+  <definition>„Rehbock, Hindin“</definition>
+  
+  <variants>[ar. căprioară „Amsel“ W.]</variants>
+   
+  <!-- Assuming Atemse -> Amsel -->
+  
+  <etymology source="Schuch. Vok. I, 427; LII, 145">
+    
+    <etymon lang="Lat">CAPREOLUS, -UM</etymon>
+    , 
+    <etymon lang="Lat">CAPREOLA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">kaproll</form>
+       sm. 
+      <form lang="alb">kaprollë</form>
+       sf., 
+      <form lang="it">capriolo</form>
+      , 
+      <form lang="a-berg">cavriol</form>
+      , 
+      <form lang="fr">chevreuil</form>
+      , 
+      <form lang="eng">chavriöl</form>
+      , 
+      <form lang="fr">chevreuil</form>
+      , 
+      <form lang="pv">cabriol</form>
+      , 
+      <form lang="sp">cabriol</form>
+      . 
+      <!-- Assuming kaprul, kaprote -> kaproll, kaprollë; avril -> chevreuil?, Kavriöl -> chavriöl -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[mgl. capră divă; P. kennt nur ar. căpriță].</variants>
+   
+  <!-- Assuming cärsutd -> căpriță -->
+  
+</entry>

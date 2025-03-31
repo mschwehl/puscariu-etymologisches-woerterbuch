@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="596">
+  
+  <lemma>fereastră</lemma>
+   
+  <!-- Assuming feredsiră -> fereastră -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. fireastră]</variants>
+  
+  <definition>„Fenster“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FENESTRA, -AM</etymon>
+     
+    <!-- Assuming ruxtstra -> FENESTRA -->
+    
+    <cognates>
+      
+      <form lang="alb">festre?</form>
+      , 
+      <form lang="it">finestra</form>
+      , 
+      <form lang="cat">finestra</form>
+      , 
+      <form lang="mail">finestra</form>
+      , 
+      <form lang="pv">fenestra</form>
+      , 
+      <form lang="eng">fneschta?</form>
+      , 
+      <form lang="fr">fenêtre</form>
+      , 
+      <form lang="gasc">?</form>
+      , 
+      <form lang="sp">hiniestra</form>
+      , 
+      <form lang="pg">fresta</form>
+      . 
+      <!-- Interpretation needed for fhestre, fneătra, fenötre, arresto -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. ocnă].</variants>
+   
+  <!-- Assuming ocne -> ocnă -->
+  
+</entry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="405">
+  
+  <lemma>cos</lemma>
+  
+  <inflection>cusui, cusut</inflection>
+   
+  <!-- Assuming cusiii, cusiit -> cusui, cusut -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. cos II, mgl. ir. =]</variants>
+   
+  <!-- Assuming n -> = -->
+  
+  <definition>„nähen“</definition>
+  
+  <etymology source="C. Gl. V, 514, 40; Lat. Ti u. Ki S. 37">
+    
+    <etymon lang="Lat">CO(N)SUO, -UI, -ŪTUM, -ERE</etymon>
+     (= 
+    <etymon lang="Lat">CONSUO</etymon>
+    ) 
+    <!-- Assuming coso, -ur, -UTUN, -ERR -> CO(N)SUO, -UI, -ŪTUM, -ERE -->
+    
+    <cognates>
+      
+      <form lang="neap">cosere</form>
+       (neben 
+      <form>cosire</form>
+       — 
+      <form lang="it">cucire</form>
+        
+      <etymon lang="Lat">*CONSUIRE</etymon>
+      , welches für Italien, Engadin und Sardinien anzunehmen ist), 
+      <form lang="pv">coser</form>
+      , 
+      <form lang="sp">coser</form>
+      , 
+      <form lang="pg">coser</form>
+      , 
+      <form lang="fr">coudre</form>
+      . 
+      <!-- Assuming kösere -> cosere, *cosirz -> *CONSUIRE -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

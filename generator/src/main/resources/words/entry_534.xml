@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="534">
+  
+  <lemma>distorc</lemma>
+   
+  <!-- Assuming distöreu -> distorc -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <inflection>-orsu, -orsu, -orsu?</inflection>
+   
+  <!-- Interpretation needed for -ör&u, -örsu -->
+  
+  <verb_class>III/II</verb_class>
+   
+  <!-- Assuming III u. Il -->
+  
+  <pos>vb.</pos>
+  
+  <definition>„aufdrehen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DISTORQUEO, -RSI, -RTUM, -RQUERE</etymon>
+     (= 
+    <etymon lang="Lat">-ERE</etymon>
+    ) 
+    <!-- Assuming -SI, -TUM, -FERB -> -RSI, -RTUM, -RQUERE -->
+    
+    <cognates>
+      
+      <form lang="it">storcere</form>
+      , 
+      <form lang="pv">destorser</form>
+      , 
+      <form lang="fr">détordre</form>
+      , 
+      <form lang="cat">destorcer</form>
+      , 
+      <form lang="sp">destorcer</form>
+      , 
+      <form lang="pg">destorcer</form>
+      . 
+      <!-- Assuming detordre -> détordre -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <comment>
+    Ein von Cihac I, 283 an­geführtes d-rum. 
+    <form>destorc</form>
+     ist mir unbekannt.
+  </comment>
+  
+</entry>

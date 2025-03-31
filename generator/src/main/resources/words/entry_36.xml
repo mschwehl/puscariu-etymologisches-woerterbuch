@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="36">
+  
+  <lemma>afund</lemma>
+   
+  <!-- Assuming afiind -> afund -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. afundu]</variants>
+  
+  <definition>„vertiefen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*AFFUNDO, -ARE</etymon>
+     
+    <!-- Assuming (*ArFFÜNDO, -ARB -> <*AFFUNDO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="it">affondare</form>
+      ,
+
+      <form lang="sard">affundare</form>
+      ,
+
+      <form lang="a-frz">afonder</form>
+      ,
+
+      <form lang="sp">afondar</form>
+      , 
+      <!-- ahondar? -->
+      
+      <form lang="pg">afundar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Dazu das Adj. 
+    <form>afund, -ă</form>
+     
+    <variants>[(ar. afundweös W.), ir. (a)fund]</variants>
+     „tief“: 
+    <cognates>
+      <form lang="it">affondo</form>
+      , (vgl. 
+      <form lang="sp">hondo</form>
+      )
+    </cognates>
+    , welches auch dem Adv. 
+    <form>a fund</form>
+     (
+    <example>mă dau a fund</example>
+     „tauehe unter“) nachgebildet sein kann.
+
+  </derived_forms>
+  
+</entry>

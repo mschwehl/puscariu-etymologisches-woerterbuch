@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="475">
+  
+  <lemma>cutremur</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. cutremur P. cutremur Cod. Dim. 26)]</variants>
+   
+  <!-- Assuming cutream(b)ur, cutrümur -> cutremur -->
+  
+  <definition>„erzittern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CONTREMULO, -ARE</etymon>
+     (vgl. 
+    <etymon lang="Lat">CONTREMO, CONTREMULUS</etymon>
+    ).
+
+  </etymology>
+  
+</entry>

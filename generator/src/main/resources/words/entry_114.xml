@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="114">
+  
+  <lemma>ard</lemma>
+  
+  <lemma_variants>(arz)</lemma_variants>
+   
+  <!-- Assuming ar -> arz -->
+  
+  <inflection>arsei, ars</inflection>
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. ardu, ară, ars III, II, mgl. ard, ară, ars III, ir. ordu, ors III]</variants>
+  
+  <definition>„brennen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARDEO, ARSI, ARSUM, ARDĒRE</etymon>
+     (statt 
+    <etymon lang="Lat">ARDĔRE</etymon>
+    : 
+    <form lang="a-frz">ardoir</form>
+    )
+
+    <cognates>
+      
+      <form lang="it">ardere</form>
+      ,
+
+      <form lang="eng">arder</form>
+      ,
+
+      <form lang="pv">ardre</form>
+      , 
+      <form lang="fr">ardre</form>
+      ,
+
+      <form lang="sp">arder</form>
+      , 
+      <form lang="pg">arder</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

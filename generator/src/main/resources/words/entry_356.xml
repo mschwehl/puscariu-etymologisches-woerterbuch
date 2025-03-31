@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="356">
+  
+  <lemma>chiar</lemma>
+   
+  <!-- Assuming chirii) -> chiar -->
+  
+  <pos>adv.</pos>
+  
+  <variants>[ir. clar]</variants>
+   
+  <!-- Assuming klor -> clar -->
+  
+  <definition>„sogar“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CLARE</etymon>
+     (
+    <source_ref>Mulomed. Chir. ed. Oder 25, 8</source_ref>
+    ) vgl. 
+    <ref target_lemma="pururi">pururi</ref>
+    .
+
+    <comparison>
+      Auch im srb. kr. kommt ein 
+      <form lang="sh">čaro (čoro)</form>
+       „sehr“ vor.
+    </comparison>
+     
+    <!-- Assuming caro Dir. doro -> čaro (čoro) -->
+    
+  </etymology>
+  
+  <related_form>
+    Im alt-rum. findet sich auch ein 
+    <form>chiar, -ă</form>
+     adj. „klar“ (
+    <example>„Ochiul ce easte in trupulii nostru veade chiarü“.</example>
+     
+    <source_ref>Varl. Caz. 1643f. 226b</source_ref>
+    )  
+    <etymon lang="Lat">CLARUS, -A, -UM</etymon>
+    : 
+    <cognates>
+      <form lang="alb">qarë?</form>
+      , 
+      <form lang="it">chiaro</form>
+      , 
+      <form lang="eng">cler</form>
+      , 
+      <form lang="pv">clar</form>
+      , 
+      <form lang="fr">clair</form>
+      , 
+      <form lang="sp">claro</form>
+      , 
+      <form lang="pg">claro</form>
+    </cognates>
+    . 
+    <!-- Assuming k’ar -> qarë?, klar -> cler, claîr -> clair -->
+    
+  </related_form>
+  
+</entry>

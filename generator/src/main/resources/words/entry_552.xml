@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="552">
+  
+  <lemma>duc</lemma>
+   
+  <!-- Assuming due -> duc -->
+  
+  <inflection>dusei (ban. + dus), dus</inflection>
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. duc, dus, dus III, II, mgl. duc?, dus, dus III, ir. duc?, dus, dus III]</variants>
+   
+  <!-- Assuming due -> duc?, daca -> duc? -->
+  
+  <definition>„führen“</definition>
+  
+  <etymology source="Dens. H. I. r. 182">
+    
+    <etymon lang="Lat">DUCO, -XI, -CTUM, -ERE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">durre</form>
+      , 
+      <form lang="a-ven">dur</form>
+      , 
+      <form lang="sard">dughere</form>
+      , 
+      <form lang="pv">duzer</form>
+      , 
+      <form lang="fr">-duire</form>
+      , 
+      <form lang="sp">ducir</form>
+      , 
+      <form lang="pg">-duzir</form>
+      . 
+      <!-- Assuming dozer -> duzer -->
+      
+    </cognates>
+    
+    <usage_note>
+      Imperat. d-rum. ar. mgl. ir. 
+      <form>du</form>
+       (
+      <etymon lang="Lat">DUC</etymon>
+      ). — 
+      <example>Mă duc</example>
+       heißt „gehe“, (eigtl. „ich führe mich“), wie schon im Spätlat. (Belege bei Dens.).
+    </usage_note>
+    
+  </etymology>
+  
+</entry>

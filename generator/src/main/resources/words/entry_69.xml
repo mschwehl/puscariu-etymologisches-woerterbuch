@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="69">
+  
+  <lemma>aluat</lemma>
+   
+  <!-- Assuming atuet -> aluat -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. alot, mgl. nur das Diminut. žutșol, ir. aluot, auot]</variants>
+   
+  <!-- Assuming Zutsol -> žutșol -->
+  
+  <definition>„Hefe, Teig"</definition>
+  
+  <etymology source="Dens. H. l. r. 192">
+    
+    <etymon lang="Lat">*ALLEVATUM</etymon>
+     (von 
+    <etymon lang="Lat">ALLEVO</etymon>
+     „emporheben“, dann „gähren“ vgl. 
+    <example lang="Lat">azima: panis sine fermento, id est sine leva­mento</example>
+     
+    <source_ref>Reich. Gloss. 65</source_ref>
+    )
+
+    <cognates>
+      
+      <form lang="a-berg">levad</form>
+       (glossiert durch „fermentum, azima‘), vgl. 
+      <form lang="it">lievito</form>
+      , 
+      <form lang="frl">levâ</form>
+      , 
+      <form lang="ven">levar</form>
+      , 
+      <form lang="it">levitare</form>
+      , 
+      <form lang="fr">levain</form>
+      , 
+      <form lang="eng">alvamaint</form>
+      , 
+      <form lang="sp">aleudarse</form>
+       etc.
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

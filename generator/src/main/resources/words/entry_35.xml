@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="35">
+  
+  <lemma>afum</lemma>
+   
+  <!-- Assuming afin -> afum -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. afum(edz) „räuchere‘]</variants>
+   
+  <!-- Assuming afum(6d2) -> afum(edz) -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*AFFUMO, -ARE</etymon>
+     
+    <!-- Assuming * AprUMO -> *AFFUMO -->
+    
+    <cognates>
+      
+      <form lang="it">affumare</form>
+      ,
+
+      <form lang="pv">afumar</form>
+      , 
+      <form lang="pg">afumar</form>
+      ,
+vgl. 
+      <form lang="sp">ahumar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

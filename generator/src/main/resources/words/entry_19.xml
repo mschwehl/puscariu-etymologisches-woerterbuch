@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="19">
+  
+  <lemma>adăog</lemma>
+   
+  <!-- Assuming addog -> adăog -->
+  
+  <inflection>-aosei (ban. u. + udaus), -aos</inflection>
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>(adaog I, adaog(esc) IV) [ar. adavgu, adapsu, adaptu II, adaogu I, IV, mgl. daug, daus]</variants>
+  
+  <definition>„vermehren“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ADAUGEO, -XI, -CTUM, -ĒRE</etymon>
+     
+    <!-- Assuming -ERE -> -ĒRE -->
+    
+    <source_ref>(— Dens. H. l. r. 140)</source_ref>
+     
+    <!-- Assuming Ene -> Dens., perhaps Densușianu, Histoire de la langue roumaine -->
+    
+    <cognates>
+      
+      <form lang="a-frz">aoire</form>
+      ,
+
+      <form lang="pv">azaut</form>
+      . 
+      <!-- Assuming Pıtz. is OCR error -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <comment>
+    Der Übergang zur IV Konj. ist durch belegtes 
+    <form lang="Lat">ADAUGESCO</form>
+     angedeutet.
+  </comment>
+  
+</entry>

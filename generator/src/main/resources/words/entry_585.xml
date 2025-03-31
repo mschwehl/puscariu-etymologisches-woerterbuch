@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="585">
+  
+  <lemma>fașă</lemma>
+   
+  <!-- Assuming fase -> fașă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. fașe, mgl. fasă, ir. fașă]</variants>
+   
+  <!-- Assuming fosa -> fașă -->
+  
+  <definition>„Windel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FASCIA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">fascia</form>
+      , 
+      <form lang="eng">fascha</form>
+      , 
+      <form lang="pv">faissa</form>
+      , 
+      <form lang="fr">faisse</form>
+      , 
+      <form lang="pg">faxa</form>
+      . 
+      <!-- Assuming faăa -> fascha -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Davon: 
+    <form>fășie</form>
+     sf. „Streifen“ (Diminutiv: 
+    <form>fâșioară</form>
+    ), davon wieder 
+    <form>sfîșii, sfîșiez</form>
+     vb. I „zerreiben“. 
+    <!-- Assuming fäsie -> fășie, fügioära -> fâșioară, sfäsiu, sfäsiez -> sfîșii, sfîșiez -->
+    
+  </derived_forms>
+  
+</entry>

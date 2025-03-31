@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="275">
+  
+  <lemma>căpățînă</lemma>
+   
+  <!-- Assuming căpăţină -> căpățînă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. = W]</variants>
+  
+  <definition>„Hirnschädel, (Knoblauch)knolle“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CAPITĪNA, -AM</etymon>
+     
+    <!-- Assuming #capir-ina -> *CAPITĪNA -->
+    
+    <cognates>
+      vgl. alb. 
+      <form lang="alb">kaptinë</form>
+       „Tierkopf“, cal. 
+      <form lang="cal">capitinula</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[P. kennt nur ar., căpățână].</variants>
+   
+  <!-- Assuming cdräfeta -> căpățână? -->
+  
+</entry>

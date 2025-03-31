@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="211">
+  
+  <lemma>bot</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Schnauze, Schnabel“</definition>
+  
+  <etymology_discussion source="Cihac I, 27">
+    soll nach Cihac aus einem 
+    <etymon lang="Lat">*BOTTUS</etymon>
+    , Primitivum von 
+    <etymon lang="Lat">BOTULUS</etymon>
+     „Wurst“ stammen, was sehr unwahrscheinlich ist. 
+    <!-- Assuming *sörun -> *BOTTUS -->
+    
+  </etymology_discussion>
+  
+  <variants>[ar. mută].</variants>
+   
+  <!-- Assuming muts@ -> mută -->
+  
+</entry>

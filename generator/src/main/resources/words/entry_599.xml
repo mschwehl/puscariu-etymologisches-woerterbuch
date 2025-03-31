@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="599">
+  
+  <lemma>ferice</lemma>
+   
+  <!-- Assuming jerice -> ferice -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„glücklich“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FELIX, -ICEM</etymon>
+     
+    <!-- Assuming reurx -> FELIX -->
+    
+    <cognates>
+      (
+      <form lang="it">felice</form>
+      , wahrscheinlich Buchwort).
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. calotih, ir. sriciu?].</variants>
+   
+  <!-- Assuming sritsu -> sriciu? -->
+  
+</entry>

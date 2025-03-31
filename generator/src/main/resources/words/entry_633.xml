@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="633">
+  
+  <lemma>foarfece</lemma>
+   
+  <!-- Assuming fodrfece -> foarfece -->
+  
+  <usage>
+    meist Pl. 
+    <form>foarfeci</form>
+  </usage>
+  
+  <pos>sf.</pos>
+  
+  <related_form>
+    auch 
+    <form>foarfecă</form>
+     sf.
+  </related_form>
+  
+  <variants>[ar. foarfică W., foarfecă? P. olympo-wal. foarfecă?, mgl. foarfețe?]</variants>
+   
+  <!-- Interpretation needed for foartică, foarfitsi -->
+  
+  <definition>„Scheere“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FORFEX, -ICEM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">forbici</form>
+      , 
+      <form lang="neap">fuorfice?</form>
+      , 
+      <form lang="cal">fuorfici?</form>
+      , 
+      <form lang="lecce">forfete?</form>
+      , 
+      <form lang="campob">froffeza?</form>
+      , 
+      <form lang="lanc">?</form>
+      , 
+      <form lang="a-berg">forves?</form>
+      , 
+      <form lang="frl">fuarfis?</form>
+      , 
+      <form lang="eng">fuorcha?</form>
+      , 
+      <form lang="sard">forfighe</form>
+      , 
+      <form lang="pv">forfes</form>
+      , 
+      <form lang="fr">forces</form>
+      . 
+      <!-- Interpretation needed for fuorfetăe, fuorfitsi, for-fete, froffetsa, lu frovetse, forves, fuärfis, foră -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. șfoarfeci? Pl. tant.].</variants>
+   
+  <!-- Assuming Score -> șfoarfeci? -->
+  
+</entry>

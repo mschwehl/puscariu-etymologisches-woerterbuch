@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="513">
+  
+  <lemma>desculț</lemma>
+   
+  <!-- Assuming desenit -> desculț -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ir. desculț]</variants>
+   
+  <!-- Assuming vescuts -> desculț -->
+  
+  <definition>„entschuhen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DISCALCEO, -ARE</etymon>
+     (
+    <source_ref>Diomedes</source_ref>
+    ). 
+    <!-- Assuming piscircro -> DISCALCEO -->
+    
+  </etymology>
+  
+  <variants>[ar. discalțu].</variants>
+  
+</entry>

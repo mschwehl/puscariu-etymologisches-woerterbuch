@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="379">
+  
+  <lemma>cîte</lemma>
+   
+  <!-- Assuming cîte -> cîte -->
+  
+  <pos>num.</pos>
+   
+  <!-- Distributive numeral -->
+  
+  <variants>[ar. câți]</variants>
+  
+  <definition>„je“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CATTA?</etymon>
+     (= griech. 
+    <etymon lang="Gr">κατά</etymon>
+    ) 
+    <!-- Assuming cara -> CATTA? -->
+    
+    <cognates>
+      
+      <form lang="it">cata(uno)</form>
+      , 
+      <form lang="pv">cada-un</form>
+      , 
+      <form lang="fr">cha-un</form>
+      , 
+      <form lang="sp">cada (uno)</form>
+      , 
+      <form lang="pg">cada (uno)</form>
+      .
+
+    </cognates>
+    
+    <usage_note>
+      Dem rum. 
+      <example>unul cîte unul</example>
+       „nach einander“ entspricht in Bibeltexten 
+      <example lang="Lat">UNUS CATA UNUS</example>
+       (nach griech. 
+      <example lang="Gr">εἷς καθ’ εἷς</example>
+      ). In ar. 
+      <form>cășun?</form>
+       
+      <source_ref>Cod. Dim. 10%</source_ref>
+      , haben wir es direkt mit dem griech. 
+      <etymon lang="Gr">καθένα</etymon>
+       zu tun (daneben 
+      <form>căti</form>
+       und 
+      <form>câteun?</form>
+       Cod. Dim. 94?/?)?. 
+      <!-- Interpretation needed for caesun, za@«@, căti, căteun -->
+      
+    </usage_note>
+    
+  </etymology>
+  
+</entry>

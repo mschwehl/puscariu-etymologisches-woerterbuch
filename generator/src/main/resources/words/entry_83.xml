@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="83">
+  
+  <lemma>amorțesc</lemma>
+   
+  <!-- Assuming amortesc -> amorțesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. amurțu, amurțăscu IV]</variants>
+   
+  <!-- Assuming amürtu, amurtsäseu -> amurțu, amurțăscu -->
+  
+  <definition>„starr werden, einschlafen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*AMMORTIO, -IRE</etymon>
+     
+    <!-- Assuming * am-morrıo -> *AMMORTIO -->
+    
+    <cognates>
+      
+      <form lang="it">ammortire</form>
+      , 
+      <!-- Assuming ammorlire -> ammortire -->
+      
+      <form lang="sic">ammurtiri</form>
+      ,
+
+      <form lang="pv">amortir</form>
+      , 
+      <form lang="fr">amortir</form>
+      , 
+      <form lang="sp">amortir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <comment>
+    Ar. 
+    <example>apă amurțită</example>
+     = lauwarmes Wasser.
+  </comment>
+   
+  <!-- Assuming amurisîtă -> amurțită -->
+  
+</entry>

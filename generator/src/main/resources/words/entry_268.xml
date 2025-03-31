@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="268">
+  
+  <lemma>cănură</lemma>
+   
+  <!-- Assuming ednuräa -> cănură -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, u. canoâră W.]</variants>
+  
+  <definition>„Kämmlinge, Faden aus loser Wolle“</definition>
+  
+  <etymology source="Tiktin, Wörtb. 277">
+    soll aus 
+    <form>*cărură</form>
+     dissimi­liert sein und dies auf 
+    <etymon lang="Lat">*CARŪLA, -AM</etymon>
+     von 
+    <etymon lang="Lat">CARO, -ERE</etymon>
+     „krämpeln“ zurückgehen.
+
+  </etymology>
+  
+</entry>

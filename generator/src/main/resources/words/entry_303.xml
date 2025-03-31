@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="303">
+  
+  <lemma>caș</lemma>
+   
+  <!-- Assuming eag -> caș -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. -, ir. caș]</variants>
+   
+  <!-- Assuming mal. -> mgl., cos -> caș -->
+  
+  <definition>„Käse“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CASEUS</etymon>
+     
+    <!-- Assuming Coasnus -> CASEUS -->
+    
+    <cognates>
+      
+      <form lang="it">cacio</form>
+      , 
+      <form lang="sard-log">casu</form>
+      , 
+      <form lang="sp">queso</form>
+      , 
+      <form lang="pg">queijo</form>
+      . 
+      <!-- Assuming qiteso -> queso -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

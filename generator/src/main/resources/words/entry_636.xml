@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="636">
+  
+  <lemma>foiesc</lemma>
+   
+  <!-- Assuming foiese -> foiesc -->
+  
+  <lemma_variants>(forfoiesc)</lemma_variants>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„wimmeln‘ etc.</definition>
+  
+  <reference type="bibliographic">vgl. Schuchardt, Zeitschrift rom. Phil. XXI, 203.</reference>
+  
+  <variants>[ar. fierb].</variants>
+   
+  <!-- Assuming Aerbu -> fierb -->
+  
+</entry>

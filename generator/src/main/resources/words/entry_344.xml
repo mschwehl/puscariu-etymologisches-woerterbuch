@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="344">
+  
+  <lemma>cercetez</lemma>
+  
+  <lemma_variants>
+    (+ 
+    <form>cearcet</form>
+     
+    <source_ref>Varl. Caz. 1643. 206</source_ref>
+    )
+  </lemma_variants>
+   
+  <!-- Assuming ceärcet -> cearcet -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„unter­suchen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CIRCITO, -ARE</etymon>
+    . 
+    <!-- Assuming cinciro -> CIRCITO -->
+    
+  </etymology>
+  
+  <variants>[ar. întreb, caftu, hĭtăsescu].</variants>
+   
+  <!-- Assuming hitäsescu -> hĭtăsescu -->
+  
+</entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="574">
+  
+  <lemma>făinos</lemma>
+   
+  <!-- Assuming fäinds -> făinos -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+   
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. fărinós]</variants>
+   
+  <!-- Assuming färinos -> fărinós -->
+  
+  <definition>„mehlig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FARINOSUS, -A, -UM</etymon>
+     
+    <!-- Assuming rARINOSUS -> FARINOSUS -->
+    
+    <cognates>
+      
+      <form lang="it">farinoso</form>
+      , 
+      <form lang="fr">farineux</form>
+      , 
+      <form lang="sp">harinoso</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. de făriră].</variants>
+   
+  <!-- Assuming farire -> făriră -->
+  
+</entry>

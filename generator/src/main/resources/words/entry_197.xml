@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="197">
+  
+  <lemma>beau</lemma>
+   
+  <!-- Assuming bedu -> beau -->
+  
+  <lemma_variants>(beu)</lemma_variants>
+  
+  <inflection>băui, băut</inflection>
+   
+  <!-- Assuming băii, baüt -> băui, băut -->
+  
+  <verb_class>II</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. beau, bii u. bĭui, bis?, biut(ă) u. biut(u) II, mgl. beu, bit II, ir. beu?, beut II]</variants>
+   
+  <!-- Assuming biwi -> bĭui, bins -> bis?, biut(@) -> biut(u), bena -> beu? -->
+  
+  <definition>„trinken, saufen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BIBO, BIBI, BIBITUM</etymon>
+     
+    <!-- Assuming Enna -> BIBITUM -->
+    
+    <cognates>
+      
+      <form lang="it">be(ve)re</form>
+      ,
+
+      <form lang="eng">baiver</form>
+      ,
+
+      <form lang="prov">beure</form>
+      , 
+      <!-- Assuming pr. -> prov. -->
+      
+      <form lang="fr">boire</form>
+      ,
+
+      <form lang="sp">beber</form>
+      , 
+      <form lang="pg">beber</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

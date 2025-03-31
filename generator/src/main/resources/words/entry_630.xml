@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="630">
+  
+  <lemma>foame</lemma>
+   
+  <!-- Assuming fodme -> foame -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. —, ir. foame]</variants>
+   
+  <!-- Assuming fome -> foame -->
+  
+  <definition>„Hunger“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FAMES, -EM</etymon>
+    
+    <cognates>
+      
+      <form lang="obw">fom?</form>
+      , 
+      <form lang="eng">fom?</form>
+      , 
+      <form lang="bornio?">fom?</form>
+      , 
+      <form lang="livigno?">fom?</form>
+      , 
+      <form lang="lomb">fom</form>
+      , 
+      <form lang="it">fame</form>
+      , 
+      <form lang="fr">faim</form>
+      , 
+      <form lang="pg">fome</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

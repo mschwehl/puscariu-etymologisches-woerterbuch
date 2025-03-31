@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="616">
+  
+  <lemma>fior</lemma>
+  
+  <usage>
+    meist Pl. 
+    <form>fiori</form>
+  </usage>
+  
+  <pos>sm.</pos>
+  
+  <usage>
+    (sf. 
+    <source_ref>Delavrancea: Între vis si viaţă, 169</source_ref>
+    )
+  </usage>
+  
+  <definition>„Schauer“</definition>
+   
+  <!-- Assuming Schanfd)er -> Schauer -->
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 741—742">
+    
+    <etymon lang="Lat">*FEBRUM (= FEBRIS, -EM)</etymon>
+     
+    <!-- Assuming *rEpRum -> *FEBRUM -->
+    
+    <cognates>
+      
+      <form lang="it">febbre</form>
+      , 
+      <form lang="frl">fiere?</form>
+      , 
+      <form lang="sic">febbre?</form>
+      , 
+      <form lang="pg">febre</form>
+      . 
+      <!-- Assuming fiere -> fiere?, febbri -> febbre? -->
+      
+    </cognates>
+    
+    <plural_formation>
+      Im Ar. lebt die Mehrzahl 
+      <etymon lang="Lat">*FEBRUA?</etymon>
+       &gt; 
+      <form>hiarură?</form>
+       sf. „Fieber“ weiter: 
+      <cognates>
+        <form lang="a-ven">ferra</form>
+        , 
+        <form lang="mail">fevera?</form>
+        , 
+        <form lang="crem">fevra?</form>
+        , 
+        <form lang="parm">freva?</form>
+        , 
+        <form lang="sard">frebba</form>
+        , 
+        <form lang="cat">febra</form>
+        , 
+        <form lang="pg">febra</form>
+      </cognates>
+       (vielleicht auch 
+      <form lang="eng">feivra</form>
+      , 
+      <form lang="fr">fièvre</form>
+      ). 
+      <!-- Interpretation needed for * nina »Äharvräü, fövera, fevra, freva, fi?vre -->
+      
+    </plural_formation>
+    
+    <derived_forms>
+      Davon: ar. 
+      <form>înhierez?</form>
+       IV vb. W. „habe Fieber“ (vgl. d-rum. 
+      <ref target_lemma="frigură">friguri</ref>
+      ). Olymp.-wal. 
+      <form>hiávur?</form>
+       scheint auf 
+      <etymon lang="Lat">FEBRIS</etymon>
+       zurückzugehen. 
+      <!-- Interpretation needed for me kierescn, Äiavrc -->
+      
+    </derived_forms>
+    
+  </etymology>
+  
+  <variants>[Für „schaudern“ sagt der Ar. mi treațe lire-lire].</variants>
+   
+  <!-- Assuming treatse liire-liire -> treațe lire-lire -->
+  
+</entry>

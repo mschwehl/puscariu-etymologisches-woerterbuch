@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="491">
+  
+  <lemma>de</lemma>
+  
+  <pos>präp.</pos>
+  
+  <variants>[ar. mgl. di, ir. =]</variants>
+   
+  <!-- Assuming mal. -> mgl., > -> = -->
+  
+  <definition>„von“</definition>
+  
+  <etymology source="Kurth: Jb. X, 496—523; Sandfeld-Jensen: Zeitschr. rom. Phil. XXVIII, 11f.; Dimand: Zur rum. Moduslehre 13f.; Conv. lit. XXXVIII 461—462, XXXIX, 59">
+    
+    <etymon lang="Lat">DE</etymon>
+     
+    <!-- Assuming Coe -> DE -->
+    
+    <cognates>
+      
+      <form lang="it">di</form>
+      , 
+      <form lang="eng">da</form>
+      , 
+      <form lang="pv">de</form>
+      , 
+      <form lang="fr">de</form>
+      , 
+      <form lang="cat">de</form>
+      , 
+      <form lang="sp">de</form>
+      , 
+      <form lang="pg">de</form>
+      .
+
+    </cognates>
+    
+    <usage_note>
+      Über die vielseitige Verwendung dieser Präposition handelt Kurth; vgl. Sandfeld-Jensen; Dimand: über Übereinstimmungen zwischen 
+      <form>de</form>
+       und alb. 
+      <form lang="alb">për</form>
+      , vgl. Conv. lit.
+    </usage_note>
+    
+  </etymology>
+  
+</entry>

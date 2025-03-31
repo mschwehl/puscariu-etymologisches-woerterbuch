@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="50">
+  
+  <lemma>ajung</lemma>
+  
+  <inflection>-unsei, -uns</inflection>
+   
+  <!-- Assuming -nsei, -ns -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. adžungu, -mše, -mšu III, IE, mgl. žung, -nă, -ns III]</variants>
+   
+  <!-- Assuming adfungu... -> adžungu...; Zung -> žung -->
+  
+  <definition>„einholen, gelangen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ADIUNGO, -XI, -NCTUM, -ERE</etymon>
+     
+    <!-- Assuming -BRE -> -ERE -->
+    
+    <cognates>
+      
+      <form lang="it">aggiungere, -ugnere</form>
+      ,
+
+      <form lang="a-chiogg">azonzer</form>
+      . 
+      <!-- Assuming aconcer -> azonzer? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_note>
+    Für die Bedeutung „ausreichen“ in: 
+    <example>banii nu ajung</example>
+     vgl. 
+    <example lang="rtr">îi groš nun avrjonge</example>
+     (
+    <reference type="bibliographic">Dens. H. l. r. 229</reference>
+    ). 
+    <!-- Assuming warjonge -> avrjonge -->
+    
+  </semantic_note>
+  
+</entry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="612">
+  
+  <lemma>fîn</lemma>
+   
+  <!-- Assuming fin -> fîn -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. fîn]</variants>
+   
+  <!-- Assuming fir -> fîn -->
+  
+  <definition>„Heu“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FENUM</etymon>
+     
+    <!-- Assuming renun -> FENUM -->
+    
+    <cognates>
+      
+      <form lang="it">fieno</form>
+      , 
+      <form lang="eng">fain</form>
+      , 
+      <form lang="pv">fen</form>
+      , 
+      <form lang="cat">fe</form>
+      , 
+      <form lang="fr">foin</form>
+      , 
+      <form lang="gasc">hen?</form>
+      , 
+      <form lang="sp">heno</form>
+      . 
+      <!-- Assuming ice -> hen? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. iarbă uscată].</variants>
+   
+  <!-- Assuming earbă -> iarbă -->
+  
+</entry>

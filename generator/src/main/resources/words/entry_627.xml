@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="627">
+  
+  <lemma>fluture</lemma>
+   
+  <!-- Assuming flüturce) -> fluture -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. flitură P., flutur, frutur, f(h)utur? W.]</variants>
+   
+  <!-- Interpretation needed -->
+  
+  <definition>„Schmetterling“</definition>
+  
+  <etymology source="Candrea-Hecht, Romania XXXI, 310—311">
+    
+    <etymon lang="Lat">*FLUTŬLUS, -UM</etymon>
+     (vgl. 
+    <ref target_lemma="flutur">flutur</ref>
+    ):
+
+    <cognates>
+      
+      <form lang="alb">flutur, flutër, frutull?</form>
+       „Schmetterling“, 
+      <form lang="it">fiutola?</form>
+       „Art Nachtfalter“. 
+      <!-- Interpretation needed for frutul, fiutola -->
+      
+    </cognates>
+    
+    <derived_forms>
+      Unklar ist die Bildung 
+      <form>flutur?</form>
+       vb. I „flattern“, auch „pfeifen“ (
+      <source_ref>Conv. lit. XXXVII, 729</source_ref>
+      ), davon 
+      <form>fluturatic?</form>
+       = 
+      <form>fluturatec</form>
+       adj. „flatterhaft, leichtsinnig“. 
+      <!-- Interpretation needed for flügtur, flusturätee -->
+      
+    </derived_forms>
+    
+  </etymology>
+  
+  <usage_note>
+    Wie alb. 
+    <form lang="alb">flutur</form>
+    , bedeutet rum. 
+    <form>fluturi</form>
+     sm. pl. tant. auch „Metallschmuck der Frauenkleider“.
+  </usage_note>
+  
+</entry>

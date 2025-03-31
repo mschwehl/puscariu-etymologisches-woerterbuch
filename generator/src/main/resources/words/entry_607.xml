@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="607">
+  
+  <lemma>fierb</lemma>
+  
+  <inflection>-sei (bn. fierș?), -rt</inflection>
+   
+  <!-- Assuming fiers -> fierș? -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. cherbu?, hierș?, hiertu? II, mgl. fierd?, fieră?, fiert?, fierbere?]</variants>
+   
+  <!-- Interpretation needed for kerbu, hers, hertu, îerd, jeră, iert, jarbiri -->
+  
+  <definition>„sieden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FERVEO, -VI, -VERE</etymon>
+     
+    <!-- Assuming rkrvo -> FERVO? FERVEŌ?, -vı -> -VI -->
+    
+    <cognates>
+      
+      <form lang="it">fervere</form>
+      , 
+      <form lang="sp">hervir</form>
+      , 
+      <form lang="pg">ferver</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. cocesc].</variants>
+   
+  <!-- Assuming cuhesc -> cocesc -->
+  
+</entry>

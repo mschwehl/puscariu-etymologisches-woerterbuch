@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="556">
+  
+  <lemma>dumesnic</lemma>
+   
+  <!-- Assuming + dumedstec -> dumesnic -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+   
+  <!-- Assuming -@ -> -ă -->
+  
+  <usage>
+    (
+    <source_ref>Cuv. d. b. I, 277</source_ref>
+    )
+  </usage>
+  
+  <pos>adj.</pos>
+  
+  <definition>„zahm, zum Hause gehörig“</definition>
+  
+  <etymology source="Mussafia: Beitrag 50">
+    
+    <etymon lang="Lat">DOMESTICUS, -A, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">domestico</form>
+      , 
+      <form lang="obw">domesti?</form>
+      , 
+      <form lang="pv">domesgue</form>
+      , 
+      <form lang="a-frz">domesche</form>
+      . 
+      <!-- Assuming dumiesti -> domesti? -->
+      
+    </cognates>
+    
+    <comment>Mundartliche Formen aus Nord­italien bringt Mussafia.</comment>
+    
+    <derived_forms>
+      Daneben 
+      <form>dumesnic, -ă</form>
+       adj. mit dem slav. Suffix 
+      <suffix>-nic</suffix>
+      .
+
+    </derived_forms>
+    
+  </etymology>
+  
+</entry>

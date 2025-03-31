@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="156">
+  
+  <lemma>asupră</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. asupră, disupră, mgl. supră]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„oberhalb“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AD + SUPRA</etymon>
+    ;
+
+    <cognates>
+      
+      <form lang="sard-log">assubra</form>
+      , (
+      <form lang="it">sopra</form>
+      , 
+      <form lang="sic">supra</form>
+      , 
+      <form lang="eng">sura</form>
+      , 
+      <form lang="a-frz">sovre</form>
+      , 
+      <form lang="pv">sobre</form>
+      , 
+      <form lang="sp">sobre</form>
+      , 
+      <form lang="pg">sobre</form>
+      ). 
+      <!-- Assuming sobra -> sobre -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Als Präp. hat 
+    <form>(de)asupră</form>
+     entweder 
+    <form>de</form>
+     oder 
+    <form>a</form>
+     nach sich. Aus 
+    <etymon lang="Lat">AD + SUPRA + AD</etymon>
+     entstand 
+    <form>asupră</form>
+     [ar. (a)supră] präp. „oberhalb“.
+
+  </usage_note>
+  
+</entry>

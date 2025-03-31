@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="366">
+  
+  <lemma>cine</lemma>
+  
+  <pos>pron.</pos>
+  
+  <variants>[ar. țîne, ir. țîne]</variants>
+   
+  <!-- Assuming îsine -> țîne, tsire -> țîne -->
+  
+  <definition>„wer, wen“</definition>
+  
+  <etymology_discussion source="Byhan Jb. II, 7, 11; Meyer-Lübke: Zur Kenntnis des Altlogudore­sischen S. 40">
+    
+    <proposed_etymology author="Byhan">
+      Nach Byhan ist von einem 
+      <etymon lang="Lat">QUI + NE</etymon>
+      , wie 
+      <form>tine, mine, sine</form>
+       von ME, TE, SE, an welche die Fragepartikel 
+      <form>-ne</form>
+       angefügt wurde, aus­zugehen; dasselbe nimmt B. auch für ital. Dialekte (
+      <example lang="tosc">tune, tene, mene, sciune?, vertune?</example>
+       etc.) an. 
+      <!-- Assuming gur[x] - xE -> QUI + NE; piüne, vertüne -> interpretation needed -->
+      
+    </proposed_etymology>
+    
+    <alternative_etymology author="Meyer-Lübke">
+      Dagegen erhebt schwer­wiegende Bedenken Meyer-Lübke, der das rum. 
+      <morpheme>-ne</morpheme>
+       vom ital. trennt und 
+      <form>cine</form>
+       aus 
+      <etymon lang="Lat">QUEM</etymon>
+       ableitet.
+
+    </alternative_etymology>
+    
+    <author_opinion>
+      Ich glaube nicht, daß man das Rum. 
+      <morpheme>-ne</morpheme>
+       vom alb. 
+      <morpheme>-ne</morpheme>
+       in 
+      <form>(u)në</form>
+       „ich“, 
+      <form>ti(ne)</form>
+       „du“ etc. trennen darf. Es handelt sich wahr­scheinlich um ein nichtlat. Element, das im Süd- und Ostitalien, im Alb. und Rum., wo 
+      <form>nime</form>
+       neben 
+      <form>nimene</form>
+       dessen Umsichgreifen begünstigt haben mag, vertreten ist.
+
+    </author_opinion>
+    
+  </etymology_discussion>
+  
+</entry>

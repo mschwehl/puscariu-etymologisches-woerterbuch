@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="12">
+  
+  <lemma>aci</lemma>
+  
+  <lemma_variants>(acîa, acilea)</lemma_variants>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. atsia, atsie Cod. Dim. 1255], ir. !si(@)]</variants>
+  
+  <definition>„hier“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ECCUM-HĪC</etymon>
+    
+    <cognates>
+      
+      <form lang="it">qui</form>
+      ,
+
+      <form lang="eng">qui(a), acquia</form>
+      ,
+
+      <form lang="a-pv">aqui</form>
+      , 
+      <form lang="cat">aqui</form>
+      , 
+      <form lang="sp">aqui</form>
+      , 
+      <form lang="pg">aqui</form>
+      , 
+      <!-- Split languages -->
+      
+      <form lang="fr">ici</form>
+      . 
+      <!-- Assuming sei is OCR error for ici -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

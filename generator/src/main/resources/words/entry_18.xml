@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="18">
+  
+  <lemma>acum(a)</lemma>
+  
+  <lemma_variants>etc.</lemma_variants>
+   
+  <!-- Assuming ete. -> etc. -->
+  
+  <pos>adv.</pos>
+  
+  <definition>„jetzt“</definition>
+  
+  <etymology_discussion>
+    Zugrunde liegt 
+    <etymon lang="Lat">MODO</etymon>
+     „eben, Jetzt“ (
+    <cognates>
+      <form lang="it">mo</form>
+      , 
+      <form lang="sard">moi</form>
+      , 
+      <form lang="cal">mo</form>
+      , 
+      <form lang="neap">mo-ne</form>
+      , 
+      <form lang="ven">mo-ja</form>
+       etc.
+    </cognates>
+    ).
+
+    <form>Acum</form>
+     
+    <variants>[ar. &gt;, amö, mgl. mo(tsi)]</variants>
+     geht auf 
+    <etymon lang="Lat">AD-MODO</etymon>
+     zurück: 
+    <cognates>
+      <form lang="eng">amo</form>
+      , 
+      <form lang="comask">anımö</form>
+    </cognates>
+    .
+Aus 
+    <etymon lang="Lat">ECCUM-MODO</etymon>
+     (
+    <cognates>
+      <form lang="frl">cumö, acumo</form>
+    </cognates>
+    ) entsteht 
+    <form>*acumü</form>
+    , mit Synkope 
+    <form>acumĭ</form>
+     (
+    <source_ref>Cor. Psalt. 26</source_ref>
+    ) 
+    <variants>[ar. =, mgl. cmo(fsi), ir. (ajemo(tse))]</variants>
+    .
+Durch eine Kreuzung mit 
+    <etymon lang="Lat">QUOMODO</etymon>
+     trat in 
+    <form>*acummodo</form>
+     die Akzentverschiebung 
+    <form>acúm</form>
+     ein, woraus 
+    <form>acú</form>
+     und mit dem 
+    <morpheme>-a</morpheme>
+    : 
+    <form>acúma</form>
+    . (auch 
+    <form lang="log">kömo</form>
+     „jetzt“ erklärt sich durch die Beeinflussung des 
+    <etymon lang="Lat">ECCUM-MODO</etymon>
+     durch 
+    <etymon lang="Lat">QUOMODO</etymon>
+    ).
+Wie sich dazu 
+    <form>acuș</form>
+     (
+    <form>acus</form>
+    , 
+    <form>acușa</form>
+    , 
+    <form lang="mgl">(a)șeu</form>
+    ) „jetzt“ verhält, ist dunkel. 
+    <!-- Assuming act -> acuș, Jeu -> șeu -->
+    
+  </etymology_discussion>
+  
+</entry>

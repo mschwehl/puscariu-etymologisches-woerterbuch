@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="562">
+  
+  <lemma>durere</lemma>
+   
+  <!-- Assuming + durodre -> durere -->
+  
+  <pos>sf.</pos>
+  
+  <usage>
+    (meist Pl. 
+    <form>durori</form>
+    , heute nur dial. 
+    <source_ref>Conv. lit. XX, 1009</source_ref>
+    , 
+    <source_ref>XXXVI, 549</source_ref>
+    , 
+    <source_ref>XXXVII, 715</source_ref>
+    )
+  </usage>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DOLOR, -OREM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">dolore</form>
+      , 
+      <form lang="eng">dulur</form>
+      , 
+      <form lang="pv">dolor</form>
+      , 
+      <form lang="cat">dolor</form>
+      , 
+      <form lang="sp">dolor</form>
+      , 
+      <form lang="fr">douleur</form>
+      , 
+      <form lang="pg">dor</form>
+      . 
+      <!-- Assuming dowleur -> douleur -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

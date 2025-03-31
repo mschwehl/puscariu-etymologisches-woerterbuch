@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="515">
+  
+  <lemma>deșert</lemma>
+   
+  <!-- Assuming deşert -> deșert -->
+  
+  <feminine_neuter>-șartă</feminine_neuter>
+   
+  <!-- Assuming -särtä -> -șartă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[mgl. dișort, ir. deșert]</variants>
+   
+  <!-- Assuming disort, desort -> dișort, deșert -->
+  
+  <definition>„leer“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DESERTUS, -A, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="emil">dșert?</form>
+       „elend, verlassen‘, 
+      <form lang="obw">d(a)șert?</form>
+      , 
+      <form lang="fr">désert</form>
+       „verlassen“, 
+      <form lang="sp">desierto</form>
+       „leer“. 
+      <!-- Assuming dsert, d(a)stert -> dșert?, d(a)șert? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. dişărtat?].</variants>
+   
+  <!-- Assuming disertat -> dişărtat? -->
+  
+</entry>

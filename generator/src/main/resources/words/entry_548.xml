@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="548">
+  
+  <lemma>dreg</lemma>
+  
+  <lemma_variants>(dirig, dereg)</lemma_variants>
+   
+  <!-- Assuming dirög, der€g -> dirig, dereg -->
+  
+  <inflection>dresei (+ derecăi, Ps. Sch. 148), dres</inflection>
+   
+  <!-- Assuming sei, dereăi, -€s -> dresei, derecăi, dres -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. îndreg, -epšu, -eptu III, II, mgl. (a)ndireg, -eață, -es III]</variants>
+   
+  <!-- Assuming ndreg, -epău, -eptu -> îndreg, -epšu, -eptu; (a)ndireg, -eă -> (a)ndireg, -eață -->
+  
+  <etymology source="Georges: Lex. Wortform., 218">
+    
+    <etymon lang="Lat">DĒRIGO, -RĒXI, -RĒCTUM, -RIGERE</etymon>
+     (mit Prefixwechsel statt 
+    <etymon lang="Lat">DIRIGO</etymon>
+    : 
+    <cognates>
+      <form lang="frl">direzi</form>
+    </cognates>
+    ).
+
+  </etymology>
+  
+</entry>

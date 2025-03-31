@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="333">
+  
+  <lemma>cep</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. țep „Stopsel!“]</variants>
+   
+  <!-- Assuming tSep -> țep -->
+  
+  <definition>„Zapfen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CIPPUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">ceppo</form>
+      , 
+      <form lang="sic">cippu</form>
+      , 
+      <form lang="lomb">sepp</form>
+      , 
+      <form lang="eng">tschep?</form>
+      , 
+      <form lang="pv">cep</form>
+      , 
+      <form lang="a-frz">cep</form>
+      , 
+      <form lang="sp">cepo</form>
+      . 
+      <!-- Assuming Sep -> sepp, tăepp -> tschep? -->
+      
+    </cognates>
+    
+    <semantic_note source="Dens. H. l. r. 226">
+      Denselben Sinnesübergang zeigt abruzz. 
+      <form lang="abruzz">cieppe?</form>
+       „turacciolo di legno per chiudere la cannella delle botti“. 
+      <!-- Assuming t$feppe -> cieppe? -->
+      
+    </semantic_note>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Allerdings gibt es auch ein ksl. 
+    <etymon lang="chu">čepŭ</etymon>
+    , blg. srb. 
+    <etymon lang="sh">čep</etymon>
+     „Zapfen“ woraus das rum. Wort entlehnt sein kann, und dafür scheint ar. 
+    <form>țep</form>
+     „Kufe, Stöpsel“ (W.; P. kennt nur ?) zu sprechen. 
+    <!-- Assuming cepă -> čepŭ, dep -> čep, £Sepi -> țep, îl -> ? -->
+    
+  </borrowing_note>
+  
+  <variants>[mgl. țomblu].</variants>
+   
+  <!-- Assuming tăompl -> țomblu -->
+  
+</entry>

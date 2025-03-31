@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="327">
+  
+  <lemma>ceapă</lemma>
+   
+  <!-- Assuming ceäpă -> ceapă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. țeapă, mgl. țepă]</variants>
+   
+  <!-- Assuming tseapă, tsepă -> țeapă, țepă -->
+  
+  <definition>„Zwiebel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CEPA, -AM</etymon>
+     
+    <!-- Assuming Cora -> CEPA -->
+    
+    <cognates>
+      
+      <form lang="alb">qepë</form>
+      , 
+      <form lang="frl">zeve?</form>
+      , 
+      <form lang="n-pv">ceba?</form>
+      , 
+      <form lang="fr">cive</form>
+      . 
+      <!-- Assuming A’epe -> qepë, t3eve -> zeve?, sebo -> ceba? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

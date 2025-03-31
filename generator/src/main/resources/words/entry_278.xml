@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="278">
+  
+  <lemma>căpistere</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. căpisteară, mgl. căpister sm.]</variants>
+   
+  <!-- Assuming căpisteare -> căpisteară -->
+  
+  <definition>„Backtrog“</definition>
+  
+  <etymology source="Salvioni: Postille 6">
+    
+    <etymon lang="Lat">CAPISTERIUM</etymon>
+    
+    <cognates>
+      
+      <form lang="fossombrone?">capistejo?</form>
+      , 
+      <form lang="a-perug?">capesteie?</form>
+      , 
+      <form lang="romag">capischiera?</form>
+      . 
+      <!-- Assuming fose, a.-per., rom. -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

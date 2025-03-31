@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="338">
+  
+  <lemma>cereașă</lemma>
+   
+  <!-- Assuming ceräse -> cereașă -->
+  
+  <lemma_variants>(cireașă)</lemma_variants>
+   
+  <!-- Assuming cireage -> cireașă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Kirsche“</definition>
+  
+  <related_form>
+    
+    <form>cireș</form>
+     sm. (
+    <form>cireș</form>
+    ) „Kirschen­baum“ 
+    <!-- Assuming cerăş, cirăş -->
+    
+  </related_form>
+  
+  <variants>
+    [ar. țireașă? țireșiu? 
+    <source_ref>Dens. H. l. r. 71</source_ref>
+    , mgl. țireș, țireșea; Gr. țirișie und kroat. 
+    <etymon lang="hr">trešnja</etymon>
+    )]
+  </variants>
+   
+  <!-- Interpretation needed for tseriasä?, tsiresiu?, isires, tsireseä, tSirishe, t$ereSnja -->
+  
+  <etymology source="Schuch. Vok. I, 192">
+    
+    <etymon lang="Lat">*CERESIUS, -UM</etymon>
+    , 
+    <etymon lang="Lat">CERESIA, -AM</etymon>
+     (statt 
+    <etymon lang="Lat">*CERASEUS, -EA</etymon>
+    : 
+    <cognates>
+      <form lang="alb">qershi</form>
+      , 
+      <form lang="neap">cerasa, -sa</form>
+      , 
+      <form lang="Capo di Leuca">tarasa</form>
+      , 
+      <form lang="sic">cirasa</form>
+      , 
+      <form lang="cal">cirasa</form>
+      , 
+      <form lang="lecce">cirasu, -sa</form>
+      , 
+      <form lang="aquil">cirascia?</form>
+      , 
+      <form lang="rom">cirasa?</form>
+      , 
+      <form lang="arpino">tarasa?</form>
+      , 
+      <form lang="sen">sarasa?</form>
+      , 
+      <form lang="aret">cirasgia?</form>
+    </cognates>
+     aus 
+    <etymon lang="Lat">CERASUS</etymon>
+    ) 
+    <!-- Interpretation needed for kersi, terase, tăarasa, tSirasa, tăerasu, tSeraca, tăerasa, terasa, sarafa, Seragja -->
+    
+    <cognates>
+      
+      <form lang="it">ciliegia, -o</form>
+      , 
+      <form lang="a-berg">ciresa</form>
+      , 
+      <form lang="piem">ciresa</form>
+      , 
+      <form lang="romag">zreza?</form>
+      , 
+      <form lang="bologn">zreza?</form>
+      , 
+      <form lang="triest">zarieza</form>
+      , 
+      <form lang="trient">cirieza?</form>
+      , 
+      <form lang="eng">tscherescha</form>
+      , 
+      <form lang="pv">cereisa</form>
+      , 
+      <form lang="fr">cerise</form>
+      , 
+      <form lang="sp">cereza</form>
+      , 
+      <form lang="pg">cereja</form>
+       (
+      <etymon lang="goh">kirsa</etymon>
+      , nhd. Kirsche). 
+      <!-- Interpretation needed for tseresa, tsriza, tsarieza, siriza, t$eresa -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Vgl. auch ksl. 
+    <etymon lang="chu">črěšĭnja</etymon>
+    , blg. 
+    <etymon lang="bg">čereša</etymon>
+     etc.
+  </borrowing_note>
+   
+  <!-- Assuming Ercsinja, eeresa -> črěšĭnja, čereša -->
+  
+</entry>

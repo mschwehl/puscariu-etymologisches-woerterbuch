@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="88">
+  
+  <lemma>an</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. ©, ir. on]</variants>
+  
+  <definition>„Jahr“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ANNUS, -UM</etymon>
+     
+    <!-- Assuming CANSUS -> ANNUS -->
+    
+    <cognates>
+      
+      <form lang="it">anno</form>
+      , 
+      <form lang="pg">ano</form>
+      , 
+      <!-- anno not ano -->
+      
+      <form lang="frl">an</form>
+      , 
+      <!-- Assuming ann -> an -->
+      
+      <form lang="eng">an</form>
+      , 
+      <form lang="pv">an</form>
+      , 
+      <form lang="fr">an</form>
+      , 
+      <form lang="cat">an</form>
+      ,
+
+      <form lang="sp">año</form>
+      . 
+      <!-- ano not año -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_note>
+    Der Ablat. 
+    <etymon lang="Lat">ANNO</etymon>
+    , den Lucilius und Plautus in der Bedeutung „im vorigen Jahre“ gebrauchen, ist im drum. mgl. 
+    <form>an</form>
+     adv. „voriges Jahr“ und cal. 
+    <form lang="cal">annu</form>
+     erhalten.
+
+  </semantic_note>
+  
+</entry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="442">
+  
+  <lemma>cumnat</lemma>
+   
+  <!-- Assuming eummät -> cumnat -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. =, ir. cumnat]</variants>
+   
+  <!-- Assuming cumnot -> cumnat -->
+  
+  <definition>„Schwager“</definition>
+  
+  <etymology source="Dens. H. l. r. 188; Tappolet: Die rom. Verwandtschaftsnamen 117—118">
+    
+    <etymon lang="Lat">COGNATUS, -UM</etymon>
+     (auf Inschriften = frater mariti, uxoris) 
+    <!-- Assuming coa-NATUS -> COGNATUS -->
+    
+    <cognates>
+      
+      <form lang="alb">kunat</form>
+      , (
+      <form lang="vegl">comnata</form>
+       „Schwägerin“), 
+      <form lang="it">cognato</form>
+      , 
+      <form lang="sard-log">connadu</form>
+      , 
+      <form lang="eng">cuognu?</form>
+      , 
+      <form lang="pv">cunhat</form>
+      , 
+      <form lang="sp">cuñado</form>
+      , 
+      <form lang="pg">cunhado</form>
+      . 
+      <!-- Assuming konnadu -> connadu, quino -> cuognu?, cufiado -> cuñado -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt kl.-russ. 
+    <form lang="ukr">kumnat</form>
+    .
+  </borrowing_note>
+  
+</entry>

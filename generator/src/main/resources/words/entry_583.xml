@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="583">
+  
+  <lemma>farmec</lemma>
+   
+  <!-- Assuming fârmec -> farmec -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Zauber“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PHARMĂCUM</etymon>
+     (= gr. 
+    <etymon lang="Gr">φάρμακον</etymon>
+    ).
+
+  </etymology>
+  
+  <variants>[ar. amaie?, ir. strigărie].</variants>
+   
+  <!-- Assuming amaie -> amaie?, strigaria -> strigărie -->
+  
+</entry>

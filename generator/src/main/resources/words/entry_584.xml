@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="584">
+  
+  <lemma>farmec</lemma>
+   
+  <!-- Assuming fârmee -> farmec -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„bezaubern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PHARMĂCO, -ARE</etymon>
+     (vom früheren).
+
+  </etymology>
+  
+  <variants>[ar. fac amăi, ir. strigesc].</variants>
+   
+  <!-- Assuming amăi -> amăi -->
+  
+</entry>

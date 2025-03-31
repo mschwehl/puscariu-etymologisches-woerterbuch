@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="631">
+  
+  <lemma>foamete</lemma>
+   
+  <!-- Assuming fodmete -> foamete -->
+  
+  <pos>sf.</pos>
+  
+  <variants>
+    [ar. foamită, dav. 
+    <form>fămătos?</form>
+     W. „hungrig“]
+  </variants>
+  
+  <definition>„Hungersnot</definition>
+  
+  <etymology source="Mohl, Zeitschr. rom. Phil. XXVI, 620; Meyer-Lübke: Gramm. rom. Sprachen II § 16">
+    
+    <etymon lang="Lat">FAMES, *-ITEM</etymon>
+     (für 
+    <etymon lang="Lat">FAMEM</etymon>
+    , wie 
+    <etymon lang="Lat">LIMES, -ITEM</etymon>
+    , 
+    <etymon lang="Lat">FOMES, -ITEM</etymon>
+    , vom letzteren vielleicht beeinflußt). Vgl. auch 
+    <etymon lang="Lat">*-INEM</etymon>
+    : 
+    <cognates>
+      <form lang="sard">famine</form>
+      , 
+      <form lang="sp">hambre</form>
+      , 
+      <form lang="gasc">hami</form>
+    </cognates>
+    . Es ist möglich, daß auf die Entstehung von 
+    <form>foamete</form>
+     auch das Wort 
+    <form>secetă</form>
+     „Dürre“ vom Einfluß war, indem man die „Dürre“ als „Wassernot“ auffaßte (vgl. tarent 
+    <form lang="tar">secce</form>
+     „Durst“ (
+    <etymon lang="Lat">*SICCA, -AM</etymon>
+    ) und in 
+    <form>sec-</form>
+     - Suffix 
+    <suffix>-etă</suffix>
+     trennte, vgl. ar. 
+    <form>Sețiste?</form>
+    , Name einer Gegend, die sehr trocken ist.
+
+  </etymology>
+  
+</entry>

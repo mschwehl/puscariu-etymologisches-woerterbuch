@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="497">
+  
+  <lemma>deget</lemma>
+  
+  <lemma_variants>(deșt)</lemma_variants>
+   
+  <!-- Assuming dest -> deșt -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. deagit, dzeagit, dzeadit, mgl. dzeĭdzit?, deșt, ir. žojet?]</variants>
+   
+  <!-- Assuming deazit, dzeadzit, zeizit, zest, ZoZet -> deagit, dzeagit, dzeĭdzit?, deșt, žojet? -->
+  
+  <definition>„Finger“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DIGITUS, -UM</etymon>
+     
+    <!-- Assuming vieirus -> DIGITUS -->
+    
+    <cognates>
+      
+      <form lang="it">dito</form>
+      , 
+      <form lang="lecce">disetu?</form>
+      , 
+      <form lang="sic">ghiitu?</form>
+      , 
+      <form lang="mail">dee?</form>
+      , 
+      <form lang="sard">didu</form>
+      , 
+      <form lang="eng">daint?</form>
+      , 
+      <form lang="frl">det?</form>
+      , 
+      <form lang="fr">doigt</form>
+      , 
+      <form lang="pv">det</form>
+      , 
+      <form lang="sp">dedo</form>
+      , 
+      <form lang="pg">dedo</form>
+      . 
+      <!-- Interpretation needed for disetu, diyitw, def, didu, daint, ded -->
+      
+    </cognates>
+    
+    <plural_formation>
+      Die Mehrzahl 
+      <etymon lang="Lat">*DIGITA</etymon>
+       ist anzunehmen für rum. 
+      <form>degete</form>
+      , it. 
+      <form lang="it">dita</form>
+      , obw. 
+      <form lang="obw">deta</form>
+      , a.-frz. 
+      <form lang="a-frz">doie</form>
+      .
+
+    </plural_formation>
+    
+    <semantic_note>
+      
+      <form>Deget(ul de la picior)</form>
+       bedeutet „Zehe“ (auch Lat.) wie 
+      <example lang="it">dito (del piede)</example>
+      , 
+      <example lang="sard">didu de su pe</example>
+      , 
+      <example lang="fr">doigt (du pied)</example>
+      , 
+      <example lang="sp">dedo del pie</example>
+       etc.
+
+    </semantic_note>
+    
+    <phonological_note>
+      Für die Assimi­lation, die auch in d-rum. Dialekten (
+      <source_ref>Jb. III, 215</source_ref>
+      , 
+      <source_ref>IV, 264</source_ref>
+      , 
+      <source_ref>VI, 17</source_ref>
+      ) vorkommt, vgl. unter 
+      <ref target_lemma="degetar">degetar</ref>
+       die triest. venez. u. trevis. Form; auf die Metathese 
+      <etymon lang="Lat">*GEDITUS?</etymon>
+       beruht außer ar. 
+      <form>dzeadit</form>
+       noch neap. 
+      <form lang="neap">?</form>
+      , sic. caltagirone 
+      <form lang="sic">?</form>
+      , cal. 
+      <form lang="cal">?</form>
+      , vgl. nord.-sard. 
+      <form lang="sard">?</form>
+        
+      <etymon lang="Lat">*INGIDITARE</etymon>
+      . 
+      <!-- Interpretation needed for jidgte, jiditu, jiritu, innittd -->
+      
+    </phonological_note>
+    
+    <phonological_note>
+      Für d-rum. 
+      <form>deșt</form>
+       wäre man versucht Anlehnung an alb. 
+      <form lang="alb">gisht</form>
+       „Finger“ anzunehmen, doch scheint dieses auf älteres 
+      <form>*gišt?</form>
+       zurückzugehen, wie das Wort noch in gr. Dial. heißt; außer­dem zeigt die mgl. Form 
+      <form>deșt</form>
+      , daß sie auf 
+      <form>*dežt</form>
+      , während die d-rum. auf 
+      <form>*deget</form>
+       beruht. 
+      <!-- Assuming gist, yfist, zest, dedi(e)t -->
+      
+    </phonological_note>
+    
+  </etymology>
+  
+</entry>

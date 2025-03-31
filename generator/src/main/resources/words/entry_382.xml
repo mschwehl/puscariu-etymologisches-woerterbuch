@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="382">
+  
+  <lemma>ciutură</lemma>
+   
+  <!-- Assuming ciittură -> ciutură -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Holzflasche, Mundstück der Pfeife“</definition>
+  
+  <variants>[mgl. = „Getreidemaß“)</variants>
+   
+  <!-- Assuming 1 -> = -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CYTŎLA, -AM</etymon>
+     (ausgesprochen *kiutola, vielleicht unter Einfluß von gr. 
+    <etymon lang="Gr">κύτος</etymon>
+     „hohler Baum“, mit Metathese aus griech. 
+    <etymon lang="Gr">κοτύλη, κοτύλη</etymon>
+    ) 
+    <!-- Assuming *cyrora -> *CYTŎLA, zöros -> κύτος, zörrdos, zorülr -> κοτύλη, κοτύλη -->
+    
+    <cognates>
+      
+      <form lang="it">ciotola</form>
+       „irdene Trinkschale, Becher ohne Fuß“.
+
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem It.: alb. 
+    <form lang="alb">çutull</form>
+    . Aus dem Rum., durch Hirten verbreitet: blg. 
+    <etymon lang="bg">čutura</etymon>
+    , srb. 
+    <etymon lang="sr">čutura</etymon>
+    , alb. 
+    <form lang="alb">çotrë</form>
+     (&gt; mgl. 
+    <form>șotră?</form>
+    ), ngr. 
+    <etymon lang="ngr">τσουτρά?</etymon>
+    , ung. 
+    <etymon lang="hu">csutora</etymon>
+    , kl.-russ. 
+    <etymon lang="ukr">čutora</etymon>
+     („Mundstück der Pfeife‘), türk. 
+    <etymon lang="tr">çotra</etymon>
+    . 
+    <!-- Assuming £sutul -> çutull, tăotre -> çotrë, (Sotră -> șotră?, rowrea -> τσουτρά?, îsotra -> çotra -->
+    
+  </borrowing_note>
+  
+</entry>

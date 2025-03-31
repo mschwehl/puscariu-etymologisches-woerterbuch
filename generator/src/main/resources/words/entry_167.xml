@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="167">
+  
+  <lemma>aud</lemma>
+  
+  <lemma_variants>(auz)</lemma_variants>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. avdu, mgl. aud, ir. owdu)]</variants>
+   
+  <!-- Assuming avdır -> avdu, mel. -> mgl., at -> aud -->
+  
+  <definition>„hören“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AUDIO, -IRE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">udire</form>
+      ,
+
+      <form lang="eng">udir</form>
+      ,
+
+      <form lang="a-pv">auzir</form>
+      ,
+
+      <form lang="fr">ouïr</form>
+      , 
+      <!-- Assuming tz. our -> fr. ouïr -->
+      
+      <form lang="sp">oir</form>
+      ,
+
+      <form lang="pg">ouvir</form>
+      . 
+      <!-- Assuming owir -> ouvir -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

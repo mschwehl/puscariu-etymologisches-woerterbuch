@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="238">
+  
+  <lemma>bunătate</lemma>
+   
+  <!-- Assuming bunätäte -> bunătate -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, mgl. bunătat]</variants>
+   
+  <!-- Assuming er ">" -> ar. =, bunătati -> bunătat -->
+  
+  <definition>„Güte“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BONITAS, -ITATEM</etymon>
+     
+    <!-- Assuming Boxitas, -ITATRM -> BONITAS, -ITATEM -->
+    
+    <cognates>
+      
+      <form lang="it">bontà</form>
+      , 
+      <!-- Assuming bontă -> bontà -->
+      
+      <form lang="eng">buntad</form>
+      , 
+      <!-- Assuming bunted -> buntad -->
+      
+      <form lang="pv">bontat</form>
+      ,
+
+      <form lang="fr">bonté</form>
+      , 
+      <!-- Assuming bonte -> bonté -->
+      
+      <form lang="sp">bondad</form>
+      ,
+
+      <form lang="pg">bondade</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

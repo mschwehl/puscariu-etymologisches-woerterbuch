@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="559">
+  
+  <lemma>după</lemma>
+   
+  <!-- Assuming diipă -> după -->
+  
+  <lemma_variants>
+    (+ 
+    <form>dup</form>
+     
+    <source_ref>Jb. X, 424</source_ref>
+    )
+  </lemma_variants>
+   
+  <!-- Assuming dupu -> dup -->
+  
+  <pos>präp.</pos>
+  
+  <variants>[ar. după, dupu?, dipu, olympo-wal. dipu, mgl. după, dupu, dipu, ir. dupe]</variants>
+   
+  <!-- Assuming duvu -> dupu? -->
+  
+  <definition>„hinter“</definition>
+  
+  <usage_note source="Jb. X, 554—558">
+(daraus: a) örtlich: „mit“, b) zeitlich: „nach“, c) final: „nach“, d) kau­sal: „wegen“)
+</usage_note>
+  
+  <etymology source="Dens. Hr 172">
+    
+    <etymon lang="Lat">DE POST</etymon>
+     
+    <!-- Assuming pr-post -> DE POST -->
+    
+    <cognates>
+      
+      <form lang="it">dopo</form>
+      , 
+      <form lang="pv">depos</form>
+      , 
+      <form lang="fr">depuis</form>
+      , 
+      <form lang="pg">depois</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

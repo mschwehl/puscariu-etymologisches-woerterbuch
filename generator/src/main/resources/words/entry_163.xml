@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="163">
+  
+  <lemma>ațîț</lemma>
+   
+  <!-- Assuming atit -> ațîț -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„anschüren“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ATTITIO, -ARE</etymon>
+     (vom selben Stamm wie 
+    <etymon lang="Lat">TITIO, -ONEM</etymon>
+    ) 
+    <!-- Assuming Timo -> TITIO -->
+    
+    <cognates>
+      
+      <form lang="it">attizzare</form>
+      ,
+
+      <form lang="neap">attizzare</form>
+      , 
+      <!-- Assuming attetssare -> attizzare -->
+      
+      <form lang="a-gen">attizzar</form>
+      , 
+      <!-- Assuming aticar -> attizzar -->
+      
+      <form lang="a-berg">attizzar</form>
+      , 
+      <!-- Assuming atitsa -> attizzar -->
+      
+      <form lang="pv">atisar</form>
+      ,
+
+      <form lang="fr">attiser</form>
+      ,
+
+      <form lang="sp">atizar</form>
+      ,
+
+      <form lang="pg">atiçar</form>
+      . 
+      <!-- Assuming aticar -> atiçar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. angin, înțap].</variants>
+   
+  <!-- Assuming ntsap -> înțap -->
+  
+</entry>

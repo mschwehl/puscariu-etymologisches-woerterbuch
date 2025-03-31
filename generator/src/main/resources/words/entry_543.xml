@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="543">
+  
+  <lemma>dor</lemma>
+  
+  <inflection>-ui, -ut</inflection>
+   
+  <!-- Assuming -üi, -üt -> -ui, -ut -->
+  
+  <verb_class>II</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. dor auch „sehnen“, mgl. doare auch „sehnen“, ir. dore]</variants>
+   
+  <!-- Assuming doari -> doare -->
+  
+  <definition>„schmerzen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DOLEO, -UI, -ERE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">dolere</form>
+      , 
+      <form lang="eng">dulair?</form>
+      , 
+      <form lang="pv">doler</form>
+      , 
+      <form lang="a-frz">douloir</form>
+      , 
+      <form lang="cat">doldre</form>
+      , 
+      <form lang="sp">doler</form>
+      , 
+      <form lang="pg">doer</form>
+      . 
+      <!-- Assuming dolair -> dulair? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

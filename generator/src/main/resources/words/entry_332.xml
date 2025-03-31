@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="332">
+  
+  <lemma>cenușe</lemma>
+   
+  <!-- Assuming cenüse -> cenușe -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. ținușă W., țînușă P., mgl. țărnușă W., țănusă P., ir. țerușe]</variants>
+   
+  <!-- Assuming tsinusa, tSinusa, tăinusă, tăanusă, tSeruse -> ținușă, țînușă, țărnușă, țănusă, țerușe -->
+  
+  <definition>„Asche“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CINUSIA, -AM</etymon>
+     (
+    <form lang="cors">cinniga?</form>
+     (aus 
+    <etymon lang="Lat">CINUS</etymon>
+     
+    <source_ref>C. Gl. II, 506, 60</source_ref>
+     etc., wie aus 
+    <etymon lang="Lat">CINIS</etymon>
+     ein 
+    <etymon lang="Lat">*CINISIA</etymon>
+    : 
+    <cognates>
+      <form lang="it">cinigia</form>
+      , 
+      <form lang="neap">cenisa</form>
+      , 
+      <form lang="cerign">cenixa?</form>
+      , 
+      <form lang="lanc">cenice?</form>
+      , 
+      <form lang="campob">cenita?</form>
+      , 
+      <form lang="sard-camp">cinixu?</form>
+      , vgl. 
+      <form lang="sard-log">chighina?</form>
+    </cognates>
+    )). 
+    <!-- Interpretation needed for danuga, fSenoise, t$enice, tăenita, tSinizu, hiiina -->
+    
+    <discussion>
+      Es ist nicht anzunehmen, daß 
+      <form>cenușe</form>
+       auf rum. Boden aus 
+      <etymon lang="Lat">CINIS</etymon>
+       od. 
+      <etymon lang="Lat">CINUS</etymon>
+       + Suff. 
+      <suffix>-uș</suffix>
+       entstanden sei, da dieses rum. 
+      <form>*cine</form>
+       od. 
+      <form>*cinu</form>
+       ergeben hätte (also mit 
+      <phoneme>i</phoneme>
+      , nicht mit 
+      <phoneme>e</phoneme>
+      ).
+    </discussion>
+    
+  </etymology>
+  
+</entry>

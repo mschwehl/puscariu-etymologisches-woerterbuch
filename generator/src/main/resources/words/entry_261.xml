@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="261">
+  
+  <lemma>căldură</lemma>
+   
+  <!-- Assuming ceäldüra -> căldură -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„Wärme“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 618">
+    
+    <etymon lang="Lat">*CALDŪRA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">CALIDUS</etymon>
+    ) 
+    <!-- Assuming CEcALDURA -> *CALDŪRA, cAupus -> CALIDUS -->
+    
+    <cognates>
+      
+      <form lang="it">caldura</form>
+      , 
+      <form lang="sic">caudura</form>
+      , 
+      <form lang="aquil">callura</form>
+      , 
+      <form lang="sard-log">cardura</form>
+      , 
+      <form lang="muggia">caldura</form>
+      , 
+      <form lang="obw">callüra?</form>
+      , 
+      <form lang="n-pv">cauduro</form>
+      . 
+      <!-- Assuming kaudura -> caudura, kajjura -> callura, kardura -> cardura, kalira -> callüra? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

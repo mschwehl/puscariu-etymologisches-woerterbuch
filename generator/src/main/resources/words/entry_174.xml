@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="174">
+  
+  <lemma>austru</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Südwind“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AUSTER, -STRUM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">ostro</form>
+      , 
+      <form lang="ven">ostro</form>
+      ,
+
+      <form lang="mant">oster</form>
+      , 
+      <!-- Assuming loster -> oster -->
+      
+      <form lang="a-frz">ostre</form>
+      . 
+      <!-- Assuming a.-Ivz. -> a-frz. -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. not].</variants>
+  
+</entry>

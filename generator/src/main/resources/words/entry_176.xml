@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="176">
+  
+  <lemma>azi</lemma>
+   
+  <!-- Assuming dizi -> azi -->
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. adză, azi, andzi, mgl. ază, as]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„heute“</definition>
+  
+  <etymology_discussion source="Verfassers: Lat. Ti und Ki S. 48; Tiktin Wörtb. s. v.">
+    
+    <etymon lang="Lat">*HAC DIE</etymon>
+     (aus 
+    <etymon lang="Lat">HŎDIE</etymon>
+     zu einer Zeit entstanden, als auf rum. Boden der Unterschied zwischen 
+    <phoneme>ọ</phoneme>
+     und 
+    <phoneme>o</phoneme>
+     verschwunden war, so daß man HODIE in 
+    <etymon lang="Lat">HOC DIE</etymon>
+     trennen und, da 
+    <form>dies</form>
+     weiblich war, ein 
+    <etymon lang="Lat">*HAC DIE</etymon>
+     bilden konnte). 
+    <!-- Assuming FHADIE -> *HAC DIE -->
+    
+  </etymology_discussion>
+  
+</entry>

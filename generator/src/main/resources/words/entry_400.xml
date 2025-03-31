@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="400">
+  
+  <lemma>corn</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. ir. cornu]</variants>
+  
+  <definition>„Horn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CORNU</etymon>
+     
+    <!-- Assuming cănnu -> CORNU -->
+    
+    <cognates>
+      
+      <form lang="it">corno</form>
+      , 
+      <form lang="pg">corno</form>
+      , 
+      <form lang="sard">corru</form>
+      , 
+      <form lang="frl">cuar?</form>
+      , 
+      <form lang="eng">corn</form>
+      , 
+      <form lang="pv">corn</form>
+      , 
+      <form lang="cat">corn</form>
+      , 
+      <form lang="a-frz">corn</form>
+      , 
+      <form lang="fr">cor</form>
+      , 
+      <form lang="sp">cuerno</form>
+      . 
+      <!-- Assuming kuarıı -> cuar? -->
+      
+    </cognates>
+    
+    <semantic_note>
+      Die Nebenbedeutung „Ecke, Winkel“ des d-rum. ar. (
+      <source_ref>Lumina II, 109</source_ref>
+      ) Wortes ist schon lateinisch.
+
+    </semantic_note>
+    
+  </etymology>
+  
+</entry>

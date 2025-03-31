@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="93">
+   
+  <!-- Original numbering resumes -->
+  
+  <lemma>apăr</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. ©, ir. opăr]</variants>
+   
+  <!-- opär -> opăr? -->
+  
+  <definition>„verteidigen, schützen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">APPARO, -ARE</etymon>
+     
+    <!-- Assuming ar-PARO -> APPARO -->
+    
+  </etymology>
+  
+  <semantic_note>
+    In dieser Bedeutung kommt 
+    <etymon lang="Lat">PARO, -ARE</etymon>
+     in allen rom. Sprachen vor: 
+    <cognates>
+      <form lang="it">parare</form>
+      , 
+      <form lang="pv">parar</form>
+      , 
+      <form lang="cat">parar</form>
+      , 
+      <form lang="sp">parar</form>
+      , 
+      <form lang="pg">parar</form>
+      , 
+      <form lang="fr">parer</form>
+    </cognates>
+    , (vgl. it. 
+    <form>para-petto</form>
+    , 
+    <form>para-vento</form>
+     etc.)
+
+  </semantic_note>
+  
+  <etymology_discussion>
+    In Mgl. heißt das Wort 
+    <form>dopăr</form>
+    , ar. auch 
+    <form>(a)doapăr</form>
+     „stützen“ und scheint ein 
+    <etymon lang="Lat">DE + *OB-PARO</etymon>
+     vorauszusetzen, das allerdings auffällt, da 
+    <prefix>OB-</prefix>
+     kein produktives Praefix im Romanischen ist (
+    <reference type="bibliographic">Meyer-Lübke: Rom. Gramm. II § 595</reference>
+    ).
+
+  </etymology_discussion>
+  
+</entry>

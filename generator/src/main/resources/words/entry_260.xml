@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="260">
+  
+  <lemma>căldar</lemma>
+   
+  <!-- Assuming eätdäru -> căldar -->
+  
+  <usage_marker>mgl.</usage_marker>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Kessel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CALDARIUM</etymon>
+     
+    <!-- Assuming carparıun -> CALDARIUM -->
+    
+    <cognates>
+      
+      <form lang="it">caldaio</form>
+      . 
+      <!-- Assuming caldajo -> caldaio -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

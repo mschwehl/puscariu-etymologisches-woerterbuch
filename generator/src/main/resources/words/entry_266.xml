@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="266">
+  
+  <lemma>cămașă</lemma>
+   
+  <!-- Assuming eämäse -> cămașă -->
+  
+  <lemma_variants>
+    (cămeșe, dial. 
+    <form>c'ĭmeșe</form>
+     
+    <source_ref>Conv. lit. XX 1007</source_ref>
+    )
+  </lemma_variants>
+   
+  <!-- Assuming k'imese -> c'ĭmeșe -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. cămeașe, mgl. cămeașă, ir. cămeșe]</variants>
+   
+  <!-- Assuming cämease -> cămeașe, cämesä -> cămeașă, cümese -> cămeșe -->
+  
+  <definition>„Hemd“</definition>
+  
+  <etymology source="Meyer-Lübke: Die Betonung im Gallischen, S. 17">
+    
+    <etymon lang="Lat">CAMISIA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="cerign">cammisa?</form>
+      , 
+      <form lang="teramo">cammisa?</form>
+      . 
+      <!-- Assuming kammoise -> cammisa?, tr. h'ameze ->? -->
+      
+    </cognates>
+    
+    <discussion>
+      Die übrigen rom. Formen, die 
+      <etymon lang="Lat">*CAMISIA</etymon>
+       voraussetzen: 
+      <cognates>
+        <form lang="alb">këmishë</form>
+        , 
+        <form lang="it">camicia</form>
+        , 
+        <form lang="sic">camicia</form>
+        , 
+        <form lang="cors">camicia</form>
+        , 
+        <form lang="aquil">camicia?</form>
+        , 
+        <form lang="neap">camisa</form>
+        , 
+        <form lang="alatri">camisa</form>
+        , 
+        <form lang="teramo">camisa?</form>
+        , 
+        <form lang="trient">camiza</form>
+        , 
+        <form lang="sard-log">camija</form>
+        , 
+        <form lang="obw">camixa?</form>
+        , 
+        <form lang="fr">chemise</form>
+        , 
+        <form lang="sp">camisa</form>
+        , 
+        <form lang="pg">camisa</form>
+      </cognates>
+       tragen wahrscheinlich buch­wörtliches Gepräge. Das Wort ist auch im Neugriech. und in slav. Sprachen vorhanden. 
+      <!-- Assuming kemise -> këmishë, kamicda -> camicia, kammise -> camisa?, kamiia -> camija, kamifa -> camixa? -->
+      
+    </discussion>
+    
+  </etymology>
+  
+</entry>

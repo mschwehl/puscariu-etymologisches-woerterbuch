@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="38">
+  
+  <lemma>agru</lemma>
+   
+  <!-- Assuming ä -> a -->
+  
+  <variants>[ar. mgl. &gt;]</variants>
+   
+  <!-- '>' likely OCR error -->
+  
+  <definition>„Ackerfeld“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AGER, AGRUM</etymon>
+     
+    <!-- Assuming ( -> < -->
+    
+  </etymology>
+  
+</entry>

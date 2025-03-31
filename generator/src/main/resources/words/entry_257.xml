@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="257">
+  
+  <lemma>călcîi</lemma>
+   
+  <!-- Assuming călcâi -> călcîi -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. călcinu, auch „Scherzel (vom Brod)“, mgl. călconu]</variants>
+   
+  <!-- Assuming cäleinu -> călcinu -->
+  
+  <definition>„Ferse“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CALCANEUM</etymon>
+     
+    <!-- Assuming caucaneun -> CALCANEUM -->
+    
+    <cognates>
+      
+      <form lang="it">calcagno</form>
+      , 
+      <form lang="sic">carcagnu</form>
+      , 
+      <form lang="a-berg">calcagno</form>
+      , 
+      <!-- Assuming karkanı -> carcagnu, kalkano -> calcagno -->
+      
+      <form lang="sard-log">calcanzu</form>
+      , 
+      <form lang="sard-camp">carcangiu</form>
+      , 
+      <form lang="cors">calcanu, cercanu</form>
+      , 
+      <!-- Assuming kalkandzu -> calcanzu, karkandiu -> carcangiu, kerkanu -> cercanu -->
+      
+      <form lang="eng">čalchogn</form>
+      , 
+      <!-- Assuming k’alk’on -> čalchogn -->
+      (
+      <form lang="sp">calcañar</form>
+      , 
+      <form lang="gal">calcañal</form>
+      , 
+      <form lang="pg">calcanhar</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. petă].</variants>
+   
+  <!-- Assuming pete -> petă -->
+  
+</entry>

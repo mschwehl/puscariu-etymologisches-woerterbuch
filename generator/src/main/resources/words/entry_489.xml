@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="489">
+  
+  <lemma>dăunez</lemma>
+   
+  <!-- Assuming däunez -> dăunez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„schaden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DAMNO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">dëmtoj?</form>
+      , 
+      <form lang="it">dannare</form>
+      , 
+      <form lang="eng">daner?</form>
+       (
+      <form lang="pv">dampnar</form>
+      , 
+      <form lang="fr">damner</form>
+      ), 
+      <form lang="sp">dañar</form>
+      , 
+      <form lang="pg">danar</form>
+      . 
+      <!-- Assuming demon -> dëmtoj?, daner -> daner?, danıner -> damner, dafiar -> dañar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. fac ziyan].</variants>
+   
+  <!-- Assuming zise -> ziyan -->
+  
+</entry>

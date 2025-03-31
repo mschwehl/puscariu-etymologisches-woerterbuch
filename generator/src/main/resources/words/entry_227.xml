@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="227">
+  
+  <lemma>bucată</lemma>
+   
+  <!-- Assuming buedtäü -> bucată -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming m -> = -->
+  
+  <definition>„Bissen, Stück“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*BUCCATA, -AM</etymon>
+     „Backenvoll“ 
+    <!-- Assuming *pÜccara -> *BUCCATA -->
+    
+    <cognates>
+      
+      <form lang="it">boccata</form>
+      ,
+
+      <form lang="eng">buccada</form>
+      , 
+      <!-- Assuming buk’eda -> buccada -->
+      
+      <form lang="fr">bouchée</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_note>
+    Für den Sinn „Stück“, vgl. 
+    <example lang="lecce">muesu „pezzo“</example>
+      
+    <etymon lang="Lat">MORSUS</etymon>
+    , mgl. 
+    <form>mușcătură</form>
+     „Stück“ (von 
+    <form>mușc</form>
+     „beiße'). In der Mehrzahl bedeutet 
+    <form>bucate</form>
+     sf. „Ge­treide“, wozu alb. 
+    <form lang="alb">bukë</form>
+     „Brot“ zu vergleichen ist und „Speisen‘, das zu 
+    <form>îmbuc</form>
+     „essen“ paßt. 
+    <!-- Assuming mutăcată -> mușcătură, mutsc -> mușc, îmbue -> îmbuc -->
+    
+  </semantic_note>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt k.-russ. 
+    <form lang="ukr">bukata, bokata</form>
+    , poln. 
+    <form lang="pl">bukat</form>
+    .
+
+  </borrowing_note>
+  
+</entry>

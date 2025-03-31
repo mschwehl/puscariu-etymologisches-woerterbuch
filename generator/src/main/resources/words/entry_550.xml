@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="550">
+  
+  <lemma>drept</lemma>
+  
+  <feminine>dreaptă</feminine>
+   
+  <!-- Assuming dreäptä -> dreaptă -->
+  
+  <lemma_variants>
+    (dirept, -eaptă 
+    <source_ref>Conv. lit. XX, 1009</source_ref>
+    )
+  </lemma_variants>
+  
+  <pos>adj.</pos>
+  
+  <variants>
+    [ar. (n)dirept, drept 
+    <source_ref>Cod. Dim. 1%</source_ref>
+    , dreaptă, mgl. dirept, -eaptă]
+  </variants>
+   
+  <!-- Assuming (nJdireptu, dreptu, driaptă -> (n)dirept, drept, dreaptă -->
+  
+  <definition>„gerade, gerecht, recht (auch von der Hand)“</definition>
+  
+  <etymology source="Jb. X, 523-525; Mulomed. Chir. 33, 7">
+    
+    <etymon lang="Lat">*DĒRĒCTUS, -A, -UM</etymon>
+     (mit Präfixwechsel, vgl. 
+    <ref target_lemma="dreg">dreg</ref>
+    , statt 
+    <etymon lang="Lat">DIRECTUS, -A, -UM</etymon>
+    ) 
+    <!-- Assuming *pereorus -> *DĒRĒCTUS -->
+    
+    <cognates>
+      
+      <form lang="sp">derecho</form>
+      , 
+      <form lang="pg">direito</form>
+      , vielleicht auch 
+      <form lang="alb">drejtë</form>
+      , 
+      <form lang="it">dritto</form>
+      , 
+      <form lang="piem">drit</form>
+      , 
+      <form lang="lomb">drit</form>
+      , 
+      <form lang="eng">drech</form>
+      , 
+      <form lang="obw">dreit?</form>
+      , 
+      <form lang="pv">dreit</form>
+      , 
+      <form lang="fr">droit</form>
+      . 
+      <!-- Assuming dereito -> direito, dreite -> drejtë, drită -> drit, drei -> drech, dreif -> dreit?, dretS -> dreit -->
+      
+    </cognates>
+    
+    <usage_note>
+      Als Präp. = „vor“ „gerade“ (dann „gegenüber“, „für, als, wegen“) geht d-rum. 
+      <form>drept</form>
+       und mgl. 
+      <form>dirept</form>
+       (
+      <example>dirept cărțiun</example>
+       = ajunul crăciunului) wohl schon auf lat. 
+      <etymon lang="Lat">DIRECTO</etymon>
+       zurück. Dens. belegt aus der Mulomed. Chir. 
+      <example lang="Lat">IN DIRECTO VENAE</example>
+       = 
+      <example>în dreptul vînei</example>
+      . Auch im Alb. ist 
+      <form lang="alb">drejt</form>
+       „direkt‘‘ Adverbium. 
+      <!-- Assuming dirâp -> dirept, eräciunului -> crăciunului, drck’ -> drejt -->
+      
+    </usage_note>
+    
+  </etymology>
+  
+</entry>

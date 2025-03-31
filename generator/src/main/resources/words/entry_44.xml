@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="44">
+  
+  <lemma>aimint(r)ea</lemma>
+   
+  <!-- Assuming dimintveca) -> aimint(r)ea -->
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. alumtrea(lui), mgl. lumintr(ulea)</variants>
+  
+  <definition>„anders“</definition>
+  
+  <etymology_discussion>
+    
+    <etymology source="Haşdeu: Etymol. Magn">
+      
+      <etymon lang="Lat">ALIA-MENTE</etymon>
+      
+    </etymology>
+    
+    <form_variant>
+      Daneben 
+      <form>altmin­tre(le)a</form>
+        
+      <etymon lang="Lat">ALTERA-MENTE</etymon>
+      ! 
+      <!-- Assuming AUTERA-NENTE -> ALTERA-MENTE -->
+      
+      <cognates>
+        
+        <form lang="it">altrimenti</form>
+        ,
+
+        <form lang="fr">autrement</form>
+        .
+
+      </cognates>
+      
+    </form_variant>
+    
+    <comment>Dies ist das einzige mit MENTE zusammengesetzte Adverbium im Rum.</comment>
+    
+  </etymology_discussion>
+  
+</entry>

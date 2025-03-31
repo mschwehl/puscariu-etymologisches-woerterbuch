@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="352">
+  
+  <lemma>cheie</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. cl'ae, mgl. cl'eili Pl.)</variants>
+   
+  <!-- Assuming elae -> cl'ae, cleili -> cl'eili -->
+  
+  <definition>„Schlüssel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CLAVIS, -EM</etymon>
+     
+    <!-- Assuming cLavrs -> CLAVIS -->
+    
+    <cognates>
+      
+      <form lang="it">chiave</form>
+      , 
+      <form lang="sard">clave?</form>
+      , 
+      <form lang="eng">clef</form>
+      , 
+      <form lang="pv">clau</form>
+      , 
+      <form lang="cat">clau</form>
+      , 
+      <form lang="fr">clef</form>
+      , 
+      <form lang="sp">llave</form>
+      , 
+      <form lang="pg">chave</form>
+      . 
+      <!-- Assuming klae -> clave?, Nave -> llave -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

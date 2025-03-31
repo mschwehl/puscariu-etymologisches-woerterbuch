@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="243">
+  
+  <lemma>ca</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. mgl. ir. ]</variants>
+   
+  <!-- > likely OCR error -->
+  
+  <definition>„wie“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">QUAM</etymon>
+     
+    <!-- Assuming quau -> QUAM -->
+    
+    <cognates>
+      
+      <form lang="pv">quan?</form>
+      , 
+      <form lang="sp">cuan</form>
+      , 
+      <form lang="pg">quão</form>
+      . 
+      <!-- Assuming qualn) -> quan?, quad -> quão -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="304">
+  
+  <lemma>cășar</lemma>
+   
+  <!-- Assuming edsär -> cășar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„Käsebereiter“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CASEARIUS, -UM</etymon>
+     
+    <!-- Assuming CCAsEARIUS -> CASEARIUS -->
+    
+    <cognates>
+      
+      <form lang="sp">quesero</form>
+      , 
+      <form lang="pg">queijeiro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

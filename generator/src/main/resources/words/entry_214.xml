@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="214">
+  
+  <lemma>bour</lemma>
+  
+  <lemma_variants>
+    (+ 
+    <form>buăr</form>
+    )
+  </lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Auerochs“</definition>
+  
+  <etymology source="G. Paris: Journ. d. Sav. 1900, 372; Liktin: Zeitschr. rom. Phil. XII, 221">
+    
+    <etymon lang="Lat">BŪBALUS, -UM</etymon>
+     (* 
+    <etymon lang="Lat">BUVALUS</etymon>
+    ? vgl. alb. 
+    <form lang="alb">buall</form>
+    , 
+    <form lang="alb">bufull</form>
+     „Büffel“) 
+    <!-- Assuming Duat, but -> buall, bufull -->
+    
+    <cognates>
+      
+      <form lang="a-frz">bugle</form>
+      ,
+
+      <form lang="sp">búbalo</form>
+      .
+
+    </cognates>
+    
+    <reference type="bibliographic">Tiktin: Zeitschr. rom. Phil. XII, 221.</reference>
+     
+    <!-- Duplicate ref? -->
+    
+  </etymology>
+  
+</entry>

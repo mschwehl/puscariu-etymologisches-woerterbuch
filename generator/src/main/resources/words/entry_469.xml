@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="469">
+  
+  <lemma>cută</lemma>
+   
+  <!-- Assuming cuttă -> cută -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Runzel, Falte“</definition>
+  
+  <etymology source="Conv. lit. XXXIX, 61—63">
+    mit Deklinationswechsel aus 
+    <etymon lang="Lat">CUTIS, -EM</etymon>
+     „weiche Haut“:
+
+    <cognates>
+      
+      <form lang="sard">cude</form>
+      , 
+      <form lang="sic">cuti</form>
+      , 
+      <form lang="piem">cu?</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

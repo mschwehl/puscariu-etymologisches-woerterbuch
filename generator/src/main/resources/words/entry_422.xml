@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="422">
+  
+  <lemma>cuc</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+  
+  <definition>„Kukuk“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CUCUS, -UM</etymon>
+     (
+    <etymon lang="Lat">CUCULUS</etymon>
+    ) 
+    <!-- Assuming cucovs, -ru -> CUCUS, -UM (CUCULUS) -->
+    
+    <cognates>
+      
+      <form lang="alb">quk</form>
+      , 
+      <form lang="it">cucco</form>
+      , 
+      <form lang="ven">cuco</form>
+      , 
+      <form lang="cal">cuccu</form>
+      , 
+      <form lang="u-eng">cüc</form>
+      , 
+      <form lang="fr">coucou</form>
+      , 
+      <form lang="pg">cuco</form>
+      . 
+      <!-- Assuming Wii -> quk, cueco -> cucco, kukku -> cuccu, kuk -> cüc -->
+      
+    </cognates>
+    
+    <phonological_note>
+      Die lat. Form 
+      <etymon lang="Lat">CUCUS</etymon>
+       ist bei Isidor XVII, 7 belegt und ist laut­nachahmend, daher überall das 
+      <phoneme>u</phoneme>
+       bewahrt (trotz lat. 
+      <etymon lang="Lat">CUCULUS</etymon>
+      ).
+
+    </phonological_note>
+    
+  </etymology>
+  
+  <related_form>
+    Das Fem. dazu ist rum. 
+    <form>cucă</form>
+    .
+  </related_form>
+  
+</entry>

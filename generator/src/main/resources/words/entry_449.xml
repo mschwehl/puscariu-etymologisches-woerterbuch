@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="449">
+  
+  <lemma>cunună</lemma>
+   
+  <!-- Assuming cuniină -> cunună -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. cunună auch „Menge“, mgl. cunună auch „Vermählung“]</variants>
+   
+  <!-- Assuming curună, curund -> cunună -->
+  
+  <definition>„Kranz“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CORONA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">corona</form>
+      , 
+      <form lang="pv">corona</form>
+      , 
+      <form lang="mail">curuna</form>
+      , 
+      <form lang="sic">curuna</form>
+      , 
+      <form lang="eng">curuna</form>
+      , 
+      <form lang="fr">couronne</form>
+      , 
+      <form lang="pg">coroa</form>
+      . 
+      <!-- Assuming kuruna -> curuna, conronne -> couronne, coröa -> coroa -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <comment>
+    D-rum. 
+    <form>coroană</form>
+     „Krone“ ist selbstverständlich Neologismus.
+  </comment>
+  
+</entry>

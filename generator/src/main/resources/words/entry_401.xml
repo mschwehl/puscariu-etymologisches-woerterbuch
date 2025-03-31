@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="401">
+  
+  <lemma>corn</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. ir. cornu, mgl. =]</variants>
+  
+  <definition>„Kornelkirschbaum“</definition>
+  
+  <etymology source="Körting Nr. 2519">
+    
+    <etymon lang="Lat">CORNUS, -UM</etymon>
+    . Im rom. nur Diminutivbildungen. (
+    <form lang="sp">Corno</form>
+     ist gelehrt.)
+
+  </etymology>
+  
+  <related_form>
+    Die Frucht heißt d-rum. ar. mgl. 
+    <form>coarnă</form>
+    , frz. 
+    <form lang="fr">corne</form>
+    .
+
+  </related_form>
+  
+</entry>

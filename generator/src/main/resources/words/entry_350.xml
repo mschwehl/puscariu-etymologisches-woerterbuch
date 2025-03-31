@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="350">
+  
+  <lemma>ceteră</lemma>
+   
+  <!-- Assuming câteră -> ceteră -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Geige“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CITHARA, -AM</etymon>
+     (
+    <etymon lang="Lat">CITERA</etymon>
+     App. Prob. 3 = CITHARA) 
+    <!-- Assuming ciruera -> CITHARA -->
+    
+    <cognates>
+      
+      <form lang="it">cetera?</form>
+      , 
+      <form lang="a-ven">cetra</form>
+      , 
+      <form lang="eng">cetra?</form>
+      . 
+      <!-- Assuming cef(e)ra -> cetera?, cedra -> cetra, tSaidra -> cetra? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

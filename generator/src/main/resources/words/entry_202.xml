@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="202">
+  
+  <lemma>binaț</lemma>
+   
+  <!-- Assuming binäts -> binaț -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sm. plur. tant.</pos>
+  
+  <definition>„Zwillinge“*</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*BINATI</etymon>
+    
+    <cognates>
+      
+      <form lang="it">binato</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Daraus als falsche Singularbildung 
+    <form>*binac</form>
+    , welches ins Alb. drang und unter Anlehnung an alb. 
+    <form lang="alb">bin</form>
+     „wachse, keime': zu alb. 
+    <form lang="alb">binak</form>
+     wurde (ar. 
+    <form>binac</form>
+    ).
+
+  </borrowing_note>
+  
+</entry>

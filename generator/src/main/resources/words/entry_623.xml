@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="623">
+  
+  <lemma>floare</lemma>
+   
+  <!-- Assuming flodre -> floare -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. —, mgl. floare]</variants>
+  
+  <definition>„Blume“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FLOS, FLŌREM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">fiore</form>
+      , 
+      <form lang="sard">fiore</form>
+      , 
+      <form lang="sic">çiuri?</form>
+      , 
+      <form lang="eng">flur</form>
+      , 
+      <form lang="pv">flor</form>
+      , 
+      <form lang="cat">flor</form>
+      , 
+      <form lang="sp">flor</form>
+      , 
+      <form lang="pg">flor</form>
+      , 
+      <form lang="fr">fleur</form>
+      . 
+      <!-- Assuming tSuri -> çiuri? -->
+      
+    </cognates>
+    
+    <usage_note>
+      Das weibliche Geschlecht teilt das Rum. mit Franz. Span. Pg. und mit Nordit. (von Piemont und Genua bis Venedig), gegen Schriftit. 
+      <form>fiore</form>
+      , masc.
+
+    </usage_note>
+    
+    <semantic_note>
+      Für die Nebenbedeutung „Farbe“ vgl. russ. 
+      <example lang="ru">cvety (Pl.-y) „Blume“</example>
+       u. 
+      <example lang="ru">cveta (Pl.-a) „Farbe“</example>
+      .
+    </semantic_note>
+     
+    <!-- Assuming fsvjetii, fsejetă -->
+    
+  </etymology>
+  
+  <variants>[ir. floret?, ar. auch lilică, lăludă].</variants>
+   
+  <!-- Assuming îsvet -> floret?, Lilitse -> lilică -->
+  
+</entry>

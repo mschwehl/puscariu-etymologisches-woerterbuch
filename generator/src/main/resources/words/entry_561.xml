@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="561">
+   
+  <!-- Added homonym number -->
+  
+  <lemma>durez</lemma>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. duredz W.]</variants>
+   
+  <!-- Assuming duredzii -> duredz -->
+  
+  <definition>„dauern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DŪRO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">durare</form>
+      , 
+      <form lang="eng">dürer</form>
+      , 
+      <form lang="fr">durer</form>
+      , 
+      <form lang="pv">durar</form>
+      , 
+      <form lang="sp">durar</form>
+      , 
+      <form lang="pg">durar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

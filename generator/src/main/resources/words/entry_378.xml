@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="378">
+  
+  <lemma>cît</lemma>
+   
+  <!-- Assuming cît -> cît -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>pron. adj.</pos>
+  
+  <variants>[ar. =, mgl. cît, ir. căt]</variants>
+   
+  <!-- Assuming > -> =, cot -> cît -->
+  
+  <definition>„so viel?“</definition>
+   
+  <!-- Probably "how much/many" -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">QUANTUS, -A, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">quanto</form>
+      , 
+      <form lang="pg">quanto</form>
+      , 
+      <form lang="pv">quant</form>
+      , 
+      <form lang="a-frz">quant</form>
+      , 
+      <form lang="sp">cuanto</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Das Korrelativum dazu ist 
+    <form>atît</form>
+    .
+  </usage_note>
+  
+</entry>

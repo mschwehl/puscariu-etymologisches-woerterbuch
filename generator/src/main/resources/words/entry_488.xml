@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="488">
+  
+  <lemma>daună</lemma>
+   
+  <!-- Assuming ddunü -> daună -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Schaden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DAMNUM</etymon>
+     
+    <!-- Assuming pausun -> DAMNUM -->
+    
+    <cognates>
+      
+      <form lang="alb">dëm</form>
+      , 
+      <form lang="it">danno</form>
+      , 
+      <form lang="lomb">dann?</form>
+      , 
+      <form lang="eng">dan</form>
+      , 
+      <form lang="pv">dam</form>
+      , (
+      <form lang="a-frz">dame</form>
+       vgl. Meyer-Lübke: Rom. Gramm. I, § 313), 
+      <form lang="sp">daño</form>
+      , 
+      <form lang="pg">dano</form>
+      . 
+      <!-- Assuming das -> dann?, dano -> daño -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. ziyan].</variants>
+   
+  <!-- Assuming ziiie -> ziyan -->
+  
+</entry>

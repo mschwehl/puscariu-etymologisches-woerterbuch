@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="634">
+  
+  <lemma>foarte</lemma>
+   
+  <!-- Assuming foärte -> foarte -->
+  
+  <pos>adv.</pos>
+  
+  <variants>[ir. foarte]</variants>
+   
+  <!-- Assuming forte -> foarte -->
+  
+  <definition>„sehr‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FORTIS</etymon>
+    : 
+    <!-- Assuming rörız -> FORTIS -->
+    
+    <cognates>
+      
+      <form lang="it">forte</form>
+      , 
+      <form lang="pg">forte</form>
+      , 
+      <form lang="mail">fort</form>
+      , 
+      <form lang="eng">fort</form>
+      , 
+      <form lang="pv">fort</form>
+      , 
+      <form lang="fr">fort</form>
+      , 
+      <form lang="cat">fort</form>
+      , 
+      <form lang="frl">fuart?</form>
+      , 
+      <form lang="sp">fuerte</form>
+      . 
+      <!-- Assuming foart -> fuart? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. multu].</variants>
+  
+</entry>

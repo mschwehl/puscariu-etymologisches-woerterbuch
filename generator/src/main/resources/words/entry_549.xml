@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="549">
+  
+  <lemma>drepnea</lemma>
+   
+  <!-- Assuming drepneä -> drepnea -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Mauerschwalbe“</definition>
+  
+  <etymology source="Candrea-Hecht: Rom. XXXI, 308">
+    aus älterem 
+    <form>*drepănă?</form>
+     (
+    <etymon lang="Lat">*DREPANELLA, -AM</etymon>
+     (od. 
+    <etymon lang="Lat">-ILLA</etymon>
+    ?) Diminut. aus 
+    <etymon lang="Lat">DRAPANIS</etymon>
+     „Mauer­schwalbe“ gr. 
+    <etymon lang="Gr">δρεπανίς</etymon>
+    ). 
+    <!-- Assuming *drepäned -> *drepănă? -->
+    
+  </etymology>
+  
+</entry>

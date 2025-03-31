@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="193">
+  
+  <lemma>bâtă</lemma>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[mgl. betă „Strumpfband“]</variants>
+  
+  <definition>„Band, Streifen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">VITTA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="cat">beta</form>
+      , 
+      <form lang="sp">beta</form>
+      , 
+      <form lang="pg">beta</form>
+      ;
+
+      <form lang="it">vetta</form>
+      , 
+      <form lang="lecc">vetta</form>
+      , 
+      <form lang="trent">vetta</form>
+      , 
+      <!-- Assuming leent. -> lecc. -->
+      
+      <form lang="sic">vitta</form>
+      ,
+
+      <form lang="a-frz">vete</form>
+      ,
+
+      <form lang="sp">veta</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <homonym_distinction>
+    Davon zu trennen ar. 
+    <form>bată</form>
+     „Mäusefalle“, ein postverbal. Subst. von 
+    <form>bat</form>
+    .
+  </homonym_distinction>
+  
+</entry>

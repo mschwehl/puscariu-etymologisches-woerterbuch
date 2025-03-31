@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="425">
+  
+  <lemma>cuceresc</lemma>
+   
+  <!-- Assuming cucerese -> cuceresc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„erobern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CONQUAERO, -IRE</etymon>
+     (= 
+    <etymon lang="Lat">CONQUIRO, -ERE</etymon>
+    ) 
+    <!-- Assuming # -> * -->
+    
+    <cognates>
+      
+      <form lang="pv">conquerir</form>
+      , 
+      <form lang="sp">conquerir</form>
+      , 
+      <form lang="fr">conquérir</form>
+      . 
+      <!-- Assuming conguerir -> conquérir -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <reflexive_usage>
+    Refl. 
+    <form>mă cuceresc</form>
+     heißt „ich demütige mich (
+    <source_ref>Coresi: Tetraev. 119, 142</source_ref>
+    )“ daher: 
+    <form>cucerie</form>
+     sf. "Demütigung“ und 
+    <form>cucernic, -ă</form>
+     adj. „andächtig, fromm“. 
+    <!-- Assuming cucesie si. -> cucerie sf., eneörnie -> cucernic -->
+    
+  </reflexive_usage>
+  
+</entry>

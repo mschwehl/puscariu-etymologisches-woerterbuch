@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="175">
+  
+  <lemma>aură</lemma>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sf.</pos>
+  
+  <variants>[mgl. aură]</variants>
+  
+  <definition>„Kühle“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AURA, -AM</etymon>
+     
+    <!-- Assuming Cava -> AURA -->
+    
+    <cognates>
+      
+      <form lang="it">ora</form>
+      ,
+
+      <form lang="eng">aura</form>
+      , 
+      <form lang="pv">aura</form>
+      ,
+
+      <form lang="a-frz">ore</form>
+      . 
+      <!-- Assuming a.-Irz. -> a-frz. -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

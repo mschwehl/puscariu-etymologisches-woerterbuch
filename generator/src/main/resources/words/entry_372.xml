@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="372">
+  
+  <lemma>cînt</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. cîntu, mgl. cînt? auch „lese“, ir. cînt?]</variants>
+   
+  <!-- Assuming cont -> cînt?, cänt -> cînt? -->
+  
+  <definition>„singen, spielen (Musikinstrument), krähen (Hahn)“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CANTO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">këndoj</form>
+       „singe, krähe, lese“, 
+      <form lang="it">cantare</form>
+      , 
+      <form lang="eng">chantar</form>
+      , 
+      <form lang="fr">chanter</form>
+      , 
+      <form lang="pv">cantar</form>
+      , 
+      <form lang="sp">cantar</form>
+      , 
+      <form lang="pg">cantar</form>
+      . 
+      <!-- Assuming Kendon -> këndoj, k’anter -> chantar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    <form>Cîntători</form>
+     sm. plur. tant. „Tagesanbruch“ (= 
+    <example lang="fr">au chant des coqs</example>
+    ).
+  </derived_forms>
+  
+</entry>

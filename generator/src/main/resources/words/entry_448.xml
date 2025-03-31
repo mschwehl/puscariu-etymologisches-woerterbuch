@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="448">
+  
+  <lemma>cunun</lemma>
+   
+  <!-- Assuming cunim -> cunun -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage>
+    (alt.-rum. auch „bekränzen‘“, wofür heute 
+    <form>încunun</form>
+    , ar. 
+    <form>încurun</form>
+    , mgl. 
+    <form>ancurun</form>
+    )
+  </usage>
+   
+  <!-- Assuming neurun -> încurun -->
+  
+  <variants>[ar. curun „ver­mähle“‘, mgl. curun „‚bekränzen“"]</variants>
+   
+  <!-- Assuming catriîn -> curun -->
+  
+  <definition>„vermählen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CORŌNO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">coronare</form>
+      , 
+      <form lang="pv">coronar</form>
+      , 
+      <form lang="cat">coronar</form>
+      , 
+      <form lang="sp">coronar</form>
+      , 
+      <form lang="fr">couronner</form>
+      , 
+      <form lang="pg">coroar</form>
+      . 
+      <!-- Assuming cowronner -> couronner -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_note>
+    Der Sinnesübergang von „bekränzen“ zu „vermählen“, der sich durch die Hochzeits­bräuche erklärt (vgl. 
+    <source_ref>S. Marian: Nunta la Romîni, S. 284 ff.</source_ref>
+    ), findet sich auch im Alb. 
+    <form lang="alb">kunorëzoj</form>
+     „segne ein“ (
+    <form lang="alb">kunorë</form>
+      
+    <etymon lang="ngr">κορώνα</etymon>
+    ), im N.-gr. 
+    <example lang="el">στεφανώνω</example>
+     „bekränzen, vermählen“ und im kroat. 
+    <example lang="hr">vjenčati</example>
+     „einsegnen“ (
+    <form>ovjenčati</form>
+     „bekränzen“, von 
+    <form>vijenac</form>
+     „Kranz“). 
+    <!-- Assuming kunurzöj, Clunore, zogava, oregevoveo, jenat:, ovjendati -->
+    
+  </semantic_note>
+  
+</entry>

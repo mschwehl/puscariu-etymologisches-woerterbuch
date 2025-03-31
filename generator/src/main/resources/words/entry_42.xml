@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="42">
+  
+  <lemma>aiept</lemma>
+   
+  <!-- Assuming cicpt -> aiept -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„aufrichten: werfen‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IECTO, -ARE</etymon>
+     
+    <!-- Assuming RJECTO -> IECTO or ADIECTO? Context needed. -->
+    
+  </etymology>
+  
+</entry>

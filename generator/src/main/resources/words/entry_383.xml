@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="383">
+  
+  <lemma>codină</lemma>
+   
+  <!-- Assuming Codeina -> codină -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Name eines Schafes mit gelber oder roter Schnauze“</definition>
+  
+  <source_ref>(Liuba-Jana: Mäidan, S. 111)</source_ref>
+  
+  <variants>[ar. coațin? „weißes Schaf mit braunrotem Kopfe“]</variants>
+   
+  <!-- Assuming coatsin -> coațin? -->
+  
+  <etymology source="Candrea-Hecht: Les éléments latins S. 65">
+    
+    <etymon lang="Lat">COCCINA, -A, -UM</etymon>
+     
+    <!-- Assuming coccinus -> COCCINA -->
+    
+    <cognates>
+      
+      <form lang="obw">cozzina?</form>
+      , 
+      <form lang="obw">cozzna?</form>
+      , 
+      <form lang="niedw-eng?">cozzin?</form>
+      , 
+      <form lang="niedw-eng?">cozzna?</form>
+       (andere rätorom. Formen in Grundriß I², 614). 
+      <!-- Interpretation needed for Keffen, kotsna, kotsen, kotSna -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

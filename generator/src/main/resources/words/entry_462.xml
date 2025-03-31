@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="462">
+  
+  <lemma>curte</lemma>
+   
+  <!-- Assuming cürte -> curte -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. = W.]</variants>
+  
+  <definition>„Hof“</definition>
+  
+  <etymology_discussion source="Bartoli: Un po’ di sardo, Archeografo triestino XXIX, Bd. I, Serie III, S. 149">
+    fordert, wie alb. 
+    <form lang="alb">kurtë?</form>
+     und a.-sard. 
+    <form lang="a-sard">curte</form>
+     (sard. 
+    <form lang="sard">corte</form>
+      it. vgl. Bartoli) ein noch zu er­klärendes 
+    <etymon lang="Lat">CURTIS, -EM</etymon>
+     (oft belegt in Leges Burgundiorum und in spätlat. Texten, auch aus jenen Gebieten, die die Gleichung lat. 
+    <phoneme>ō</phoneme>
+     = 
+    <phoneme>ū</phoneme>
+     nicht kennen), wogegen 
+    <cognates>
+      <form lang="it">corte</form>
+      , 
+      <form lang="sic">curti</form>
+      , 
+      <form lang="eng">cuort</form>
+      , 
+      <form lang="fr">cour</form>
+      , 
+      <form lang="a-frz">cort</form>
+      , 
+      <form lang="pv">cort</form>
+      , 
+      <form lang="sp">corte</form>
+      , 
+      <form lang="pg">corte</form>
+    </cognates>
+     ebensogut auf 
+    <etymon lang="Lat">COHORS, -TEM</etymon>
+     (= 
+    <etymon lang="Lat">CHORS</etymon>
+    ) beruhen können. Das rum. Wort stammt nicht aus dem n.-gr. 
+    <etymon lang="ngr">κοῦρτι?</etymon>
+    . 
+    <!-- Assuming kurt -> kurtë?, kuort -> cuort, zotorn -> κοῦρτι? -->
+    
+  </etymology_discussion>
+  
+  <variants>[P. kennt nur avlie in Epir., obor in Mazed.]</variants>
+   
+  <!-- Assuming ubör -> obor -->
+  
+</entry>

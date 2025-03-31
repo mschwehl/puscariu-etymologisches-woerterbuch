@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="503">
+  
+  <lemma>deretic</lemma>
+   
+  <!-- Assuming deretie -> deretic -->
+  
+  <lemma_variants>(diretic)</lemma_variants>
+   
+  <!-- Assuming divetic -> diretic -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„(im Zimmer) räumen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*DIRECTICO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">DIRECTUS</etymon>
+    ).
+
+    <semantic_note>
+      Für den Sinnesübergang vgl. mgl. 
+      <example>andirezi (vgl. dreg) casa</example>
+       = 
+      <example>deretică prin casă</example>
+      .
+    </semantic_note>
+    
+  </etymology>
+  
+  <variants>[ar. anahirsescu?, anic'-?].</variants>
+   
+  <!-- Assuming anăh'irsescu, anik'- -> interpretation -->
+  
+</entry>

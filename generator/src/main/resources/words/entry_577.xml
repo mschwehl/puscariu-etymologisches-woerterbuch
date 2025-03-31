@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="577">
+  
+  <lemma>femen</lemma>
+   
+  <!-- Assuming + fâmen -> femen -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <usage>
+    (
+    <source_ref>Cuv. d. b. I, 279</source_ref>
+    )
+  </usage>
+  
+  <pos>sb.</pos>
+  
+  <definition>„Eunuch“</definition>
+  
+  <variants>[ar. feamin, fleamin?, cheamin? adj., mgl. femin adj.]</variants>
+   
+  <!-- Interpretation needed for Deamin, kamin -->
+  
+  <definition>„weibisch, weiblich (mgl.)“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. III § 124">
+    
+    <etymon lang="Lat">*FEMINUS, -A, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">femër?</form>
+      , „weiblich“, 
+      <form lang="pv">femne?</form>
+      , 
+      <form lang="pg">fêmeo</form>
+      . 
+      <!-- Assuming femere -> femër?, feme -> femne?, femeo -> fêmeo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

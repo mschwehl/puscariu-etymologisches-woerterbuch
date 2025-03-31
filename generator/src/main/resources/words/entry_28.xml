@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="28">
+  
+  <lemma>aduc</lemma>
+  
+  <inflection>-usei (-/- adu), -us</inflection>
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. aduc, -us, -us III, mgl. duc, dus, dus III, ir. aducu, -us III]</variants>
+   
+  <!-- Assuming LII -> III -->
+  
+  <definition>„bringen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ADDUCO, -XI, -CTUM, -ERE</etymon>
+     
+    <!-- Assuming Anntco -> ADDUCO -->
+    
+    <cognates>
+      
+      <form lang="it">addurre</form>
+      ,
+
+      <form lang="sard-log">bature</form>
+      , 
+      <!-- Assuming sard. 1. -> Sard. Logudorese -->
+      
+      <form lang="pv">aduire</form>
+      ,
+
+      <form lang="a-frz">aduire</form>
+      ,
+
+      <form lang="sp">aducir</form>
+      ,
+
+      <form lang="pg">adduzir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <morphology_note>
+    Imper. 
+    <form>adi</form>
+     
+    <etymon lang="Lat">ADDUC</etymon>
+     und, durch Vermischung mit 
+    <form>dă</form>
+    , auch 
+    <form>adă</form>
+     (bring her! = gieb her!).
+  </morphology_note>
+   
+  <!-- Assuming ddă -> adă -->
+  
+</entry>

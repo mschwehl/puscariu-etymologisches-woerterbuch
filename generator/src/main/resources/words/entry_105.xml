@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="105">
+  
+  <lemma>ar</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. I, ir. oru]</variants>
+  
+  <definition>„pflügen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARO, -ARE</etymon>
+     
+    <!-- Assuming CARo -> ARO -->
+    
+    <cognates>
+      
+      <form lang="it">arare</form>
+      ,
+
+      <form lang="nord-frz">arer</form>
+      ,
+
+      <form lang="pv">arar</form>
+      , 
+      <form lang="sp">arar</form>
+      , 
+      <form lang="pg">arar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

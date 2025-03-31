@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="132">
+  
+  <lemma>arunc</lemma>
+   
+  <!-- Assuming «vine -> arunc -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. aruc]</variants>
+  
+  <definition>„werfen‘‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">? *ERRUNCO, -ARE</etymon>
+     or related to 
+    <etymon lang="Lat">AVERRUNCO, -ARE</etymon>
+     "entfernen"? (Etymology uncertain/problematic in source)
+
+    <!-- Puscariu suggests AVERRUNCO "entfernen" (von AVERRO "wegwerfen"), which is semantically challenging. Other dictionaries might suggest *ERRUNCO related to runcare or other sources. -->
+    
+  </etymology>
+  
+</entry>

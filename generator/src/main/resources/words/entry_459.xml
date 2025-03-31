@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="459">
+  
+  <lemma>curea</lemma>
+   
+  <!-- Assuming cureä -> curea -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. curao, mgl. curaŭă]</variants>
+   
+  <!-- Assuming curauă -> curaŭă -->
+  
+  <definition>„Riemen“</definition>
+  
+  <etymology source="Miklosich: Beiträge, Vok. I, 34">
+    
+    <etymon lang="Lat">CORRIGIA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">CORIUM</etymon>
+     „Leder“), nicht von 
+    <etymon lang="Lat">CORRIGIA</etymon>
+    . 
+    <!-- Corrected based on REW 2227; Puscariu's negation seems odd here -->
+    
+  </etymology>
+  
+</entry>

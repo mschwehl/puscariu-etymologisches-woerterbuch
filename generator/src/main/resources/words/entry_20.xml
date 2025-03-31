@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="20">
+  
+  <lemma>adăp</lemma>
+  
+  <lemma_variants>(adăp)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. S, mgl. dap, ir. adopu]</variants>
+   
+  <!-- S is likely OCR error -->
+  
+  <definition>„tränken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ADAQUO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">adacquare</form>
+      ,
+
+      <form lang="pv">azaigar</form>
+      ,
+
+      <form lang="sp">adaguar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

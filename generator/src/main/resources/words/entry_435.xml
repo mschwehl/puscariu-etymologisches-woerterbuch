@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="435">
+  
+  <lemma>culc</lemma>
+   
+  <!-- Assuming cute -> culc -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. culcu, mgl. mă culc „schlafen gehen“, ir. culcu]</variants>
+   
+  <!-- Assuming culeu -> culcu, cucu -> culcu -->
+  
+  <definition>„niederlegen“</definition>
+  
+  <etymology source="Literaturblatt VII, 69; G. Paris, Rom. X, 61; Archiv lat. Lex. II, 272">
+    
+    <etymon lang="Lat">COLLOCO, -ARE</etymon>
+     (scil. 
+    <etymon lang="Lat">in lectum</etymon>
+    ) 
+    <!-- Assuming corLOco -> COLLOCO -->
+    
+    <cognates>
+      
+      <form lang="it">coricare?</form>
+       (
+      <form lang="sard">corcare</form>
+       ist Lehnwort), 
+      <form lang="pv">colgar</form>
+      , 
+      <form lang="cat">colgar</form>
+      , 
+      <form lang="sp">colgar</form>
+      . 
+      <!-- Assuming covicare -> coricare? -->
+      
+    </cognates>
+    
+    <phonological_note>
+      Das 
+      <phoneme>u</phoneme>
+       der rum. Form kann von den endungsbetonten Formen herstammen, doch setzen auch 
+      <cognates>
+        <form lang="campob">culecare-se?</form>
+        , 
+        <form lang="cerign">culcare-se?</form>
+        , 
+        <form lang="arpino">cullecare?</form>
+        , 
+        <form lang="lecce">culcare?</form>
+         und 
+        <form lang="a-frz">colchier</form>
+        , 
+        <form lang="n-frz">coucher</form>
+      </cognates>
+       ein 
+      <etymon lang="Lat">*CULLOCO, -ARE</etymon>
+       (nach G. Paris durch 
+      <etymon lang="Lat">CULCĪTA</etymon>
+       beeinflußt) voraus, vgl. 
+      <form lang="Lat">CONCOLloco</form>
+       in den Formulae Meroving. 253, 11, 
+      <form lang="Lat">CUNCO</form>
+       in Lex. Salica 39. 
+      <!-- Interpretation needed for kulekare-tse, kulkarse, kulleka, kirkew, colchier, coxcunco, cunco -->
+      
+    </phonological_note>
+    
+  </etymology>
+  
+</entry>

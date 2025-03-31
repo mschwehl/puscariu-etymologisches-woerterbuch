@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="601">
+  
+  <lemma>fiară</lemma>
+   
+  <!-- Assuming fiâvă -> fiară -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. hiară? W.]</variants>
+   
+  <!-- Assuming Kara -> hiară? -->
+  
+  <definition>„wildes Tier“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FERA, -AM</etymon>
+     
+    <!-- Assuming pina -> FERA -->
+    
+    <cognates>
+      
+      <form lang="it">fiera</form>
+      , 
+      <form lang="sp">fiera</form>
+      , 
+      <form lang="gen">fea</form>
+      , 
+      <form lang="fr">fiere</form>
+      , 
+      <form lang="pv">fera</form>
+      , 
+      <form lang="pg">fera</form>
+      . 
+      <!-- Assuming Rera -> fiera -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <comment>[Papahagi kennt ar. hiară nicht].</comment>
+  
+</entry>

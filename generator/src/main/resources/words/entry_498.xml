@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="498">
+  
+  <lemma>degetar</lemma>
+   
+  <!-- Assuming degetär -> degetar -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Fingerhut“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DIGITALE</etymon>
+     
+    <!-- Assuming picitaue -> DIGITALE -->
+    
+    <cognates>
+      
+      <form lang="it">ditale</form>
+      , 
+      <form lang="trevis">dixial?</form>
+      , 
+      <form lang="ven">dixial?</form>
+      , 
+      <form lang="triest">?</form>
+      , 
+      <form lang="campob">?</form>
+      , 
+      <form lang="mant">?</form>
+      , 
+      <form lang="berg">?</form>
+      , 
+      <form lang="bresc">?</form>
+      , 
+      <form lang="crem">?</form>
+      , 
+      <form lang="ferr">?</form>
+      , 
+      <form lang="piac">?</form>
+      , 
+      <form lang="bologn">?</form>
+      , 
+      <form lang="mail">?</form>
+      , 
+      <form lang="sic">?</form>
+      , 
+      <form lang="tav">?</form>
+      , 
+      <form lang="a-frz">?</form>
+      , 
+      <form lang="n-frz">dé</form>
+      , 
+      <form lang="sp">dedal</form>
+      , 
+      <form lang="pg">dedal</form>
+      . 
+      <!-- Interpretation needed for zizial, zezial, dejetale, didal, didä, jiditaki, dedal, deel -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

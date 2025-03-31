@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="371">
+  
+  <lemma>cînt</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. cînt?]</variants>
+   
+  <!-- Assuming contu -> cînt? -->
+  
+  <definition>„Gesang“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CANTUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">canto</form>
+      , 
+      <form lang="sp">canto</form>
+      , 
+      <form lang="pg">canto</form>
+      , 
+      <form lang="sic">cantu</form>
+      , 
+      <form lang="sard">cantu</form>
+      , 
+      <form lang="eng">chaunt</form>
+      , 
+      <form lang="fr">chant</form>
+      . 
+      <!-- Assuming kantu -> cantu, k’aunt -> chaunt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. cîntare, cîntic].</variants>
+  
+</entry>

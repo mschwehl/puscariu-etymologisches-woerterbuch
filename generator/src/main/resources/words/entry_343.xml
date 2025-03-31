@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="343">
+  
+  <lemma>cercel</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[vgl. ar. țirțelu W.]</variants>
+   
+  <!-- Assuming tsirtselu -> țirțelu -->
+  
+  <definition>„Ohrring“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CIRCELLUS, -UM</etymon>
+     
+    <!-- Assuming -vu -> -UM -->
+    
+    <cognates>
+      
+      <form lang="sic">circellu</form>
+      , 
+      <form lang="abruzz">circelle</form>
+      , 
+      <form lang="eng">tscherchel</form>
+      , 
+      <form lang="fr">cerceau</form>
+      , 
+      <form lang="sp">cercillo</form>
+      , 
+      <form lang="pg">cerceilho</form>
+      . 
+      <!-- Assuming t3irtăeddu -> circellu, tăiartăelle -> circelle, tsierk’el -> tscherchel, cereilho -> cerceilho -->
+      
+    </cognates>
+    
+    <semantic_note>Selbe Bedeutung wie in Rum. auch im Sie. Abruzz. und Span.</semantic_note>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt ung. 
+    <form lang="hu">csörcse(lye)</form>
+    .
+  </borrowing_note>
+  
+  <variants>[ar. veară? P.].</variants>
+   
+  <!-- Assuming veare -> veară? -->
+  
+</entry>

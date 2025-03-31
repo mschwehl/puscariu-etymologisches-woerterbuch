@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="439">
+  
+  <lemma>cum</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+   
+  <!-- Assuming ) -> = -->
+  
+  <definition>„wie“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">QUOMO[DO]</etymon>
+    
+    <cognates>
+      
+      <form lang="it">come</form>
+      , 
+      <form lang="pv">com</form>
+      , 
+      <form lang="fr">comme</form>
+      , 
+      <form lang="sp">como</form>
+      , 
+      <form lang="pg">como</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="508">
+  
+  <lemma>descînt</lemma>
+   
+  <!-- Assuming descint -> descînt -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. discîntu, mgl. discînt]</variants>
+   
+  <!-- Assuming diseintu, discont -> discîntu, discînt -->
+  
+  <definition>„entzaubern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*DISCANTO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="frl">discontà?</form>
+       „entzaubern“. 
+      <!-- Assuming disk’anta -> discontà? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

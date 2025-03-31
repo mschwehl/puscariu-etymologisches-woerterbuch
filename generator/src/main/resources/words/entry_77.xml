@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="77">
+  
+  <lemma>ameninț</lemma>
+   
+  <!-- Assuming amenint -> ameninț -->
+  
+  <lemma_variants>(amerinț, amelinț)</lemma_variants>
+   
+  <!-- Assuming amerinf, amelinf -> amerinț, amelinț -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„drohen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ADMINACIO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">MINACIAE</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="sic">amminazzari</form>
+      ,
+
+      <form lang="sard-camp">aminatzai</form>
+      , 
+      <!-- Assuming sard. ec. ameletssai -> camp. aminatzai -->
+      
+      <form lang="pv">amenassar</form>
+      ,
+
+      <form lang="sp">amenazar</form>
+      ,
+
+      <form lang="pg">ameaçar</form>
+      ; 
+      <!-- Assuming ameagar -> ameaçar -->
+      vgl. 
+      <form lang="oristan">aminatzu</form>
+       „minaccia”, 
+      <form lang="lecce">minatzu</form>
+       „drohe“. 
+      <!-- Assuming amaletssı, minetssu -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

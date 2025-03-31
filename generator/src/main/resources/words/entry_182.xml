@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="182">
+  
+  <lemma>barbă</lemma>
+   
+  <!-- Assuming bârvă -> barbă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. =, ir. borbă]</variants>
+   
+  <!-- Assuming borbe -> borbă -->
+  
+  <definition>„Bart“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BARBA, -AM</etymon>
+     
+    <!-- Assuming Barza -> BARBA -->
+    
+    <cognates>
+      
+      <form lang="it">barba</form>
+      , 
+      <form lang="eng">barba</form>
+      , 
+      <form lang="pv">barba</form>
+      , 
+      <form lang="sp">barba</form>
+      , 
+      <form lang="pg">barba</form>
+      ,
+
+      <form lang="fr">barbe</form>
+      , 
+      <form lang="lothr">berb</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_note source="Zauner: Körperteile, 407">
+    Dacor. mgl. ir. 
+    <form>barbă</form>
+     bedeutet auch „Kinn“, wie dies für lat. 
+    <etymon lang="Lat">BARBA</etymon>
+     in 
+    <source_ref>C. gl. II, 262</source_ref>
+    , 
+    <source_ref>III, 247</source_ref>
+     bezeugt ist. Ebenso im Neap. Istr. Frl. Südfrankreich und auf der Pyrenäenhalbinsel.
+
+  </semantic_note>
+  
+</entry>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="147">
+  
+  <lemma>ăst(a)</lemma>
+   
+  <!-- Assuming äst(a) -> ăst(a) -->
+  
+  <feminine>astă</feminine>
+   
+  <!-- Assuming tem. dsta -> fem. astă -->
+  
+  <lemma_variants>(ist(a), acest(a) fem. aceasta)</lemma_variants>
+   
+  <!-- Assuming aesi(a) -> acest(a) -->
+  
+  <pos>pron.</pos>
+  
+  <variants>
+    [ar. aestu, est in 
+    <form>est-an</form>
+    , astă in 
+    <form>astă-seară</form>
+    , aistu, ir. aist(a)]
+  </variants>
+  
+  <definition>„dieser, diese, dieses“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ISTUS (=ISTE), -A, -UD</etymon>
+     
+    <!-- Assuming *isrus -> *ISTUS -->
+    
+    <cognates>
+      
+      <form lang="a-it">esto</form>
+       (prokl. 
+      <form>sto</form>
+      ),
+
+      <form lang="pv">est</form>
+      ,
+
+      <form lang="a-frz">ist</form>
+      , 
+      <!-- Assuming a.iız. -> a-frz. -->
+      
+      <form lang="sp">este</form>
+      , 
+      <form lang="pg">este</form>
+      . 
+      <!-- Assuming es(te -> este -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Aus 
+    <form>astă-sară</form>
+     entsteht 
+    <form>astăseară</form>
+     adv. 
+    <variants>[ar. =, mgl. stară, ir. astoră]</variants>
+     „heute Abend“.
+
+  </derived_forms>
+  
+</entry>

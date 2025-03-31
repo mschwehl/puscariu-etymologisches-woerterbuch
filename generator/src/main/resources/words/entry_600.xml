@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="600">
+  
+  <lemma>festucă</lemma>
+   
+  <!-- Assuming festiică -> festucă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Halm“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FESTUCA, -AM</etymon>
+     
+    <!-- Assuming eesruca -> FESTUCA -->
+    
+    <cognates>
+      
+      <form lang="it">festuca</form>
+      , 
+      <form lang="obw">festüg?</form>
+      , 
+      <form lang="eng">festü?</form>
+      , 
+      <form lang="pv">festuc</form>
+      , 
+      <form lang="wall">festu</form>
+      , 
+      <form lang="fr">fétu</form>
+      . 
+      <!-- Assuming fastig -> festüg?, fastü -> festü?, fetu -> fétu -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

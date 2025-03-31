@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="557">
+  
+  <lemma>duminecă</lemma>
+   
+  <!-- Assuming dummeea -> duminecă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. duminică, ir. duminecä?]</variants>
+   
+  <!-- Assuming dumireke -> duminecä? -->
+  
+  <definition>„Sonntag“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DOMINICA</etymon>
+     (scil. 
+    <etymon lang="Lat">DIES</etymon>
+    : 
+    <cognates>
+      <form lang="sic">duminecadia</form>
+    </cognates>
+    ):
+
+    <cognates>
+      
+      <form lang="it">domenica</form>
+      , 
+      <form lang="eng">dumengia</form>
+      , 
+      <form lang="pv">dimenge</form>
+      , 
+      <form lang="a-frz">dimanche</form>
+      , 
+      <form lang="n-cat">diumenge</form>
+       (
+      <form lang="sp">domingo</form>
+      , 
+      <form lang="pg">domingo</form>
+        
+      <etymon lang="Lat">DOMINICUS</etymon>
+      ). 
+      <!-- Assuming dumendza -> dumengia, at -> a- -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="271">
+  
+  <lemma>căprărie</lemma>
+   
+  <!-- Assuming e@pärleätsä -> căprărie -->
+  
+  <lemma_variants>(căprăreagă)</lemma_variants>
+   
+  <!-- Assuming cäpärleadzä -> căprăreagă -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <definition>„Ziegenstall“</definition>
+  
+  <etymology source="Verfassers Lat. Ti u. Ki, S. 140">
+    
+    <etymon lang="Lat">CAPRĀRICIA, -AM</etymon>
+     
+    <!-- Assuming CAPRA-RICIA -> CAPRĀRICIA -->
+    
+    <cognates>
+      
+      <form lang="it">caprareccia</form>
+      . 
+      <!-- Assuming caprareceio -> caprareccia -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

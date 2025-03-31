@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="58">
+  
+  <lemma>albie</lemma>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming dlbie si. -> albie sf. -->
+  
+  <definition>„Trog, Flußbett“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALVEUS, -UM</etymon>
+     
+    <!-- Assuming Aauveus -> ALVEUS -->
+    
+    <cognates>
+      
+      <form lang="it">alveo</form>
+      , 
+      <form lang="sp">alveo</form>
+      , 
+      <form lang="pg">alveo</form>
+      ,
+
+      <form lang="ven">albi</form>
+      , 
+      <form lang="tar">albi</form>
+      , 
+      <!-- farent. -> Tarentinisch? -->
+      
+      <form lang="piem">arbi</form>
+      ,
+
+      <form lang="parm">derbi</form>
+      ,
+
+      <form lang="mail">albio</form>
+      ,
+
+      <form lang="fr">auge</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. cupană, vale].</variants>
+   
+  <!-- Assuming cupane -> cupană -->
+  
+</entry>

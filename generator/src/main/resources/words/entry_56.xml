@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="56">
+  
+  <lemma>albastru</lemma>
+  
+  <feminine_neuter>albastră</feminine_neuter>
+   
+  <!-- Assuming -ă adj. -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„hellblau“</definition>
+  
+  <variants>[ar. = „grau‘]</variants>
+   
+  <!-- Assuming far. -> ar. -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ALBASTER, -TRA, -TRUM</etymon>
+     
+    <!-- Assuming C* -> <* -->
+    
+    <comparison>
+      (vgl. 
+      <form lang="it">biancastro</form>
+      , 
+      <form lang="fr">blanchâtre</form>
+      ).
+    </comparison>
+    
+  </etymology>
+  
+</entry>

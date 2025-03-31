@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="499">
+  
+  <lemma>dumic</lemma>
+   
+  <!-- Assuming dene -> dumic -->
+  
+  <lemma_variants>
+    (
+    <form>dimic</form>
+     
+    <source_ref>Varl. Caz. 1643 II f. 82b</source_ref>
+    ; 
+    <form>diumic</form>
+     
+    <source_ref>Conv. lit. XX, 1009</source_ref>
+    , 
+    <form>diumic</form>
+    )
+  </lemma_variants>
+   
+  <!-- Assuming dimie, diumie -> dimic, diumic -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. diminic?]</variants>
+   
+  <!-- Assuming dinik -> diminic? -->
+  
+  <definition>„zerkleinern, zerstückeln“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*DEMICO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">MICA</etymon>
+    )
+
+    <cognates>
+      vgl. 
+      <form lang="fr">émier</form>
+      , 
+      <form lang="sp">migar</form>
+      , 
+      <form lang="pg">migar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <related_form>
+    Die Nebenform 
+    <form>zdrumic</form>
+     I vb. ist eine Kreuzung von 
+    <form>dumic</form>
+     + 
+    <form>zdrobesc</form>
+     („zer­stückeln“).
+
+  </related_form>
+  
+  <variants>[mgl. drobesc IV].</variants>
+   
+  <!-- Assuming drubes -> drobesc -->
+  
+</entry>

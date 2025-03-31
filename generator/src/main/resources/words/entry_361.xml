@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="361">
+  
+  <lemma>cîmp</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. cîmpu, cîmbu in Thess., mgl. cîmp]</variants>
+   
+  <!-- Assuming cimpu, cămbu -> cîmpu, cîmbu; comp -> cîmp -->
+  
+  <definition>„Feld‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CAMPUS, -UM</etymon>
+     
+    <!-- Assuming -UN -> -UM -->
+    
+    <cognates>
+      
+      <form lang="it">campo</form>
+      , 
+      <form lang="sp">campo</form>
+      , 
+      <form lang="pg">campo</form>
+      ,
+
+      <form lang="pv">camp</form>
+      , 
+      <form lang="fr">champ</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    
+    <example>iau cîmpii</example>
+     „ich fliehe“ (eigtl. „nehme die Felder‘) entspricht einerseits dem alb. 
+    <example lang="alb">marr malet</example>
+     (eigtl. „nehme die Berge“) und andererseits dem 
+    <cognates>
+      <form lang="it">scampare</form>
+      , 
+      <form lang="a-ven">scampar</form>
+      , 
+      <form lang="eng">scampar</form>
+    </cognates>
+     „(sich) retten“ (
+    <etymon lang="Lat">*EXCAMPARE</etymon>
+     
+    <etymon lang="Lat">+ CAMPUS</etymon>
+     ?). 
+    <!-- Assuming mai male -> marr malet; Sk'amper -> scampar -->
+    
+  </usage_note>
+  
+</entry>

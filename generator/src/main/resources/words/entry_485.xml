@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="485">
+  
+  <lemma>dărîm</lemma>
+   
+  <!-- Assuming därim -> dărîm -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <lemma_variants>(dărîm, darm)</lemma_variants>
+   
+  <!-- Assuming därm -> dărîm -->
+  
+  <variants>[ar. dîrîm „quäle“, mi dîrîm „quäle mich“, eigtl. „zermalme mich“)</variants>
+   
+  <!-- Assuming dirtm -> dîrîm -->
+  
+  <definition>„zerstören, stürzen“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 738—739">
+    
+    <etymon lang="Lat">*DERIMO(?), -ARE</etymon>
+     „heftig durchwühlen“ — „untergraben“ — „stürzen“:
+
+    <cognates>
+      
+      <form lang="alb">dërmoj?</form>
+       „herabstürzen, zermalmen“.
+
+    </cognates>
+    
+    <discussion>
+      Wie die ar. Form zeigt ist die Etymologie 
+      <etymon lang="Lat">*DERAMO, -ARE</etymon>
+       „entästen“ aufzugeben.
+    </discussion>
+     
+    <!-- Assuming *pE-RIMOlR) -> *DERIMO, dermon -> dërmoj?, *pE-RAnO -> *DERAMO -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="296">
+  
+  <lemma>cărnos</lemma>
+   
+  <!-- Assuming eärnös -> cărnos -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+   
+  <!-- Assuming -oâsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. X]</variants>
+   
+  <!-- Unknown -->
+  
+  <definition>„fleischig'*</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CARNŌSUS, -A, -UM</etymon>
+     
+    <!-- Assuming cARxOsUSs -> CARNŌSUS -->
+    
+    <cognates>
+      
+      <form lang="it">carnoso</form>
+      , 
+      <form lang="sp">carnoso</form>
+      , 
+      <form lang="pg">carnoso</form>
+      ,
+
+      <form lang="pv">carnos</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="409">
+  
+  <lemma>crăpătură</lemma>
+   
+  <!-- Assuming eräpätürda -> crăpătură -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming sit. -> sf. -->
+  
+  <variants>[ar. crăpătură, cripitură, călpitură]</variants>
+  
+  <definition>„Riß, Spalte“</definition>
+   
+  <!-- Assuming Rib -> Riß -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">CREPATURA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">crepatura</form>
+      , 
+      <form lang="frl">crepadura</form>
+      , 
+      <form lang="pv">crebadura</form>
+      , 
+      <form lang="cat">crebadura</form>
+      , 
+      <form lang="fr">crevure</form>
+      , 
+      <form lang="sp">quebradura</form>
+      , 
+      <form lang="pg">quebradura</form>
+      . 
+      <!-- Assuming krepadure -> crepadura -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

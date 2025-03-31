@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="621">
+  
+  <lemma>flămînd</lemma>
+   
+  <!-- Assuming flämind -> flămînd -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[mgl. flămînd, ir. flămînd, flămund?, hlamund?]</variants>
+   
+  <!-- Assuming flămant, flamund, hlamund -> flămînd, flămund?, hlamund? -->
+  
+  <definition>„hungrig“.</definition>
+  
+  <etymology_discussion source="Candrea-Hecht (Romania XXXI, 308-310); Meyer-Lübke (Rom. Gramm. II § 442)">
+    Eine befriedigende Deutung des Wortes ist nicht gegeben worden.
+
+    <rejected_etymology>
+      Gegen die alte Herleitung aus 
+      <etymon lang="Lat">FAMULENTUS, -A, -UM</etymon>
+       (
+      <etymon lang="Lat">*FAMLENTUS</etymon>
+       &gt; 
+      <etymon lang="Lat">*FLAMMENTUS?</etymon>
+       mit Angleichung an die Par­tizipialendung 
+      <suffix>-înd</suffix>
+      ), tritt Candrea-Hecht auf.
+    </rejected_etymology>
+    
+    <proposed_etymology author="Candrea-Hecht">
+      und schlägt ein 
+      <etymon lang="Lat">*FLAMMABUNDUS, -A, -UM</etymon>
+       vor (von 
+      <etymon lang="Lat">FLAMMA</etymon>
+       im Sinne von 
+      <etymon lang="Lat">FLAMMA GULAE</etymon>
+       „Heißhunger“).
+    </proposed_etymology>
+    
+    <comment>
+      It. 
+      <form lang="it">famulento</form>
+      , pv. 
+      <form lang="pv">famolen</form>
+      , a.-frz. 
+      <form lang="a-frz">famolent</form>
+       erweisen sich durch die Behandlung des Vortonvokals als Machwerk der lateinkundigen Schriftsteller, wozu als Gegenstück a.-ven. 
+      <form lang="a-ven">scolento</form>
+       steht. Wenn aber 
+      <etymon lang="Lat">*FLAMMABUNDUS</etymon>
+      , was das Suffix betrifft, durch 
+      <etymon lang="Lat">SITIBUNDUS</etymon>
+       in Paul. Diac. Vita Greg. Magn. 2. (vgl. it. 
+      <form lang="it">sitibondo</form>
+      ) wahrscheinlich gemacht wird, so kann ich nicht, mit Candrea, im ersten Teil 
+      <etymon lang="Lat">FLAMMA</etymon>
+       „Flamme“, das begrifflich so ferne steht, erblicken.
+    </comment>
+    
+    <alternative_proposal>
+      Möglich wäre ein 
+      <etymon lang="Lat">*FAMŬLA?</etymon>
+       (= 
+      <etymon lang="Lat">*FAMŬLA</etymon>
+      , Dimin. von 
+      <etymon lang="Lat">FAMES</etymon>
+       „Hunger“).
+    </alternative_proposal>
+     
+    <!-- Assuming *rramma ( *FANLA = * PAMULA -> *FAMŬLA? -->
+    
+  </etymology_discussion>
+  
+  <variants>[ar. adzun].</variants>
+  
+</entry>

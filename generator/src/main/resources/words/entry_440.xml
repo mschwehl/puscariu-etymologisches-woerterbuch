@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="440">
+  
+  <lemma>cumind</lemma>
+   
+  <!-- Assuming ceumindu -> cumind -->
+  
+  <lemma_variants>(dial. comînd)</lemma_variants>
+   
+  <!-- Assuming comind -> comînd -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„den Toten Opfer bringen“</definition>
+  
+  <etymology source="Tiktin: Wörtb. 395">
+    kann 
+    <etymon lang="Lat">COMMENDO, -ARE</etymon>
+     oder 
+    <etymon lang="Lat">COMMANDO, -ARE</etymon>
+     „empfehlen, preisen“ sein.
+
+  </etymology>
+  
+  <derived_forms source="Haşdeu: Etymol. Magn. Rom. 2171">
+    Davon 
+    <form>cumînd</form>
+     sm. „Totenfeier‘. 
+    <!-- Assuming cumind -> cumînd -->
+    
+  </derived_forms>
+  
+</entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="301">
+  
+  <lemma>cărunt</lemma>
+   
+  <!-- Assuming cciriânt -> cărunt -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. cănut]</variants>
+  
+  <definition>„grau (von Haaren)“</definition>
+  
+  <etymology source="C. Gl. III, 180, 24; II, 412, 3; Indg. Forsch. VI, 11">
+    
+    <etymon lang="Lat">CĀNŪTUS, -A, -UM</etymon>
+     
+    <!-- Assuming caxtrus -> CĀNŪTUS -->
+    
+    <cognates>
+      
+      <form lang="it">canuto</form>
+      , 
+      <form lang="fr">chenu</form>
+      , 
+      <form lang="a-sp">canudo</form>
+      .
+
+    </cognates>
+    
+    <borrowing_note>
+      Aus dem Rum. n.-gr. 
+      <form lang="ngr">κανοῦτος</form>
+       „grau“.
+    </borrowing_note>
+     
+    <!-- Assuming zawoöror „yaıöv“ -> κανοῦτος „grau“ -->
+    
+  </etymology>
+  
+</entry>

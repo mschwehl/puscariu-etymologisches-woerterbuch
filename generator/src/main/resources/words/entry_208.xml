@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="208">
+  
+  <lemma>boace</lemma>
+   
+  <!-- Assuming vodece -> boace -->
+  
+  <usage>
+    (nur noch dial. 
+    <source_ref>Jb. VIII, 314</source_ref>
+    , 
+    <source_ref>Hodoş: Cintece bănățene 49</source_ref>
+     und in der Ableitung 
+    <form>bocesc</form>
+     IV vb. „klagen“ u. 
+    <form>bocet</form>
+     sm. „Totenklage“, vgl. cors. 
+    <form lang="cors">vocero</form>
+     „Totenklage“)
+  </usage>
+   
+  <!-- Assuming Vocâsc -> bocesc -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. boațe]</variants>
+   
+  <!-- Assuming boatse -> boațe -->
+  
+  <definition>„Stimme, Wort“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">VOX, VOCEM</etymon>
+    
+    <cognates>
+      
+      <form lang="a-it">boce</form>
+       (
+      <source_ref>Brunetto Latini</source_ref>
+      ), 
+      <form lang="a-lomb">bose</form>
+      , 
+      <form lang="a-ven">bose</form>
+      , 
+      <form lang="grado">bose</form>
+      ,
+
+      <form lang="sard-log">boghe</form>
+      , 
+      <form lang="sard-camp">boxi</form>
+      , 
+      <!-- Assuming e. bozi -> camp. boxi -->
+      vgl. 
+      <form lang="pg">bocear</form>
+      ;
+
+      <form lang="n-it">voce</form>
+      , 
+      <form lang="sic">vuci</form>
+      , 
+      <form lang="eng">voš</form>
+      , 
+      <!-- Assuming tutsi -> vuci, vuoS -> voš -->
+      
+      <form lang="prov">votz</form>
+      , 
+      <form lang="fr">voix</form>
+      , 
+      <form lang="sp">voz</form>
+      , 
+      <form lang="pg">voz</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

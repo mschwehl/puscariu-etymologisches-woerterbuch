@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="280">
+  
+  <lemma>căprar</lemma>
+   
+  <!-- Assuming eäprär -> căprar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. &gt;]</variants>
+  
+  <definition>„Ziegenhirt“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CAPRARIUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">capraio</form>
+      , 
+      <form lang="eng">chavrer</form>
+      , 
+      <form lang="pv">cabrier</form>
+      , 
+      <form lang="fr">chevrier</form>
+      , 
+      <form lang="sp">cabrero</form>
+      , 
+      <form lang="pg">cabreiro</form>
+      . 
+      <!-- Assuming caprajo -> capraio, k’avrer -> chavrer -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

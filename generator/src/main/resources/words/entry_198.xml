@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="198">
+  
+  <lemma>beci</lemma>
+   
+  <!-- Assuming bee -> beci -->
+  
+  <pos>sm. adj.</pos>
+  
+  <definition>„Hammel“</definition>
+  
+  <usage_note>
+    [
+    <example>berbecii beci să numesc berbecii cei de doi ani... iară cei mai beci sînt tot acei berbeci după ce au ajuns vîrsta de 6—8 ani.</example>
+     
+    <source_ref>Conv. lit. XXIV, 1057</source_ref>
+    , ar. 
+    <form>bec'ĭ</form>
+     „Hämmel“ 
+    <source_ref>Ar. II, 347, 194</source_ref>
+    , „
+    <example>oi becĭ sînt un fel de oi mai mult albe, frumoase</example>
+    “ 
+    <source_ref>Papahagi</source_ref>
+    ]
+  </usage_note>
+   
+  <!-- Assuming betsti -> bec'ĭ, betă -> becĭ -->
+  
+  <etymology_discussion source="G. Meyer: Etym Wörth. d. alb. Spr. 33; Verfassers Lat. Ti und Ki S. 126ff.; Conv. lit. XXXIX, 51f.">
+    Es ist offenbar dasselbe Wort wie 
+    <cognates>
+      <form lang="it">becco</form>
+       „il maschio della capra“, 
+      <form lang="a-berg">bech</form>
+       „hircus“, 
+      <form lang="sard">beccu?</form>
+       „Bock“, 
+      <form lang="sard">beccòna</form>
+       „Ziege“
+    </cognates>
+    . Was die Etymologie anlangt, so könnte es eine Kürzung von 
+    <etymon lang="Lat">BERBEX</etymon>
+     sein, da man im 
+    <morpheme>BER-</morpheme>
+     das gleich­bedeutende Alpenwort 
+    <form>BERR-, BARR-</form>
+     ansehen konnte, welches in 
+    <cognates>
+      <form lang="alb">berr</form>
+       „Schaf, Weidevieh“ (vgl. alb. 
+      <form>beronjë?</form>
+       „unfruchtbar von Menschen u. Tieren“, 
+      <form lang="a-frz">baraigne</form>
+       „unfruchtbare Frau“), 
+      <form lang="com">bar, bara, barin</form>
+      , 
+      <form lang="berg">bar</form>
+      , 
+      <form lang="romag">berr</form>
+       „Widder“, 
+      <form lang="mail">bera</form>
+      , 
+      <form lang="piem">bero</form>
+       „Widder“, 
+      <form lang="eng">barr?</form>
+      , 
+      <form lang="lothr">berr?</form>
+    </cognates>
+     (vgl. 
+    <etymon lang="kslav">baranŭ</etymon>
+     „Widder“, serb. 
+    <form lang="sr">baran</form>
+     „Widder“, ung. 
+    <form lang="hu">bárány</form>
+     „Lamm“) wiederkehrt. Um das 
+    <phoneme>cc</phoneme>
+     in it. 
+    <form>becco</form>
+     und das 
+    <phoneme>cĭ</phoneme>
+     im arom. 
+    <form>becĭ</form>
+     zu erklären, müßte man aber von einem 
+    <etymon lang="Lat">*VERVECĒLLUS</etymon>
+     ausgehen. 
+    <!-- Assuming [Ber]s£e[ölrus, -usı -> *VERVECĒLLUS -->
+    
+  </etymology_discussion>
+  
+</entry>

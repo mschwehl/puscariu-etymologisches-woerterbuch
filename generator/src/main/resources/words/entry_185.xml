@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="185">
+  
+  <lemma>brățat</lemma>
+   
+  <!-- Assuming bärtsät -> brățat -->
+  
+  <lemma_variants>(bălțat)</lemma_variants>
+   
+  <!-- Assuming bältsat -> bălțat -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Maß ausgestreckter Arme‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BRACCHIATUM</etymon>
+     „Armvoll“ (
+    <source_ref>Formulae Meroving. S. 278, 18</source_ref>
+    ; 
+    <source_ref>Archiv lat. Lex. II, 268</source_ref>
+    . von 
+    <etymon lang="Lat">BRACHIUM</etymon>
+    ) 
+    <!-- Assuming CEBRACIATUM -> BRACCHIATUM -->
+    
+    <cognates>
+      
+      <form lang="sic">vrazzata</form>
+      , 
+      <!-- Assuming vratssata -> vrazzata -->
+      
+      <form lang="sard-log">bratzada</form>
+      , 
+      <form lang="sard-camp">bratzada</form>
+      . 
+      <!-- Assuming 1. e. bratssada -> log. camp. bratzada -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

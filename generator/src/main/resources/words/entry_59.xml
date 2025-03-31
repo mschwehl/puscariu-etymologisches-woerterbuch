@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="59">
+  
+  <lemma>albină</lemma>
+   
+  <!-- Assuming albind -> albină -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. algină, mgl. &gt;, ir. albire]</variants>
+  
+  <definition>„Biene“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALVINA, -AM</etymon>
+    
+    <source_ref>
+      („alvearia non alvinae“, Caper, K. VII, 107. Ableitung von 
+      <etymon lang="Lat">ALVUS</etymon>
+       „Bienenkorb“).
+    </source_ref>
+    
+  </etymology>
+  
+  <semantic_development>
+    Der Bedeutungswandel ist: „Bienenkorb“ — „Bienenschwarm“ — „Biene“, ähnlich alb. 
+    <form lang="alb">bletë</form>
+     „Bienenkorb und Biene“ und d-rum. 
+    <form>stup</form>
+     „Bienenkorb“ = ar. 
+    <form>stupu</form>
+     „Biene“. 
+    <!-- Assuming biete -> bletë -->
+    
+    <reference type="bibliographic">Vgl. G. Meyer: Indog. Forsch. VI.</reference>
+    
+  </semantic_development>
+  
+</entry>

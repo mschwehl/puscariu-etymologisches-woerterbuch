@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="399">
+  
+  <lemma>corb</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. corbu, mgl. ir. =]</variants>
+   
+  <!-- Assuming ıngl. -> mgl. -->
+  
+  <definition>„Rabe“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CORVUS, -UM</etymon>
+     
+    <!-- Assuming cörvus -> CORVUS -->
+    
+    <cognates>
+      
+      <form lang="alb">korb</form>
+      , 
+      <form lang="it">corbo, corvo</form>
+      , 
+      <form lang="ven">corbo</form>
+      , 
+      <form lang="ossol">corv?</form>
+      , 
+      <form lang="ossol">corp?</form>
+      , 
+      <form lang="pav">crov?</form>
+      , 
+      <form lang="sard-log">corvu</form>
+      , 
+      <form lang="sard-camp">crobu</form>
+      , 
+      <form lang="eng">corv?</form>
+      , 
+      <form lang="a-frz">corb</form>
+      , 
+      <form lang="prov">corp</form>
+      , 
+      <form lang="cat">corb</form>
+      , 
+      <form lang="sp">cuervo</form>
+      , 
+      <form lang="pg">corvo</form>
+      . 
+      <!-- Interpretation needed for korp, korbo, köf, k’örp, krof, krobu, korf, corto -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

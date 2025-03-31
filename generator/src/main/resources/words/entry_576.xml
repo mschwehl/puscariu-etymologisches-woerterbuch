@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="576">
+  
+  <lemma>falce</lemma>
+   
+  <!-- Assuming fälce -> falce -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Morgen (Land)“</definition>
+  
+  <etymology source="Ducange">
+    
+    <etymon lang="Lat">FALX, -CEM</etymon>
+     „Sichel“ (vgl. m.-lat. 
+    <example lang="la">falcata</example>
+     „quantum unus sector per diem falcare potest de prato“)
+
+    <cognates>
+      
+      <form lang="it">falce</form>
+      , 
+      <form lang="sic">fauci?</form>
+      , 
+      <form lang="eng">fotsch?</form>
+      , 
+      <form lang="pv">faus</form>
+      , 
+      <form lang="fr">faux</form>
+      , 
+      <form lang="wall">fo</form>
+      , 
+      <form lang="cat">fals</form>
+      , 
+      <form lang="sp">hoz</form>
+      , 
+      <form lang="pg">foice</form>
+      . 
+      <!-- Assuming fautsi -> fauci?, fotS -> fotsch?, waatl. -> wall., force -> foice -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

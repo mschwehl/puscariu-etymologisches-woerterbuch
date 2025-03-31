@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="635">
+  
+  <lemma>foc</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„Feuer“</definition>
+  
+  <etymology source="Dens. Hist. l. r. 190">
+    
+    <etymon lang="Lat">FOCUS, -UM</etymon>
+     urspr. „Feuerstätte‘‘, später u. im Rom. aus­schließlich „Feuer“
+
+    <cognates>
+      
+      <form lang="it">fuoco</form>
+      , 
+      <form lang="mail">föch?</form>
+      , 
+      <form lang="frl">fûc?</form>
+      , 
+      <form lang="eng">fö</form>
+      , 
+      <form lang="pv">foc</form>
+      , 
+      <form lang="fr">feu</form>
+      , 
+      <form lang="cat">foc</form>
+      , 
+      <form lang="sp">fuego</form>
+      , 
+      <form lang="pg">fogo</form>
+      . 
+      <!-- Assuming fög -> föch?, fug -> fûc?, fitego -> fuego -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Für Pl. 
+    <form>focuri</form>
+     [mgl. 
+    <form>focuri</form>
+    , ir. 
+    <form>focură?</form>
+    ] vgl. bari: 
+    <form lang="bari">fogghere?</form>
+    . 
+    <example>Aprind focul</example>
+     = 
+    <example lang="it">apprendere il fuoco</example>
+    ; 
+    <example>dau foc</example>
+     — 
+    <example lang="it">dar fuoco</example>
+    ; 
+    <example>fac foc</example>
+     = 
+    <example lang="it">far fuoco</example>
+    . 
+    <example>Foc viu</example>
+     „Rotlauf“ = ar. 
+    <form>focă</form>
+     W. sf. 
+    <!-- Assuming focure -> focură?, foggere -> fogghere? -->
+    
+  </usage_note>
+  
+</entry>

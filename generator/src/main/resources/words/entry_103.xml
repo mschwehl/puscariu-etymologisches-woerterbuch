@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="103">
+  
+  <lemma>apuc</lemma>
+   
+  <!-- Assuming apiie -> apuc -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming far. -> ar. -->
+  
+  <definition>„greifen, fassen; anfangen (vgl. prind, acăț)‘</definition>
+   
+  <!-- Assuming lassen -> fassen -->
+  
+  <etymology_discussion>
+    
+    <proposed_etymology source="Haşdeu: Etym. Magn. Rom.">
+      soll nach Haşdeu 
+      <etymon lang="Lat">*APPUCO, -ARE</etymon>
+      , eine 
+      <suffix>-uco</suffix>
+       Ableitung (vgl. 
+      <form>mandere</form>
+       
+      <etymon lang="Lat">mand-uco</etymon>
+      ) von 
+      <etymon lang="Lat">APERE</etymon>
+       (= 
+      <etymon lang="Lat">APISCERE</etymon>
+      ) sein. 
+      <!-- Assuming *aPCco -> *APPUCO -->
+      
+    </proposed_etymology>
+    
+    <alternative_etymology source="Burlă (Studii filologice); Meyer-Lübke: Rom. Gramm. I § 360">
+      Besser, doch nicht ganz sicher, ist die Etymologie von Burlă 
+      <etymon lang="Lat">AUCUPOR, -ARI</etymon>
+      : „vogelfangen” mit Metathese. 
+      <!-- Assuming Alu]euror, -AR -> AUCUPOR, -ARI -->
+      
+    </alternative_etymology>
+    
+  </etymology_discussion>
+  
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="3">
+  
+  <lemma>abea</lemma>
+   
+  <!-- Assuming abed is OCR error for abea -->
+  
+  <pos>adv.</pos>
+  
+  <definition>„kaum“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AD VIX</etymon>
+    
+    <cognates>
+      
+      <form lang="a-sp">abs</form>
+      
+      <form lang="obw">vess</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <comment>
+    Abea stammt nicht aus 
+    <etymon lang="kslav">abije</etymon>
+     „gleich“ (Cihac).
+  </comment>
+  
+</entry>

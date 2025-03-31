@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="100">
+  
+  <lemma>aprind</lemma>
+  
+  <lemma_variants>(aprinz)</lemma_variants>
+  
+  <inflection>-insei (+ aprins), -ins</inflection>
+   
+  <!-- Assuming -ius -> -ins -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. aprindu, -es u. -îmšu, -es u. -îmtu, III, II, mgl. prind, prins III, ir. aprindu, -ins, III]</variants>
+   
+  <!-- Assuming -imSu, -îmlu -> -îmšu, -îmtu? -->
+  
+  <definition>„anzünden"</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">APPREHENDO, -NDI, -NSUM, -NDERE</etymon>
+     
+    <!-- Assuming AP-PRE[H|ENDO -> APPREHENDO -->
+    
+    <cognates_general>
+       
+      <!-- General cognates (meaning "learn, seize") -->
+      
+      <form lang="it">apprendere</form>
+      ,
+
+      <form lang="pv">aprendre</form>
+      ,
+
+      <form lang="fr">apprendre</form>
+      ,
+
+      <form lang="sp">aprender</form>
+      , 
+      <form lang="pg">aprender</form>
+      .
+
+    </cognates_general>
+    
+    <semantic_note source="Gregor von Tours (Dens. H. l. r. 186)">
+      Der spezielle Sinn des rum. Wortes, der übrigens durch: 
+      <example lang="Lat">flante vento adprehendit domus incendio</example>
+       des Gregor von Tours angedeutet ist, findet sich wieder im
+
+      <cognates_specific>
+         
+        <!-- Cognates with "ignite" meaning -->
+        
+        <form lang="a-berg">aprender ol fog</form>
+         (glossiert durch accendo); vgl. 
+        <form lang="vegl">imprandere</form>
+        , 
+        <form lang="a-frz">emprendre</form>
+        , frz. Part. 
+        <form lang="fr">épris</form>
+        .
+
+      </cognates_specific>
+      
+      <comparison>
+        vgl. klruss. 
+        <form lang="ukr">imati</form>
+         „nehmen”, refl. „sich anzünden“ (= rum. „
+        <form>iau foc</form>
+        ").
+      </comparison>
+       
+      <!-- Assuming klruss. -> ukr -->
+      
+    </semantic_note>
+    
+  </etymology>
+  
+</entry>

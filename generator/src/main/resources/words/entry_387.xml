@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="387">
+  
+  <lemma>coardă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Saite“</definition>
+  
+  <etymology source="Zauner: Körperteile 352">
+    
+    <etymon lang="Lat">CHORDA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">kordezë?</form>
+       (Diminut., vielleicht aus dem It.), 
+      <form lang="it">corda</form>
+      , 
+      <form lang="eng">corda</form>
+      , 
+      <form lang="pv">corda</form>
+      , 
+      <form lang="cat">corda</form>
+      , 
+      <form lang="pg">corda</form>
+      , 
+      <form lang="frl">cuarde?</form>
+      , 
+      <form lang="fr">corde</form>
+      , 
+      <form lang="sp">cuerda</form>
+      . 
+      <!-- Assuming kördeze -> kordezë?, koarde -> cuarde? -->
+      
+    </cognates>
+    
+    <semantic_note>
+      
+      <form>Coardă</form>
+       bedeutet auch „Sehne“. Desgleichen im Sp. Cat. Rtr. und Lomb.
+
+    </semantic_note>
+    
+    <semantic_note source="Liuba-Jana: Mäidan S. 94; Papahagi: Megleno-Romîni S. 203">
+      Der Sinn „Balken“ des 
+      <form>coardă</form>
+       in 
+      <example>„Deasupra cățeilor [la facerea caselor] să pun în lungime și lățime patru corzi (singular: coardă) cari țin obada casei, ca să nu să desfacă“</example>
+       führt über zu ar. mgl. 
+      <form>coardă</form>
+       „un fel de staul pentru capre și oi, ca să le adăpostească în timpul iernii și să le apere de frig, ploaie, zăpadă“.
+
+    </semantic_note>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Dagegen ıst ar. 
+    <form>coardă</form>
+     „Säbel“ = kslav. 
+    <etymon lang="chu">korda</etymon>
+    , srb. 
+    <etymon lang="sr">korda</etymon>
+    , alb. 
+    <etymon lang="alb">kordë</etymon>
+    , ung. 
+    <etymon lang="hu">kard</etymon>
+    . etc. 
+    <!-- Assuming corüda -> korda -->
+    
+  </borrowing_note>
+  
+</entry>

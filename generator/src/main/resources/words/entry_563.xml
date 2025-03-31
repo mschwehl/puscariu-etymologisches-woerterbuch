@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="563">
+  
+  <lemma>dururos</lemma>
+   
+  <!-- Assuming + dururös -> dururos -->
+  
+  <usage>
+    (
+    <source_ref>Dos. Acatist. 1673f. 23</source_ref>
+    )
+  </usage>
+  
+  <definition>„schmerzlich“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DOLORŌSUS, -A, -UM</etymon>
+     
+    <!-- Assuming Dono-ROSUS -> DOLORŌSUS -->
+    
+    <cognates>
+      
+      <form lang="it">doloroso</form>
+      , 
+      <form lang="sp">doloroso</form>
+      , 
+      <form lang="pg">doloroso</form>
+      , 
+      <form lang="prov">doloros</form>
+      , 
+      <form lang="cat">doloros</form>
+      , 
+      <form lang="fr">douloureux</form>
+      . 
+      <!-- Assuming pr. -> prov., dowloureux -> douloureux -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. durut].</variants>
+   
+  <!-- Assuming durät -> durut -->
+  
+</entry>

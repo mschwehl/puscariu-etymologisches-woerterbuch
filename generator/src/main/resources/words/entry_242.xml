@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="242">
+  
+  <lemma>buză</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. budză auch „Ufer“, mgl. =]</variants>
+   
+  <!-- Assuming | -> = -->
+  
+  <definition>„Lippe“</definition>
+  
+  <etymology_discussion source="Lork: Altberg. Sprach­denkm. 167; Archivio glott. ital. II, 327; VII, 517; Mussafia: Bei­trag S. 35 Anm.; G. Meyer: Etym. Wörtb. der alb. Spr. 57; Dens. H. l. r. 352; Verfassers Lat. Ti u. Ki S. 48—49">
+    ist auf einem so großen rom. Gebiet verbreitet (vgl. sp. 
+    <example lang="sp">hacer el buz</example>
+     „den Handkuß geben, seine Ergebenheit beteuern‘“), daß es weder aus alb. 
+    <etymon lang="alb">buzë</etymon>
+    , noch aus dem Slav. (poln. 
+    <form lang="pl">buzia?</form>
+    , srb. 
+    <form lang="sr">budžulast, budžule</form>
+    , blg. 
+    <form lang="bg">buzi</form>
+     „Backe“) ent­lehnt zu sein braucht. Es ist möglich, daß man von einem Stamme 
+    <root>BUD-</root>
+     auszugehen hat, der im frz. 
+    <form lang="fr">bouder</form>
+     „prendre un air rechigné en faisant la moue“ steckt (vgl. auch 
+    <form lang="fr">boursoufler</form>
+     = norm. 
+    <form lang="norm">boud­soufler</form>
+     = d-rum. 
+    <form>buzumfla</form>
+    , daneben 
+    <form>busumfla</form>
+     aus 
+    <form>buzumfla</form>
+     + 
+    <form>*buz­sufla</form>
+    , mgl. 
+    <form>năbuzos</form>
+     vb. IV). 
+    <!-- Assuming Vuza -> buzia?, buzumflu -> buzumfla, busumflu -> busumfla, na-buz-os -> năbuzos -->
+    
+  </etymology_discussion>
+  
+</entry>

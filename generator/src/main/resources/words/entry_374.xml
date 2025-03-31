@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="374">
+  
+  <lemma>cîrnaț</lemma>
+   
+  <!-- Assuming eirndt -> cîrnaț -->
+  
+  <definition>„Wurst‘</definition>
+  
+  <pos>sm.</pos>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CARNACEUM</etymon>
+     ( 
+    <etymon lang="Lat">CARO, -RNEM</etymon>
+     vgl. lanc. 
+    <form lang="lanc">fegatazze?</form>
+     „Wurst‘): 
+    <cognates>
+      <form lang="sic">carnazzu</form>
+       „carneccio”, 
+      <form lang="pv">carnas</form>
+      , 
+      <form lang="sp">carnaza</form>
+    </cognates>
+    . D-rum. 
+    <form>cîrnaț</form>
+     [mgl. 
+    <form>cărnaț</form>
+    ] ist falsche Singularbildung. 
+    <!-- Assuming fekatatsse -> fegatazze?, larnatssu -> carnazzu -->
+    
+  </etymology>
+  
+  <variants>[ar. lucanică].</variants>
+   
+  <!-- Assuming lucanie -> lucanică -->
+  
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="417">
+  
+  <lemma>crud</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mgl. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„roh, unreif“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CRUDUS, -A, -UM</etymon>
+     
+    <!-- Assuming crünus -> CRUDUS -->
+    
+    <cognates>
+      
+      <form lang="it">crudo</form>
+      , 
+      <form lang="sp">crudo</form>
+      , 
+      <form lang="pv">cru</form>
+      , 
+      <form lang="fr">cru</form>
+      , 
+      <form lang="pg">cru</form>
+      . 
+      <!-- Assuming erw -> cru -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

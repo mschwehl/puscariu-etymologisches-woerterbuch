@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="617">
+  
+  <lemma>fir</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. hir?, mgl. ir]</variants>
+   
+  <!-- Assuming Für -> hir? -->
+  
+  <definition>„Faden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FILUM</etymon>
+     
+    <!-- Assuming rinum -> FILUM -->
+    
+    <cognates>
+      
+      <form lang="alb">fill?</form>
+      , 
+      <form lang="it">filo</form>
+      , 
+      <form lang="eng">fil</form>
+      , 
+      <form lang="pv">fil</form>
+      , 
+      <form lang="fr">fil</form>
+      , 
+      <form lang="sp">hilo</form>
+      , 
+      <form lang="pg">fio</form>
+      , 
+      <form lang="bresc">fil?</form>
+      . 
+      <!-- Assuming fit -> fill?, otsel -> fil? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

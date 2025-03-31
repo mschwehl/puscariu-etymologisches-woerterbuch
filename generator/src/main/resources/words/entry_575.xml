@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="575">
+  
+  <lemma>falcă</lemma>
+   
+  <!-- Assuming fdleä -> falcă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. =]</variants>
+   
+  <!-- Assuming | -> = -->
+  
+  <definition>„Kinnbacke“‘</definition>
+  
+  <etymology source="Conv. lit. XX, 1010">
+    
+    <etymon lang="Lat">*FALCA, -AM</etymon>
+     (mit Deklinationswechsel statt 
+    <etymon lang="Lat">FALX</etymon>
+    ). Denselben Sinnesübergang (der gekrümmten Gestalt wegen) zeigt auch alb. 
+    <form lang="alb">?</form>
+     
+    <etymon lang="Lat">*FALCINA</etymon>
+    , vgl. auch 
+    <example lang="a-berg">faux</example>
+     glossiert durch „panassa“; vgl. log. 
+    <form lang="sard-log">cavana?</form>
+     „ganascia“, 
+    <form lang="sard-log">cavana?</form>
+     „roncona“. — 
+    <form>Fălcele</form>
+     sf. Pl. „scîndurelele între care intră limba meliței“. 
+    <!-- Interpretation needed for fetk’ine, cavanu -->
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. falce.</reference>
+  
+</entry>

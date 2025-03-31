@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="492">
+  
+  <lemma>depăn</lemma>
+   
+  <!-- Assuming deäpim (depăn) -> depăn -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. deapin, mgl. depin auch „ver­schwinden machen“]</variants>
+  
+  <definition>„wickeln, spulen“</definition>
+   
+  <!-- Assuming wickelo -> wickeln -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*DEPĀNO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">PANUS</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="it">dipanare</form>
+      , 
+      <form lang="piem">davanare?</form>
+      , 
+      <form lang="lomb">indevaná?</form>
+      , 
+      <form lang="berg">indemnà?</form>
+      , 
+      <form lang="pv">de­banar</form>
+      , 
+      <form lang="sp">devanar</form>
+      , 
+      <form lang="pg">dobar</form>
+      . 
+      <!-- Interpretation needed for davane, indevend, indemnä -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

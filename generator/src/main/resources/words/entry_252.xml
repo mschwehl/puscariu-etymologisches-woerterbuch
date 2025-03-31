@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="252">
+  
+  <lemma>cal</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. &gt;, ir. cal]</variants>
+   
+  <!-- Assuming co -> cal -->
+  
+  <definition>„Pferd“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CABALLUS, -UM</etymon>
+     (ersetzt im Urrom. 
+    <etymon lang="Lat">EQUUS</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="alb">kal</form>
+      ,
+
+      <form lang="it">cavallo</form>
+      , 
+      <form lang="sard">caddu</form>
+      , 
+      <form lang="frl">cjaval</form>
+      , 
+      <form lang="eng">chaval</form>
+      , 
+      <!-- Assuming k'aval -> cjaval, k'aval -> chaval -->
+      
+      <form lang="pv">caval</form>
+      , 
+      <form lang="fr">cheval</form>
+      ,
+
+      <form lang="sp">caballo</form>
+      , 
+      <form lang="pg">cavalo</form>
+      . 
+      <!-- Assuming cavallo -> cavalo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

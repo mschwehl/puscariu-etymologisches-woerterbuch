@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="16">
+  
+  <lemma>acru</lemma>
+  
+  <feminine_neuter>acră</feminine_neuter>
+   
+  <!-- Assuming @ -> ă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. =, mgl. - auch: „stolz, eingebildet‘“]</variants>
+   
+  <!-- Assuming far. -> ar. -->
+  
+  <definition>„sauer“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ACRUS, -A, -UM</etymon>
+     
+    <!-- Assuming C -> < -->
+    
+    <comment>
+      (= 
+      <etymon lang="Lat">ACER, ACRIS, -E</etymon>
+       vgl. 
+      <source_ref>Thes. I. 1.</source_ref>
+      )
+    </comment>
+     
+    <!-- Assuming Ühes. -> Thes. -->
+    
+    <cognates>
+      
+      <form lang="alb">egre</form>
+       
+      <definition>„rauh, wild“</definition>
+      ,
+
+      <form lang="it">agro</form>
+      ,
+
+      <form lang="sard">agru, argu</form>
+      ,
+
+      <form lang="fr">aigre</form>
+      ,
+
+      <form lang="sp">agro</form>
+      , 
+      <form lang="pg">agro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

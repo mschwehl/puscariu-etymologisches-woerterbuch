@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="262">
+  
+  <lemma>cale</lemma>
+   
+  <!-- Assuming edle -> cale -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, ir. cale]</variants>
+   
+  <!-- Assuming >, kole -> =, cale -->
+  
+  <definition>„Pfad“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CALLIS, -EM</etymon>
+     
+    <!-- Assuming caruıs, -zı -> CALLIS, -EM -->
+    
+    <cognates>
+      
+      <form lang="it">calle</form>
+      , 
+      <form lang="tess">cala</form>
+       „Weg im Schnee“, 
+      <form lang="ven">cale</form>
+      , 
+      <form lang="sp">calle</form>
+      . 
+      <!-- Assuming käla -> cala -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms source="Conv. lit. XXXIX, 56—57">
+    Davon abgeleitet 
+    <form>călător</form>
+     sm. „Wanderer“ nach alb. 
+    <form lang="alb">udhëtar</form>
+     „Wanderer“ zu 
+    <form lang="alb">udhë</form>
+     „Weg“ (
+    <form>udhëtoj</form>
+     = 
+    <form>călătoresc</form>
+    ), vgl. mgl. 
+    <form>drumător</form>
+     (von 
+    <form>drum</form>
+     „Weg‘).
+
+  </derived_forms>
+  
+</entry>

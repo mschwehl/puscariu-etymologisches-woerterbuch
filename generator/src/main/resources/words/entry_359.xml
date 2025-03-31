@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="359">
+  
+  <lemma>ceață</lemma>
+   
+  <!-- Assuming cidâţă -> ceață -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Nebel“</definition>
+  
+  <etymology source="Verfasser in Conv. lit. XXXVII, 598—599; O. Densusianu H. l. r. 158, Rom. XXXIII, 74">
+    
+    <etymon lang="Lat">CAECIA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">CAECUS</etymon>
+     „dunkel“ vgl. 
+    <example lang="versiglia">a cecalume</example>
+     „im Nebel“, 
+    <example lang="valgandino?">šech?</example>
+    , 
+    <example lang="berg">sighera</example>
+    , 
+    <example lang="mail">scighera</example>
+    , 
+    <example lang="com">scighera</example>
+    , 
+    <example lang="crem">scigera?</example>
+    , 
+    <example lang="piem">?</example>
+    , 
+    <example lang="lomb">?</example>
+    , 
+    <example lang="valt">?</example>
+    , 
+    <example lang="obw">tschiera?</example>
+     „Nebel“, meist „Hof, Nebelkreis um den Mond (= rum. 
+    <example>luna are ceață</example>
+    )“ 
+    <example lang="com">cel šigh?</example>
+     „bewölkter Himmel“ etc.) 
+    <!-- Interpretation needed for ozera -> CAECIA, Sek, fsigera, t3ea, Sigera, Sega, tsiera, cel Sig -->
+    
+    <comment>
+      Densusianu bringt aus C. Gl. Belege eines 
+      <form>caecia</form>
+       „caligo oculorum“ (vgl. rum. 
+      <example>ceață de pe ochi</example>
+      ).
+    </comment>
+     
+    <!-- Assuming ciafa -> ceață -->
+    
+  </etymology>
+  
+  <variants>[ar. negură].</variants>
+  
+</entry>

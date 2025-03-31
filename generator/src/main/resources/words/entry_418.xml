@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="418">
+  
+  <lemma>crunt</lemma>
+   
+  <!-- Assuming croat -> crunt -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+   
+  <!-- Assuming =. -> -ă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„grausam, düster, blutig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CRUENTUS, -A, -UM</etymon>
+     
+    <!-- Assuming crurxtus -> CRUENTUS -->
+    
+    <cognates>
+      
+      <form lang="it">cruento</form>
+      , 
+      <form lang="sp">cruento</form>
+      , 
+      <form lang="eng">cruaint?</form>
+       „piagato, ferito“. 
+      <!-- Assuming kriant -> cruaint? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="87">
+  
+  <lemma>amuțesc</lemma>
+   
+  <!-- Assuming amutese -> amuțesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. amuțăscu]</variants>
+   
+  <!-- Assuming amutsäscu -> amuțăscu -->
+  
+  <definition>„verstummen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*AMMUTESCŌ, -ERE</etymon>
+     
+    <!-- Assuming *ap-MUTESCO, -ine -> *AMMUTESCŌ, -ERE -->
+    
+    <cognates>
+      
+      <form lang="a-lomb">amutir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. muțesc.</reference>
+   
+  <!-- Assuming mutese -> muțesc -->
+  
+</entry>

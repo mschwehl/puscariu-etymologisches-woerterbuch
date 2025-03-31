@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="431">
+  
+  <lemma>cuget</lemma>
+  
+  <verb_class>I</verb_class>
+   
+  <!-- Assuming I vb. -->
+  
+  <pos>vb.</pos>
+  
+  <definition>„denken“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. I § 147">
+    
+    <etymon lang="Lat">COGITO, -ARE</etymon>
+     
+    <!-- Assuming cöciro -> COGITO -->
+    
+    <cognates>
+      
+      <form lang="alb">kujtoj</form>
+       „erinnere mich“, 
+      <form lang="a-it">coitare</form>
+      , 
+      <form lang="cerign">cucjtare?</form>
+       „aver cura“, 
+      <form lang="obw">quitar</form>
+      , 
+      <form lang="a-frz">cuidier</form>
+      , 
+      <form lang="pv">cuidar</form>
+      , 
+      <form lang="sp">cuidar</form>
+      , 
+      <form lang="pg">cuidar</form>
+      . 
+      <!-- Assuming Auitöj -> kujtoj, cucgtă -> cucjtare?, cuti-dier -> cuidier -->
+      
+    </cognates>
+    
+    <derived_forms>
+      Dazu ein postverbales Subst. 
+      <form>cuget</form>
+       sm. „Ge­danke“, wie lecce 
+      <form lang="lecce">cusetu?</form>
+       ‚pensiero“. 
+      <form lang="pg">cuido</form>
+      .
+
+    </derived_forms>
+    
+    <reflexive_usage>
+      Auch Reflexiv: 
+      <form>mă cuget</form>
+      , welches nach 
+      <form>mă gîndesc</form>
+       analogisch sein kann, vgl. indessen 
+      <form lang="a-pv">mi pens</form>
+      .
+
+    </reflexive_usage>
+    
+    <phonological_note>
+      Die Unregelmäßigkeit des Stammvokals kann aus den endungsbetonten Formen erklärt werden, doch kann 
+      <form>cuget</form>
+       auch auf einem allerdings un­erklärten 
+      <etymon lang="Lat">*CUBITO?</etymon>
+       beruhen, das auch zu den anderen rom. Formen paßt. 
+      <!-- Assuming *cveıro -> *CUBITO? -->
+      
+    </phonological_note>
+    
+  </etymology>
+  
+  <variants>[ar. mintuescu, mînduescu].</variants>
+   
+  <!-- Assuming minduescu -> mînduescu -->
+  
+</entry>

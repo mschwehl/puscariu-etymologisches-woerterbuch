@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="6">
+  
+  <lemma>ac</lemma>
+   
+  <!-- Assuming ae is OCR error -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =&gt;, mgl. &gt; auch: „Gegenstand aus Silber“, ir. oc]</variants>
+  
+  <definition>„Nadel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ACUS, -ŪS</etymon>
+    
+    <cognates>
+      
+      <form lang="it">ago</form>
+      ,
+
+      <form lang="vegl">yuak</form>
+      ,
+
+      <form lang="sard">agu</form>
+      ,
+
+      <form lang="pv">ac</form>
+      ,
+
+      <form lang="aret">ega</form>
+      ,
+
+      <form lang="abruzz">ake</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="328">
+  
+  <lemma>ceară</lemma>
+   
+  <!-- Assuming cedrä -> ceară -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. țeară, auch „Kerze“, ir. țeară]</variants>
+   
+  <!-- Assuming tseară, făere -> țeară, țeară -->
+  
+  <definition>„Wachs, Ohrenschmalz“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CERA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">cera</form>
+      , 
+      <form lang="pv">cera</form>
+      , 
+      <form lang="sp">cera</form>
+      , 
+      <form lang="pg">cera</form>
+      ,
+
+      <form lang="sic">cira</form>
+      , 
+      <form lang="sard-log">chera</form>
+      , 
+      <form lang="eng">tschaira</form>
+      , 
+      <form lang="fr">cire</form>
+      . 
+      <!-- Assuming tSira -> cira, kera -> chera, tăaira -> tschaira -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="153">
+  
+  <lemma>astruca</lemma>
+   
+  <!-- Assuming aströe -> astruca -->
+  
+  <lemma_variants>(astruc)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <source_ref>Dos. Acatist 1673 f. 48b.</source_ref>
+  
+  <definition>
+    „bedecken (
+    <source_ref>Jb. VII, 82</source_ref>
+    , 
+    <source_ref>Liuba-Jana: Mäidan 97</source_ref>
+    ), begraben“
+  </definition>
+   
+  <!-- Assuming berraben -> begraben -->
+  
+  <etymology source="Meyer-Lübke, Zeitschr. rom. Phil. XXVII, 253">
+    
+    <etymon lang="Lat">*ASTRUCO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">ASTRUO</etymon>
+     „bedecken'*)
+
+  </etymology>
+  
+</entry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="466">
+  
+  <lemma>cusurin</lemma>
+   
+  <!-- Assuming cusurin -> cusurin -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sm.</pos>
+  
+  <related_form>
+    
+    <form>cusurină</form>
+     
+    <pos>sf.</pos>
+     
+    <!-- Assuming cusuvină -> cusurină -->
+    
+  </related_form>
+  
+  <definition>„Vetter, Base“</definition>
+  
+  <etymology source="Tappolet: Die rom. Verwandtschaftsnamen 117—118">
+    
+    <etymon lang="Lat">CONSOBRINUS, -A</etymon>
+    
+    <cognates>
+      
+      <form lang="vegl">consubrina?</form>
+      , 
+      <form lang="alb">kushëri, kushërirë</form>
+      , 
+      <form lang="lecce">cusuprinu?</form>
+      , 
+      <form lang="eng">cusdrin?</form>
+      , 
+      <form lang="fr">cousin</form>
+       (
+      <form lang="it">cugino</form>
+      ), (
+      <form lang="sp">sobrino</form>
+      , 
+      <form lang="pg">sobrinho</form>
+      ). 
+      <!-- Interpretation needed for konsubraina, kusert, kuserine, kussnprinu, kuzdrin -->
+      
+    </cognates>
+    
+    <usage_note>
+      Über Verbreitung und Kürzung dieses Wortes im Rom. vgl. Tappolet. Im Dacorom. dafür 
+      <form>văr</form>
+       s. v.
+
+    </usage_note>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="376">
+  
+  <lemma>cîșlegi</lemma>
+   
+  <!-- Assuming eislegt -> cîșlegi -->
+  
+  <pos>sm. Pl. tant.</pos>
+  
+  <variants>[ar. căşleagă W., cășleagă P.]</variants>
+   
+  <!-- Assuming căsleadze -> căşleagă -->
+  
+  <definition>„Karneval“</definition>
+  
+  <etymology source="Archivio glott. ital. XII, 155; Romania XVII, 154">
+    
+    <etymon lang="Lat">CASEUM + LIGARE</etymon>
+    , daneben 
+    <form>cîrnilegă, cîrneleagă</form>
+     (Creangă), ar. 
+    <form>cărleagă</form>
+    , olymp.-wal. 
+    <form>cärleadze</form>
+     in dessen erstem Bestand­teil wahrscheinlich 
+    <etymon lang="Lat">CARO, -RNEM</etymon>
+     zu suchen ist. Vgl. 
+    <example lang="it">carnevale</example>
+     aus 
+    <etymon lang="Lat">CARNEM LEVARE</etymon>
+    , 
+    <example lang="it">carnasciale</example>
+     aus 
+    <etymon lang="Lat">CARNEM LASCIARE</etymon>
+    , 
+    <example lang="a-sard-log">carasecare</example>
+     „Fastnacht“, auch 
+    <example lang="a-sard-log">segarepetza, segarepetza</example>
+     (
+    <form>petza</form>
+     = Fleisch), 
+    <example lang="fr">carnaval</example>
+    , vgl. 
+    <example lang="cat">Carnestoltes</example>
+    , 
+    <example lang="sp">carnestolendas</example>
+    . 
+    <!-- Assuming carmevale -> carnevale, carnasciale -> carnasciale, karrasecare -> carasecare, segarapetssa -> segarepetza, petssa -> petza -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="368">
+  
+  <lemma>cînepă</lemma>
+   
+  <!-- Assuming cînepă -> cînepă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. cânipă, mgl. conipă]</variants>
+  
+  <definition>„Hanf“</definition>
+  
+  <etymology_discussion source="Dens. H. l. r.; G. Meyer: Etymol. Wörtb. der alb. Sprache 174">
+    setzt ein 
+    <etymon lang="Lat">*CANAPIS, -EM</etymon>
+     statt 
+    <etymon lang="Lat">CANNABIS</etymon>
+     voraus. Was zunächst das 
+    <phoneme>p</phoneme>
+     für 
+    <phoneme>b</phoneme>
+     betrifft, so ist dies eine bekannte urrom. Erscheinung (aber in den weiter anzuführenden Dialektformen kann ea sekundär entstanden sein). Einfaches 
+    <phoneme>n</phoneme>
+     wird von allen rom. Formen (außer Sard. Sp. Pg.), 
+    <phoneme>e</phoneme>
+     statt 
+    <phoneme>a</phoneme>
+     von den meisten gefordert, vgl. 
+    <form lang="Lat">canapus?</form>
+     C. S. 4850, 
+    <form lang="Lat">canapeu?</form>
+     bei Marcellus Empiricus; auch der Vergleich mit kslav. 
+    <etymon lang="chu">konoplja</etymon>
+    , lit. 
+    <etymon lang="lt">kanapės</etymon>
+    , a.-preus. 
+    <etymon lang="prg">konapios</etymon>
+     (germ. 
+    <etymon lang="gem">*hanap-</etymon>
+    ) spricht für 
+    <phoneme>n</phoneme>
+     und 
+    <phoneme>e</phoneme>
+    .
+
+    <cognates>
+      
+      <form lang="alb">kërp, g. kanep</form>
+      , 
+      <form lang="it">canapa?</form>
+      , 
+      <form lang="lecce">canapa?</form>
+      , 
+      <form lang="aquil">canepa?</form>
+      , 
+      <form lang="sillano">canapja?</form>
+      , 
+      <form lang="gombit">canneva?</form>
+      , 
+      <form lang="mail">canav?</form>
+      , 
+      <form lang="ven">canevo?</form>
+      , 
+      <form lang="romag">canav?</form>
+      , 
+      <form lang="romag">canva?</form>
+      , 
+      <form lang="triest">canova?</form>
+      , 
+      <form lang="cors">canapu?</form>
+      , 
+      <form lang="sard-log">cannavu?</form>
+      , 
+      <form lang="sard-camp">canniu?</form>
+      , 
+      <form lang="pv">canbe?</form>
+      , 
+      <form lang="fr">chanvre</form>
+      , 
+      <form lang="lyon">?</form>
+      , 
+      <form lang="dompierre">?</form>
+      , 
+      <form lang="cat">cànem</form>
+      , 
+      <form lang="sp">cáñamo</form>
+      , 
+      <form lang="pg">cânhamo</form>
+      . 
+      <!-- Interpretation needed for many forms -->
+      
+    </cognates>
+    
+  </etymology_discussion>
+  
+</entry>

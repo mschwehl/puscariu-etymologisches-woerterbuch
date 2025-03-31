@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="158">
+  
+  <lemma>ață</lemma>
+   
+  <!-- Assuming dţă -> ață -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. &gt;, ir. oță]</variants>
+   
+  <!-- Assuming ofse -> oță -->
+  
+  <definition>„Zwirn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ACIA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">ACUS</etymon>
+    . Belege im Thes. l. lat. und im 
+    <source_ref>Archiv lat. Lex. XIII, 278</source_ref>
+    )
+
+    <cognates>
+      
+      <form lang="it">accia</form>
+      , 
+      <!-- Assuming aceia -> accia -->
+      
+      <form lang="cal">azza</form>
+      , 
+      <form lang="lomb">azza</form>
+      , 
+      <form lang="ven">azza</form>
+      , 
+      <form lang="neap">azza</form>
+      , 
+      <form lang="cors">azza</form>
+      , 
+      <!-- Assuming atssa -> azza -->
+      
+      <form lang="mail">assa</form>
+      , 
+      <form lang="com">assa</form>
+      ,
+
+      <form lang="n-berg">assa</form>
+      , 
+      <form lang="bresc">assa</form>
+      ,
+
+      <form lang="emil">lazza</form>
+      , 
+      <!-- Assuming latssa -> lazza -->
+      
+      <form lang="trient">asa</form>
+      ,
+
+      <form lang="eng">atscha</form>
+      . 
+      <!-- Assuming at$a -> atscha -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <comment>[Papah. unbekannt, dafür ar. k'eadină].</comment>
+   
+  <!-- Assuming k’adin -> k'eadină -->
+  
+</entry>

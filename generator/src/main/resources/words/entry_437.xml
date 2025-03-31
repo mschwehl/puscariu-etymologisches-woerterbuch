@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="437">
+  
+  <lemma>culme</lemma>
+   
+  <!-- Assuming eüilme -> culme -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Gipfel, Firstbalken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CULMEN</etymon>
+     
+    <!-- Assuming ciiumEs -> CULMEN -->
+    
+    <cognates>
+      
+      <form lang="mail">coma?</form>
+      , 
+      <form lang="eng">culm?</form>
+      , 
+      <form lang="a-frz">colme</form>
+      , 
+      <form lang="sp">cumbre</form>
+      , 
+      <form lang="pg">cume</form>
+      . 
+      <!-- Assuming kuolm -> culm? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <related_form>
+    Im Ar. dafür 
+    <form>culmu?</form>
+     W. „Giebel“ sm.  
+    <etymon lang="Lat">*CULMUM</etymon>
+    : 
+    <cognates>
+      <form lang="alb">kulm</form>
+       „Firstbalken“, 
+      <form lang="it">colmo</form>
+      , 
+      <form lang="sic">curmu</form>
+      , 
+      <form lang="nordsard">culmu?</form>
+    </cognates>
+     (vielleicht gehört auch die a-frz. und eng. Form hierher). 
+    <!-- Assuming csilna -> culmu?, hufm -> kulm, lulmu -> culmu? -->
+    
+  </related_form>
+  
+  <variants>[P. kennt nur ar. țuțulă].</variants>
+   
+  <!-- Assuming tsutsulä -> țuțulă -->
+  
+</entry>

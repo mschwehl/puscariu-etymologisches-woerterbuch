@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="318">
+  
+  <lemma>cățîn?</lemma>
+   
+  <!-- Interpretation of cătsăn needed -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. cățon; im D-rum. nur im Bergnamen Cățîn erhalten]</variants>
+  
+  <definition>„Napf“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CATINUS, -UM</etymon>
+     
+    <!-- Assuming catisus -> CATINUS -->
+    
+    <cognates>
+      
+      <form lang="lomb">cadhin</form>
+      , 
+      <form lang="ven">caìn</form>
+      , 
+      <form lang="sard">cadinu</form>
+      , 
+      <form lang="eng">chadin</form>
+      , 
+      <form lang="pg">cadinho</form>
+      . 
+      <!-- Assuming kadin -> cadhin, kain -> caìn, kadinu -> cadinu, l'adin -> chadin -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

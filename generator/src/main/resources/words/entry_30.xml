@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="30">
+  
+  <lemma>adumbresc</lemma>
+   
+  <!-- Assuming lemma from verb class IV -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„beschatten‘“</definition>
+  
+  <etymology_discussion>
+    setzt einen rum. Konju­gationswechsel des älteren 
+    <form>*adumbru</form>
+     I voraus (
+    <etymon lang="Lat">ADUMBRO, -ARE</etymon>
+    : 
+    <cognates>
+      <form lang="it">adombrare</form>
+      , 
+      <form lang="abruzz">adumbră</form>
+      , 
+      <form lang="pv">azombrar</form>
+      , 
+      <form lang="a-frz">aombrer</form>
+    </cognates>
+    ), nach 
+    <form>umbresc</form>
+     IV (von 
+    <form>umbră</form>
+     abgeleitet).
+
+  </etymology_discussion>
+  
+  <variants>[ar. me aumbredz].</variants>
+  
+</entry>

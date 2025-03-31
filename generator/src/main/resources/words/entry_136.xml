@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="136">
+  
+  <lemma>așchie</lemma>
+   
+  <!-- Assuming dşehti)e -> așchie -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Splitter, Spahn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ASCLA, -AM</etymon>
+     (
+    <etymon lang="Lat">*ASSŬLA</etymon>
+    ) 
+    <!-- Interpreting Casca, -an K*asm[ölra — ass[ü|ra) -->
+    
+    <cognates>
+      
+      <form lang="alb">ashkël</form>
+      , 
+      <!-- Assuming ask’e -> ashkël -->
+      
+      <form lang="it">aschia</form>
+       (
+      <form lang="neap">aska</form>
+      , 
+      <form lang="cal">aska</form>
+      ),
+
+      <form lang="sard">ascia</form>
+      , 
+      <!-- Assuming asa -> ascia -->
+      
+      <form lang="pv">ascla</form>
+      , 
+      <form lang="cat">ascla</form>
+      ,
+
+      <form lang="pg">acha</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. șchîrpă].</variants>
+   
+  <!-- Assuming scîrpă -> șchîrpă -->
+  
+</entry>

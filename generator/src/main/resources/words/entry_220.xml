@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="220">
+  
+  <lemma>brîncă</lemma>
+   
+  <!-- Assuming briwei -> brîncă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>
+    „Pfote, Hand (
+    <source_ref>Conv. lit. XX, 1005</source_ref>
+    , 
+    <source_ref>Frîncu-Candrea: Rom. d. Munţii apuseni 49</source_ref>
+    )“
+  </definition>
+  
+  <etymology source="Gromat. vet. 309, 2, 4">
+    
+    <etymon lang="Lat">BRANCA, -AM</etymon>
+     (
+    <example lang="Lat">BRANCA URSI</example>
+    )
+
+    <cognates>
+      
+      <form lang="it">branca</form>
+      , 
+      <form lang="prov">branca</form>
+      , 
+      <form lang="sp">branca</form>
+      , 
+      <form lang="a-pg">branca</form>
+      , 
+      <!-- Assuming pr. -> prov. -->
+      
+      <form lang="eng">brantga</form>
+      , 
+      <!-- Assuming braunk'a -> brantga -->
+      (ir. in 
+      <example>brantgas = a merge pe brînci</example>
+       — auf allen Vieren gehen),
+
+      <form lang="fr">branche</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. palmă].</variants>
+  
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="154">
+  
+  <lemma>astup</lemma>
+   
+  <!-- Assuming astäp -> astup -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. —, mgl. =, năstup]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„verstopfen“</definition>
+  
+  <etymology>
+    kann 
+    <etymon lang="Lat">*ADSTUPPO, -ARE</etymon>
+    , 
+    <etymon lang="Lat">*EXSTUPPO, -ARE</etymon>
+     oder nur 
+    <etymon lang="Lat">*STUPPO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">STUPPA</etymon>
+     „Werg“) sein:
+
+    <cognates>
+      
+      <form lang="it">stoppare</form>
+       (
+      <form lang="sic">attuppari</form>
+      , 
+      <form lang="tyr">struppar</form>
+      ), 
+      <!-- Assuming Strupe -> struppar -->
+      
+      <form lang="eng">stoppar</form>
+      , 
+      <!-- Assuming stopper -> stoppar -->
+      
+      <form lang="fr">étouper</form>
+       (vgl. 
+      <form lang="a-frz">estopant sa oreille</form>
+      ),
+
+      <form lang="a-sp">estopar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

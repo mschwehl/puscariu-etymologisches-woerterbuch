@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="514">
+  
+  <lemma>descurc</lemma>
+   
+  <!-- Assuming deseüre -> descurc -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„entwickeln, klären“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 680—681; Arch. lat. Lex. XIV, 121">
+    
+    <etymon lang="Lat">*DIS-[OB]SCŪRICO, -ARE</etymon>
+    , das Gegenteil von 
+    <etymon lang="Lat">*[OB]SCŪRICARE</etymon>
+     &gt; 
+    <form lang="sard-log">iscurigare?</form>
+     „dunkel werden“.
+
+    <usage_note>
+      Letzteres ist im Rum. nicht vorhanden, sondern man hat von 
+      <form>descurc</form>
+       nach dem Muster: 
+      <form>închid</form>
+       „schließe — 
+      <form>deschid</form>
+       „öffne“, 
+      <form>îmbrac</form>
+       „kleide an“ — 
+      <form>dezbrac</form>
+       „kleide aus“ etc. ein 
+      <form>încurc</form>
+       I vb. (statt 
+      <form>*înscurc?</form>
+      ) „verwickle, mache unklar“ gebildet. 
+      <etymon lang="Lat">*ISCŪRUS</etymon>
+       statt 
+      <etymon lang="Lat">OBSCŪRUS</etymon>
+       liegt allen rom. Formen zugrunde (vgl. 
+      <form>SCURNINUS</form>
+       als „Pferdefarbe“). 
+      <!-- Assuming iskurgare -> iscurigare?, incuve -> încurc -->
+      
+    </usage_note>
+    
+  </etymology>
+  
+  <variants>[mgl. desmintez IV, ar. aleg].</variants>
+   
+  <!-- Assuming des­mintes -> desmintez -->
+  
+</entry>

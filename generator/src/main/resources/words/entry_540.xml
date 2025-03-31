@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="540">
+  
+  <lemma>doi</lemma>
+  
+  <feminine>două</feminine>
+   
+  <!-- Assuming döwä -> două -->
+  
+  <pos>num.</pos>
+  
+  <variants>[ar. doi, dao, mgl. doi, două, ir. doi, do]</variants>
+  
+  <definition>„zwei“</definition>
+  
+  <etymology source="Zeitschrift rom. Phil. XXVIII, 688">
+    
+    <etymon lang="Lat">DUĪ (= DUO), DUAE</etymon>
+     
+    <!-- Assuming Cpl -> DUĪ -->
+    
+    <cognates>
+      
+      <form lang="it">due</form>
+      , 
+      <form lang="eng">duos</form>
+      , 
+      <form lang="pv">dos</form>
+      , 
+      <form lang="fr">deux</form>
+      , 
+      <form lang="cat">dos</form>
+      , 
+      <form lang="sp">dos</form>
+      , 
+      <form lang="pg">dois</form>
+      . 
+      <!-- Assuming dugs, dw -> duos, dos -->
+      
+    </cognates>
+    
+    <phonological_note>Zum rum. Vokal vgl. Zeitschrilt rom. Phil.</phonological_note>
+    
+  </etymology>
+  
+</entry>

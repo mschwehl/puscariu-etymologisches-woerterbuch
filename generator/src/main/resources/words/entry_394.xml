@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="394">
+  
+  <lemma>coi</lemma>
+   
+  <!-- Assuming coiii -> coi -->
+  
+  <pos>sm.</pos>
+  
+  <usage>
+    meist 
+    <form>coaie</form>
+     Plur. tant.
+  </usage>
+   
+  <!-- Assuming codie -> coaie -->
+  
+  <variants>[ar. colu, coale, ir. col, cole]</variants>
+  
+  <definition>„Hode(n)“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">COLEUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="pv">colh</form>
+      , 
+      <form lang="a-frz">coil</form>
+      , 
+      <etymon lang="Lat">*COLEA</etymon>
+      : 
+      <form lang="it">coglia</form>
+      , 
+      <form lang="sard">coia?</form>
+      , 
+      <form lang="fr">couille</form>
+      . 
+      <!-- Assuming koza -> coia? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

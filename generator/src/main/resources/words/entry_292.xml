@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="292">
+  
+  <lemma>cărunt</lemma>
+   
+  <!-- Assuming evit -> cărunt -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„grau“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CANŪTUS, -A, -UM</etymon>
+     (von 
+    <etymon lang="Lat">CANESCO</etymon>
+    ). 
+    <!-- Assuming C*CANITUS -> *CANŪTUS -->
+    
+  </etymology>
+  
+  <homonym_distinction>
+    Dagegen ist 
+    <form>cănit</form>
+     (in Kronstadt) „geschminkt“ von ung. 
+    <etymon lang="hu">kenni</etymon>
+     „schmieren‘ abgeleitet.
+
+  </homonym_distinction>
+  
+</entry>

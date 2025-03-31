@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="480">
+  
+  <lemma>cuvînt</lemma>
+   
+  <!-- Assuming euvint -> cuvînt -->
+  
+  <lemma_variants>(cuvîntez)</lemma_variants>
+   
+  <!-- Assuming cuvântez -> cuvîntez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ir. cuvînt?]</variants>
+   
+  <!-- Assuming kuovintu -> cuvînt? -->
+  
+  <definition>„reden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CONVENTO, -ARE</etymon>
+     (mit dem Sinne von 
+    <ref target_lemma="cuvînt">cuvînt</ref>
+    ) 
+    <!-- Assuming coxvENTO -> CONVENTO -->
+    
+    <cognates>
+      
+      <form lang="alb">kuvendoj</form>
+       „rede“, vgl. gr. 
+      <etymon lang="el">κουβεντιάζω</etymon>
+      . 
+      <!-- Assuming ku(ve)ndoi -> kuvendoj, zoßartıdio -> κουβεντιάζω -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. zburăscu, grăescu].</variants>
+   
+  <!-- Assuming grescu -> grăescu -->
+  
+</entry>

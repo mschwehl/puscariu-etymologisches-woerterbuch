@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="226">
+  
+  <lemma>bucă</lemma>
+   
+  <!-- Assuming bücä -> bucă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. —, mgl. = „Kanalmündung“]</variants>
+   
+  <!-- Assuming mel. © -> mgl. = -->
+  
+  <definition>„Backe, Wange“</definition>
+  
+  <etymology source="Zauner: Körperteile, 380, 384; G. Meyer: Etym. Wörtb. d. alb. Spr. 51">
+    
+    <etymon lang="Lat">BUCCA, -AM</etymon>
+     
+    <!-- Assuming Bicca -> BUCCA -->
+    
+    <cognates>
+      
+      <form lang="alb">bukë</form>
+      , 
+      <!-- Assuming Duke -> bukë -->
+      
+      <form lang="it">bocca</form>
+      , 
+      <form lang="sard">bucca</form>
+      , 
+      <form lang="eng">bucca</form>
+      , 
+      <!-- Assuming buok’a -> bucca -->
+      
+      <form lang="pv">boca</form>
+      , 
+      <form lang="sp">boca</form>
+      ,
+
+      <form lang="fr">bouche</form>
+      .
+
+    </cognates>
+    
+    <semantic_note>
+      Nur das Rum. bewahrt die ursprüngliche Bedeutung, im Rom. hat sonst 
+      <etymon lang="Lat">BUCCA</etymon>
+       den Sinn „Mund“ (vgl. 
+      <form>îmbuc</form>
+       I vb. „essen“, 
+      <form>bucată</form>
+       „Bissen“) oder „Lippe“. Im Alb. „Brot“.
+
+    </semantic_note>
+    
+  </etymology>
+  
+  <semantic_note>
+    
+    <form>Bucă</form>
+     bedeutet auch „Hinterbacken“, [ar. dafür 
+    <form>coapsă</form>
+    ]; desgleichen: 
+    <example lang="n-pv">gauta dau cul</example>
+    , 
+    <example lang="rtr">vista cul</example>
+    , 
+    <example lang="rtr">fatscha chi</example>
+    , 
+    <example lang="lanc">mascelle de lu culu</example>
+    . 
+    <!-- Needs careful verification of forms -->
+    
+  </semantic_note>
+  
+</entry>

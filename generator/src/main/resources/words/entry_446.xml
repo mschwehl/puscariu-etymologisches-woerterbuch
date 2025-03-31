@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="446">
+  
+  <lemma>cună</lemma>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Lagerstätte, Wiege“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CUNA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">cuna</form>
+      , 
+      <form lang="sp">cuna</form>
+      , 
+      <form lang="lomb">cüna</form>
+      , 
+      <form lang="monf">cüna</form>
+      , 
+      <form lang="obw">chüna</form>
+      . 
+      <!-- Assuming küna -> cüna, k'ina -> chüna -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

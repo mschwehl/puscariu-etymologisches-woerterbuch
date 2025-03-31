@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="66">
+  
+  <lemma>almăr</lemma>
+   
+  <!-- almâr -> almăr? -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. armor]</variants>
+  
+  <definition>„Schrank“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARMARIUM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">armadio</form>
+      ,
+
+      <form lang="bellun">armer</form>
+      ,
+
+      <form lang="a-frz">almaire</form>
+      ,
+
+      <form lang="n-frz">armoire</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <comparison>
+    Vgl. ung. 
+    <form lang="hu">almáriom</form>
+    .
+  </comparison>
+   
+  <!-- Assuming almdriom -> almáriom -->
+  
+  <variants>[ar. dulap].</variants>
+   
+  <!-- Assuming dulâpe -> dulap -->
+  
+</entry>

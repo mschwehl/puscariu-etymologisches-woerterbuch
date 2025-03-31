@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="230">
+  
+  <lemma>buieștru</lemma>
+   
+  <!-- Assuming buestru -> buieștru -->
+  
+  <pos>sb. adj.</pos>
+  
+  <definition>„Paßgang, Paßgänger“</definition>
+  
+  <etymology_discussion source="Tiktin: Wortb. 234; Cihac II, 32">
+    
+    <proposed_etymology>
+      will Tiktin aus 
+      <etymon lang="Lat">*BOVESTRIS</etymon>
+       (sc. 
+      <etymon lang="Lat">PASSUS</etymon>
+      ) ableiten.
+
+    </proposed_etymology>
+    
+    <rejected_etymology>
+      Cihac dachte an k.-slav. 
+      <etymon lang="chu">buĭestĭ</etymon>
+       „audacia, arrogantia“.
+
+    </rejected_etymology>
+    
+  </etymology_discussion>
+  
+  <variants>[ar. an-pătrulea].</variants>
+   
+  <!-- Assuming am-päturlea -> an-pătrulea -->
+  
+</entry>

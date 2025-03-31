@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="199">
+  
+  <lemma>berbecar</lemma>
+   
+  <!-- Assuming berbecär -> berbecar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. birbicar]</variants>
+  
+  <definition>„Schafhirt‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*VERVECARIUS, -UM</etymon>
+     (von 
+    <etymon lang="Lat">VERVEX</etymon>
+    ) 
+    <!-- Assuming * BERBECARIUS -> *VERVECARIUS -->
+    
+    <cognates>
+      
+      <form lang="prov">berguier</form>
+      , 
+      <form lang="fr">berger</form>
+      . 
+      <!-- Assuming Dv. -> prov. -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

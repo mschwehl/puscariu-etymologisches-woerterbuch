@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="250">
+  
+  <lemma>cadă</lemma>
+   
+  <!-- Assuming ccddă -> cadă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. = „kleiner Bottich, kupfernes Gefäß der Hirten“]</variants>
+   
+  <!-- Assuming m -> = -->
+  
+  <definition>„Bottich“</definition>
+  
+  <etymology source="Dens. H. l. r. 31">
+    
+    <etymon lang="Lat">CADA, -AM</etymon>
+     (= 
+    <etymon lang="Lat">CADUS</etymon>
+    ) 
+    <!-- Assuming capa -> CADA -->
+    
+    <cognates>
+      
+      <form lang="neap">cato</form>
+      , 
+      <form lang="sic">catu</form>
+       „secchia, botticello“.
+
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Alb. 
+    <form lang="alb">kadë</form>
+     „Gähr­bottich“ stammt aus dem Rum., wahrscheinlich auch k.-slav. 
+    <etymon lang="chu">kadĭ</etymon>
+    , srb. 
+    <form lang="sr">kada</form>
+    , ung. 
+    <form lang="hu">kád</form>
+    . 
+    <!-- Assuming kade -> kadë, kadi -> kadĭ -->
+    
+  </borrowing_note>
+  
+</entry>

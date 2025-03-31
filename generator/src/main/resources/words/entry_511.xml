@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="511">
+  
+  <lemma>desțin?</lemma>
+   
+  <!-- Interpretation needed -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„aufsperren“</definition>
+  
+  <etymology source="Dens. H. l. r. 169">
+    
+    <etymon lang="Lat">DISTENDO, -ARE</etymon>
+    ? 
+    <!-- Assuming pis-cinEo -> DISTENDO? -->
+    
+    <cognates>
+      
+      <form lang="sard">distendere?</form>
+      . 
+      <!-- Assuming diskundXare -> distendere? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. discărnusescu? „etwas, was mit Nägeln beschlagen ist, aufmachen“).</variants>
+   
+  <!-- Assuming discärfnseseu -> discărnusescu? -->
+  
+</entry>

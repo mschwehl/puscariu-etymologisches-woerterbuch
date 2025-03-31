@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="180">
+  
+  <lemma>bale</lemma>
+  
+  <pos>sf. plur. tant.</pos>
+   
+  <!-- Assuming bate st. plur. tant -> bale sf. plur. tant. -->
+  
+  <variants>[ar. bale, mgl. bali]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„Geifer, Speichel“</definition>
+  
+  <etymology>
+    ist die Mehrzahl von einem verloren gegangenen Sing. 
+    <form>*bă</form>
+     ( 
+    <etymon lang="Lat">*BABA, -AM</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="it">bava</form>
+      , 
+      <form lang="sard">bava</form>
+      , 
+      <form lang="sp">baba</form>
+      , 
+      <form lang="pg">baba</form>
+      , vgl. 
+      <form lang="fr">baver, bavard</form>
+      . 
+      <!-- Assuming baa -> bava -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

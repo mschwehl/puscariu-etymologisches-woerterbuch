@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="201">
+  
+  <lemma>biet</lemma>
+  
+  <feminine_neuter>-eată</feminine_neuter>
+   
+  <!-- Assuming -edtä -> -eată -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„arm“</definition>
+  
+  <etymology_discussion source="Dens. H. l. r. 99; Cihac II, 13">
+    
+    <rejected_etymology>
+      will man von 
+      <etymon lang="Lat">VIETUS, -A, -UM</etymon>
+       „welk“ ableiten (die Schreibung 
+      <form>vietus</form>
+       findet sich in 
+      <source_ref>C. gl. l. VII, 415</source_ref>
+      ), doch, wenn man auch von der Bedeutung absieht, hätte VIETUS zu 
+      <form>*VETUS</form>
+       werden müssen (wie 
+      <etymon lang="Lat">QUIETUS &gt; QUETUS</etymon>
+      ) und dieses zu rum. 
+      <form>*văt</form>
+       od. 
+      <form>*băt</form>
+      . Auch die von Dens. ange­führten: 
+      <form lang="piem">biet</form>
+       und 
+      <form lang="sien">biegio</form>
+       passen nicht zu 
+      <etymon lang="Lat">VIETUS</etymon>
+      .
+
+    </rejected_etymology>
+    
+    <proposed_etymology>
+      so daß man das Wort besser von k.-slav. 
+      <etymon lang="chu">bĕdĭnŭ</etymon>
+       „miser“ ableitet. 
+      <!-- Assuming bed-int -> bĕdĭnŭ -->
+      
+    </proposed_etymology>
+    
+  </etymology_discussion>
+  
+  <variants>[ar. amărât].</variants>
+   
+  <!-- Assuming märat -> amărât -->
+  
+</entry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="478">
+  
+  <lemma>cuvin</lemma>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb. defektiv</pos>
+  
+  <usage>
+    <example>să cuvine</example>
+     „es schickt sich“
+  </usage>
+  
+  <etymology source="Mussafia: Bei­trag 99; Dens. H. l. r. 221—222">
+    
+    <etymon lang="Lat">CONVENIO, -IRE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">convenire</form>
+      , 
+      <form lang="eng">convgnir?</form>
+      , 
+      <form lang="pv">covenir</form>
+      , 
+      <form lang="fr">convenir</form>
+      , 
+      <form lang="sp">convenir</form>
+      , 
+      <form lang="pg">convir</form>
+      ;
+
+    </cognates>
+    
+    <semantic_note>
+      überall findet sich die Bedeutung „sich ziemen“ (Bei­spiele aus nord.-it. u. rätorom. Mundarten bei Mussafia und Dens.; vgl. 
+      <example lang="Lat">convenit = oportet</example>
+       in den Reichenauer Glossen, 593). 
+      <!-- Assuming konviir -> convgnir? -->
+      
+    </semantic_note>
+    
+  </etymology>
+  
+</entry>

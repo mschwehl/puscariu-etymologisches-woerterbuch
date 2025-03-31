@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="272">
+  
+  <lemma>căpăstru</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. căpestru, căprestu, mgl. ir. căpestru]</variants>
+  
+  <definition>„Halfter“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CAPISTRUM</etymon>
+     
+    <!-- Assuming carisrrunm -> CAPISTRUM -->
+    
+    <cognates>
+      
+      <form lang="it">capestro</form>
+      , 
+      <form lang="sic">capistru</form>
+      , 
+      <form lang="eng">chavaister</form>
+      , 
+      <form lang="pv">cabestre</form>
+      , 
+      <form lang="a-frz">chevestre</form>
+      , 
+      <form lang="sp">cabestro</form>
+      , 
+      <form lang="pg">cabresto</form>
+      . 
+      <!-- Assuming k’avaister -> chavaister -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

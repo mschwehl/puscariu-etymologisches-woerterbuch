@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="148">
+  
+  <lemma>astup</lemma>
+   
+  <!-- Assuming astătii -> astup -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„den Weg abschneiden, begegnen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*EXTUPPO?</etymon>
+     or 
+    <etymon lang="Lat">*OBSTUPO?</etymon>
+     
+    <!-- Assuming *ExX-TALIO -> *EXTUPO? based on meaning; Tiktin suggests *OBSTŪPŌ -->
+    
+    <comparison>
+      (vgl. 
+      <etymon lang="Lat">EXSECO</etymon>
+      ).
+    </comparison>
+     
+    <!-- Assuming RX-SECO -> EXSECO -->
+    
+  </etymology>
+  
+</entry>

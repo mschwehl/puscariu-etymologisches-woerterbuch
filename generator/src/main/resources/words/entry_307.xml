@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="307">
+  
+  <lemma>căscăund</lemma>
+   
+  <!-- Assuming eäsedünd) -> căscăund -->
+  
+  <lemma_variants>
+    (
+    <form>căscăunt</form>
+     
+    <source_ref>Dosoft. Viaţa sfint. ?°%</source_ref>
+    )
+  </lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Dummkopf“</definition>
+  
+  <etymology source="Tiktin: Wortb. 305; Candrea-Hecht: Rom. XXXI, 305">
+    
+    <etymon lang="Lat">*CASCABUNDUS, -A, -UM</etymon>
+     (vom vorigen).
+
+  </etymology>
+  
+  <variants>[ar. căscul?, hăscul].</variants>
+   
+  <!-- Assuming cdscul -> căscul? -->
+  
+</entry>

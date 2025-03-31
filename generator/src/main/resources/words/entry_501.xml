@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="501">
+  
+  <lemma>deprind</lemma>
+  
+  <lemma_variants>(deprinz)</lemma_variants>
+  
+  <inflection>-insei, -ins</inflection>
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„üben, ange­wöhnen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DEPREHENDO, -NDI, -NSUM, -NDERE</etymon>
+    . 
+    <!-- Assuming DEPRE[HE|NDO -> DEPREHENDO -->
+    
+    <semantic_development>
+      Der Sinnesübergang erklärt sich aus: „etwas erfassen“ — „etwas lernen“ — „sich etwas angewöhnen“, vgl. frz. 
+      <form lang="fr">apprendre</form>
+       „lernen“ = rum. 
+      <form>învăț</form>
+      , welch letzteres auch „angewöhnen“ bedeutet.
+
+    </semantic_development>
+    
+  </etymology>
+  
+  <variants>[ar. mă înveț].</variants>
+   
+  <!-- Assuming mi nvets -> mă înveț -->
+  
+</entry>

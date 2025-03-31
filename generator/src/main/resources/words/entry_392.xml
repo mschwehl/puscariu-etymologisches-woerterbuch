@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="392">
+  
+  <lemma>codru</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Urwald; Stück Brot“</definition>
+  
+  <variants>
+    [ar. „Marktplatz, bewaldeter Berg“, 
+    <form>coduri</form>
+     „Stück Kuchen, großes Stück Brot‘, olymp.-wal. 
+    <form>codru-mare</form>
+     „großer Berg“, mgl. „Marktplatz, viereckiges Stück Mehlspeise“, 
+    <form>coduri</form>
+     Pl. t. „Gemüsekuchen“, 
+    <form>Codru-negru</form>
+     Ort zwischen Lescova und Ocin, ir. codru „bewaldeter Berg‘ 
+    <source_ref>Jb. II, 217</source_ref>
+    ]
+  </variants>
+   
+  <!-- Assuming mol. -> mgl., O3in -> Ocin -->
+  
+  <etymology_discussion source="Dens. H. l. r. 71—72; Meyer-Lübke: Literaturblatt XXII, 299—300; Weigand Jb. II, 217—218; G. Meyer: Berliner philol. Wochenschr. XVI, 536; J. Scheftelovitz: Bezzen­berger's Beitr. XXVIII, 157">
+    
+    <rejected_etymology>
+      Man hat 
+      <form>codru</form>
+       und alb. 
+      <form lang="alb">kodër</form>
+       „Hügel, Berg“ auf lat. 
+      <etymon lang="Lat">QUADRUM</etymon>
+       (
+      <etymon lang="Lat">QUADRA</etymon>
+       „Brotscheibe‘“) zurückführen wollen.
+    </rejected_etymology>
+    
+    <rejected_etymology>
+      Dens. stellt ein lat. 
+      <etymon lang="Lat">*QUODRUM</etymon>
+       auf, wogegen Meyer-Lübke schwerwiegende Bedenken erhebt.
+    </rejected_etymology>
+    
+    <rejected_etymology>
+      Auch eine slavische Vermittlung (wodurch 
+      <phoneme>a</phoneme>
+       &gt; 
+      <phoneme>o</phoneme>
+       erklärlich wäre), wie sie Weigand annimmt, ist unwahrscheinlich.
+    </rejected_etymology>
+    
+    <proposed_etymology>
+      Am besten erklärt man rum. 
+      <form>codru</form>
+       als Entlehnung aus alb. 
+      <form lang="alb">kodër</form>
+       „Hügel“ und dieses als gar nicht zu lat. 
+      <etymon lang="Lat">QUADRUM</etymon>
+       gehörig, sondern mit armen. 
+      <etymon lang="hy">katar</etymon>
+       „Giebel, Spitze, Scheitel“ urverwandt.
+    </proposed_etymology>
+    
+  </etymology_discussion>
+  
+</entry>

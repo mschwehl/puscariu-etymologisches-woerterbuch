@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="183">
+  
+  <lemma>bărbat</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. = , ir. bărbot]</variants>
+   
+  <!-- Assuming mel. o -> mgl. = -->
+  
+  <definition>„Mann“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BARBATUS, -A, -UM</etymon>
+     
+    <!-- Assuming SrarBArıS -> BARBATUS -->
+    
+    <cognates>
+      
+      <form lang="it">barbato</form>
+      ,
+
+      <form lang="sp">barbado</form>
+      , 
+      <form lang="pg">barbado</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Im Rom., wie im Lat. 
+    <form>bărbiță?</form>
+    , wofür rum. 
+    <form>bărbos</form>
+    . — 
+    <form>Bărbat</form>
+     wird auch als Adj. im Sinne von „tüchtig, mutig“ gebraucht (
+    <example>fată bărbată</example>
+     = „tüchtiges, arbeitsames Mädchen").
+
+  </usage_note>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt n.-gr. 
+    <form lang="ngr">μπαρμπάτος</form>
+     und alb. 
+    <form lang="alb">burrë?</form>
+     „männliches Tier“. 
+    <!-- Assuming Bapßdros O alb. varvät -> interpretation -->
+    
+  </borrowing_note>
+  
+</entry>

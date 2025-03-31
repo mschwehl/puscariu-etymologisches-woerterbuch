@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="407">
+  
+  <lemma>Crăciun</lemma>
+   
+  <!-- Assuming erdeiin -> Crăciun -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. crăciun, cărciun, mgl. cărciun]</variants>
+   
+  <!-- Assuming crätfun, cărtăun, cărtăun -> crăciun, cărciun, cărciun -->
+  
+  <definition>„Weih­nachten“.</definition>
+  
+  <borrowing_note source="Miklosich: Die slav. Elem. im Rum. 26; Jagid: Arch. f. slav. Phil. II, 610">
+    Das Wort kommt auch in slavischen Sprachen: blg. 
+    <etymon lang="bg">kraèun</etymon>
+    , kl.-russ. 
+    <etymon lang="ukr">kereèun</etymon>
+    , slov. 
+    <etymon lang="sl">kraèun</etymon>
+     und im Ungarischen: 
+    <etymon lang="hu">karácson</etymon>
+     vor, doch ist das rum. Wort nicht daraus entlehnt, sondern umgekehrt. 
+    <!-- Assuming kradun, kerecunii, kradun, karäeson -> kraèun, kereèun, kraèun, karácson -->
+    
+  </borrowing_note>
+  
+  <etymology_discussion source="Hasdeu (Etym. Magn. Rom. I, 615); A. Densusianu (Ist. limb. si lit. rom.² 111); O. Densusianu (Hist. l. r. 262—263); Schuchardt (Literaturblatt VII, 154); P. Papahagi (Conv. lit. XXXVII, 670-672)">
+    
+    <rejected_etymology>
+      Hasdeu’s 
+      <etymon lang="Lat">CRASTINUM</etymon>
+    </rejected_etymology>
+     und 
+    <rejected_etymology>
+      A. Densusianu’s 
+      <etymon lang="Lat">CREATIONEM</etymon>
+    </rejected_etymology>
+     sind zu verwerfen; unwahr­scheinlich ist auch 
+    <rejected_etymology>
+      Schuchardt’s 
+      <etymon lang="Lat">CHRISTI IEIUNIUM</etymon>
+    </rejected_etymology>
+    .
+
+    <proposed_etymology>
+      Die richtige Etymologie scheint P. Papahagi gefunden zu haben: 
+      <etymon lang="Lat">CALATIO, -ONEM</etymon>
+       = das Rufen des Volkes von Seiten der Priester am ersten jeden Monats, um ihm die Feiertage kund zu geben. Besonders gefeiert war die 
+      <etymon lang="Lat">CALATIO</etymon>
+       am ersten Januar, also am Tage der späteren christlichen Weihnachten.
+    </proposed_etymology>
+    
+    <phonological_change>
+      Das ältere 
+      <form>*călăciune</form>
+       verlor durch Synkope das erste 
+      <phoneme>ă</phoneme>
+       (vgl. ung. 
+      <form lang="hu">karácson</form>
+      ) und das auslaut. 
+      <phoneme>-e</phoneme>
+       unter dem Einfluß von 
+      <form>(Moș)ajun</form>
+       „Vorabend der Weihnachten“.
+    </phonological_change>
+     
+    <!-- Assuming *cärät$une -> *călăciune -->
+    
+  </etymology_discussion>
+  
+</entry>

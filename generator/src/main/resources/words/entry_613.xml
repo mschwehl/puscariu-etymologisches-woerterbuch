@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="613">
+  
+  <lemma>fînaț</lemma>
+   
+  <!-- Assuming findt -> fînaț -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Weide“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FENACEUM, -UM</etymon>
+     (von 
+    <etymon lang="Lat">FENUM</etymon>
+    ).
+
+  </etymology>
+  
+  <variants>[ar. livadă].</variants>
+   
+  <!-- Assuming livade -> livadă -->
+  
+</entry>

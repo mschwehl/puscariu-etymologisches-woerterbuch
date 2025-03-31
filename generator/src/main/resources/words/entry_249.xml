@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="249">
+  
+  <lemma>cad</lemma>
+  
+  <lemma_variants>(caz)</lemma_variants>
+  
+  <inflection>-zui, -zut</inflection>
+   
+  <!-- Assuming -züi, -züt -> -zui, -zut -->
+  
+  <verb_class>II</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. &gt;, ir. cad?, căzut II]</variants>
+   
+  <!-- Assuming codu -> cad?, cazut -> căzut -->
+  
+  <definition>„fallen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CADO, -ERE</etymon>
+     (= 
+    <etymon lang="Lat">CADERE</etymon>
+    ) 
+    <!-- Assuming cano, -FErs -> CADO, -ERE; Eng: chioggia käzere, pisa kädere, cat. caurer refers to *CADERE form? -->
+    
+    <cognates>
+      
+      <form lang="it">cadere</form>
+      , 
+      <form lang="sard-gall">cadè?</form>
+      , 
+      <form lang="pv">chazer</form>
+      , 
+      <form lang="fr">choir</form>
+      , 
+      <form lang="sp">caer</form>
+      , 
+      <form lang="pg">cair</form>
+      . 
+      <!-- Assuming kade -> cadè? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

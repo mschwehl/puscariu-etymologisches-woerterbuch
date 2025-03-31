@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="146">
+  
+  <lemma>aspru</lemma>
+  
+  <feminine_neuter>aspră</feminine_neuter>
+   
+  <!-- Assuming -@ -> -ă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„rauh“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ASPER, -A, -UM</etymon>
+     
+    <!-- Assuming CASPER -> ASPER -->
+    
+    <cognates>
+      
+      <form lang="alb">ashpër</form>
+      , 
+      <!-- Assuming aspere -> ashpër -->
+      
+      <form lang="it">aspro</form>
+      ,
+
+      <form lang="sard">asp(r)u</form>
+      ,
+
+      <form lang="fr">âpre</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. ascur].</variants>
+  
+</entry>

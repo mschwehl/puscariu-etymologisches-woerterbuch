@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="465">
+  
+  <lemma>cust</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage>
+    (heute noch bei den Moți, 
+    <source_ref>Frîncu-Candrea: Rom. din. munţii apus. 51</source_ref>
+     und in Biharia, 
+    <source_ref>Conv. lit. XX. 1009</source_ref>
+    )
+  </usage>
+  
+  <definition>„existieren, leben‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CONSTO, -ARE</etymon>
+     
+    <!-- Assuming coxsto -> CONSTO -->
+    
+    <cognates>
+      
+      <form lang="it">costare</form>
+      , 
+      <form lang="pv">costar</form>
+      , 
+      <form lang="sp">costar</form>
+      , 
+      <form lang="fr">coûter</form>
+      , 
+      <form lang="pg">custar</form>
+      ,
+
+    </cognates>
+    
+    <semantic_note>
+      im Rom. überall mit dem Sinn „kosten“. ebenso das Verbalsubst.: 
+      <form lang="alb">kust?</form>
+       „Wette“, 
+      <form lang="it">costo</form>
+      , 
+      <form lang="fr">coût</form>
+      , 
+      <form lang="pg">custo, -a</form>
+      , 
+      <form lang="sp">costa</form>
+       „Aufwand, Preis“, wogegen altrum. 
+      <form>cust</form>
+       sm, „Leben“. 
+      <!-- Assuming Aust -> kust?, coiit -> coût -->
+      
+    </semantic_note>
+    
+  </etymology>
+  
+</entry>

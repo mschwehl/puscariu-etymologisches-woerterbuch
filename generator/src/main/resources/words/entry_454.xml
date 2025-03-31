@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="454">
+  
+  <lemma>cur</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage>
+    (nur dial. 
+    <source_ref>Jb. VII, 84</source_ref>
+    , sonst durch die Ab­leitung 
+    <form>curățesc</form>
+     IV vb. verdrängt)
+  </usage>
+   
+  <!-- Assuming eüräffese -> curățesc -->
+  
+  <variants>
+    [ar. = 
+    <source_ref>Cod. Dim. *%</source_ref>
+    , auch „rinne“, mgl. =]
+  </variants>
+  
+  <definition>„reinigen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">COLO, -ARE</etymon>
+     
+    <!-- Assuming cöLo -> COLO -->
+    
+    <cognates>
+      
+      <form lang="alb">kulloj</form>
+       „seihe durch“ 
+      <form lang="it">colare</form>
+      , 
+      <form lang="eng">cular?</form>
+      , 
+      <form lang="pv">colar</form>
+      , 
+      <form lang="cat">colar</form>
+      , 
+      <form lang="sp">colar</form>
+      , 
+      <form lang="fr">couler</form>
+      , 
+      <form lang="pg">coar</form>
+      . 
+      <!-- Assuming kuton -> kulloj, huler -> cular? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. curat.</reference>
+  
+</entry>

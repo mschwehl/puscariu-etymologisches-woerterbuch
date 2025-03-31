@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="165">
+  
+  <lemma>au</lemma>
+  
+  <pos>conj.</pos>
+  
+  <variants>[ar. ©, au]</variants>
+   
+  <!-- Assuming ai -> au -->
+  
+  <definition>„oder“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AUT</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">a</form>
+      , 
+      <form lang="sard-log">a</form>
+      ,
+
+      <form lang="it">o(d)</form>
+      ,
+
+      <form lang="prov">o(z)</form>
+      , 
+      <!-- Assuming pr. -> prov. -->
+      
+      <form lang="fr">ou</form>
+      , 
+      <form lang="pg">ou</form>
+      ,
+
+      <form lang="sp">o</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

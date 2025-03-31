@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="159">
+  
+  <lemma>atare</lemma>
+  
+  <lemma_variants>(acătare)</lemma_variants>
+  
+  <pos>pron.</pos>
+  
+  <definition>„so beschaffen“</definition>
+  
+  <related_form>
+    
+    <form>cutare</form>
+     
+    <pos>pron.</pos>
+     
+    <definition>„gewisser“</definition>
+    
+  </related_form>
+  
+  <variants>[ar. ahtare, aftare; atare „gewisser“, mgl. îtari, htari, tari]</variants>
+   
+  <!-- Assuming mol. -> mgl., ftari -> îtari? -->
+  
+  <etymology source="G. Meyer (Etym. Wörtb. d. alb. Spr. 6)">
+    
+    <etymon lang="Lat">ECCUM/ATQUE TALIS</etymon>
+    
+    <cognates>
+      
+      <form lang="it">(co)tale</form>
+      ,
+
+      <form lang="a-frz">itel</form>
+      , 
+      <form lang="n-frz">tel</form>
+      , 
+      <!-- Assuming îtel -> itel -->
+      
+      <form lang="pv">aital</form>
+      ,
+
+      <form lang="sp">(a)tal</form>
+      , 
+      <form lang="pg">tal</form>
+      .
+
+    </cognates>
+    
+    <comment>
+      Im ersten Teil von 
+      <form>acătare</form>
+       sieht G. Meyer das alb. 
+      <form lang="alb">aqe?</form>
+      , welches mit Pronomen und Adverbium verbunden wird.
+    </comment>
+     
+    <!-- Assuming ake -> aqe? -->
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. tare.</reference>
+  
+</entry>

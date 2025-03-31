@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="408">
+  
+  <lemma>crep</lemma>
+   
+  <!-- Assuming eräp -> crep -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. crep, ir. crepu]</variants>
+  
+  <definition>„bersten, platzen; spalten‘</definition>
+  
+  <etymology source="Dens. H. l. r. 189">
+    
+    <etymon lang="Lat">CREPO, -ARE</etymon>
+     („platzen“)
+
+    <cognates>
+      
+      <form lang="it">crepare</form>
+      , 
+      <form lang="sard-log">crebare</form>
+      , 
+      <form lang="sard-camp">crebai?</form>
+      , 
+      <form lang="frl">crevar</form>
+      , 
+      <form lang="eng">crapar</form>
+      , 
+      <form lang="pv">crebar</form>
+      , 
+      <form lang="fr">crever</form>
+      , 
+      <form lang="gal">quebrar</form>
+      , 
+      <form lang="sp">quebrar</form>
+      , 
+      <form lang="pg">quebrar</form>
+      . 
+      <!-- Assuming krebare -> crebare, tSerbai -> crebai?, krevä -> crevar, kraper -> crapar, quevbar -> quebrar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Für 
+    <example>să crapă de ziuă</example>
+     „der Tag bricht an“, auch a.-frz. 
+    <example lang="a-frz">l'aube crevant</example>
+    , vgl. lat. 
+    <etymon lang="Lat">CREPUSCULUM</etymon>
+    : (dagegen ist eng. 
+    <example lang="eng">rumper di</example>
+     „Tag anbrechen“ ein Germanismus).
+
+  </usage_note>
+  
+  <homonym_discussion>
+    Auffallend und wohl davon verschieden ist olymp.-wal. 
+    <form>grep</form>
+     „schelte“ (
+    <example>„Tats laj mumă nu me greapă, că ni am dzonile tu escane”</example>
+     
+    <source_ref>Weigand: Olymp.-Wal. 116</source_ref>
+    ).
+
+  </homonym_discussion>
+  
+</entry>

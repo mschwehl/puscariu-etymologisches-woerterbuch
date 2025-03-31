@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="157">
+  
+  <lemma>asurzesc</lemma>
+   
+  <!-- Assuming (aJsurzese -> asurzesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. asurdzescu]</variants>
+   
+  <!-- Assuming asurdzăscul -> asurdzescu -->
+  
+  <definition>„werde, mache taub“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[AD/EX]SURDESCO, -ERE</etymon>
+     (vgl. 
+    <etymon lang="Lat">OBSURDESCO</etymon>
+    ) 
+    <!-- Assuming [Fas-]sürnäsco, -*ing -> AD/EX-SURDESCO, -ERE -->
+    
+    <cognates>
+      
+      <form lang="it">assordire</form>
+      ,
+
+      <form lang="fr">assourdir</form>
+      ,
+(
+      <form lang="sp">ensordecer</form>
+      , 
+      <form lang="pg">ensurdecer</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

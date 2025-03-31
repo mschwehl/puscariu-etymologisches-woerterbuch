@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="402">
+  
+  <lemma>cornut</lemma>
+   
+  <!-- Assuming cornüt -> cornut -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+   
+  <!-- Assuming -t -> -ă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. curnut]</variants>
+   
+  <!-- Assuming curnät -> curnut -->
+  
+  <definition>„gehornt“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CORNUTUS, -A, -UM</etymon>
+     
+    <!-- Assuming corxürus -> CORNUTUS -->
+    
+    <cognates>
+      
+      <form lang="alb">brerëtë?</form>
+       „gehörntes Schaf“, 
+      <form lang="it">cornuto</form>
+      , 
+      <form lang="a-sard">cornutu</form>
+      , 
+      <form lang="fr">cornu</form>
+      , 
+      <form lang="sp">cornudo</form>
+      . 
+      <!-- Assuming kerute -> brerëtë? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt: kl.-russ. 
+    <form lang="ukr">hornutyj</form>
+    , tsch. 
+    <form lang="cs">kornout?</form>
+    , poln. 
+    <form lang="pl">kornuty?</form>
+    . 
+    <!-- Assuming hornuta, kur-nota, kuernuty -->
+    
+  </borrowing_note>
+  
+</entry>

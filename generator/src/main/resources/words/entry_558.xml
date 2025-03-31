@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="558">
+  
+  <lemma>Dumnezeu</lemma>
+   
+  <!-- Assuming Dammnezeü -> Dumnezeu -->
+  
+  <pos>sm.</pos>
+  
+  <variants>
+    [ar. dumnidză(u) auch „Himmel“, mgl. nur in der Ableitung 
+    <form>dumnizesc</form>
+     „göttlich“ sonst 
+    <form>Domn</form>
+    ]
+  </variants>
+   
+  <!-- Assuming dhumnidză(u), damnizese, Dom(n) -> dumnidză(u), dumnizesc, Domn -->
+  
+  <definition>„Gott“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DOMINE DEUS</etymon>
+     (
+    <cognates>
+      <form lang="it">domineddio</form>
+      , 
+      <form lang="pv">domerdieus</form>
+       etc., 
+      <form lang="fr">damedieu</form>
+    </cognates>
+     scheinen auch wegen Bewahrung des 
+    <phoneme>n</phoneme>
+     von 
+    <etymon lang="Lat">DOMINUS</etymon>
+     aus der Kirchensprache entlehnt zu sein, während 
+    <etymon lang="Lat">DEUS</etymon>
+     der volkstümliche Ausdruck war). 
+    <!-- Assuming nomlijse pEus -> DOMINE DEUS, poxisus -> DOMINUS, n&us -> DEUS -->
+    
+  </etymology>
+  
+</entry>

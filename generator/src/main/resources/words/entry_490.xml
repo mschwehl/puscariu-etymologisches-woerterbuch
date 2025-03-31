@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="490">
+  
+  <lemma>dăunos</lemma>
+   
+  <!-- Assuming dune -> dăunos -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+   
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„schädlich“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DAMNOSUS, -A, -UM</etymon>
+     
+    <!-- Assuming Daumösvs -> DAMNOSUS -->
+    
+    <cognates>
+      (
+      <form lang="pv">dampnos</form>
+      ), 
+      <form lang="sp">dañoso</form>
+      . 
+      <!-- Assuming danoso -> dañoso -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="281">
+  
+  <lemma>căprină</lemma>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sf.</pos>
+  
+  <variants>[mgl. =]</variants>
+   
+  <!-- Assuming » -> = -->
+  
+  <definition>„Ziegenwolle“</definition>
+  
+  <etymology source="J. Popovici: Rumänische Dialekte 57">
+    
+    <etymon lang="Lat">CAPRINA</etymon>
+     (scil. 
+    <etymon lang="Lat">LANA</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="sp">cabrina</form>
+       „Ziegenleder“, (vgl. 
+      <form lang="it">caprino</form>
+      , 
+      <form lang="pv">cabri</form>
+      ).
+
+    </cognates>
+    
+    <semantic_note>
+      Im Daco-rum. ist 
+      <form>Căprina</form>
+       nur als Name von Schafen erhalten.
+    </semantic_note>
+    
+  </etymology>
+  
+</entry>

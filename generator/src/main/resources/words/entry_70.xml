@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="70">
+  
+  <lemma>alună</lemma>
+   
+  <!-- Assuming atină -> alună -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. = , mgl. lună, ir. albire]</variants>
+   
+  <!-- Should ir. be alunire? -->
+  
+  <definition>„Haselnuß“</definition>
+  
+  <etymology_discussion source="Weigand: Krit. Jahresb. ... VI, 1, 160; Haşdeu: Magn. Etym. Rom. 952">
+    
+    <etymology>
+      
+      <etymon lang="Lat">*ABELLŌNA, -AM</etymon>
+       (mit Suffixwechsel aus 
+      <etymon lang="Lat">ABELLANA</etymon>
+      )
+
+      <cognates_base>
+         
+        <!-- Cognates of ABELLANA -->
+        
+        <form lang="it">avellana</form>
+        , 
+        <form lang="a-frz">avelaine</form>
+        , 
+        <form lang="sp">avellana</form>
+        , 
+        <form lang="pg">avelã</form>
+         
+        <!-- Assuming avellă -> avelã -->
+        
+      </cognates_base>
+      
+      <comparison_suffix_change>
+        wie 
+        <etymon lang="Lat">ABELLINA</etymon>
+         Caper, K. VII, 107, 6: 
+        <form lang="fr">aveline</form>
+        .
+      </comparison_suffix_change>
+      
+    </etymology>
+    
+    <cognates_derived>
+       
+      <!-- Cognates of *ABELLONA -->
+      (
+      <form lang="tar">alone</form>
+        
+      <etymon lang="Lat">*ABELLONEA</etymon>
+      ) 
+      <form lang="pv">aulona</form>
+      , 
+      <form lang="lyon">alonn</form>
+       (
+      <reference type="bibliographic">Rom. XIII, 588</reference>
+      ).
+
+    </cognates_derived>
+    
+  </etymology_discussion>
+  
+  <derived_forms>
+    Dazu 
+    <form>alun</form>
+     
+    <pos>sm.</pos>
+     
+    <variants>[ar. =, mgl. lun, ir. alu]</variants>
+     „Haselstrauch“ nach 
+    <example>pară-păr</example>
+     etc.
+
+  </derived_forms>
+  
+  <folk_etymology_note>
+    Der Monat „Juli“ heißt dr. ar. 
+    <form>alunar</form>
+     (vgl. 
+    <form>florar</form>
+     „Mai“, 
+    <form>cireşar</form>
+     „Juni“), welches Wort jedoch kaum eine Ableitung von 
+    <form>alună</form>
+     ist, sondern nur volksetym. damit in Zusammenhang gebracht wurde und eher zu n.-gr. 
+    <etymon lang="ngr">ἁλωνάρης</etymon>
+     „Juli“ (eigtl. „Dreschmonat“ zu gr. 
+    <etymon lang="Gr">ἁλώνι(ον)</etymon>
+     „Dresche“?), woraus auch alb. 
+    <form lang="alb">alonar</form>
+     „Juli“, gehört. 
+    <!-- Assuming diordoıs, ahoredoucı, alondr -->
+    
+  </folk_etymology_note>
+  
+</entry>

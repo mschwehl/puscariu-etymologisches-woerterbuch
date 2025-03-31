@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="25">
+  
+  <lemma>adînc</lemma>
+  
+  <feminine_neuter>adîncă</feminine_neuter>
+   
+  <!-- Assuming @ -> ă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. adincös]</variants>
+  
+  <definition>„tief“</definition>
+  
+  <etymology_discussion>
+    
+    <etymology>
+      
+      <etymon lang="Lat">*ADUNCUS, -A, -UM</etymon>
+       
+      <!-- Assuming C#*ADancus -> <*ADUNCUS -->
+      
+      <comment>(= AD + UNCUS, -A, -UM, dessen Bedeutung Festus mit „qui aduncum brachium habet, ut exporrigi non possit“ bestimmt)</comment>
+      
+      <related_cognates>
+         
+        <!-- Cognates of UNCUS -->
+        
+        <form lang="neap">ancino</form>
+        , 
+        <form lang="sic">ancino</form>
+        , 
+        <form lang="bol">anzinol</form>
+        , 
+        <form lang="ven">ancin</form>
+        , 
+        <form lang="piem">ancin</form>
+        , 
+        <form lang="mail">lansin</form>
+        , 
+        <form lang="gen">lensin</form>
+        , vgl. 
+        <form lang="sp">anzuelo</form>
+        , 
+        <form lang="pg">anzol</form>
+        .
+
+      </related_cognates>
+      
+    </etymology>
+    
+    <references>
+      Vgl. 
+      <reference type="bibliographic">Meyer-Lübke: Zeitschr. f. d. österr. Gymn. XLII, 766</reference>
+      ; 
+      <reference type="bibliographic">Horning, Zeitschr. rom. Phil. XVI, 528—29</reference>
+      ; 
+      <reference type="bibliographic">Salvioni: Postille 4</reference>
+       (vgl. 
+      <form lang="cal">ancare</form>
+       „aufsperren“ mit rum. 
+      <form>adâncă</form>
+       vb. I „ver­tiefen‘).
+
+    </references>
+    
+  </etymology_discussion>
+  
+</entry>

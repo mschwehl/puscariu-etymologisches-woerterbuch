@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="523">
+  
+  <lemma>despart</lemma>
+   
+  <!-- Assuming despärt -> despart -->
+  
+  <lemma_variants>(despărțesc)</lemma_variants>
+   
+  <!-- Assuming despărţesc -> despărțesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. dispartu, mgl. dispart, dispărțăsc? IV, ir. respartu, respărțăscu?]</variants>
+   
+  <!-- Assuming dispärtsos -> dispărțăsc?, respärtsescu -> respărțăscu? -->
+  
+  <definition>„trennen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*DISPARTIO, -IRE</etymon>
+     (= 
+    <etymon lang="Lat">DISPERTIO, -IRE</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="it">spartire</form>
+      , 
+      <form lang="pv">departir</form>
+      , 
+      <form lang="fr">départir</form>
+      , 
+      <form lang="cat">despartir</form>
+      , 
+      <form lang="sp">despartir</form>
+      , 
+      <form lang="pg">despartir</form>
+      . 
+      <!-- Assuming departir -> départir -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="450">
+  
+  <lemma>cupă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. X]</variants>
+  
+  <definition>„Becher, Holzgefäß der Hirten“</definition>
+  
+  <etymology source="Meyer-Lübke: Wiener Studien XXV, 97—98">
+    
+    <etymon lang="Lat">CUPPA, -AM</etymon>
+     
+    <!-- Assuming ciieea -> CUPPA -->
+    
+    <cognates>
+      
+      <form lang="alb">kupë</form>
+      , 
+      <form lang="it">coppa</form>
+      , 
+      <form lang="eng">coppa</form>
+      , 
+      <form lang="sard">cupa?</form>
+       „botte“, 
+      <form lang="fr">coupe</form>
+      , 
+      <form lang="sp">copa</form>
+      , 
+      <form lang="pg">copa</form>
+       (
+      <etymon lang="goh">kopf</etymon>
+       „Becher“).
+
+    </cognates>
+    
+    <discussion>
+      Meyer-Lübke stellt den Unterschied zwischen 
+      <etymon lang="Lat">CUPPA</etymon>
+       und 
+      <etymon lang="Lat">CUPA</etymon>
+      : 
+      <cognates>
+        <form lang="sic">cupa</form>
+        , 
+        <form lang="prov">cuba</form>
+        , 
+        <form lang="sp">cuba</form>
+        , 
+        <form lang="fr">cuve</form>
+      </cognates>
+       klar. Der Sinn, nicht auch die Form, verbietet rum. 
+      <form>cupă</form>
+       von 
+      <etymon lang="Lat">CUPA</etymon>
+       abzuleiten. 
+      <!-- Assuming pr. -> prov. -->
+      
+    </discussion>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt: n.-gr. 
+    <etymon lang="ngr">κούπα</etymon>
+    , serb. kl.-russ. 
+    <etymon lang="ukr">kupa</etymon>
+    . 
+    <!-- Assuming zoöze« -> κούπα -->
+    
+  </borrowing_note>
+  
+</entry>

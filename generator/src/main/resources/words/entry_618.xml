@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="618">
+  
+  <lemma>fiu</lemma>
+   
+  <!-- Assuming fit -> fiu -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. hil'u?, mgl. hiiu?, ir. hiu?]</variants>
+   
+  <!-- Assuming filă, îti, fii -> hil'u?, hiiu?, hiu? -->
+  
+  <definition>„Sohn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FILIUS, -UM</etymon>
+     
+    <!-- Assuming rivrus -> FILIUS -->
+    
+    <cognates>
+      
+      <form lang="it">figlio</form>
+      , 
+      <form lang="sic">figghiu</form>
+      , 
+      <form lang="sard">fizu</form>
+      , 
+      <form lang="eng">fil</form>
+      , 
+      <form lang="pv">filh</form>
+      , 
+      <form lang="fr">fils</form>
+      , 
+      <form lang="sp">hijo</form>
+      , 
+      <form lang="pg">filho</form>
+      . 
+      <!-- Assuming figgyu -> figghiu -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <related_form source="Conv. lit. XX, 1011">
+    Das Fem. 
+    <etymon lang="Lat">FILIA, -AM</etymon>
+    : 
+    <cognates>
+      <form lang="it">figlia</form>
+      , 
+      <form lang="sic">figghia</form>
+      , 
+      <form lang="sard">fiza</form>
+      , 
+      <form lang="eng">filia?</form>
+      , 
+      <form lang="fr">fille</form>
+      , 
+      <form lang="sp">hija</form>
+      , 
+      <form lang="pg">filha</form>
+    </cognates>
+     ergab rum. 
+    <form>fie</form>
+    , doch ist dieses Wort nur noch in 
+    <form>fie-mea, -ta, -sa</form>
+     erhalten, sonst ist es durch das Dimin. 
+    <form>fiică</form>
+     ersetzt. In Biharia wird 
+    <form>hie?</form>
+     als Anrede der Frauen untereinander gebraucht. 
+    <!-- Assuming figgya -> figghia, fila -> filia?, Äie -> hie? -->
+    
+  </related_form>
+  
+</entry>

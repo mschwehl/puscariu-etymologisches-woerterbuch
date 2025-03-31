@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="362">
+  
+  <lemma>cină</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. țînă, ir. țînă]</variants>
+   
+  <!-- Assuming isinä -> țînă, Sire -> țînă -->
+  
+  <definition>„Abendmahl“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CENA, -AM</etymon>
+     
+    <!-- Assuming cExA -> CENA -->
+    
+    <cognates>
+      
+      <form lang="it">cena</form>
+      , 
+      <form lang="prov">cena</form>
+      , 
+      <form lang="sp">cena</form>
+      ,
+
+      <form lang="eng">tschaina</form>
+      , 
+      <form lang="a-frz">ceine?</form>
+      , 
+      <form lang="pg">cea</form>
+      . 
+      <!-- Assuming taina -> tschaina, cine -> ceine? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

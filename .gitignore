@@ -1,0 +1,27 @@
+# Eclipse Specific Files
+.settings/
+.project
+.classpath
+/.metadata/
+
+# Maven Build Files
+target/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+*.bak
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Java Files
+*.class
+
+# Ignore IDE Metadata (if using any additional tools/plugins)
+*.iml
+.idea/
+/entries
+/index_data.json
+/index_data.json

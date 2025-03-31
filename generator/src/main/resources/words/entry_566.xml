@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="566">
+  
+  <lemma>fac</lemma>
+  
+  <inflection>făcui (+ feci), făcut (-- fapt)</inflection>
+   
+  <!-- Assuming iti, feciu, -üt -> făcui, feci, făcut -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. fac, fețu?, fapt III, II, mgl. fac, feș?, fat III, ir. fac, făcut LII]</variants>
+   
+  <!-- Interpretation needed for fetău, fes, factt -->
+  
+  <definition>„machen; gebären“</definition>
+  
+  <etymology source="Dens. H. l. r. 182, 190">
+    
+    <etymon lang="Lat">FACIO, FĒCI, FACTUM, FACERE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">fare</form>
+      , 
+      <form lang="eng">far</form>
+      , 
+      <form lang="pv">faire</form>
+      , 
+      <form lang="fr">faire</form>
+      , 
+      <form lang="sp">hacer</form>
+      , 
+      <form lang="pg">fazer</form>
+      . 
+      <!-- Assuming fer -> far -->
+      
+    </cognates>
+    
+    <usage_note>
+      Der Imper. 
+      <etymon lang="Lat">FAC</etymon>
+       ist erhalten im rum. 
+      <form>fă</form>
+       [ar. =, mgl. fă?, ir. fă?]. — 
+      <example>Mă fac</example>
+       heißt „werden; sich ver­stellen“; 
+      <example>fă-te încoace!</example>
+       „komm her”. Ähnliche Bedeutungen belegt Dens. für's Spätlat. 
+      <!-- Assuming fo, fe -> fă? -->
+      
+    </usage_note>
+    
+  </etymology>
+  
+</entry>

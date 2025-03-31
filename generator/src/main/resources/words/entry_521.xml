@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="521">
+  
+  <lemma>desleg</lemma>
+   
+  <!-- Assuming desieg (dezleg) -> desleg -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. dizlegu, mgl. disleg, ir. dez-, rez-legu]</variants>
+   
+  <!-- Assuming diziegu -> dizlegu -->
+  
+  <definition>„entbinden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DISLIGO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">slegare</form>
+      , 
+      <form lang="lomb">desligar</form>
+      , 
+      <form lang="frl">dislear?</form>
+      , 
+      <form lang="pv">desliar</form>
+      , 
+      <form lang="fr">délier</form>
+      , 
+      <form lang="sp">desliar</form>
+      , 
+      <form lang="pg">desliar</form>
+      . 
+      <!-- Assuming dislea -> dislear?, delier -> délier -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

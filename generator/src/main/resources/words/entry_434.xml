@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="434">
+  
+  <lemma>culă</lemma>
+   
+  <!-- Assuming ehlä -> culă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„kleines Versteck, Räubernest“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 747">
+    
+    <etymon lang="Lat">*CUBŬLA, -AM</etymon>
+     (
+    <etymon lang="Lat">und CUBO</etymon>
+    ) wie 
+    <form lang="it">covolo</form>
+      
+    <etymon lang="Lat">*CUBULUM</etymon>
+    .
+
+  </etymology>
+  
+  <borrowing_note>
+    Dagegen stammt d-rum. ar. 
+    <form>culă</form>
+    , in der Bedeutung „Turm, Festung“, aus türk. 
+    <etymon lang="tr">kule</etymon>
+     (alb. 
+    <form lang="alb">kullë</form>
+    , k.slav. blg. srb. kroat. 
+    <etymon lang="sh">kula</etymon>
+    , n.-gr. 
+    <etymon lang="ngr">κούλα, κουλιᾶς</etymon>
+    ). 
+    <!-- Assuming kute -> kullë, zovia, zoviäs -> κούλα, κουλιᾶς -->
+    
+  </borrowing_note>
+  
+</entry>

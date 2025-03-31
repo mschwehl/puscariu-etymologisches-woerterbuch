@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="191">
+  
+  <lemma>băș</lemma>
+   
+  <!-- Assuming bâs -> băș -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„küssen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BASIO, -ARE</etymon>
+     
+    <!-- Assuming CBasro -> BASIO -->
+    
+    <cognates>
+      
+      <form lang="it">baciare</form>
+      ,
+
+      <form lang="pv">baizar</form>
+      ,
+
+      <form lang="fr">baiser</form>
+      ,
+
+      <form lang="sp">besar</form>
+      ,
+
+      <form lang="pg">beijar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[d-rum. mgl. sărut, ir. bușnesc].</variants>
+   
+  <!-- Assuming dr. -> d-rum., busnesc -> bușnesc -->
+  
+</entry>

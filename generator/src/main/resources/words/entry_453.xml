@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="453">
+  
+  <lemma>cur</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+  
+  <definition>„der Hintere‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CULUS, -UM</etymon>
+     
+    <!-- Assuming cünus -> CULUS -->
+    
+    <cognates>
+      
+      <form lang="it">culo</form>
+      , 
+      <form lang="sp">culo</form>
+      , 
+      <form lang="eng">chül?</form>
+      , 
+      <form lang="fr">cul</form>
+      , 
+      <form lang="pv">cul</form>
+      , 
+      <form lang="cat">cul</form>
+      , 
+      <form lang="pg">cu</form>
+      . 
+      <!-- Assuming k’ül -> chül?, că -> cu -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

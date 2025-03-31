@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="188">
+  
+  <lemma>beșic</lemma>
+   
+  <!-- Assuming bäsie -> beșic -->
+  
+  <lemma_variants>(beșic)</lemma_variants>
+   
+  <!-- Assuming besic -> beșic -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. îmbășic]</variants>
+   
+  <!-- Assuming mbisie -> îmbășic -->
+  
+  <definition>„voll Blasen werden‘</definition>
+  
+  <etymology source="Dens. H. l. r. 166">
+    
+    <etymon lang="Lat">VESICO, -ARE</etymon>
+     (belegt)
+
+    <cognates>
+      vgl. 
+      <form lang="abruzz">avvesciccare</form>
+      . 
+      <!-- Assuming avvesekkä -> avvesciccare -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

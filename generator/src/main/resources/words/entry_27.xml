@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="27">
+  
+  <lemma>adorm</lemma>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„einschlafen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ADDORMIO, -IRE</etymon>
+     
+    <!-- Assuming -iRg -> -IRE -->
+    
+    <cognates>
+      
+      <form lang="a-it">ad­dormire</form>
+      ,
+
+      <form lang="a-lomb">adormir</form>
+      ,
+
+      <form lang="gen">adormir</form>
+      ,
+
+      <form lang="pv">adormir</form>
+      ,
+
+      <form lang="a-sp">adormir</form>
+      ,
+
+      <form lang="a-pg">adormir</form>
+      ,
+
+      <form lang="abruzz">adurmi</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. dorm]</variants>
+   
+  <!-- Assuming Tar, dorin] -> [ar. dorm] -->
+  
+</entry>

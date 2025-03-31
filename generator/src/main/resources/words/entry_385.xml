@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="385">
+  
+  <lemma>coamă</lemma>
+   
+  <!-- Assuming cormă -> coamă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. = W., ir. coamă]</variants>
+   
+  <!-- Assuming kome -> coamă -->
+  
+  <definition>„Mähne“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">COMA, -AM</etymon>
+     
+    <!-- Assuming Am -> -AM -->
+    
+    <cognates>
+      
+      <form lang="it">coma</form>
+      , 
+      <form lang="pv">coma</form>
+      , 
+      <form lang="a-sp">coma</form>
+      , 
+      <form lang="pg">coma</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[P. kennt nur ar. părț?].</variants>
+   
+  <!-- Assuming pertse -> părț? -->
+  
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="289">
+  
+  <lemma>cărbune</lemma>
+   
+  <!-- Assuming eärbine -> cărbune -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. X, ir. cărbune]</variants>
+   
+  <!-- Assuming cărbur(e) -> cărbune -->
+  
+  <definition>„Kohle“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CARBO, -ŌNEM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">carbone</form>
+      , 
+      <form lang="eng">charbun</form>
+      , 
+      <form lang="pv">carbo</form>
+      , 
+      <form lang="fr">charbon</form>
+      , 
+      <form lang="sp">carbón</form>
+      , 
+      <form lang="pg">carvão</form>
+      . 
+      <!-- Assuming k'arbun -> charbun, carbon -> carbón, carvâo -> carvão -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

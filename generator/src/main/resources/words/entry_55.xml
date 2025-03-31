@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="55">
+  
+  <lemma>alb</lemma>
+  
+  <feminine_neuter>albă</feminine_neuter>
+   
+  <!-- Assuming -ă adj. -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. albu, mgl. ir. ob]</variants>
+   
+  <!-- ob likely OCR error -->
+  
+  <definition>„weiß“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALBUS, -A, -UM</etymon>
+     
+    <!-- Assuming aunus -> ALBUS, -uu -> -UM -->
+    
+    <cognates>
+      
+      <form lang="vegl">jwalb</form>
+      ,
+
+      <form lang="gen">arbo</form>
+       
+      <definition>„bianco, candido“</definition>
+      ,
+
+      <form lang="eng">alb</form>
+      , 
+      <!-- Assuming ab -> alb -->
+      
+      <form lang="sp">albo</form>
+      ,
+
+      <form lang="pg">alvo</form>
+      ,
+
+      <comment>
+        sonst im Rom. durch germ. 
+        <etymon lang="ger">blank-</etymon>
+         ersetzt.
+      </comment>
+      
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_preservation>
+    Bewahrt ist es nur als Subst.
+
+    <subsense n="1">
+      
+      <etymon lang="Lat">ALBA</etymon>
+       „Morgenröte“: 
+      <cognates>
+        <form lang="ro">alba</form>
+        , 
+        <form lang="it">alba</form>
+        , 
+        <form lang="sp">alba</form>
+        , 
+        <form lang="sic">arva</form>
+        , 
+        <form lang="fr">aube</form>
+        , 
+        <form lang="n-pv">aubo</form>
+        , 
+        <form lang="pg">alva</form>
+      </cognates>
+      , vgl. 
+      <form lang="eng">albasa</form>
+      .
+
+    </subsense>
+    
+    <subsense n="2">
+      
+      <etymon lang="Lat">ALBUM</etymon>
+       im Sinne von ALBUGO OCULI: 
+      <cognates>
+        <form lang="ro">albul ochiului</form>
+        , 
+        <form lang="pg">alvo</form>
+      </cognates>
+      .
+
+    </subsense>
+    
+    <subsense n="3">
+      von „Eiweiß“: 
+      <cognates>
+        <form lang="sard-log">arbu</form>
+        , 
+        <form lang="sard-camp">arbu</form>
+      </cognates>
+      , vgl. rum. 
+      <form>albuș</form>
+       (entspricht dem russ. 
+      <form lang="ru">belyš</form>
+      ). 
+      <!-- Assuming albis -> albuș -->
+      
+    </subsense>
+    
+  </semantic_preservation>
+  
+  <comment>
+    Mgl. 
+    <form>albă</form>
+     bedeutet auch die „Schöne“.
+  </comment>
+  
+</entry>

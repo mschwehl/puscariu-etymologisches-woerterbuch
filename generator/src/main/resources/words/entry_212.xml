@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="212">
+  
+  <lemma>botez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. botez, ir. botez; ar. pătedz ist im An­laut vom Alb. beeinflußt]</variants>
+   
+  <!-- Assuming bates -> botez -->
+  
+  <definition>„taufen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BAPTIZO, -ARE</etymon>
+     
+    <!-- Assuming Barrizo -> BAPTIZO -->
+    
+    <cognates>
+      
+      <form lang="alb">pagëzoj</form>
+      , 
+      <!-- Assuming pakezon -> pagëzoj -->
+      
+      <form lang="it">battezzare</form>
+      , 
+      <!-- Assuming batteggiare -> battezzare -->
+      
+      <form lang="sic">vattiari</form>
+      ,
+
+      <form lang="a-berg">batezar</form>
+      , 
+      <!-- Assuming bateza -> batezar -->
+      
+      <form lang="sard-gall">battizare?</form>
+      , 
+      <form lang="cors">battizà?</form>
+      , 
+      <!-- Assuming battidzd -> battizare/battizà -->
+      
+      <form lang="eng">battegiar</form>
+      , 
+      <!-- Assuming batadzer -> battegiar -->
+      
+      <form lang="a-frz">batoier</form>
+      . 
+      <!-- Assuming batoyer -> batoier -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="325">
+  
+  <lemma>caut</lemma>
+   
+  <!-- Assuming cäut -> caut -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. caftu auch „verlangen, kosten“, ir. caut? auch „fragen“]</variants>
+   
+  <!-- Assuming cowtu -> caut? -->
+  
+  <definition>„suchen, Sorge tragen"</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 676—679">
+    
+    <etymon lang="Lat">*CAVITO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">CAVEO</etymon>
+    ).
+
+    <semantic_development>
+Der Sinnesübergang ist „Sorge tragen, hüten‘ — „mit Aufmerksam­keit betrachten, mustern“, — „betrachten“ oder „suchen“, „unter­suchen, versuchen, besuchen“ etc.
+</semantic_development>
+    
+    <cognates>
+      <form lang="vegl">cavtar?</form>
+       „hüten“.
+    </cognates>
+     
+    <!-- Assuming kaiptare -> cavtar? -->
+    
+  </etymology>
+  
+</entry>

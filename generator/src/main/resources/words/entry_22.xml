@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="22">
+  
+  <lemma>adăst</lemma>
+  
+  <lemma_variants>(adäst)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. adastu]</variants>
+  
+  <definition>„lange warten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ADASTO, -ARE</etymon>
+     
+    <!-- Assuming ApAsTo -> ADASTO -->
+    
+    <source_ref>(Archiv lat. Lex. II, 111, Reich. Gloss: 1149: urguet: adastet)</source_ref>
+    
+    <cognates>
+      
+      <form lang="a-it">adastare</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

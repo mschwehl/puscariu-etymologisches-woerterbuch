@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="609">
+  
+  <lemma>fiere</lemma>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. fiare]</variants>
+  
+  <definition>„Galle“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. II, § 377">
+    
+    <etymon lang="Lat">FEL (= FELLIS)</etymon>
+    : 
+    <!-- Assuming para -> FEL -->
+    
+    <cognates>
+      
+      <form lang="it">fiele</form>
+      , 
+      <form lang="sic">feli</form>
+      , 
+      <form lang="a-gen">fel</form>
+      , 
+      <form lang="mail">fel</form>
+      , 
+      <form lang="pv">fel</form>
+      , 
+      <form lang="cat">fel</form>
+      , 
+      <form lang="pg">fel</form>
+      , 
+      <form lang="frl">fîl</form>
+      , 
+      <form lang="fr">fiel</form>
+      , 
+      <form lang="sp">hiel</form>
+      . 
+      <!-- Assuming fil -> fîl -->
+      
+    </cognates>
+    
+    <usage_note>
+Wie rum., ist das Wort weiblich im Sp. Cat. A.-gen. Mail. Mittelrät. Frl. Ostlomb. A.-ven. und südlich bis Parma, dagegen männlich im It. Pg. Pr. Frz. Sard. Lad.
+</usage_note>
+    
+  </etymology>
+  
+</entry>

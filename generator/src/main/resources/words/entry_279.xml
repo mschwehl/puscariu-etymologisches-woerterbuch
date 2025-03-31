@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="279">
+  
+  <lemma>capră</lemma>
+   
+  <!-- Assuming câpvă -> capră -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. &gt;, ir. capră]</variants>
+   
+  <!-- Assuming copre -> capră -->
+  
+  <definition>„Ziege“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CAPRA, -AM</etymon>
+     
+    <!-- Assuming -AN -> -AM -->
+    
+    <cognates>
+      
+      <form lang="it">capra</form>
+      , 
+      <form lang="eng">chevra</form>
+      , 
+      <form lang="pv">cabra</form>
+      , 
+      <form lang="cat">cabra</form>
+      , 
+      <form lang="sp">cabra</form>
+      , 
+      <form lang="pg">cabra</form>
+      , 
+      <form lang="fr">chèvre</form>
+      . 
+      <!-- Assuming k’evra -> chevra -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Abgel. 
+    <form>căprior</form>
+     sm. „Dachsparren“. Diese Bedeutung hat auch alb. 
+    <form lang="alb">kaper</form>
+    , it. 
+    <form lang="it">capro</form>
+    , frz. 
+    <form lang="fr">chevron</form>
+    .
+  </derived_forms>
+   
+  <!-- Assuming k’eper -> kaper -->
+  
+</entry>

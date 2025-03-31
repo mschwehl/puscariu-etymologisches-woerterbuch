@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="123">
+  
+  <lemma>aripă</lemma>
+  
+  <lemma_variants>(arepă)</lemma_variants>
+   
+  <!-- Assuming aredpă -> arepă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. aripă, arpită, arepită, mgl. aripă, plur. șerip]</variants>
+   
+  <!-- Assuming areäpitä -> arepită, serip -> șerip? -->
+  
+  <definition>„Flügel“</definition>
+  
+  <etymology_discussion source="Verfasser in Conv. lit. XXXVII, 598">
+    Die Etymologie ist unbekannt, obwohl im ersten Teil des Wortes 
+    <etymon lang="Lat">ALA, -AM</etymon>
+     zu erkennen ist. Einen Versuch, das Wort zu erklären, hat Verfasser gemacht, wo auch die früheren Deutungen erwähnt werden.
+
+  </etymology_discussion>
+  
+</entry>

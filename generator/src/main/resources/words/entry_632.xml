@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="632">
+  
+  <lemma>foarfec</lemma>
+   
+  <!-- Assuming foärfee -> foarfec -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„mit der Scheere schneiden“, übertr. „Jmd. hernehmen‘</definition>
+  
+  <etymology source="Archiv lat. Lex. VIII, 376, IX, 121, X, 422">
+    
+    <etymon lang="Lat">FORFICO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">FORFEX</etymon>
+    , belegt).
+
+  </etymology>
+  
+  <variants>[ir. strijesc?].</variants>
+   
+  <!-- Assuming strizesk -> strijesc? -->
+  
+</entry>

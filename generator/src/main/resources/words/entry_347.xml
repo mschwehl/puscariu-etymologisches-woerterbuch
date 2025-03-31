@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="347">
+  
+  <lemma>cert</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. (an)țertu, ir. țertu]</variants>
+   
+  <!-- Assuming (an)isertu -> (an)țertu, t$ertu -> țertu -->
+  
+  <definition>„zanken, streiten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CERTO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">qërtoj</form>
+      , 
+      <form lang="sard-log">cheltare, chertare</form>
+      , 
+      <form lang="sard-camp">certai?</form>
+      . 
+      <!-- Assuming k’ertoi -> qërtoj, keltare, kertare -> cheltare, chertare, t3ertai -> certai? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

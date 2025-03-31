@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="314">
+  
+  <lemma>cățel</lemma>
+  
+  <pos>sm.</pos>
+  
+  <related_form>
+    
+    <form>cățea</form>
+     
+    <pos>sf.</pos>
+    
+  </related_form>
+  
+  <variants>[ar. cățel, cățao, mgl. cățol]</variants>
+   
+  <!-- Assuming cătsăi, eäfao, cätsol -> cățel, cățao, cățol -->
+  
+  <definition>„kleiner Hund, kleine Hündin“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CATELLUS, -UM</etymon>
+    , 
+    <etymon lang="Lat">CATELLA, -AM</etymon>
+     
+    <!-- Assuming carkuues -> CATELLUS -->
+    
+    <cognates>
+      
+      <form lang="it">catello</form>
+      , 
+      <form lang="fr">cheau</form>
+      , 
+      <form lang="cat">cadell</form>
+      , 
+      <form lang="sp">cadillo, -a</form>
+      , 
+      <form lang="pg">cadella</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="160">
+  
+  <lemma>ațin</lemma>
+   
+  <!-- Assuming afin -> ațin -->
+  
+  <inflection>-ui, -ut</inflection>
+  
+  <verb_class>II</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage_note>(u. III)</usage_note>
+   
+  <!-- Indicates fluctuation or additional class -->
+  
+  <definition>„auflauern“</definition>
+  
+  <usage_note>
+    (meist nur in 
+    <example>ațin calea cuiva</example>
+     „lauere Jd. am Wege auf“)
+  </usage_note>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ATTĔNEO, -ERE</etymon>
+     (wieder­hergestellt aus 
+    <etymon lang="Lat">ATTINEO</etymon>
+    ). 
+    <!-- Assuming *ar-rENEO -> *ATTĔNEO -->
+    
+  </etymology>
+  
+</entry>

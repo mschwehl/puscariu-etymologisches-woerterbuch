@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="277">
+  
+  <lemma>căpestre?</lemma>
+   
+  <!-- Assuming cäpetel -> căpestre? based on etymology -->
+  
+  <lemma_variants>
+    (
+    <form>căpețel?</form>
+     sm., 
+    <form>căpețală?</form>
+     sf.)
+  </lemma_variants>
+   
+  <!-- Assuming cäpäfel, căpeţie)ală -->
+  
+  <definition>„Zügel“</definition>
+  
+  <etymology>
+    setzt ein älteres 
+    <form>*căpeț</form>
+      
+    <etymon lang="Lat">CAPITIUM</etymon>
+     voraus:
+
+    <cognates>
+      
+      <form lang="it">cavezza</form>
+       „Halfter‘‘, 
+      <form lang="campob">capezza</form>
+      , 
+      <form lang="neap">capezza</form>
+      , 
+      <form lang="alatri">capezza</form>
+      , 
+      <!-- Assuming kapetssa -> capezza -->
+      
+      <form lang="cal">capizza</form>
+      , 
+      <form lang="cerign">capezza?</form>
+      , 
+      <form lang="lanc">capezza?</form>
+      , 
+      <form lang="bari">capezza?</form>
+      , 
+      <!-- Assuming kapitssa, kapetsse -> capezza? -->
+      
+      <form lang="mail">cavezza</form>
+      , 
+      <!-- Assuming kavetsse -> cavezza -->
+      
+      <form lang="a-frz">chevece</form>
+      , 
+      <form lang="sp">cabezo</form>
+      , 
+      <form lang="pg">cabeço</form>
+      . 
+      <!-- Assuming cabeco -> cabeço -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. frîu, agiame].</variants>
+   
+  <!-- Assuming ageme -> agiame -->
+  
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="443">
+  
+  <lemma>cumpăr</lemma>
+   
+  <!-- Assuming etapă» -> cumpăr -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (a)cumpăr, (a)cumpru, (a)cumper, mgl. =, ir. cumpru, inf. -parare?]</variants>
+   
+  <!-- Assuming -pard -> -parare? -->
+  
+  <definition>„kaufen“</definition>
+  
+  <etymology source="Dens. H. l. r. 188">
+    
+    <etymon lang="Lat">COMPARŌ, -ARE</etymon>
+     
+    <!-- Assuming compăno -> COMPARŌ -->
+    
+    <cognates>
+      
+      <form lang="it">comp(e)rare</form>
+      , 
+      <form lang="a-ven">comparar</form>
+      , 
+      <form lang="triest">crompar</form>
+      , 
+      <form lang="sard-log">comporare</form>
+      , 
+      <form lang="eng">cumprar</form>
+      , 
+      <form lang="sp">comprar</form>
+      , 
+      <form lang="pg">comprar</form>
+      . 
+      <!-- Assuming compl(e)rare -> comp(e)rare, krompar -> crompar, kumprer -> cumprar -->
+      
+    </cognates>
+    
+    <rejected_etymology source="Dens. H.l.r. 83">
+      Ein 
+      <etymon lang="Lat">*COMPARO</etymon>
+       wird von keiner rom. Form gefordert, und liegt dem rum. Wort sicherlich nicht zugrunde.
+
+    </rejected_etymology>
+    
+    <semantic_note>Für den Bedeutungswandel Belege bei Dens.</semantic_note>
+    
+  </etymology>
+  
+</entry>

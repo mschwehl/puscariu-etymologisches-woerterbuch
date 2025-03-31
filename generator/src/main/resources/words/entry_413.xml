@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="413">
+  
+  <lemma>creier</lemma>
+   
+  <!-- Assuming erdier -> creier -->
+  
+  <lemma_variants>(crier)</lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <usage>
+    meist 
+    <form>creieri</form>
+     Plur. tant.
+  </usage>
+  
+  <variants>
+    (crieri, creri 
+    <source_ref>Conv. lit. XX, 1008</source_ref>
+    )
+  </variants>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CEREBRUM</etymon>
+     
+    <!-- Assuming clejreerrun -> CEREBRUM -->
+    
+    <cognates>
+      
+      <form lang="alb">tríe?</form>
+       „Kopf“ (umgekehrt bedeutet 
+      <form lang="chamoson?">cranu?</form>
+       „Gehirn“; vgl. sard. 
+      <form lang="sard">iselembrare?</form>
+      ), sonst im Rom. nur das Diminutivum 
+      <etymon lang="Lat">CEREBELLUM</etymon>
+      : 
+      <form lang="vegl">carbiel?</form>
+      , 
+      <form lang="sard">carbeddu</form>
+      , 
+      <form lang="pv">cervel</form>
+      , 
+      <form lang="fr">cerveau</form>
+      . 
+      <!-- Interpretation needed for brief, crâno, iSelembrare, karviale -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <phonological_note>
+    Ban. ar. 
+    <form>crier</form>
+    , mgl. 
+    <form>crier</form>
+     ist aus 
+    <form>creier</form>
+     dissimiliert und geht nicht auf 
+    <etymon lang="Lat">CEREBELLUM</etymon>
+     zurück. 
+    <!-- Assuming eri@l, eriet -> crier -->
+    
+  </phonological_note>
+  
+</entry>

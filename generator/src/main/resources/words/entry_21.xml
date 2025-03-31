@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="21">
+  
+  <lemma>adăpost</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Schutz(dach)“</definition>
+  
+  <etymology_discussion>
+    
+    <etymology>
+      
+      <etymon lang="Lat">AD-DEPOSITUM</etymon>
+       (
+      <etymon lang="Lat">POSTUM</etymon>
+       = 
+      <etymon lang="Lat">POSITUM</etymon>
+      )
+
+      <cognates>
+        
+        <form lang="it">posto</form>
+        , 
+        <form lang="pg">posto</form>
+        , 
+        <form lang="eng">post</form>
+        , 
+        <form lang="fr">com-pôt</form>
+        , 
+        <form lang="sp">puesto</form>
+        .
+
+      </cognates>
+      
+    </etymology>
+    
+    <comment>
+      Ursprünglich adverbiel: 
+      <example lang="Lat">duco ad depositum</example>
+       = trage in Verwahrung &gt; 
+      <example>duc adă­post</example>
+      , dann 
+      <example>duc la adăpost</example>
+      , wie 
+      <example>port la subsuară</example>
+       aus Älterem 
+      <example>port subsuoară</example>
+       = 
+      <example lang="Lat">porto sub subala</example>
+       = trage unter der Achselhöhle.
+    </comment>
+    
+    <reference type="bibliographic">Vgl. Tiktin Wörtb,</reference>
+    
+  </etymology_discussion>
+  
+</entry>

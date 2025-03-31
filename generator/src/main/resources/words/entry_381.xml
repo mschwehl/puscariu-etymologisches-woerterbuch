@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="381">
+  
+  <lemma>ciur</lemma>
+   
+  <!-- Assuming ciuv -> ciur -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. țăr, mgl. ciur]</variants>
+   
+  <!-- Assuming îsi -> țăr, fur -> ciur -->
+  
+  <definition>„Sieb“</definition>
+  
+  <etymology source="G. Meyer: Indogerm. Forsch. VI, 120; Meyer-Lübke, Grundriß rom. Phil. I² S. 458">
+    
+    <etymon lang="Lat">*CIRRUM</etymon>
+     (dissimi­liert aus 
+    <etymon lang="Lat">CRIBRUM</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="fr">crible</form>
+      , 
+      <form lang="sp">cribo</form>
+      , 
+      <form lang="pg">crivo</form>
+      .
+
+    </cognates>
+    
+    <comment>
+      (Meyer-Lübke bezweifelt die Richtigkeit des 
+      <form>cibrum</form>
+       in C. Gl. V, 59, 25).
+    </comment>
+    
+  </etymology>
+  
+</entry>

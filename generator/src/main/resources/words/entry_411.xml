@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="411">
+  
+  <lemma>cred</lemma>
+  
+  <inflection>-zui, -zut</inflection>
+   
+  <!-- Assuming -züi, act -> -zui, -zut -->
+  
+  <verb_class>III</verb_class>
+   
+  <!-- Assuming LL -> III -->
+  
+  <pos>vb.</pos>
+  
+  <variants>
+    [ar. cred selten und nur in Albanien, dafür 
+    <form>pistipsescu</form>
+    , ir. cred?, crezut III]
+  </variants>
+   
+  <!-- Assuming credat -> cred? -->
+  
+  <definition>„glauben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CREDO, -DIDI, -DITUM, -ERE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">credere</form>
+      , 
+      <form lang="eng">crajér?</form>
+      , 
+      <form lang="eng">crajér?</form>
+      , 
+      <form lang="pv">crezer, creire</form>
+      , 
+      <form lang="fr">croire</form>
+      , 
+      <form lang="sp">creer</form>
+      , 
+      <form lang="pg">crer</form>
+      . 
+      <!-- Assuming erödere -> credere, hair, krajer -> crajér? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

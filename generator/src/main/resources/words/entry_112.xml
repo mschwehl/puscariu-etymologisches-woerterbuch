@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="112">
+  
+  <lemma>arbor(e)</lemma>
+  
+  <lemma_variants>(ărbur(e))</lemma_variants>
+   
+  <!-- Assuming ärbur(e) -> ărbur(e) -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. arbure, mgl. arbur(i), ir. orbure]</variants>
+  
+  <definition>„Baum“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARBOR, -EM</etymon>
+     
+    <!-- Assuming Cannon, -eı -> ARBOR, -EM -->
+    
+    <cognates>
+      
+      <form lang="it">albero</form>
+      ,
+
+      <form lang="sic">arvulu</form>
+      ,
+
+      <form lang="cors">arburu</form>
+      ,
+
+      <form lang="frl">arbul</form>
+      ,
+
+      <form lang="fr">arbre</form>
+      , 
+      <form lang="cat">arbre</form>
+      ,
+
+      <form lang="mall">abre</form>
+      ,
+
+      <form lang="sp">árbol</form>
+      ,
+
+      <form lang="pg">arvore</form>
+      , 
+      <comment>letzteres allein weiblichen Geschlechts</comment>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

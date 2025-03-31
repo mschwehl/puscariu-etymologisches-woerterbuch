@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="III" number="337">
+  
+  <lemma>cer</lemma>
+  
+  <lemma_variants>(ceiu, + ceriu)</lemma_variants>
+  
+  <inflection>-ui, -ut</inflection>
+   
+  <!-- Assuming -ıti, -üt -> -ui, -ut -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. țer auch „suchen, bitten“, mgl. țer auch „wünschen, lieben (wie span)“]</variants>
+   
+  <!-- Assuming tser -> țer -->
+  
+  <definition>„verlangen, betteln, dial. suchen“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. II, S. 382, 371">
+    
+    <etymon lang="Lat">QUAERO, QUAESIVI, QUAESITUM, QUAERERE</etymon>
+     
+    <!-- Assuming QuzRo, -ZESiVI, -RSiTUN, -RRERE -> QUAERO, QUAESIVI, QUAESITUM, QUAERERE -->
+    
+    <cognates>
+      
+      <form lang="it">chiedere</form>
+      , 
+      <form lang="sard">chèrrere</form>
+       „wollen“, 
+      <form lang="pv">querre</form>
+      , 
+      <form lang="a-frz">querre</form>
+      , 
+      <form lang="sp">querer</form>
+      , 
+      <form lang="pg">querer</form>
+      . 
+      <!-- Assuming kerrere -> chèrrere -->
+      
+    </cognates>
+    
+    <morphology_note>
+      Aus dem alten Partz. 
+      <form>*ces</form>
+       und dem neuen 
+      <form>cerut</form>
+       entstand die Kontamination 
+      <form>cerșit</form>
+       und dazu ein Aorist 
+      <form>cerșii</form>
+       (
+      <source_ref>Cor. Ps. 19, Tetr. 110, 116, Cuv. d. b. I, 275 etc</source_ref>
+      ), wozu auch ein neues Praes. 
+      <form>cerșesc</form>
+       [ir. 
+      <form>țerșesc</form>
+       „verlangen“] „betteln“ neugebildet wurde. 
+      <!-- Assuming *cegit -> *ces, cergui -> cerșii, t$ersesc -> țerșesc -->
+      
+    </morphology_note>
+    
+  </etymology>
+  
+</entry>

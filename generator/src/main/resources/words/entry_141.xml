@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="141">
+  
+  <lemma>asemenea</lemma>
+  
+  <lemma_variants>
+    (+ 
+    <form>asemere</form>
+     
+    <source_ref>Ps. Sch. 169, 527</source_ref>
+     etc.)
+  </lemma_variants>
+  
+  <pos>adv.</pos>
+  
+  <definition>„eben­falls“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AD SIMILIS, -E</etymon>
+     
+    <!-- Assuming [as]-simiras -> AD SIMILIS -->
+    
+  </etymology>
+  
+  <variants>[ar. tot ași].</variants>
+   
+  <!-- Assuming tat ası -> tot ași -->
+  
+</entry>

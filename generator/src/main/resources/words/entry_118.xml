@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="118">
+  
+  <lemma>ariciu</lemma>
+   
+  <!-- Assuming arietii -> ariciu -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. arits]</variants>
+  
+  <definition>„Igel“</definition>
+  
+  <etymology source="Verfassers: Lat Ti u. Ki S. 149—150">
+    
+    <etymon lang="Lat">*ĒRICIUS</etymon>
+     (statt 
+    <etymon lang="Lat">ĒRICIUS</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="alb">irik'</form>
+      ,
+
+      <form lang="it">riccio</form>
+       (vgl. 
+      <form>arrizzare</form>
+      ),
+
+      <form lang="sard">ritssu</form>
+      ,
+
+      <form lang="eng">riț</form>
+      , 
+      <!-- Assuming rută -> riț -->
+      
+      <form lang="sp">erizo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

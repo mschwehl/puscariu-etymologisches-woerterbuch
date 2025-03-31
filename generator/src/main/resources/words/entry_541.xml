@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="541">
+  
+  <lemma>domn</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. ir. domnu, mgl. © u. domn „Gott“]</variants>
+   
+  <!-- Assuming dommu -> domnu, © u. dom -> = u. domn -->
+  
+  <definition>„Herr, Gott“</definition>
+  
+  <usage>(ar. mgl. auch „Himmel“)</usage>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DOMNUS, -UM</etymon>
+     (Plautus, Inschriften = 
+    <etymon lang="Lat">DOMINUS</etymon>
+    ) 
+    <!-- Assuming pönxus -> DOMNUS -->
+    
+    <cognates>
+      
+      <form lang="it">donno</form>
+      , 
+      <form lang="sard">donnu</form>
+      , 
+      <form lang="eng">don</form>
+      , 
+      <form lang="pv">don</form>
+      , 
+      <form lang="a-frz">dam</form>
+      , 
+      <form lang="sp">dueño</form>
+      , 
+      <form lang="pg">dom</form>
+      . 
+      <!-- Assuming dont -> don, dueno -> dueño -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Davon 
+    <form>Dumneata</form>
+     „Sie“ (höfliche Anrede) = 
+    <etymon lang="Lat">DOMINIA-TUA</etymon>
+     (eigtl. Deine Herrschaft), wie alb. 
+    <example lang="alb">zotërote == zotëri-jote</example>
+     (
+    <form>zot</form>
+     = Herr). Aus 
+    <etymon lang="Lat">DOMINE LIBERA</etymon>
+     entsteht 
+    <form>doamne iartă!</form>
+     „be­hüte Gott“, welches im Ar. u. Mgl. 
+    <form>domnibertu</form>
+     I vb. konjugiert wird.
+
+  </derived_forms>
+  
+</entry>

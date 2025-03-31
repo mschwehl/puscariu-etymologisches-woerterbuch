@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="461">
+  
+  <lemma>curs</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Lauf“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CURSUS, -UM</etymon>
+     
+    <!-- Assuming -UN -> -UM -->
+    
+    <cognates>
+      
+      <form lang="it">corso</form>
+      , 
+      <form lang="sp">corso</form>
+      , 
+      <form lang="pg">curso</form>
+      , 
+      <form lang="eng">cuors</form>
+      , 
+      <form lang="pv">cors</form>
+      , 
+      <form lang="fr">cours</form>
+      . 
+      <!-- Assuming 00750 -> corso, kuors -> cuors -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

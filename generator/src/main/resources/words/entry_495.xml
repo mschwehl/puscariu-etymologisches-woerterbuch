@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="495">
+  
+  <lemma>defăimă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Verruf”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DIFFAMIA, -AM</etymon>
+    , daraus einerseits: 
+    <etymon lang="Lat">*DIFFAMIO, -ARE</etymon>
+     &gt; 
+    <form>defăim</form>
+     I vb. (vgl. pg. 
+    <form lang="pg">desfaimar?</form>
+    ), andererseits 
+    <form>faimă</form>
+     „Ruf“  
+    <etymon lang="Lat">*FAMIA, -AM</etymon>
+     (statt 
+    <etymon lang="Lat">FAMA, -AE</etymon>
+    ). 
+    <!-- Assuming DIFPAMIA -> DIFFAMIA, *DIPEANIO -> *DIFFAMIO, esfaimar -> desfaimar?, *panta -> *FAMIA -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="171">
+  
+  <lemma>aurar</lemma>
+   
+  <!-- Assuming aurdr -> aurar -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Vergolder“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AURARIUS, -UM</etymon>
+     
+    <!-- Assuming -UN -> -UM -->
+    
+  </etymology>
+  
+</entry>

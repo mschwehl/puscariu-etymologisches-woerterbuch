@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="126">
+  
+  <lemma>armăsar</lemma>
+   
+  <!-- Assuming ermäsär -> armăsar -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Hengst“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARMISSARIUS, -UM</etymon>
+     (Thes. ling. lat. statt 
+    <etymon lang="Lat">ADMISSARIUS</etymon>
+    ) 
+    <!-- Assuming ARMESSARIUS -> ARMISSARIUS -->
+    
+    <cognates>
+      
+      <form lang="sard-log">ammessarzu</form>
+       „stallone“, 
+      <!-- Assuming sard. |. -> log. -->
+      
+      <form lang="alb">harmëshor</form>
+      . 
+      <!-- Assuming har­mesuar -> harmëshor -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum.: kl.-russ. 
+    <form lang="ukr">harmasarŭ</form>
+    .
+  </borrowing_note>
+  
+</entry>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="536">
+  
+  <lemma>doagă</lemma>
+   
+  <!-- Assuming dodgă -> doagă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. auch „große Decke“]</variants>
+  
+  <definition>„Daube“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DOGA, -AM</etymon>
+     (= gr. 
+    <etymon lang="Gr">δοχή</etymon>
+    , belegt nur mit dem Sinne „Gefäß“, im Rom. überall „Daube“)
+
+    <cognates>
+      
+      <form lang="it">doga</form>
+      , 
+      <form lang="pv">doga</form>
+      , 
+      <form lang="sp">doga</form>
+      , 
+      <form lang="cat">doga</form>
+      , 
+      <form lang="sic">duga</form>
+      , 
+      <form lang="piem">duva</form>
+      , 
+      <form lang="eng">duva</form>
+      , 
+      <form lang="sard">doa</form>
+      , 
+      <form lang="fr">douve</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Auch n.-gr. 
+    <etymon lang="ngr">δόγα</etymon>
+     (alb. 
+    <form lang="alb">dogë</form>
+    ), srb. 
+    <etymon lang="sr">doga, duga</etymon>
+    , kroat. 
+    <etymon lang="hr">duga</etymon>
+     (&gt; ir. 
+    <form>dugă?</form>
+    ).
+  </borrowing_note>
+   
+  <!-- Assuming ö6y« -> δόγα, doge -> dogë, düge -> dugă? -->
+  
+</entry>

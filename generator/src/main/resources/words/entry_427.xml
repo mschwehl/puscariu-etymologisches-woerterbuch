@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="427">
+  
+  <lemma>cucută</lemma>
+   
+  <!-- Assuming cueätä -> cucută -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„Schierling”</definition>
+  
+  <etymology source="Meyer-Lübke: Zeitschr. rom. Phil. VIII, 141">
+    
+    <etymon lang="Lat">*CŪCŪTA, -AM</etymon>
+     (Assimil. aus 
+    <etymon lang="Lat">CICŪTA</etymon>
+    ) 
+    <!-- Assuming *cveora -> *CŪCŪTA -->
+    
+    <cognates>
+      (
+      <form lang="bellinz">cigüda?</form>
+      , 
+      <form lang="parm">siguda?</form>
+      , 
+      <form lang="piem">erba siüda?</form>
+      , 
+      <form lang="a-frz">ceüe</form>
+      ), 
+      <form lang="alb">këkutë</form>
+      , 
+      <form lang="saintong">?</form>
+      , 
+      <form lang="n-prov">coucudo?</form>
+      . 
+      <!-- Interpretation needed for Sigida, squda, siia, ceue, kıkute, cohüe, koküdo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Srb. 
+    <etymon lang="sr">kukuta</etymon>
+     kann aus dem Alb. oder Rum. entlehnt sein. 
+    <!-- Assuming Jakarta -> kukuta -->
+    
+  </borrowing_note>
+  
+</entry>

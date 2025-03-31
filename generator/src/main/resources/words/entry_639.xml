@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="639">
+  
+  <lemma>fragă</lemma>
+   
+  <!-- Assuming frdâgă -> fragă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>
+    (ar. nur im Plur. 
+    <form>frăndzĭ?</form>
+    )
+  </variants>
+   
+  <!-- Assuming frandze -> frăndzĭ? -->
+  
+  <definition>„Erdbeere“</definition>
+  
+  <etymology source="Mussafia: Beitrag 59; Salvioni: Postille 10">
+    
+    <etymon lang="Lat">FRAGA, -AM</etymon>
+     (= 
+    <etymon lang="Lat">FRAGUM</etymon>
+    : 
+    <cognates>
+      <form lang="parm">fro</form>
+    </cognates>
+    )
+
+    <cognates>
+      
+      <form lang="it">fraga</form>
+      , 
+      <form lang="sp">fraga</form>
+      , 
+      <form lang="valses">fraiga</form>
+      , 
+      <form lang="canav?">?</form>
+      , 
+      <form lang="obw">fraia?</form>
+      , 
+      <form lang="eng">freia?</form>
+      , 
+      <form lang="lecc">?</form>
+      . 
+      <!-- Interpretation needed for fraja, freja, frea -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Ir. 
+    <form>froz</form>
+     ist aus dem Plur. 
+    <form>frojuri?</form>
+     rückgebildet (d-rum. 
+    <form>fragi</form>
+     = ir. 
+    <form>froj?</form>
+    , dazu die Endung 
+    <suffix>-ure</suffix>
+    : 
+    <form>frojure?</form>
+    , von dem ein Sing. 
+    <form>froj, froz</form>
+    ). 
+    <!-- Interpretation needed for fros, frozure, fro2 -->
+    
+  </usage_note>
+  
+</entry>

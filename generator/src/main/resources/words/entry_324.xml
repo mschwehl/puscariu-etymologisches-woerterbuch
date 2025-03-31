@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="324">
+  
+  <lemma>gaună</lemma>
+   
+  <!-- Assuming cdună -> gaună -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Loch“</definition>
+  
+  <source_ref>(Liuba-Jana: Mäidan, 28)</source_ref>
+  
+  <etymology source="Nigra: Archivio glott. ital. XV, 104; Meyer-Lübke: Rom. Gramm. I, § 427; Dens. H. l. r. 111">
+    
+    <etymon lang="Lat">*CAVUNA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">CAVUS</etymon>
+    ) 
+    <!-- Assuming *cavisa -> *CAVUNA -->
+    
+    <cognates>
+      
+      <form lang="n-pv">cauno, gauno</form>
+      , 
+      <form lang="lim">?</form>
+       „creux d’un arbre“ (“und metatesi di *caracauno la cui seconda parte cauno significa ‘cavità, creux, terrier’.” Nigra).
+
+    </cognates>
+    
+    <derived_forms>
+      <form>găunos, -oasă</form>
+       adj. „löcherig“;
+    </derived_forms>
+    
+    <phonological_note>
+      wegen 
+      <phoneme>c</phoneme>
+        
+      <phoneme>g</phoneme>
+       vgl. Meyer­-Lübke, Dens.
+    </phonological_note>
+    
+  </etymology>
+  
+</entry>

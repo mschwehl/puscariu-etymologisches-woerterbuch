@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="406">
+  
+  <lemma>cot</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+  
+  <definition>„Ellbogen, Elle“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CUBITUM</etymon>
+     (mit beiden Bedeutungen, und nicht 
+    <etymon lang="Lat">CUBITUS</etymon>
+     „Ellbogen“ 
+    <etymon lang="Lat">CUBITUM</etymon>
+     „Elle“, wie 
+    <source_ref>K. V, 574</source_ref>
+    ) 
+    <!-- Assuming cüsirun -> CUBITUM, cuzırus -> CUBITUS, gusırun -> CUBITUM -->
+    
+    <cognates>
+      
+      <form lang="alb">kut</form>
+      , 
+      <form lang="it">gomito</form>
+      , 
+      <form lang="sard">cubidu?</form>
+      , 
+      <form lang="eng">cübet?</form>
+      , 
+      <form lang="pv">cobde</form>
+      , 
+      <form lang="fr">coude</form>
+      , 
+      <form lang="sp">codo</form>
+      , 
+      <form lang="pg">côvado</form>
+      . 
+      <!-- Assuming kuidu -> cubidu?, kumbet -> cübet?, cövado -> côvado -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Ar. 
+    <example>n-cot</example>
+     „umsonst“ ge­hört zu alb. 
+    <example lang="alb">mbë kot</example>
+     „umsonst“.
+  </usage_note>
+  
+</entry>

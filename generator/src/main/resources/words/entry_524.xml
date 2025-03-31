@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="524">
+  
+  <lemma>despic</lemma>
+   
+  <!-- Assuming despite -> despic -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. dispic]</variants>
+  
+  <definition>„spalten“</definition>
+  
+  <etymology source="Dens. H. l. r. 169; Rom. XXXI, 307; Jb. V, 130">
+    
+    <etymon lang="Lat">DISPICO, -ARE</etymon>
+    . 
+    <!-- Assuming pr-srico -> DISPICO -->
+    
+    <related_form>
+      Mit dem bekannten Prefix­wechsel zwischen 
+      <prefix>des-</prefix>
+       und 
+      <prefix>răs-</prefix>
+       entstand 
+      <form>răspic</form>
+       I vb. „zerstückeln“ (daher 
+      <example>vorbă răspicată</example>
+       = „deutliche Rede“). Bei 
+      <source_ref>Dosoft. Viaţa st. 22)</source_ref>
+       ist 
+      <form>răspicații</form>
+       = 
+      <form>despicați</form>
+       „zerspalten, entzwei gerissen“.
+
+    </related_form>
+    
+  </etymology>
+  
+</entry>

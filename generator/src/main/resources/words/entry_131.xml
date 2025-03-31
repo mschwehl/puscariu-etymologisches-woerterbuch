@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="131">
+  
+  <lemma>artar</lemma>
+   
+  <!-- Assuming artär -> artar -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Ahorn“</definition>
+  
+  <etymology_discussion>
+    scheint von 
+    <etymon lang="Lat">ACER</etymon>
+    , durch die Mittel­stufen 
+    <form>*ACRE</form>
+     &gt; 
+    <form>*ARCE</form>
+     (
+    <form lang="sp">arce</form>
+    ) + 
+    <suffix>-ARIUM</suffix>
+     entstanden zu sein, vgl. 
+    <cognates>
+      <form lang="sic">acciaru</form>
+      , 
+      <form lang="romag">azar</form>
+      , 
+      <form lang="parm">azzar</form>
+    </cognates>
+    . 
+    <!-- Assuming atssaru, atssar, atsser -->
+    
+  </etymology_discussion>
+  
+</entry>

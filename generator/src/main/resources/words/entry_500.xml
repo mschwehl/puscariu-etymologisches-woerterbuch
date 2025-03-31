@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="500">
+  
+  <lemma>depărtez</lemma>
+   
+  <!-- Assuming depärtez -> depărtez -->
+  
+  <lemma_variants>
+    (
+    <form>depărt</form>
+     
+    <source_ref>Mar. Ornit. I, 6</source_ref>
+    )
+  </lemma_variants>
+   
+  <!-- Assuming depârt -> depărt -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. depărtedz]</variants>
+   
+  <!-- Assuming depärtedzü -> depărtedz -->
+  
+  <definition>„entfernen“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 739—740">
+    
+    <etymology>
+      
+      <etymon lang="Lat">DEQUARTO, -ARE</etymon>
+      ? (von 
+      <etymon lang="Lat">QUARTUS</etymon>
+      , eigtl. „aus einem Quartier (Stadtviertel) vertreiben“) 
+      <!-- Assuming DE-QUAETARE -> DEQUARTO? -->
+      
+      <cognates>
+        vgl. 
+        <form lang="sard-log">iscartare?</form>
+         „separarsi, allonta­narsi“, 
+        <form lang="fr">écarter</form>
+        , (
+        <etymon lang="Lat">*EXQUARTARE</etymon>
+        ). 
+        <!-- Assuming iscartarsi -> iscartare? -->
+        
+      </cognates>
+      
+    </etymology>
+    
+    <derived_form>
+      Daraus, mit Anlehnung an 
+      <form>parte</form>
+      : 
+      <form>departe</form>
+       adv. [ar. 
+      <form>diparte</form>
+      , mgl. 
+      <form>diparti</form>
+      ] „weit“.
+
+    </derived_form>
+    
+    <rejected_etymology>
+      Die bisherige Etymologie: 
+      <form>departe</form>
+       (daraus: 
+      <form>depărtez</form>
+      ) = 
+      <etymon lang="Lat">DE + PARTE</etymon>
+       wird zurückgewiesen, da dieses „nahe“ bedeuten müßte (vgl, auch alb. 
+      <form lang="alb">për anë</form>
+       = „nahe“). 
+      <!-- Assuming per-ane -> për anë -->
+      
+    </rejected_etymology>
+    
+  </etymology>
+  
+</entry>

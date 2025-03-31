@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="410">
+  
+  <lemma>creastă</lemma>
+   
+  <!-- Assuming cvesstă -> creastă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>
+    [ar. creastă (
+    <example>di munte</example>
+    ) 
+    <source_ref>Cod. Dim. 10?%</source_ref>
+     „Gebirgs­kamm“, mgl. creastă, ir. creastă]
+  </variants>
+   
+  <!-- Assuming erestä, creste -> creastă -->
+  
+  <definition>„Kamm (der Vögel, Gebirgs-)“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CRISTA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">kreshtë</form>
+       „Mähne, Borste*, 
+      <form lang="it">cresta</form>
+      , 
+      <form lang="pv">cresta</form>
+      , 
+      <form lang="sp">cresta</form>
+      , 
+      <form lang="eng">cresta</form>
+      , 
+      <form lang="fr">crête</form>
+      , 
+      <form lang="wall">creste?</form>
+      . 
+      <!-- Assuming kreste -> kreshtë, kraista -> cresta, erete -> crête, kres -> creste? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

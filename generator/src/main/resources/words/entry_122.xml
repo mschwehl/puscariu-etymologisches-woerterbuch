@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="122">
+  
+  <lemma>arinos</lemma>
+  
+  <feminine_neuter>arinoasă</feminine_neuter>
+   
+  <!-- Assuming -oasd -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„sandig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARENOSUS, -A, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">renoso</form>
+      ,
+
+      <form lang="pv">arenos</form>
+      , 
+      <form lang="cat">arenos</form>
+      ,
+
+      <form lang="sp">arenoso</form>
+      , 
+      <form lang="pg">arenoso</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

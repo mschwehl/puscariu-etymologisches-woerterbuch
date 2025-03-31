@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="11">
+  
+  <lemma>acest(a)</lemma>
+  
+  <feminine>aceasta</feminine>
+   
+  <!-- Assuming ucedstei is OCR error -->
+  
+  <pos>pron.</pos>
+  
+  <variants>[mgl. tsista, ir. t$ästa]</variants>
+  
+  <definition>„dieser“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ECCUM- (od. ATQUE) ISTUM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">questo</form>
+      ,
+
+      <form lang="rtr">kest</form>
+      ,
+
+      <form lang="a-pv">aquest</form>
+      ,
+
+      <form lang="sp">aqueste</form>
+      , 
+      <form lang="pg">aqueste</form>
+      . 
+      <!-- Split sp. pg. -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <morphology_discussion>
+    Über auslautendes 
+    <morpheme>-a</morpheme>
+     vgl. 
+    <ref target_lemma="acel(a)">acel(a)</ref>
+    . Daneben 
+    <form>cest(a)</form>
+    , fem. 
+    <form>ceastă</form>
+    : 
+    <cognates>
+      <form lang="it">questo, -a</form>
+      , 
+      <form lang="eng">quaist, -a</form>
+      , 
+      <form lang="pv">cest, -a</form>
+      , 
+      <form lang="fr">cet, cette</form>
+    </cognates>
+    .
+
+  </morphology_discussion>
+  
+</entry>

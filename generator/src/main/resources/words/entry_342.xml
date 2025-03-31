@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="342">
+  
+  <lemma>cerc</lemma>
+   
+  <!-- Assuming cere -> cerc -->
+  
+  <lemma_variants>(încerc)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„(ver)suchen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CIRCO, -ARE</etymon>
+     
+    <!-- Assuming cinco -> CIRCO -->
+    
+    <cognates>
+      
+      <form lang="alb">kërkoj</form>
+       (assimil. aus 
+      <form>*qërkoj</form>
+      ), 
+      <form lang="it">cercare</form>
+      , 
+      <form lang="sic">circari</form>
+      , 
+      <form lang="pv">cercar</form>
+      , 
+      <form lang="cat">cercar</form>
+      , 
+      <form lang="fr">chercher</form>
+      . 
+      <!-- Assuming k’erkoi -> qërkoj, kirkari -> circari -->
+      
+    </cognates>
+    
+    <semantic_note>
+      Der Sinn „versuchen (auch kosten)‘, den das rum. Wort in der Schriftsprache hat, kehrt wieder in 
+      <cognates>
+        <form lang="berg">sercà</form>
+        , 
+        <form lang="bresc">sercà</form>
+        , 
+        <form lang="ven">cercar</form>
+        , 
+        <form lang="pad">cercar</form>
+        , etc.
+      </cognates>
+       
+      <!-- Assuming sirkd, serka -> sercà -->
+      
+    </semantic_note>
+    
+  </etymology>
+  
+  <variants>[ar. cătăpățescu].</variants>
+   
+  <!-- Assuming cätäpätsescn -> cătăpățescu -->
+  
+</entry>

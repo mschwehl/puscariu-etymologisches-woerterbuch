@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="551">
+  
+  <lemma>dreptate</lemma>
+   
+  <!-- Assuming dreptäte -> dreptate -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. (n)driptate]</variants>
+  
+  <definition>„Recht“</definition>
+  
+  <etymology source="Conv. lit. XXXIX, 63—65">
+    
+    <etymon lang="Lat">*DĒRĒCTĀS, -ĀTEM</etymon>
+     (aus 
+    <etymon lang="Lat">DIRECTITAS</etymon>
+    ). 
+    <!-- Assuming *DIRECTAS -> *DĒRĒCTĀS, *pirgorttas -> DIRECTITAS -->
+    
+  </etymology>
+  
+</entry>

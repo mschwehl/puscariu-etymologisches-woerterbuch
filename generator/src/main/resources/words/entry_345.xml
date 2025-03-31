@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="345">
+  
+  <lemma>cerențel</lemma>
+   
+  <!-- Assuming cerentel -> cerențel -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Dryas octopetala u. Geum urbanum“</definition>
+  
+  <etymology source="Densusianu, Rom. XXXIII, 73">
+    soll ein Diminutivum von 
+    <etymon lang="Lat">CERYNTHA, -AM</etymon>
+     sein.
+
+  </etymology>
+  
+</entry>

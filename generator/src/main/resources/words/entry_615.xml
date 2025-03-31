@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="615">
+  
+  <lemma>fîntînă</lemma>
+   
+  <!-- Assuming fîntină -> fîntînă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, mgl. făntînă, ir. fîntînă]</variants>
+   
+  <!-- Assuming făntonă, fäntäre -> făntînă, fîntînă -->
+  
+  <definition>„Brunnen“</definition>
+  
+  <etymology source="Gromat. vet. S. 315, 28 etc.">
+    
+    <etymon lang="Lat">FONTANA, -AM</etymon>
+     („Quelle“)
+
+    <cognates>
+      
+      <form lang="it">fontana</form>
+      , 
+      <form lang="pv">fontana</form>
+      , 
+      <form lang="a-cat">fontana</form>
+      , 
+      <form lang="sp">fontana</form>
+      , 
+      <form lang="sic">funtana</form>
+      , 
+      <form lang="sard-log">funtana</form>
+      , 
+      <form lang="cors">funtana</form>
+      , 
+      <form lang="fr">fontaine</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

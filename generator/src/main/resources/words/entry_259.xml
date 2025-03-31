@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="259">
+  
+  <lemma>căldare</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. ©, mgl. căldari]</variants>
+  
+  <definition>„Kessel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CALDARIA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">caldaia</form>
+      , 
+      <form lang="neap">caudara</form>
+      , 
+      <form lang="cerign">callara</form>
+      , 
+      <form lang="alatri">callara</form>
+      , 
+      <!-- Assuming kalläre, kallara -> callara -->
+      
+      <form lang="a-berg">caldera</form>
+      , 
+      <form lang="fr">chaudière</form>
+      , 
+      <form lang="sp">caldera</form>
+      . 
+      <!-- Assuming koldera -> caldera -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

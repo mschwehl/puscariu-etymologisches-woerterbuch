@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="113">
+  
+  <lemma>arc</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. arcu, mgl. =]</variants>
+   
+  <!-- Assuming m -> = -->
+  
+  <definition>„Bogen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARCUS, -UM</etymon>
+     
+    <!-- Assuming aAncus, -un -> ARCUS, -UM -->
+    
+    <cognates>
+      
+      <form lang="alb">hark</form>
+      , 
+      <form lang="frl">arc</form>
+      , 
+      <!-- Assuming alb. frl. ark -> split -->
+      
+      <form lang="it">arco</form>
+      , 
+      <form lang="sp">arco</form>
+      , 
+      <form lang="pg">arco</form>
+      ,
+
+      <form lang="sard">arcu</form>
+      ,
+
+      <form lang="pv">arc</form>
+      , 
+      <form lang="fr">arc</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

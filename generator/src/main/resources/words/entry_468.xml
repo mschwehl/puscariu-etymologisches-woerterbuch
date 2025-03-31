@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="468">
+  
+  <lemma>cusătură</lemma>
+   
+  <!-- Assuming cusutiivă -> cusătură -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming m -> = -->
+  
+  <definition>„Naht“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CONSUTŪRA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">CONSUO</etymon>
+    ) 
+    <!-- Assuming *coxsurtra -> *CONSUTŪRA -->
+    
+    <cognates>
+      
+      <form lang="it">costura</form>
+      , 
+      <form lang="pv">costura</form>
+      , 
+      <form lang="pg">costura</form>
+      , 
+      <form lang="eng">custüra?</form>
+      , 
+      <form lang="fr">couture</form>
+      . 
+      <!-- Assuming kufdüra -> custüra?, coutire -> couture -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

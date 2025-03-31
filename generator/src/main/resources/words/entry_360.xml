@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="360">
+  
+  <lemma>cicoare</lemma>
+   
+  <!-- Assuming eicoäre -> cicoare -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Cichorie“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CICHORIUM</etymon>
+     
+    <!-- Assuming cHıcHörkun -> CICHORIUM -->
+    
+    <cognates>
+      
+      <form lang="alb">çikore, shkoftër?</form>
+      . 
+      <!-- Assuming kore, Skorie -> çikore, shkoftër? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

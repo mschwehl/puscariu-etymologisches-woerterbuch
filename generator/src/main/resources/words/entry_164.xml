@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="164">
+  
+  <lemma>atunci</lemma>
+   
+  <!-- Assuming atiinci -> atunci -->
+  
+  <pos>adv.</pos>
+   
+  <!-- Assuming adr. -> adv. -->
+  
+  <variants>[ar. atumcea, mgl. tuncea, ir. (a)tunc']</variants>
+   
+  <!-- Assuming atumtsea -> atumcea, (a)tunts -> (a)tunc' -->
+  
+  <definition>„damals“</definition>
+  
+  <etymology source="Dens. H. l. r. 171">
+    
+    <etymon lang="Lat">AD + TUNC + CE</etymon>
+     (
+    <etymon lang="Lat">AD TUNC</etymon>
+     belegt)
+
+    <cognates>
+      
+      <form lang="a-ven">atonces</form>
+      , 
+      <!-- Assuming toncha -> atonces? -->
+      
+      <form lang="sp">entonces, estonces</form>
+      ,
+
+      <form lang="a-pg">entom</form>
+      , 
+      <form lang="n-pg">então</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

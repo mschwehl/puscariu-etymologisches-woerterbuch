@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="161">
+  
+  <lemma>ating</lemma>
+  
+  <inflection>-insei, -ins</inflection>
+   
+  <!-- Assuming -nsei, -ns -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„an-, berühren“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ATTINGO, -TIGI, -TACTUM, -ERE</etymon>
+     
+    <!-- Assuming -Igı -> -TIGI -->
+    
+    <cognates>
+      
+      <form lang="it">attingere, attignere</form>
+      ,
+
+      <form lang="fr">atteindre</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

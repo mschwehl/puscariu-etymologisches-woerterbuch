@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="166">
+  
+  <lemma>oă</lemma>
+   
+  <!-- Assuming auă -> oă -->
+  
+  <usage>(dial. in Olt.)</usage>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. aoă mgl. oă]</variants>
+   
+  <!-- Assuming aăă -> aoă, wä -> oă -->
+  
+  <definition>„Traube“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ŪVA, -AM</etymon>
+     
+    <!-- Assuming TvA -> ŪVA -->
+    
+    <cognates>
+      
+      <form lang="it">uva</form>
+      , 
+      <form lang="sp">uva</form>
+      , 
+      <form lang="pg">uva</form>
+      ,
+
+      <form lang="lecce">ua</form>
+      , 
+      <form lang="berg">ua</form>
+      , 
+      <form lang="sard">ua</form>
+      ,
+
+      <form lang="eng">üa</form>
+      . 
+      <!-- Assuming Üa -> üa -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

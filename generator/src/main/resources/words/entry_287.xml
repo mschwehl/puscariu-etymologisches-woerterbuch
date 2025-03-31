@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="287">
+  
+  <lemma>cărare</lemma>
+   
+  <!-- Assuming eäräre -> cărare -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„Fußweg“</definition>
+  
+  <etymology source="Dens. H. l. r. 159">
+    
+    <etymon lang="Lat">CARRARIA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">karare</form>
+      , 
+      <form lang="it">carraia</form>
+      , 
+      <!-- Assuming carsaja -> carraia -->
+      
+      <form lang="ostlomb">carera</form>
+      , 
+      <form lang="com">carera</form>
+      , 
+      <form lang="a-berg">carera</form>
+      , 
+      <form lang="a-mail">carera</form>
+      ,
+
+      <form lang="a-frz">charrière</form>
+      , 
+      <form lang="dompierre">?</form>
+      , 
+      <form lang="prov">carriera</form>
+      , 
+      <!-- Assuming tseraero -> ?, pr. cariera -> prov. carriera -->
+      
+      <form lang="sp">carrera</form>
+      , 
+      <form lang="pg">carreira</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

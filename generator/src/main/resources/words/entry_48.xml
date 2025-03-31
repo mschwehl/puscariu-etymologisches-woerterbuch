@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="48">
+  
+  <lemma>aiurea</lemma>
+   
+  <!-- Assuming atüreca) -> aiurea -->
+  
+  <lemma_variants>(aiure(a))</lemma_variants>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. alurea, mgl. lurea, ir. (a)lure]</variants>
+   
+  <!-- Assuming turea -> lurea -->
+  
+  <definition>„anderswo“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALIOBI</etymon>
+     
+    <!-- Assuming ALIÜBT -> ALIOBI -->
+    
+    <cognates>
+      
+      <form lang="a-sp">alubre</form>
+      ,
+
+      <form lang="pg">alhur</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

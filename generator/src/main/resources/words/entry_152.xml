@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="152">
+  
+  <lemma>astîmpăr</lemma>
+   
+  <!-- Assuming (a)stimpär -> astîmpăr -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„mäßigen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*EXTEMPERO, -ARE</etymon>
+    
+    <comment>
+      (im Rom. nur das Simplex: 
+      <cognates>
+        <form lang="it">temperare</form>
+        , 
+        <form lang="pv">trempar</form>
+        , 
+        <form lang="fr">tremper</form>
+        , 
+        <form lang="sp">templar</form>
+        , 
+        <form lang="pg">temperar</form>
+      </cognates>
+      ).
+    </comment>
+    
+  </etymology>
+  
+</entry>

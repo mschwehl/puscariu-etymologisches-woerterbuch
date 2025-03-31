@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="60">
+  
+  <lemma>aleg</lemma>
+  
+  <inflection>-esei (ban. ales), -es</inflection>
+   
+  <!-- Assuming -6s -> -es -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. aleg, alepšu, aleptu III, II, mgl. leg, les, les III]</variants>
+   
+  <!-- Assuming alepău -> alepšu -->
+  
+  <definition>„wählen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALLĔGO, -ĒGI, -ECTUM, -ĔRE</etymon>
+     
+    <!-- Assuming CALLEGO -> ALLĔGO, -ERE -> -ĔRE -->
+    
+    <source_ref>(Thes. Ling. lat., statt eligo)</source_ref>
+     
+    <!-- Assuming T'hes. -> Thes., rio -> eligo -->
+    
+    <cognates>
+      
+      <form lang="a-it">alleggere</form>
+      ,
+
+      <form lang="a-ver">alezer</form>
+      , 
+      <form lang="a-mail">alezer</form>
+      
+      <comment>
+        und über ganz Italien verbreitet (vgl. 
+        <reference type="bibliographic">Meyer-Lübke: Ital. Gramm. § 187</reference>
+        ).
+      </comment>
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

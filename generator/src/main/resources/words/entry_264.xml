@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="264">
+  
+  <lemma>cam</lemma>
+  
+  <pos>adv.</pos>
+  
+  <definition>
+    dient bei der Steigerung um das „wenig ge­steigerte‘ auszudrücken: 
+    <example>un pom cam înalt</example>
+    : ein etwas hoher Baum.
+  </definition>
+  
+  <etymology_discussion source="Cihac I, 37; Meyer-Lübke: Rom. Gramm. ILL, § 202">
+    
+    <rejected_etymology>
+      Cihac und auch Meyer-Lübke sehen darin „ein indefinites 
+      <etymon lang="Lat">QUAM</etymon>
+      , das den Sinn von 
+      <etymon lang="Lat">ALIQUAM</etymon>
+       hat.“
+
+    </rejected_etymology>
+    
+    <argument>
+      Doch hat 
+      <etymon lang="Lat">QUAM</etymon>
+       im Rum. 
+      <form>ca</form>
+       ergeben, welches regelrecht entwickelt ist und im Ar. heißt das obige Beispiel 
+      <example>an pom ca naltu</example>
+      , womit daco-rum. 
+      <example>un copil ca de 5 anĭ împlinițĭ</example>
+       (
+      <source_ref>Sämän. III, 445</source_ref>
+      ) zu vergleichen ist.
+
+    </argument>
+    
+    <proposed_etymology>
+      Ich glaube daher, daß man von einem 
+      <etymon lang="Lat">QUAM + Komparativ</etymon>
+      , nicht 
+      <etymon lang="Lat">+ Positiv</etymon>
+       auszugehen hat, da eine Steigerung im Gefühle vorschwebte, daß also das zitierte Beispiel einem lat. 
+      <example lang="Lat">UNUM POMUM ALIQUAM MAGIS ALTUM</example>
+       entspricht. Aus 
+      <etymon lang="Lat">QUAM-MAGIS</etymon>
+       entstand zunächst 
+      <form>cămai</form>
+      , welches in 
+      <source_ref>Dosoft. Viaţa sfint. °%</source_ref>
+      , tatsächlich vorkommt, aller­dings im Sinn von 
+      <form>mai</form>
+      , ebenso wie auch ar. 
+      <form>cama(i)</form>
+      . Daraus ist dann 
+      <form>cam</form>
+       entstanden.
+
+    </proposed_etymology>
+    
+    <supporting_argument source="Meyer-Lübke: Rom. Gramm. III § 202">
+      Wir ersehen dies indirekt daraus, daß in Istrien 
+      <form>căta</form>
+       und im Banat 
+      <form>cîta</form>
+       im Sinne von „ein wenig, einige‘ vorkommt (
+      <example>mai prinse cîta înimă</example>
+       etc.), das dem a.-pg. 
+      <example lang="a-pg">quanto</example>
+       in: 
+      <example lang="a-pg">era ja quanto allongado</example>
+       entspricht und das sein 
+      <phoneme>-a</phoneme>
+       von 
+      <form>cama</form>
+       = 
+      <form>cam</form>
+       bekommen hat. Sogar ein 
+      <form>cîndai</form>
+       kommt neben 
+      <form>cînd</form>
+       bei 
+      <source_ref>Varl. Caz. 1648, II, f. 89b</source_ref>
+       u. bei 
+      <source_ref>Dosoft. Viaţa sfint. ®/,,</source_ref>
+       etc. im Sinne von 
+      <example>ca și cînd</example>
+       vor.
+
+    </supporting_argument>
+    
+  </etymology_discussion>
+  
+</entry>

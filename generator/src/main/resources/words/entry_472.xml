@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="472">
+  
+  <lemma>cutez</lemma>
+  
+  <inflection>-zai, -zat</inflection>
+   
+  <!-- Assuming -zdi, -zät -> -zai, -zat -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. c(u)tedz]</variants>
+  
+  <definition>„wagen“</definition>
+  
+  <etymology source="O. Densusianu: Rom. XXVIII, 66; Verfassers: Lat. Ti uud Ki Ss. 8—9">
+    
+    <etymon lang="Lat">*COTTIZO, -ARE</etymon>
+     „aleam ludere“ (aus gr. 
+    <etymon lang="Gr">κοττίζω</etymon>
+    ) 
+    <!-- Assuming *corrizo -> *COTTIZO, zorzilo -> κοττίζω -->
+    
+    <cognates>
+      
+      <form lang="alb">kuxoj?</form>
+      , 
+      <form lang="a-aquil">scottezare?</form>
+      , 
+      <form lang="ven">scotezar</form>
+      , 
+      <form lang="rovigno">cutisar?</form>
+      , 
+      <form lang="dignano">cutisar?</form>
+      , überall mit dem Sinn „wagen“. 
+      <!-- Interpretation needed for kudzon, skuttid, kutisa -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="589">
+  
+  <lemma>față</lemma>
+   
+  <!-- Assuming fatä -> față -->
+  
+  <pos>sf.</pos>
+  
+  <variants>
+    [ar. = auch „Beispiel 
+    <source_ref>Cod. Dim. 21/25</source_ref>
+    , mgl. X, ir. fațî?]
+  </variants>
+   
+  <!-- Assuming fotse -> fațî? -->
+  
+  <definition>„Gesicht, Wange, Oberfläche, (Tisch)decke, Farbe“</definition>
+  
+  <etymology source="Anecd. Helvet. 131; Verfassers: Lat. Ti u. Ki S. 121, 176—177">
+    
+    <etymon lang="Lat">FACIA, -AM</etymon>
+     (vgl. 
+    <form>facias</form>
+     in den Casseler Glossen = 
+    <etymon lang="Lat">FACIES</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="alb">faqe</form>
+      , 
+      <form lang="it">faccia</form>
+       (dial. Formen in Verfassers), 
+      <form lang="eng">fatscha</form>
+      , 
+      <form lang="pv">faissa, fassa</form>
+      , 
+      <form lang="fr">face</form>
+      , 
+      <form lang="sp">haz</form>
+      , 
+      <form lang="pg">face</form>
+      . 
+      <!-- Assuming fake -> faqe -->
+      
+    </cognates>
+    
+    <semantic_note>
+      Die Bedeutung „Wange“ hat auch sic. bari 
+      <form lang="bari">facci?</form>
+      , Charmoille (Kanton Bern) 
+      <form>?</form>
+       u. pg. 
+      <form lang="pg">face</form>
+      .
+    </semantic_note>
+     
+    <!-- Interpretation needed for fatssi, feă -->
+    
+  </etymology>
+  
+</entry>

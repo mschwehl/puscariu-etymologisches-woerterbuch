@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="37">
+  
+  <lemma>ager</lemma>
+  
+  <feminine_neuter>ageră</feminine_neuter>
+   
+  <!-- Assuming ä -> a, -ă adj. -> fem/neuter -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„scharfsinnig, spitzfindig‘“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ACER, -RIS</etymon>
+     
+    <!-- Assuming ( Aciras, -n. -> < ACER, -RIS? or ACER, ACRIS? -->
+    
+  </etymology>
+  
+</entry>

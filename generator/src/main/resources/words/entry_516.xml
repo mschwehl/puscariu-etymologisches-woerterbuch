@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="516">
+  
+  <lemma>deșert</lemma>
+   
+  <!-- Assuming degert -> deșert -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Leere“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DESERTUM</etymon>
+     
+    <!-- Assuming prsiarum -> DESERTUM -->
+    
+    <cognates>
+      
+      <form lang="it">deserto</form>
+      , 
+      <form lang="pg">deserto</form>
+      , 
+      <form lang="pv">desert</form>
+      , 
+      <form lang="fr">désert</form>
+      , 
+      <form lang="sp">desierto</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="397">
+  
+  <lemma>coptură</lemma>
+   
+  <!-- Assuming coptaăvră -> coptură -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Blüte(r)“?</definition>
+   
+  <!-- BHiter -> Blüte(r)? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">COCTURA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">cottura</form>
+      , 
+      <form lang="a-frz">coiture</form>
+      , 
+      <form lang="sp">cochura</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. profu?, proan].</variants>
+   
+  <!-- Interpretation needed for profu, proane -->
+  
+</entry>

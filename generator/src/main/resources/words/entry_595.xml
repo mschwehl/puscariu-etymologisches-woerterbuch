@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="595">
+  
+  <lemma>femeie</lemma>
+  
+  <lemma_variants>(fămeie, fomeie, fămeaie?)</lemma_variants>
+   
+  <!-- Assuming fämeie, fiimeie -> fămeie, fămeaie? -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Frau“</definition>
+  
+  <etymology source="Fra Paolino: Reg. rect. ed. Muss. 71, 13—14">
+    
+    <etymon lang="Lat">FAMILIA, -AM</etymon>
+    . 
+    <!-- Assuming PANMILIA -> FAMILIA -->
+    
+    <semantic_note>
+      Im Ar. 
+      <form>fumeal'e?</form>
+       u. Mgl. 
+      <form>fămeală?, fumelă?</form>
+       hat das Wort noch den Sinn von „Kinder, Familie“ (vgl. deutsch: „Haben Sie Familie?“ = Haben Sie Kinder?) ebenso wie a.-berg., wo 
+      <etymon lang="Lat">PUER</etymon>
+       mit 
+      <form>el famei?</form>
+       glossiert ist und alb. 
+      <form lang="alb">fëmijë</form>
+       „Kind(er)“. Den Sinn von „Familie“ hat noch das rum. Wort in alten Texten: 
+      <example>„să meargă [omul] la beserecă cu toată fumția?“</example>
+      , 
+      <source_ref>Cuv. d.b. II, 47, 51</source_ref>
+      . 
+      <example>„In ieșitul Izrail­tenilor den Eghypet și fămeia? lui Iacov dintre oameni păgîni“</example>
+       
+      <source_ref>Psalt. Belgr. 1651, Cip. Anal. 109</source_ref>
+      . 
+      <!-- Interpretation needed for fumeale, fămelă, fumelä, famey, femile, fomtia, fămtia -->
+      
+    </semantic_note>
+    
+    <usage_note>
+      Außer 
+      <form lang="ven">famegia?</form>
+      , 
+      <form lang="pad">famegia?</form>
+       hat das Wort 
+      <etymon lang="Lat">FAMILIA, -AM</etymon>
+       überall gelehrte Gestalt: rum. 
+      <form>familie</form>
+      , 
+      <form lang="it">famiglia</form>
+      , 
+      <form lang="fr">famille</form>
+      , 
+      <form lang="sp">familia</form>
+       etc., was sich daraus erklärt, daß das Wort nur in der Juristensprache erhalten blieb, sonst aber entweder durch 
+      <etymon lang="Lat">CASA</etymon>
+       (
+      <example lang="a-ven">„Domenedio endusse lo diluvio und scampä solamente Noë e casa soa, li quali soli se trova justi“</example>
+       = rum. „
+      <example>D-zeu aduse potopul și scăpară numai Noe și casa sa, cari singuri erau drepți</example>
+      “), oder deren Entsprechung 
+      <etymon lang="Lat">*MANSIONATA</etymon>
+       &gt; 
+      <form lang="a-frz">maisniee</form>
+       ersetzt wird. 
+      <!-- Assuming famedia, fameya -> famegia? -->
+      
+    </usage_note>
+    
+  </etymology>
+  
+  <footer_text>4*</footer_text>
+  
+</entry>

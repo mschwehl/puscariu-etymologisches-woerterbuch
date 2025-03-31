@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="109">
+  
+  <lemma>arat</lemma>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <definition>„Pflug“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARATRUM</etymon>
+     
+    <!-- Assuming ararrum -> ARATRUM -->
+    
+    <cognates>
+      
+      <form lang="abruzz">arate</form>
+      ,
+
+      <form lang="cerign">raig</form>
+      , 
+      <!-- Assuming räig -> raig -->
+      
+      <form lang="pistoj">arato</form>
+      ,
+
+      <form lang="a-frz">arere</form>
+      . 
+      <!-- Assuming urere -> arere -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

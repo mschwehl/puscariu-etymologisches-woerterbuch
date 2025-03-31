@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="321">
+  
+  <lemma>cătușe</lemma>
+   
+  <!-- Assuming cätüse -> cătușe -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Katze“</definition>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <etymology_discussion source="G. Meyer: Indogerm. Forsch. VI, 117; Cihac I, 76-77">
+    In wiefern das Wort zu 
+    <etymon lang="Lat">CATUS, -UM</etymon>
+     gehört, vgl. G. Meyer. Vgl. auch Cihac. 
+    <!-- Assuming car[r]us -> CATUS -->
+    
+  </etymology_discussion>
+  
+  <semantic_note>
+    Im Ar. bedeutet 
+    <form>cățică</form>
+     sf. „Hündchen‘“.
+  </semantic_note>
+   
+  <!-- Assuming eätsicä -> cățică -->
+  
+</entry>

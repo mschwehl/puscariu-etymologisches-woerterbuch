@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="134">
+  
+  <lemma>asămăn</lemma>
+   
+  <!-- Assuming asamän -> asămăn -->
+  
+  <lemma_variants>
+    (aseamăn, + 
+    <form>aseamăr</form>
+     
+    <source_ref>Cod. Vor. 114/14</source_ref>
+     etc.)
+  </lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„vergleichen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ASSIMULO, -ARE</etymon>
+     
+    <!-- Assuming *as-sinivo, -ARH -> *ASSIMULO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="it">assembrare</form>
+      , 
+      <!-- Assuming assembiare -> assembrare -->
+      
+      <form lang="pv">assemblar</form>
+      , 
+      <form lang="fr">assembler</form>
+      , 
+      <form lang="sp">asemblar</form>
+      . 
+      <!-- Assuming DV. Pai Ru -> pv. -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. (a)semănescu].</variants>
+   
+  <!-- Assuming (a)undzescul -> (a)semănescu -->
+  
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="464">
+  
+  <lemma>cuscru</lemma>
+   
+  <!-- Assuming eriseru -> cuscru -->
+  
+  <pos>sm.</pos>
+  
+  <related_form>
+    
+    <form>cuscră</form>
+     
+    <pos>sf.</pos>
+     
+    <!-- Assuming eüser@ -> cuscră -->
+    
+  </related_form>
+  
+  <variants>[ar. cuscru, cuscur, cuscră; mgl. ir. cuscru]</variants>
+   
+  <!-- Assuming euseru -> cuscru -->
+  
+  <definition>„die Eltern des einen Ehegatten im Verhältnis zu denen des anderen‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CONSŎCER, *CONSŎCRA</etymon>
+     
+    <!-- Assuming coxsăcEa, "consöcka -> CONSŎCER, *CONSŎCRA -->
+    
+    <cognates>
+      
+      <form lang="alb">krushk, krushkë</form>
+       „dasselbe“.
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

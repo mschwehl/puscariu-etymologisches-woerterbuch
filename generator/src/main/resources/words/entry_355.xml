@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="355">
+  
+  <lemma>chiag</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. clag]</variants>
+  
+  <definition>„Gerinnsel, Lab“</definition>
+  
+  <etymology source="Dens. H. l. r. 90; Miklosich">
+    
+    <etymon lang="Lat">*CLAGUM</etymon>
+     (metathes. aus 
+    <etymon lang="Lat">QUAGLUM</etymon>
+     = 
+    <etymon lang="Lat">COAGULUM</etymon>
+    ) 
+    <!-- Assuming coacunum -> COAGULUM -->
+    
+    <cognates>
+      
+      <form lang="it">caglio, gaglio</form>
+      , 
+      <form lang="u-eng">quagl?</form>
+      , 
+      <form lang="sp">cuajo</form>
+      , 
+      <form lang="pg">coalho</form>
+      , 
+      <form lang="sard">tzacu?</form>
+      , vgl. alb. 
+      <form lang="alb">klluar?</form>
+      . 
+      <!-- Assuming quaigl -> quagl?, dzagu -> tzacu?, khuar -> klluar? -->
+      
+    </cognates>
+    
+    <borrowing_note>
+      Aus dem Rum. drang das Wort in die benachbarten Sprachen: russ. 
+      <form lang="ru">gljak?, glaganyj (syr?)</form>
+      , poln. 
+      <form lang="pl">klag, sklagac' się?</form>
+      , slov. 
+      <form lang="sk">kl'ag</form>
+      , mor. 
+      <form lang="cs">klaga?</form>
+      . 
+      <!-- Assuming gljakü, glaganyj (syră), sklagad sie -> interpretation -->
+      
+    </borrowing_note>
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. încheg.</reference>
+  
+</entry>

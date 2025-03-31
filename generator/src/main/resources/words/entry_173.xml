@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="173">
+  
+  <lemma>aușel</lemma>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Greis“</definition>
+  
+  <usage_note>
+    [d-rum. nur im Vogelnamen 
+    <form>aușel</form>
+     sm. „Regulus cristatus“ erhalten]
+  </usage_note>
+   
+  <!-- Assuming drum, -> d-rum. -->
+  
+  <etymology source="Tappolet: Verwandtschaftsnamen 62">
+    ist eine Diminutivbildung auf 
+    <suffix>-uș</suffix>
+     von 
+    <etymon lang="Lat">*avus</etymon>
+      
+    <etymon lang="Lat">AVUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="lomb">av</form>
+      , 
+      <form lang="tess">af</form>
+      , 
+      <form lang="ast">av</form>
+      , 
+      <form lang="trient">ao</form>
+      . 
+      <!-- Assuming lomb. tess. af, ast. aaf -> interpretation based on context -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

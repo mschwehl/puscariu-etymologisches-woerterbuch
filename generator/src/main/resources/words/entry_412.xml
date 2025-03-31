@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="412">
+  
+  <lemma>credință</lemma>
+   
+  <!-- Assuming eredintä -> credință -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Glaube“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CREDENTIA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">credenza</form>
+      , 
+      <form lang="frl">credinza?</form>
+      , 
+      <form lang="pv">crezensa</form>
+      , 
+      <form lang="fr">croyance</form>
+      , 
+      <form lang="sp">creencia</form>
+      , 
+      <form lang="pg">crença</form>
+      . 
+      <!-- Assuming kredintse -> credinza?, creencia -> creencia, crenţa -> crença -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. piste].</variants>
+  
+</entry>

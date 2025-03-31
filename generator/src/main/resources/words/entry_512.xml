@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="512">
+  
+  <lemma>desculț</lemma>
+   
+  <!-- Assuming desentt -> desculț -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. discultsu, ir. desculț]</variants>
+   
+  <!-- Assuming vescuts -> desculț -->
+  
+  <definition>„barfüßig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DISCALCEUS, -A, -UM</etymon>
+     (vgl. 
+    <etymon lang="Lat">DISCALCIARE</etymon>
+    ): 
+    <!-- Assuming CE DISCELEIUS -> < DISCALCEUS -->
+    
+    <cognates>
+      
+      <form lang="frl">discalț?</form>
+      , 
+      <form lang="trient">descalz?</form>
+      , 
+      <form lang="pad">descalțe?</form>
+      , 
+      <form lang="eng">scuolts?</form>
+      , vgl. 
+      <form lang="sard-log">iscaltzu?</form>
+      , 
+      <form lang="sass">?</form>
+       „alla scalza“. 
+      <!-- Interpretation needed for diskolts, deskols, deskoltse, skuis, iskultsu, fahhutssa -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

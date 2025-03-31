@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="239">
+  
+  <lemma>burete</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. bureate, mgl. bureti]</variants>
+  
+  <definition>„Schwamm, Pilz‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*BŌLĒTIS, -EM</etymon>
+     (vgl. gr. 
+    <etymon lang="Gr">βωλίτης</etymon>
+    , lat. 
+    <etymon lang="Lat">BŌLĒTUS, -UM</etymon>
+    ) 
+    <!-- Assuming -EN -> -EM, Awdizns -> βωλίτης, noLerus -> BŌLĒTUS -->
+    
+    <cognates>
+      
+      <form lang="it">boleto</form>
+      , 
+      <form lang="ven">bolè?</form>
+      , 
+      <!-- Assuming bolto -> bolè? -->
+      
+      <form lang="mod">bolè(d)</form>
+      , 
+      <form lang="piem">bolè</form>
+      , 
+      <form lang="bologn">bulàider</form>
+      , 
+      <form lang="waldens">bolè</form>
+      , 
+      <form lang="obw">buliè?</form>
+      , 
+      <!-- Assuming bol&(d) -> bolè(d), bole -> bolè, buleider -> bulàider, bulieu -> buliè? -->
+      
+      <form lang="pv">bolet</form>
+      , 
+      <form lang="cat">bolet</form>
+      , 
+      <form lang="a-frz">bolet?</form>
+      . 
+      <!-- Assuming boloi -> bolet? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="17">
+  
+  <lemma>acești</lemma>
+   
+  <!-- Assuming this is the lemma, 'ar.' is context marker -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>adv.</pos>
+  
+  <definition>„so, derart“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ECCUM-SIC</etymon>
+     
+    <!-- Assuming sccun -> ECCUM -->
+    
+    <cognates>
+      
+      <form lang="mod">akse</form>
+      , 
+      <!-- Modenese? -->
+      
+      <form lang="bol">akuse</form>
+      , 
+      <!-- Bolognese? -->
+      
+      <form lang="roman">akkusi</form>
+      , 
+      <!-- Romagnol? -->
+      
+      <form lang="bari">aksi</form>
+      , 
+      <!-- Barese? -->
+      
+      <form lang="a-pv">acsi</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. aşa.</reference>
+  
+</entry>

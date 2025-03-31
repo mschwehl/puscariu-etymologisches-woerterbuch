@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="594">
+  
+  <lemma>fecioară</lemma>
+   
+  <!-- Assuming feciodră -> fecioară -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ir. fețoară]</variants>
+   
+  <!-- Assuming fetSore -> fețoară -->
+  
+  <definition>„Jungfrau“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FĒTIOLA, -AM</etymon>
+    ; vgl. 
+    <ref target_lemma="fecior">fecior</ref>
+    .
+
+  </etymology>
+  
+  <variants>[ar. cocilă? in Vlaho-Clisura, virgină in Epir. Thess.].</variants>
+   
+  <!-- Assuming cök’ilä -> cocilă? -->
+  
+</entry>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="544">
+  
+  <lemma>dorm</lemma>
+   
+  <!-- Assuming doru -> dorm -->
+  
+  <inflection>-ii, -it</inflection>
+   
+  <!-- Assuming -ü, -tt -> -ii, -it -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. ir. dorm, mgl. =]</variants>
+   
+  <!-- Assuming dormu -> dorm, => -> = -->
+  
+  <definition>„schlafen‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DORMIO, -IRE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">dormire</form>
+      , 
+      <form lang="eng">durmir</form>
+      , 
+      <form lang="pv">dormir</form>
+      , 
+      <form lang="fr">dormir</form>
+      , 
+      <form lang="cat">dormir</form>
+      , 
+      <form lang="sp">dormir</form>
+      , 
+      <form lang="pg">dormir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

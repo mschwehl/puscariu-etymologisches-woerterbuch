@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="364">
+  
+  <lemma>cînd</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. cîndu, mgl. cînd, ir. cînd]</variants>
+   
+  <!-- Assuming con -> cînd, cän(d) -> cînd -->
+  
+  <definition>„wann“</definition>
+   
+  <!-- Assuming definition implicitly "when" -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">QUANDO</etymon>
+     
+    <!-- Assuming Cavanno -> QUANDO -->
+    
+    <cognates>
+      
+      <form lang="it">quando</form>
+      , 
+      <form lang="pg">quando</form>
+      , 
+      <form lang="pv">quan?</form>
+      , 
+      <form lang="fr">quand</form>
+      , 
+      <form lang="cat">quan</form>
+      , 
+      <form lang="sp">cuando</form>
+      . 
+      <!-- Assuming quan(t) -> quan? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

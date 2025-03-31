@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="581">
+  
+  <lemma>fără</lemma>
+   
+  <!-- Assuming făr[ă] -> fără -->
+  
+  <pos>praep. conj.</pos>
+  
+  <variants>[ar. fără, mgl. făr, fară, for, ir. fără de]</variants>
+   
+  <!-- Assuming für de -> fără de -->
+  
+  <definition>„ohne, sondern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FORAS</etymon>
+     „draußen“
+
+    <cognates>
+      
+      <form lang="it">fuori, fuora</form>
+      , 
+      <form lang="frl">fûr?</form>
+      , 
+      <form lang="pv">foras</form>
+      , 
+      <form lang="a-frz">fors?</form>
+      , 
+      <form lang="n-frz">hors</form>
+      , 
+      <form lang="sp">fuera</form>
+      , 
+      <form lang="pg">fora</form>
+      . 
+      <!-- Assuming fur -> fûr?, fuers -> fors? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. afară.</reference>
+  
+</entry>

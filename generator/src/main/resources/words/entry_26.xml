@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="26">
+  
+  <lemma>adineauri</lemma>
+   
+  <!-- Assuming adinedori -> adineauri -->
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. (a)deaneavra]</variants>
+  
+  <definition>„vorhin“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AD + DE + IN + ILLAM + HORAM</etymon>
+     
+    <!-- Interpreting ap + oe + In 4 -->
+    
+  </etymology>
+  
+</entry>

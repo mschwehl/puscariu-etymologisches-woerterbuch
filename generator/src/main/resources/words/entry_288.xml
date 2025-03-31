@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="288">
+  
+  <lemma>cărbunar</lemma>
+   
+  <!-- Assuming cărbundr -> cărbunar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. ©, ir. cărbunor]</variants>
+   
+  <!-- Assuming cărburor -> cărbunor -->
+  
+  <definition>„Köhler“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CARBONARIUS, -UM</etymon>
+     
+    <!-- Assuming carso-NARIUS -> CARBONARIUS -->
+    
+    <cognates>
+      
+      <form lang="it">carbonaio</form>
+      , 
+      <form lang="eng">charboner</form>
+      , 
+      <form lang="fr">charbonnier</form>
+      , 
+      <form lang="sp">carbonero</form>
+      , 
+      <form lang="pg">carvoeiro</form>
+      . 
+      <!-- Assuming carbonajo -> carbonaio, k'arbuner -> charboner -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

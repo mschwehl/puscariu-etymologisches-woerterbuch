@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="603">
+  
+  <lemma>ficat</lemma>
+   
+  <!-- Assuming fiedt -> ficat -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. hicat, samar. hicat W., vl.-liv. hicat W., ir. ficat]</variants>
+   
+  <!-- Interpretation needed for ekcat, iOcat, fot -->
+  
+  <definition>„Leber“</definition>
+  
+  <etymology source="G. Paris: Miscellanea linguistica in onore di G. Ascoli; Meyer-Lübke: Die Betonung im Gallischen, 49, Einführung S. 140; Schuchardt: Zeitschr. rom. Phil. XXV, 615; Zauner: Körperteile 505">
+    
+    <etymon lang="Lat">FICATUM</etymon>
+    
+    <cognates>
+      
+      <form lang="vegl">ficat?</form>
+      , 
+      <form lang="ven">figà</form>
+      , 
+      <form lang="a-berg">figàd</form>
+      , 
+      <form lang="n-berg">fegàt</form>
+      , 
+      <form lang="sud-sard">figadu?</form>
+      , 
+      <form lang="eng">fieu?</form>
+       und gleichfalls ver. trent, mant.;
+
+    </cognates>
+    
+    <discussion>
+      sonst verlangen die rom. Sprachen die Betonung: 
+      <etymon lang="Lat">*FICÁTUM</etymon>
+       etc. 
+      <!-- Interpretation needed for fekuat, figa, fiyad, fegät, figdu, fö -->
+      
+    </discussion>
+    
+  </etymology>
+  
+  <variants>[mgl. drobu negru].</variants>
+   
+  <!-- Assuming drob negrul -> drobu negru -->
+  
+</entry>

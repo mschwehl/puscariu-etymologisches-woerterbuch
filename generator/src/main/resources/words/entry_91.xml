@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="91">
+  
+  <lemma>apă</lemma>
+   
+  <!-- Assuming dpi -> apă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. apî, mgl. &gt; Weigand 65 apu sf. Papahagi 56, ir. opă]</variants>
+   
+  <!-- Assuming m -> apî, ope -> opă -->
+  
+  <definition>„Wasser, Fluß“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AQUA</etymon>
+    
+    <cognates>
+      
+      <form lang="it">acqua</form>
+      ,
+
+      <form lang="sard">abba</form>
+      ,
+
+      <form lang="eng">aua</form>
+      , 
+      <!-- Assuming ouua -> aua -->
+      
+      <form lang="pv">aigua</form>
+      ,
+
+      <form lang="fr">eau</form>
+      ,
+
+      <form lang="cat">aigua</form>
+      , 
+      <form lang="mall">aigo</form>
+      , 
+      <!-- Assuming aygua -> aigua, mallork. -> mall. -->
+      
+      <form lang="sp">agua</form>
+      ,
+
+      <form lang="pg">água</form>
+      . 
+      <!-- Assuming ayoa -> água -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="555">
+  
+  <lemma>dulcoare</lemma>
+   
+  <!-- Assuming dulcodre -> dulcoare -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Süßigkeit“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DULCOR, -OREM</etymon>
+    
+    <cognates>
+      
+      <form lang="a-it">dolcore</form>
+      , (vgl. frz. 
+      <form lang="fr">douceur</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

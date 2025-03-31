@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="458">
+  
+  <lemma>curcubeu</lemma>
+   
+  <!-- Assuming eurcubeü -> curcubeu -->
+  
+  <lemma_variants>
+    (curcubău 
+    <source_ref>Tribuna 1890, 346</source_ref>
+    )
+  </lemma_variants>
+   
+  <!-- Assuming curcubăă -> curcubău -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. curcubeu, mgl. curcubeu auch: curcubăi?]</variants>
+   
+  <!-- Assuming curcubei, bei -> curcubeu, curcubăi? -->
+  
+  <definition>„Regenbogen“.</definition>
+  
+  <etymology_discussion source="Cihac I 65; G. Meyer Indg. Forsch. VI, 114—115; Mussafia: Beitrag 28—29">
+    Etymologie ungewiß.
+
+    <rejected_etymology>
+      Cihac setzt ein 
+      <etymon lang="Lat">*CON-CURV-EUS, -UM</etymon>
+       auf, was unwahrscheinlich ist.
+    </rejected_etymology>
+    
+    <proposed_etymology>
+      Vielleicht liegt im 
+      <morpheme>-beu, -băi</morpheme>
+       eine Verbalform von 
+      <etymon lang="Lat">BIBO</etymon>
+       vgl. 
+      <example lang="Lat">ARCUS BIBIT</example>
+       bei Plautus und 
+      <form lang="ven">arcumbè</form>
+      .
+    </proposed_etymology>
+    
+    <borrowing_note>
+      Vgl. kl.-russ. 
+      <form lang="ukr">korkobéc?</form>
+      .
+    </borrowing_note>
+     
+    <!-- Assuming korkobec -> korkobéc? -->
+    
+    <comment>Namen für „Regenbogen“ in verschiedenen Sprachen stellt G. Meyer und Mussafia zusammen.</comment>
+    
+  </etymology_discussion>
+  
+</entry>

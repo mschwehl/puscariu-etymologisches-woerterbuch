@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="346">
+  
+  <lemma>cern</lemma>
+  
+  <inflection>-ui, -ut</inflection>
+   
+  <!-- Assuming -fi, -t -> -ui, -ut -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. înțernu, ir. țernu]</variants>
+   
+  <!-- Assuming ntsernu -> înțernu, tSernu -> țernu -->
+  
+  <definition>„sieben‘,</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CERNO, -ERE</etymon>
+     
+    <!-- Assuming cärno, -Ena -> CERNO, -ERE -->
+    
+    <cognates>
+      
+      <form lang="it">cernere</form>
+      , 
+      <form lang="lomb">cernere?</form>
+      , 
+      <form lang="piem">cerne</form>
+      , 
+      <form lang="sard">chèrrere</form>
+      , 
+      <form lang="frl">cerni</form>
+      , 
+      <form lang="lecc">?</form>
+      , 
+      <form lang="obw">tscherner</form>
+      , 
+      <form lang="sudost-frz">cerdre?</form>
+       „sieben“, 
+      <form lang="sp">cerner</form>
+      . 
+      <!-- Assuming Fer. -> cernere?, kerrere -> chèrrere, terni -> cerni, fgierder -> ?, t$erner -> tscherner, särdre -> cerdre? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

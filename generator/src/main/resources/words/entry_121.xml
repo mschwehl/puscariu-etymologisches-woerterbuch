@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="121">
+  
+  <lemma>arendez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„verpachten“</definition>
+  
+  <etymology source="Dens. H. l. r. 148, 150">
+    
+    <etymon lang="Lat">*ARRENDO, -ARE</etymon>
+     (statt 
+    <etymon lang="Lat">AD + RENDERE (= REDDERE)</etymon>
+    ) 
+    <!-- Assuming FARRENDO -> *ARRENDO -->
+    
+    <cognates_base>
+       
+      <!-- Cognates of RENDERE -->
+      
+      <form lang="it">rendere</form>
+      , 
+      <form lang="fr">rendre</form>
+      , 
+      <form lang="sp">rendir</form>
+      , 
+      <form lang="pg">render</form>
+      
+    </cognates_base>
+    
+    <cognates_derived>
+       
+      <!-- Cognates of *ARRENDARE -->
+      
+      <form lang="eng">arrendar</form>
+      , 
+      <form lang="sard">arrendare</form>
+      , 
+      <form lang="sp">arrendar</form>
+      . 
+      <!-- Assuming arender -> arrendar -->
+      
+    </cognates_derived>
+    
+    <comment>
+      (mit Konjugations­wechsel nach 
+      <etymon lang="Lat">PREHENDERE?</etymon>
+      ).
+    </comment>
+     
+    <!-- Assuming pane -> PREHENDERE or similar -->
+    
+  </etymology>
+  
+</entry>

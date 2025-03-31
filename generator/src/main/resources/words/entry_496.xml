@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="496">
+  
+  <lemma>deger</lemma>
+   
+  <!-- Assuming deger -> deger -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„erfrieren“</definition>
+  
+  <variants>[ar. deagĭer „auftauen“ W., dzeagĭer P.]</variants>
+   
+  <!-- Assuming deadzir, dzeadzir -> deagĭer, dzeagĭer -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*DEGELO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">GELO, -ARE</etymon>
+    : 
+    <cognates>
+      <form lang="it">gelare</form>
+      , 
+      <form lang="pv">gelar</form>
+      , 
+      <form lang="fr">geler</form>
+      , 
+      <form lang="sp">helar</form>
+    </cognates>
+    ).
+
+    <semantic_note>
+      Auffallend ist, daß sich die zwei Bedeutungen des Präfixes 
+      <prefix>DE-</prefix>
+      : a) die privative (vgl. frz. 
+      <form lang="fr">dégeler</form>
+      ) und b) die bekräf­tigende auf die zwei Dialekte verteilen.
+
+    </semantic_note>
+    
+  </etymology>
+  
+</entry>

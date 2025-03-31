@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="316">
+  
+  <lemma>cătenar?</lemma>
+   
+  <!-- Interpretation of cătendre needed -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <variants>W. (căținar? P)</variants>
+   
+  <!-- Interpretation of cătinar needed -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Schloß“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CATENALE, -EM</etymon>
+     (von 
+    <etymon lang="Lat">CATENA</etymon>
+    , vgl. it. 
+    <form lang="it">catenaccio</form>
+    , eng. 
+    <form lang="eng">chadenatsch</form>
+     etc. „Riegel“). 
+    <!-- Assuming *cATBNALIS -> *CATENALE, k’adanats -> chadenatsch -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="565">
+  
+  <lemma>e</lemma>
+  
+  <pos>conj.</pos>
+  
+  <variants>[ar. ir. e]</variants>
+  
+  <definition>„und, aber“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ET</etymon>
+     
+    <!-- Assuming er -> ET -->
+    
+    <cognates>
+      
+      <form lang="alb">e</form>
+      , 
+      <form lang="it">e(d)</form>
+      , 
+      <form lang="eng">e(d)</form>
+      , 
+      <form lang="pv">e(d)</form>
+      , 
+      <form lang="fr">et</form>
+      , 
+      <form lang="sp">y</form>
+      , 
+      <form lang="pg">e</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <comment>Alle mit e anlautenden Wörter suche man unter ie!!</comment>
+  
+</entry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="386">
+  
+  <lemma>coapsă</lemma>
+   
+  <!-- Assuming codpsă -> coapsă -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„Hüfte“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">COXA, -AM</etymon>
+     „Hüfte“
+
+    <cognates>
+      
+      <form lang="alb">kofshë</form>
+      , (
+      <form lang="it">coscia</form>
+        
+      <etymon lang="Lat">*COXEA</etymon>
+      ), 
+      <form lang="eng">cüessa?</form>
+      , 
+      <form lang="pv">cueissa</form>
+      , 
+      <form lang="fr">cuisse</form>
+      ,
+
+    </cognates>
+    
+    <semantic_note>überall, außer im Rum. und Alb. mit der neuen Bedeutung „Schenkel“.</semantic_note>
+     
+    <!-- Assuming kuessa -> cüessa? -->
+    
+  </etymology>
+  
+</entry>

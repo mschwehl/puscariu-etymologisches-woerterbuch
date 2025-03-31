@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="319">
+  
+  <lemma>cătră</lemma>
+  
+  <lemma_variants>(către, cîtră)</lemma_variants>
+   
+  <!-- Assuming citrä -> cîtră -->
+  
+  <pos>praep.</pos>
+  
+  <variants>[ar. cîtră, căt(r)ă, mgl. cătră, cotră, ir. către]</variants>
+   
+  <!-- Assuming eiträ, eät(r)ä&, cutru, cotru -> cîtră, căt(r)ă, cătră, cotră -->
+  
+  <definition>„gegen“</definition>
+  
+  <usage_note source="Jb. X, 484-487">
+örtlich: 1. in feindlichem Sinne (nur altrum.), 2. in freundlichem Sinne, 3. neutral; zeitlich: „unge­fährer Zeitpunkt“.
+</usage_note>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CONTRA</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">kundrë, ndër?</form>
+      , 
+      <form lang="it">contra</form>
+      , 
+      <form lang="pv">contra</form>
+      , 
+      <form lang="sp">contra</form>
+      , 
+      <form lang="pg">contra</form>
+      , 
+      <form lang="fr">contre</form>
+      . 
+      <!-- Assuming kondre -> ndër? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

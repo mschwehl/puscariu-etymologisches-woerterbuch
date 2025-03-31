@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="102">
+  
+  <lemma>apropiu</lemma>
+   
+  <!-- Assuming apröpiu -> apropiu -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. aprok'ü, mgl. prok'u]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„nähern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*APPROPIO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">PROPE</etymon>
+    ; das Simplex 
+    <etymon lang="Lat">PROPIARE</etymon>
+     ist in Paul. Nol. Carm. 18. 412 und in Glossen oft belegt: C. Gl. IV, 150, 3. V, 476, 51, V, 237, 5)
+
+    <cognates>
+      
+      <form lang="sard">approbiare</form>
+      ,
+
+      <form lang="pv">apropchar</form>
+      ,
+
+      <form lang="fr">approcher</form>
+      . 
+      <!-- Assuming trz. -> frz. -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

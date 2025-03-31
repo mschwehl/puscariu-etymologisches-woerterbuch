@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puscariu - Etymologisches Wörterbuch (1905) [Vue 3]</title>
+    <!-- Tailwind CSS v3 Play CDN -->
+    <script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+    <style>
+        /* Basic Styling */
+        body { font-family: sans-serif; background-color: #f3f4f6; }
+        #app { /* Optional container styling */ }
+        #entry-content-display { min-height: 200px; }
+        .animate-pulse { animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite; }
+        @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .5; } }
+
+        /* Component-specific styles */
+        .suggestion-item:hover,
+        .suggestion-item.focused { background-color: #f3f4f6; /* gray-100 */ }
+        .index-link.active-link { background-color: #dbeafe; /* blue-100 */ font-weight: 600; color: #1d4ed8; /* blue-700 */ }
+        #entry-list-container { max-height: calc(100vh - 12rem); overflow-y: auto; }
+
+        /* Entry Content Styles (adapt from your original XSLT/CSS) */
+        #entry-content-display .lemma { font-size: 1.5em; font-weight: bold; color: #1f2937; }
+        #entry-content-display .pos { font-style: italic; color: #2563eb; margin-left: 0.5rem;}
+        #entry-content-display .variants, #entry-content-display .lemma_variants, #entry-content-display .related_form { font-style: italic; color: #6b7280; font-size: 0.9em; margin-left: 0.5rem; }
+        #entry-content-display .usage { color: #4b5563; margin-left: 0.5rem; font-size: 0.9em; }
+        #entry-content-display .definition { font-style: italic; margin-left: 1rem; margin-top: 0.5rem; margin-bottom: 0.5rem; display: block; } /* Ensure definition is block */
+        #entry-content-display .etymology-section,
+        #entry-content-display .usage_note-section { margin-top: 1rem; padding-top: 0.75rem; border-top: 1px dashed #e5e7eb; }
+        #entry-content-display .etymology-section p,
+        #entry-content-display .usage_note-section p { margin-bottom: 0.25rem; }
+        #entry-content-display .etymon, #entry-content-display .form { font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace; font-style: italic; color: #dc2626; /* red-600 */ }
+        #entry-content-display .lang-tag { display: inline-block; background-color: #e0f2fe; color: #0c4a6e; font-size: 0.7rem; font-weight: 500; padding: 1px 6px; border-radius: 0.375rem; margin-left: 0.25rem; vertical-align: baseline; }
+        #entry-content-display .cognates { margin-left: 1em; font-size: 0.95em; margin-top: 0.25rem;}
+        #entry-content-display .cognates .form { margin-right: 0.25rem; }
+        #entry-content-display .reference { font-size: 0.85em; color: #6b7280; display: block; margin-top: 0.25rem; }
+        #entry-content-display .example { font-style: italic; margin-left: 1.5em; font-size: 0.95em; border-left: 4px solid #d1d5db; padding-left: 0.75rem; margin-top: 0.25rem; margin-bottom: 0.25rem; }
+    </style>
+</head>
+<body class="bg-gray-100">
+
+    <div id="app" class="flex flex-col min-h-screen">
+        <!-- Vue app will mount here -->
+        <div class="flex-grow container mx-auto py-8 text-center">
+             <p class="animate-pulse text-gray-500">Loading application...</p>
+        </div>
+         <footer class="text-center text-gray-500 text-sm py-6 border-t border-gray-200 mt-auto">
+             <p>Daten extrahiert aus OCR von Sextil Pușcariu (1905). Gemeinfrei.</p>
+             <p>Vue 3 Version.</p>
+         </footer>
+    </div>
+
+    <!-- Import Map for ES Modules -->
+    <script type="importmap">
+    {
+      "imports": {
+        "vue": "https://unpkg.com/vue@3/dist/vue.esm-browser.js"
+      }
+    }
+    </script>
+
+    <!-- Load Vue Components and App -->
+    <script type="module" src="js/main.js"></script>
+
+</body>
+</html>

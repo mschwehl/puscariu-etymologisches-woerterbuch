@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="142">
+  
+  <lemma>așez</lemma>
+   
+  <!-- Assuming asez -> așez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„setzen“</definition>
+  
+  <etymology source="Tiktin, Wörtb. 109">
+    
+    <etymon lang="Lat">*ASSIDEO, -ARE</etymon>
+     (aus 
+    <etymon lang="Lat">*SEDIUM</etymon>
+    ) 
+    <!-- Assuming *as-stDIo -> *ASSIDEO, *SEDIUN -> *SEDIUM -->
+    
+    <comparison>
+      vgl. 
+      <form lang="it">seggio, -a</form>
+      , 
+      <form lang="sic">seggia</form>
+      , 
+      <form lang="a-gen">seggio</form>
+      , 
+      <form lang="romag">sedza</form>
+      , 
+      <form lang="tar">sedaze</form>
+      , 
+      <form lang="sard-log">seju</form>
+    </comparison>
+     
+    <!-- Assuming sija->seggia, sedzo->seggio, sădza->sedza, seiu->seju -->
+    
+    <comment>
+      (wohl wie 
+      <etymon lang="Lat">PODIUM</etymon>
+       &gt; 
+      <form>poggio?</form>
+       gebildet).
+    </comment>
+     
+    <!-- Assuming poprum — *Aarropıans needs interpretation -->
+    
+    <cognates>
+      
+      <form lang="a-gen">asedegar?</form>
+      , 
+      <form lang="romag">assidzer</form>
+      . 
+      <!-- Assuming asedăo -> asedegar?, assid2e -> assidzer -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="598">
+  
+  <lemma>ferigă</lemma>
+   
+  <!-- Assuming ferece -> ferigă -->
+  
+  <lemma_variants>(ferecă, fereagă)</lemma_variants>
+   
+  <!-- Assuming ferecä, feregä -> ferecă, fereagă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. fearică]</variants>
+  
+  <definition>„Farrenkraut“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FILIX, -ICEM</etymon>
+     
+    <!-- Assuming rluix, -icgu -> FILIX, -ICEM -->
+    
+    <cognates>
+      
+      <form lang="it">felce</form>
+      , 
+      <form lang="emil">felsa?</form>
+      , 
+      <form lang="mail">feires?</form>
+      , 
+      <form lang="sic">filici</form>
+      , 
+      <form lang="sard">filighe</form>
+      , 
+      <form lang="eng">felisch?</form>
+      , 
+      <form lang="pv">feuze?</form>
+      , 
+      <form lang="gasc">feus?</form>
+      . 
+      <!-- Interpretation needed for felsa, fires, felis, feuze, heus -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

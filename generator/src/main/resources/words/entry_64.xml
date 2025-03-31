@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="64">
+  
+  <lemma>alint</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„verhätscheln“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ALLENTO, -ARE</etymon>
+     
+    <!-- Assuming <*AL-LENTO -> <*ALLENTO -->
+    
+    <cognates>
+      
+      <form lang="it">allentare</form>
+      , 
+      <form lang="sard">allentare</form>
+      ,
+
+      <form lang="sic">allintari</form>
+      ,
+
+      <form lang="abruzz">allendă</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. dizmierdu, hărsescu].</variants>
+   
+  <!-- Assuming dizherdu -> dizmierdu, hărsescul -> hărsescu -->
+  
+</entry>

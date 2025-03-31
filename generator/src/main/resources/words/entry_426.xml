@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="426">
+  
+  <lemma>cucurbetă</lemma>
+   
+  <!-- Assuming cueurbetä -> cucurbetă -->
+  
+  <lemma_variants>(curcubetă)</lemma_variants>
+   
+  <!-- Assuming curcubeta -> curcubetă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. curcubetă auch: „Nacken‘“]</variants>
+  
+  <definition>„Flaschenkürbiß“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CUCURBITA, -AM</etymon>
+    
+    <cognates>
+      (
+      <form lang="it">corbezza</form>
+        
+      <etymon lang="Lat">*CUCURBITEA</etymon>
+      ), 
+      <form lang="n-pv">cougourda?</form>
+      , (
+      <form lang="fr">courge</form>
+      ), 
+      <form lang="a-frz">coorde?</form>
+      . 
+      <!-- Interpretation needed for congourde, coorde -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

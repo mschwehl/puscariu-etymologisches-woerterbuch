@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="520">
+  
+  <lemma>desjug</lemma>
+   
+  <!-- Assuming desjig (dejug) -> desjug -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. dizghiug?]</variants>
+   
+  <!-- Assuming dizdiug -> dizghiug? -->
+  
+  <definition>„den Joch abnehmen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DISIUGO, -ARE</etymon>
+    . 
+    <!-- Assuming Dis-JÜGo -> DISIUGO -->
+    
+  </etymology>
+  
+  <derived_forms>
+    Davon 
+    <form>desjugătoare</form>
+     sf. (
+    <source_ref>C. Sandu: Drum și popas 39, 36</source_ref>
+    ) „Ruheplatz“.
+  </derived_forms>
+   
+  <!-- Assuming dejugătodre -> desjugătoare -->
+  
+</entry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="247">
+  
+  <lemma>cac</lemma>
+   
+  <!-- Assuming cae -> cac -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. &gt;, ir. cac]</variants>
+   
+  <!-- Assuming coc -> cac -->
+  
+  <definition>„scheißen‘‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CACO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">cacare</form>
+      ,
+
+      <form lang="eng">cacare?</form>
+      , 
+      <!-- Assuming k'ier, k’aer -> cacare? -->
+      
+      <form lang="pv">cagar</form>
+      , 
+      <form lang="sp">cagar</form>
+      , 
+      <form lang="pg">cagar</form>
+      , 
+      <!-- Assuming cagur -> cagar -->
+      
+      <form lang="fr">chier</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

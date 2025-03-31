@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="47">
+  
+  <lemma>aiu</lemma>
+   
+  <!-- Assuming diie -> aiu -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. al'u, ir. ol']</variants>
+   
+  <!-- Assuming alä -> al'u, oh -> ol' -->
+  
+  <definition>„Knoblauch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALLIUM</etymon>
+     
+    <!-- Assuming Arıun -> ALLIUM -->
+    
+    <cognates>
+      
+      <form lang="alb">hudhër</form>
+      , 
+      <form lang="frl">aj</form>
+      , 
+      <!-- Assuming alb. frl. aj -> separate -->
+      
+      <form lang="it">aglio</form>
+      ,
+
+      <form lang="sic">agghiu</form>
+      , 
+      <!-- Assuming aygyu -> agghiu -->
+      
+      <form lang="sard-log">azu</form>
+      ,
+
+      <form lang="pv">alh</form>
+      ,
+
+      <form lang="fr">ail</form>
+      ,
+
+      <form lang="cat">all</form>
+      ,
+
+      <form lang="sp">ajo</form>
+      ,
+
+      <form lang="pg">alho</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

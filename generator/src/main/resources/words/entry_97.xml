@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="97">
+  
+  <lemma>aplec</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. =, mgl. plec]</variants>
+  
+  <definition>„niederbeugen“</definition>
+  
+  <semantic_note>
+    (meist trans. 
+    <form>mă aplec</form>
+     „beuge, lasse mich nieder“ und auf Tiere übertragen in spezieller Bedeutung: „lasse mich nieder um zu säugen“, daher „säugen“; davon ar. 
+    <form>aplecătoare</form>
+    , mgl. 
+    <form>plicătoare</form>
+     „Schaf“ auch „Mutter die selbst stillt”)
+
+  </semantic_note>
+  
+  <etymology>
+    
+    <etymon lang="Lat">APPLICO, -ARE</etymon>
+     
+    <!-- Assuming ar-PLico -> APPLICO -->
+    
+  </etymology>
+  
+</entry>

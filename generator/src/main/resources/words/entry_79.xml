@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="79">
+  
+  <lemma>amîn</lemma>
+   
+  <!-- Assuming amin -> amîn -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>
+    [ar. &gt;, davon drum. ar. 
+    <form>amînat</form>
+     adv. mgl. 
+    <form>mînat</form>
+    , ir. 
+    <form>amînat</form>
+     „spät"]
+  </variants>
+   
+  <!-- Assuming amändt, mändt, amnot -> amînat? -->
+  
+  <definition>„auf morgen schieben, verschieben“</definition>
+  
+  <etymology_discussion source="G. Meyer: Indog. Forsch. VI, 105; Zeitschr. rom. Phil. XXVIII, 676">
+    ist von einem verlorengegangenen Adv. 
+    <form>*amîne</form>
+     „auf morgen“ 
+    <etymon lang="Lat">AD MANE</etymon>
+     abgeleitet.
+
+    <comparison>
+      Vgl. alb. 
+      <form lang="alb">mënoj</form>
+       „zögere“.
+    </comparison>
+     
+    <!-- Assuming menon -> mënoj -->
+    
+  </etymology_discussion>
+  
+</entry>

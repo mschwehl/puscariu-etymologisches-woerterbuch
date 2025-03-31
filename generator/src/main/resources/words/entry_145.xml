@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="145">
+  
+  <lemma>asplîng</lemma>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <inflection>-nsu, -ntu</inflection>
+   
+  <!-- Assuming -mău, -autu -> -nsu, -ntu (from plango) -->
+  
+  <verb_class>III/II</verb_class>
+   
+  <!-- Assuming IILIL -> III/II -->
+  
+  <pos>vb.</pos>
+  
+  <definition>„ausweinen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*EXPLANGO, -NXI, -NCTUM, -ERE</etymon>
+     
+    <!-- Assuming *Ex-PLANGO, “ERE -> *EXPLANGO, -ERE -->
+    
+  </etymology>
+  
+</entry>

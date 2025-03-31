@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="53">
+  
+  <lemma>al</lemma>
+  
+  <feminine>a</feminine>
+  
+  <pos>artic.</pos>
+   
+  <!-- Article -->
+  
+  <pronoun_variant>
+    
+    <pronoun>ăl(a)</pronoun>
+    ,
+
+    <feminine>aia</feminine>
+    
+    <pos>pron.</pos>
+    
+    <definition>„jener“</definition>
+    
+    <etymology>
+      
+      <etymon lang="Lat">*ILLUM</etymon>
+      
+    </etymology>
+    
+  </pronoun_variant>
+  
+  <reference type="internal">Vgl. iel.</reference>
+  
+</entry>

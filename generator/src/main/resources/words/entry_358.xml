@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="358">
+  
+  <lemma>ci</lemma>
+  
+  <pos>conj.</pos>
+  
+  <definition>„sondern“</definition>
+  
+  <usage>
+    alt-rum. 
+    <form>ce</form>
+  </usage>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. III, § 699">
+    ist wahrscheinlich aus 
+    <etymon lang="Lat">QUID?</etymon>
+     entstanden. 
+    <!-- Assuming Qui -> QUID? -->
+    
+  </etymology>
+  
+</entry>

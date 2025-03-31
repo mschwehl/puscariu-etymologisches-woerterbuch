@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="572">
+  
+  <lemma>făină</lemma>
+  
+  <usage>
+    [auch 
+    <form>fărînă</form>
+     
+    <source_ref>Dos. Ps. S. 259</source_ref>
+    , bn. 
+    <form>fărină</form>
+     
+    <source_ref>Jb. VII, 26</source_ref>
+    , moți, ar. mgl. 
+    <form>fărînă</form>
+    , ir. 
+    <form>fărire?</form>
+    ]
+  </usage>
+   
+  <!-- Assuming fäninä -> fărînă, fänind -> fărină -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Mehl“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FARINA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">farina</form>
+      , 
+      <form lang="eng">farina</form>
+      , 
+      <form lang="pv">farina</form>
+      , 
+      <form lang="cat">farina</form>
+      , 
+      <form lang="fr">farine</form>
+      , 
+      <form lang="sp">harina</form>
+      , 
+      <form lang="pg">farinha</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

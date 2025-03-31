@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="210">
+  
+  <lemma>boașe</lemma>
+   
+  <!-- Assuming boäse -> boașe -->
+  
+  <pos>sf. plur. tant.</pos>
+   
+  <!-- Assuming st. plur. tant. -> sf. plur. tant. -->
+  
+  <variants>[mgl. bos, pl. boași, ir. boș]</variants>
+   
+  <!-- Assuming 508 -> bos, boasi -> boași, bos -> boș -->
+  
+  <definition>„Hoden­sack“</definition>
+  
+  <etymology source="Verfassers Lat. Ti u. Ki, 66-67">
+    ist wahrscheinlich, trotz lautlichen Schwierigkeiten 
+    <etymon lang="Lat">*BURSEA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">BURSA</etymon>
+     = gr. 
+    <etymon lang="Gr">βύρσα</etymon>
+     „Haut, Leder“)
+
+    <cognates>
+      vgl. 
+      <form lang="a-berg">la borsa di testicoi</form>
+       „bursa testiculorum‘, 
+      <form lang="cerign">vorsa</form>
+      , 
+      <form lang="sard-log">busa</form>
+      , 
+      <form lang="sard-camp">bussa</form>
+      , 
+      <form lang="sard-gall">bossa</form>
+      , 
+      <form lang="sass">bossa?</form>
+      , 
+      <form lang="sass">busacca?</form>
+       „sacoccia“, 
+      <form lang="sass">businu</form>
+       „borsetta di pelle di gatto di forma allungata, in cui i zappatori sogliono tenere il tabacco“, 
+      <form lang="alb">butsir?</form>
+        
+      <etymon lang="Lat">*BURSĪNUM</etymon>
+       „Backentasche“, 
+      <form lang="sp">bolsa</form>
+      . 
+      <!-- Assuming bpssa -> bossa, busakkara -> busacca? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Von 
+    <form>boașe</form>
+     abgeleitet ist 
+    <form>boșorog</form>
+     adj. „brüchig“ u. wohl auch 
+    <form>cartaboș</form>
+     sm, „Leberwurst“. 
+    <!-- Assuming boşorâg -> boșorog, cartabög -> cartaboș -->
+    
+  </derived_forms>
+  
+  <footer_text>Puşcariu, Etymologisches Wörterbuch. 2</footer_text>
+  
+</entry>

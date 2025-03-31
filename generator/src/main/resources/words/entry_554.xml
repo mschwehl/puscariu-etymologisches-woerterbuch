@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="554">
+  
+  <lemma>dulce</lemma>
+   
+  <!-- Assuming dülce -> dulce -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. dulțe, mgl. dulț, ir. dulțe]</variants>
+   
+  <!-- Assuming dultse, dults -> dulțe, dulț -->
+  
+  <definition>„süß“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DULCIS, -E</etymon>
+     
+    <!-- Assuming pürers -> DULCIS -->
+    
+    <cognates>
+      
+      <form lang="it">dolce</form>
+      , 
+      <form lang="sic">duci?</form>
+      , 
+      <form lang="eng">dutş?</form>
+      , 
+      <form lang="pv">dols?</form>
+      , 
+      <form lang="fr">doux</form>
+      , 
+      <form lang="sp">dulce</form>
+      , 
+      <form lang="pg">doce</form>
+      . 
+      <!-- Interpretation needed for dutsi, duts, dolz, doua -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Davon 
+    <form>dulceață</form>
+     sf. „Süßigkeit“, wie 
+    <cognates>
+      <form lang="it">dolcezza</form>
+      , 
+      <form lang="a-gen">dozeira?</form>
+      , 
+      <form lang="eng">dulzátscha?</form>
+    </cognates>
+    ; „es bedeutet auch eine Art einge­sottener Früchte, und ist die Übersetzung des n.-gr. 
+    <etymon lang="ngr">γλυκό</etymon>
+     (alb. 
+    <form lang="alb">glikó?</form>
+    ). Aus dem Rum. stammt kl.-russ. 
+    <form lang="ukr">dulcăța?</form>
+    . 
+    <!-- Interpretation needed for dozera, dutsetssa, y/rz6, eljikö, dolicyda -->
+    
+  </derived_forms>
+  
+</entry>

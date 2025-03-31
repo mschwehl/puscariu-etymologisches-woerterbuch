@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="329">
+  
+  <lemma>cearcăn</lemma>
+   
+  <!-- Assuming ceärcän -> cearcăn -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Ring (um die Augen, um den Mond)“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CIRCINUS, -UM</etymon>
+     
+    <!-- Assuming eircisus -> CIRCINUS -->
+    
+    <cognates>
+      
+      <form lang="it">cercine</form>
+      , 
+      <form lang="frl">cerclin</form>
+      , 
+      <form lang="fr">cerne</form>
+      , 
+      <form lang="sp">cercén</form>
+      , 
+      <form lang="pg">cerceio?</form>
+      . 
+      <!-- Assuming tăertăin -> cerclin, cercen -> cercén, cerce -> cerceio? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

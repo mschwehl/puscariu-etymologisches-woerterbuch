@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="162">
+  
+  <lemma>atît(a)</lemma>
+   
+  <!-- Assuming atitca) -> atît(a) -->
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. ahtîntu, ahîntu, ahît, ahătu]</variants>
+   
+  <!-- Assuming ahtintu, ahintw -> ahtîntu, ahîntu -->
+  
+  <definition>„so viel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ECCUM/ATQUE TANTUM</etymon>
+     
+    <!-- Assuming CECCUM -> ECCUM -->
+    
+    <cognates>
+      
+      <form lang="it">tanto (cotanto)</form>
+      ,
+
+      <form lang="a-frz">(i)tant</form>
+      , 
+      <form lang="n-frz">tant</form>
+      ,
+
+      <form lang="a-pv">aitan</form>
+      ,
+
+      <form lang="a-sp">(a)tanto</form>
+      ,
+
+      <form lang="pg">tanto</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

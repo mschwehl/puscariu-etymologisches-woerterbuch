@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="255">
+  
+  <lemma>călcătură</lemma>
+   
+  <!-- Assuming cälceătiiră -> călcătură -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„Treten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CALCATURA</etymon>
+    
+    <cognates>
+      
+      <form lang="it">calcatura</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

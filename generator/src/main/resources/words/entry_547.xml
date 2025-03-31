@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="547">
+  
+  <lemma>drac</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. dracu, darac, mgl. = ir. drac]</variants>
+   
+  <!-- Assuming mel. m. -> mgl. =, drocu -> drac -->
+  
+  <definition>„Teufel‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DRACO, -ŌNEM</etymon>
+     (
+    <cognates>
+      <form lang="it">dragone</form>
+      , 
+      <form lang="eng">dragun</form>
+      , 
+      <form lang="pv">drago</form>
+      , 
+      <form lang="fr">dragon</form>
+      , 
+      <form lang="sp">dragón</form>
+      , 
+      <form lang="pg">dragão</form>
+    </cognates>
+    ) 
+    <!-- Assuming dragon -> dragón, dragäo -> dragão -->
+    
+    <cognates>
+      
+      <form lang="alb">dreq</form>
+      , 
+      <form lang="it">drago</form>
+      , 
+      <form lang="a-berg">drag</form>
+      , 
+      <form lang="sard">dragu</form>
+      , 
+      <form lang="n-pv">drac</form>
+      ; (
+      <form lang="ngr">δράκος</form>
+      ). 
+      <!-- Assuming drek’ -> dreq, drak -> drac, 0odxos -> δράκος -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

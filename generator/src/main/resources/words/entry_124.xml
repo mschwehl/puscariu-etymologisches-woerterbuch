@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="124">
+  
+  <lemma>arm</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Oberarm“</definition>
+  
+  <variants>[ar. armu „Viertel eines Tieres]</variants>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARMUS, -UM</etymon>
+     
+    <!-- Assuming CARMUS -> ARMUS -->
+    
+    <cognates>
+      
+      <form lang="sard">armu</form>
+      , 
+      <!-- Assuming armı -> armu -->
+      
+      <form lang="cors">ermu</form>
+      , 
+      <!-- Assuming erme -> ermu -->
+      
+      <form lang="fr">ers</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <related_form_discussion>
+    In derselben Be­deutung kommt auch ein 
+    <form>armur</form>
+     sm. vor, welches sowohl auf 
+    <etymon lang="Lat">*ARMULUS, -UM</etymon>
+     zurückgehen, als von Plur. 
+    <etymon lang="Lat">ARMORA</etymon>
+     (belegt bei Chiron. 
+    <source_ref>Archiv lat. Lex. X, 421</source_ref>
+    ) &gt; 
+    <form>armuri</form>
+     [ar. &gt;] rückgebildet sein kann.
+
+  </related_form_discussion>
+  
+</entry>

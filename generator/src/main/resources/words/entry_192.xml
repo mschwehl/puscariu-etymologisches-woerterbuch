@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="192">
+  
+  <lemma>bat</lemma>
+  
+  <inflection>bătui, =</inflection>
+   
+  <!-- Assuming ai, = -> bătui, = -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage_note>(a. II)</usage_note>
+   
+  <!-- Alternate/Old class -->
+  
+  <variants>[ar. bat, mgl. =, ir. botu]</variants>
+   
+  <!-- Assuming mol. n -> mgl. = -->
+  
+  <definition>„schlagen, klopfen etc.“</definition>
+  
+  <etymology source="Archiv lat. Lex. X 421, I 249, XII 240, 554">
+    
+    <etymon lang="Lat">BATTUO, -UI, -ERE</etymon>
+     (statt 
+    <etymon lang="Lat">BATTUERE</etymon>
+    ) 
+    <!-- Assuming CBATTO -> BATTUO, sarvo -> BATTUERE -->
+    
+    <cognates>
+      
+      <form lang="it">battere</form>
+      ,
+
+      <form lang="eng">batter</form>
+      ,
+
+      <form lang="prov">batre</form>
+      , 
+      <!-- Assuming Pr -> prov. -->
+      
+      <form lang="fr">battre</form>
+      ,
+
+      <form lang="sp">batir</form>
+      ,
+
+      <form lang="pg">bater</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Dazu 
+    <form>străbat</form>
+     III vb „durch­dringen“, vgl. 
+    <form lang="it">strabattere</form>
+    .
+
+  </derived_forms>
+  
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="460">
+  
+  <lemma>curechiu</lemma>
+   
+  <!-- Assuming cuvrcchii -> curechiu -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Kraut“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">COLICULUS, -UM</etymon>
+     (= 
+    <etymon lang="Lat">CAULICULUS</etymon>
+    ) 
+    <!-- Assuming coLiclUJLus -> COLICULUS -->
+    
+    <cognates>
+      
+      <form lang="it">colecchio</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. verdzù, moare, culșani?].</variants>
+   
+  <!-- Assuming verdzu, culsan -> verdzù, culșani? -->
+  
+</entry>

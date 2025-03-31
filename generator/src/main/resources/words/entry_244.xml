@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="244">
+  
+  <lemma>ca</lemma>
+  
+  <pos>conj.</pos>
+  
+  <usage>
+    nur in Verbindung mit 
+    <form>să</form>
+  </usage>
+  
+  <variants>
+    [ar. 
+    <form>ca să</form>
+     nur in Krusovo und Bitolia, sonst 
+    <form>tra să</form>
+    , mgl. 
+    <form>ca si</form>
+    ]
+  </variants>
+   
+  <!-- Assuming mg]. -> mgl. -->
+  
+  <definition>„(auf) daß“</definition>
+  
+  <etymology source="Jeanjaquet: La conjonction ‘que’, 24; Meyer-Lübke: Einführung § 101">
+    
+    <etymon lang="Lat">QUIA</etymon>
+     
+    <!-- Assuming aufıla -> QUIA -->
+    
+    <cognates>
+      
+      <form lang="a-it">ca</form>
+      , 
+      <form lang="a-sp">ca</form>
+      , 
+      <form lang="a-pg">ca</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

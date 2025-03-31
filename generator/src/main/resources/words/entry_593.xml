@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="593">
+  
+  <lemma>fecior</lemma>
+   
+  <!-- Assuming feciör -> fecior -->
+  
+  <lemma_variants>(ficior)</lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. fițor, ir. fețor]</variants>
+   
+  <!-- Assuming fit$or, fetsor -> fițor, fețor -->
+  
+  <definition>„Knabe, Bursche“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FĒTIOLUS, -UM</etymon>
+     (von 
+    <etymon lang="Lat">FĒTUS</etymon>
+    ), vgl. 
+    <ref target_lemma="făt">făt</ref>
+    .
+
+  </etymology>
+  
+</entry>

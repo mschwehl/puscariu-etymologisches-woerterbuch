@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="7">
+  
+  <lemma>acăț</lemma>
+  
+  <lemma_variants>(acäf, agäf)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. acâis, mgl. cats, ir. (a)eots]</variants>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*AP­CAPTIO, -ARE</etymon>
+     
+    <!-- Oder *AD-CAPTIARE? -->
+    
+  </etymology>
+  
+  <sense_development>
+    
+    <sense>
+      
+      <definition>Die Grundbedeutung des Wortes ist: „ergreife, fasse“</definition>
+      
+      <example>(ir. catsot’a-w-o de peri și obisita-tw-o la zit = er ergriff sie an den Haaren und hat sie an die Mauer gehängt);</example>
+      
+    </sense>
+    
+    <sense>
+      
+      <comment>dann, wie rum. apuc, „fange an“</comment>
+      
+      <example>(mgl. cătso să ancarcă — er begann zu laden)</example>
+      
+    </sense>
+    
+    <sense>
+      
+      <definition>„nehme“</definition>
+      
+      <example>(mel. îse drum să cäisom? = welchen Weg sollen wir nehmen?)</example>
+      
+    </sense>
+    
+    <sense>
+      
+      <definition>„fange“</definition>
+      
+      <example>(ar. cătusa acatsă Soareisi = die Katze fängt Mäuse, ir. noi acătsăm pestiu cu unditsa = wir fangen den Fisch mit der Angel).</example>
+      
+    </sense>
+    
+    <sense>
+      
+      <comment>Aus dieser Bedeutung entwickelt sich der Sinn „jagen“, den die rom. Entsprechungen allein haben</comment>
+      
+      <cognates>
+        
+        <form lang="it">cacciare</form>
+        ,
+
+        <form lang="eng">h’at$er</form>
+        ,
+
+        <form lang="fr">chasser</form>
+        ,
+
+        <form lang="pv">cassar</form>
+        ,
+
+        <form lang="sp">cazar</form>
+        ,
+
+        <form lang="pg">cacar</form>
+        
+      </cognates>
+      
+      <comment>
+        und der schon für lat. CAPTARE seit dem LV Jh. belegt ist (
+        <reference type="bibliographic">Archiv lat. Lex. VII, 183</reference>
+        ).
+      </comment>
+      
+    </sense>
+    
+    <sense>
+      
+      <comment>Im D-rum. hat acäfare nur den Sinn „hängen“</comment>
+      
+      <example>(mă acäf de pom = ich fasse mich an den Baum an, daher: ich hänge mieh an dem Baume, und daraus: acäf ceva de pom — ich hänge etwas an den Baum).</example>
+      
+    </sense>
+    
+    <related_form questionable="true">
+      Ob 
+      <form>caţă</form>
+       
+      <pos>sf.</pos>
+       „Hirtenstock mit Haken“ davon ab­geleitet ist, ist fraglich, vgl. indessen 
+      <form lang="alb">grap</form>
+       „ergreife, fange, angle“ und 
+      <form lang="alb">krabe</form>
+       „Haken, Hirtenstab“, 
+      <form lang="alb">grep</form>
+       „(Angel)haken“.
+
+    </related_form>
+    
+    <excluded_form>
+      Sicherlich gehört 
+      <form lang="mgl">catsu, zäcat$u</form>
+       „hänge, fange“ nicht hierher, sondern zu 
+      <etymon lang="bkslav">kacja</etymon>
+       „hängen“, 
+      <etymon lang="bkslav">zakacja</etymon>
+       „anfangen“ (auf die G. Meyer, 
+      <reference type="bibliographic">Indg. Forsch. VI, 121</reference>
+       auch die anderen Formen zurückführen wollte.)
+
+    </excluded_form>
+    
+    <reference type="bibliographic">Zu dieser Wortgruppe vgl. noch Schuchardt. Zeitschr. rom. Phil. XXVIII, 41—42.</reference>
+    
+  </sense_development>
+  
+</entry>

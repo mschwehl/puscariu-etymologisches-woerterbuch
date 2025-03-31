@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="117">
+  
+  <lemma>argintar</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. arzintar, răzăntar]</variants>
+   
+  <!-- Assuming răzintar -> răzăntar -->
+  
+  <definition>„Silberarbeiter“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARGENTARIUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">argentajo</form>
+      ,
+
+      <form lang="fr">argentier</form>
+      ,
+
+      <form lang="sp">argentero</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. favru in Märchen, sonst hrisic].</variants>
+   
+  <!-- Assuming hrisie -> hrisic? -->
+  
+</entry>

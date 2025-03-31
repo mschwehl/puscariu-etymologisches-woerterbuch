@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="39">
+  
+  <lemma>agur</lemma>
+   
+  <!-- Assuming again» -> agur -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage>(dial.)</usage>
+  
+  <definition>„prophezeien“</definition>
+  
+  <variants>[vgl. ar. agurliu „günstig‘“]</variants>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AUGURO, -ARE</etymon>
+     
+    <!-- Assuming < a[u]GüRo -> < AUGURO -->
+    
+    <cognates>
+      
+      <form lang="a-it">augurar</form>
+      , 
+      <!-- Assuming a(g)urar -> augurar -->
+      
+      <form lang="lecce">auru</form>
+      , 
+      <!-- Assuming atru -> auru -->
+      
+      <form lang="mail">ingürd</form>
+      ,
+
+      <form lang="sard">aura</form>
+      , 
+      <!-- Assuming -atra -> aura -->
+      
+      <form lang="a-frz">-eüre</form>
+      , 
+      <!-- Assuming -eüre -> aürer? -->
+      
+      <form lang="pv">aurar</form>
+      ,
+
+      <form lang="sp">agorar</form>
+      ,
+
+      <form lang="pg">agourar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="bibliographic">O. Densusianu: Rom. XXVII, 60.</reference>
+  
+</entry>

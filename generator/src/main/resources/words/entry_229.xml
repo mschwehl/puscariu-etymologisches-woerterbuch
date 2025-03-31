@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="229">
+  
+  <lemma>bucium</lemma>
+   
+  <!-- Assuming biein (bieium) -> bucium -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>
+    „(das Horn) blasen‘, dial. „heulen (
+    <source_ref>Frîncu-Candrea: Rom. din Munţii apuseni, 49</source_ref>
+    )“
+  </definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BUCCINO, -ARE</etymon>
+     
+    <!-- Assuming züccixo -> BUCCINO -->
+    
+    <cognates>
+      
+      <form lang="it">buccinare</form>
+      . 
+      <!-- Assuming buceinare -> buccinare -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

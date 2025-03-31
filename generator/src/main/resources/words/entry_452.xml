@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="452">
+  
+  <lemma>cuptor</lemma>
+  
+  <lemma_variants>(cuptior)</lemma_variants>
+   
+  <!-- Assuming cuptiör -> cuptior -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. cuptor]</variants>
+   
+  <!-- Assuming koptör -> cuptor -->
+  
+  <definition>„Backofen“, d-rum. auch „Juli“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*COCTORIUM</etymon>
+     (von 
+    <etymon lang="Lat">COQUO</etymon>
+    ). 
+    <!-- Assuming #cocrorivn -> *COCTORIUM -->
+    
+  </etymology>
+  
+  <variants>[ar. furnu, Bîrcaci?].</variants>
+   
+  <!-- Assuming furl), Bircap) -> furnu, Bîrcaci? -->
+  
+</entry>

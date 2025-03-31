@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="502">
+  
+  <lemma>depun</lemma>
+   
+  <!-- Assuming depiin -> depun -->
+  
+  <inflection>-usei, -us</inflection>
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage>
+    volkstümlich nur noch in 
+    <example>oaia depune</example>
+     (scil. 
+    <form>laptele în uger</form>
+    ), vom trächtigen Schaf gebraucht, wenn sich dessen Milch in dem Euter lagert.
+  </usage>
+  
+  <usage_note source="Zeitschr. rom. Phil. XXVIII, 740-741">
+    Dagegen wird das Wort im Ar. oft gebraucht, wo 
+    <form>mi dipun, -us, -us</form>
+     III, II ‚ich steige herab‘ bedeutet.
+
+  </usage_note>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DEPONO, -POSUI, -POSITUM, -PONERE</etymon>
+    : 
+    <!-- Assuming -S{{TUN, -NERE -> -POSITUM, -PONERE -->
+    
+    <cognates>
+      
+      <form lang="it">deporre</form>
+      , 
+      <form lang="pv">deponer</form>
+      , 
+      <form lang="sp">deponer</form>
+      , 
+      <form lang="pg">depor</form>
+      . 
+      <!-- Assuming depör -> depor -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. adăpost.</reference>
+  
+</entry>

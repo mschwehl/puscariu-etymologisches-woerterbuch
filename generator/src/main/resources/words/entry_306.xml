@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="306">
+  
+  <lemma>căsc</lemma>
+   
+  <!-- Assuming eäse -> căsc -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. cascu]</variants>
+  
+  <definition>„klaffen, gähnen, weit öffnen“</definition>
+  
+  <etymology source="Candrea-Hecht: Rom. XXXI, 304—305">
+    
+    <etymon lang="Lat">*CASCO, -ARE</etymon>
+     (
+    <etymon lang="Lat">? + HASCO?</etymon>
+      ar. hascu) 
+    <!-- Assuming ( ydozer -> ? + HASCO? -->
+    
+    <cognates>
+      
+      <form lang="sard">cascare</form>
+       „gähnen“, vgl. 
+      <form lang="it">cascaggine</form>
+       „Schläfrigkeit“. 
+      <!-- Assuming Sehliirigkeit -> Schläfrigkeit -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

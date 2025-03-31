@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="336">
+  
+  <lemma>cer</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. ţer, ir. țer]</variants>
+   
+  <!-- Assuming tser -> ţer, t$er -> țer -->
+  
+  <definition>„Zerreiche‘“‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CERRUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">sqerr?</form>
+      , 
+      <form lang="it">cerro</form>
+      , 
+      <form lang="lomb">zer?</form>
+      . 
+      <!-- Assuming lar -> sqerr?, 3er -> zer? -->
+      
+    </cognates>
+    
+    <borrowing_note>
+      Auch srb. blg. slov. 
+      <form lang="sh">cer</form>
+      , ksl. 
+      <etymon lang="chu">cerŭ</etymon>
+      , ung. 
+      <etymon lang="hu">cser</etymon>
+      .
+    </borrowing_note>
+     
+    <!-- Assuming ceri -> cerŭ -->
+    
+  </etymology>
+  
+</entry>

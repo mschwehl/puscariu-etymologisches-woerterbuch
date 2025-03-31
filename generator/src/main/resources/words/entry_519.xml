@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="519">
+  
+  <lemma>desider</lemma>
+  
+  <lemma_variants>(+ desir)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„wünschen, ersehnen“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. I, 119; Candrea-Hecht: Les Elem. lat. S. 95">
+    
+    <etymology>
+      
+      <etymon lang="Lat">DESIDERO, -ARE</etymon>
+       
+      <!-- Assuming nusf-DERO -> DESIDERO -->
+      
+      <cognates>
+        
+        <form lang="alb">dëshëroj</form>
+        , 
+        <form lang="a-lomb">desi(d)rar</form>
+        , 
+        <form lang="a-ven">desirar</form>
+        , 
+        <form lang="a-gen">desirar</form>
+        , 
+        <form lang="prov">desirar</form>
+        , 
+        <form lang="fr">désirer</form>
+        . 
+        <!-- Assuming deserön -> dëshëroj, pr. -> prov. -->
+        
+      </cognates>
+      
+    </etymology>
+    
+    <alternative_etymology>
+      (
+      <form lang="it">disiare</form>
+      , 
+      <form lang="n-frz">desier?</form>
+      , 
+      <form lang="sp">desear</form>
+      , 
+      <form lang="pg">desejar</form>
+       
+      <etymon lang="Lat">*DESIDIO, -ARE</etymon>
+      ). 
+      <!-- Assuming deseier -> desier? -->
+      
+    </alternative_etymology>
+    
+    <usage_note>Vgl. Candrea-Hecht, wo auch Belegstellen und Erklärung der zwei alt-rum. Formen zu finden sind.</usage_note>
+    
+  </etymology>
+  
+  <variants>[ar. dor].</variants>
+  
+</entry>

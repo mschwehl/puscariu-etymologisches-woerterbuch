@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="432">
+  
+  <lemma>cuib</lemma>
+   
+  <!-- Assuming etid -> cuib -->
+  
+  <lemma_variants>
+    (+ 
+    <form>cuiub</form>
+    )
+  </lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. cuibu auch „Lager von Tieren“, mgl. ir. cuib]</variants>
+   
+  <!-- Assuming cul -> cuib -->
+  
+  <definition>„Nest“</definition>
+  
+  <etymology source="Zeitschrift rom. Phil. XXVIII 690">
+    
+    <etymon lang="Lat">*CUBIUM</etymon>
+     (von 
+    <etymon lang="Lat">CUBO</etymon>
+    , vgl. 
+    <etymon lang="Lat">CONCUBIUM</etymon>
+    ) 
+    <!-- Assuming *cüsıum -> *CUBIUM -->
+    
+    <cognates>
+      
+      <form lang="mod">cubi</form>
+      , 
+      <form lang="bol">cubi</form>
+      , 
+      <form lang="mail">cobbi</form>
+      , 
+      <form lang="pg">coio</form>
+      .
+
+    </cognates>
+    
+    <phonological_note>
+Die rum. Gestalt des Wortes ist lautlich nicht ganz klar.
+</phonological_note>
+    
+  </etymology>
+  
+</entry>

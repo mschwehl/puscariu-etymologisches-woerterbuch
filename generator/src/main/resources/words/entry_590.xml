@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="590">
+  
+  <lemma>faur</lemma>
+   
+  <!-- Assuming fâur -> faur -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. favru, favur auch „Silberarbeiter“, ir. faŭru?]</variants>
+   
+  <!-- Assuming fowru -> faŭru? -->
+  
+  <definition>„Schmied“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FABER, -BRUM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">fabbro</form>
+      , 
+      <form lang="pv">faure</form>
+      , 
+      <form lang="fr">fèvre</form>
+      , 
+      <form lang="a-sp">fabro</form>
+      ;
+
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="internal">vgl. făurar.</reference>
+  
+  <variants>[mgl. cuvaciu].</variants>
+   
+  <!-- Assuming cuvatsü -> cuvaciu -->
+  
+</entry>

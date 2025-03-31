@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="331">
+  
+  <lemma>celar</lemma>
+  
+  <usage>
+    (
+    <source_ref>Cuv. d. b. I, 212</source_ref>
+    )
+  </usage>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. țilär]</variants>
+   
+  <!-- Assuming tsilâr -> țilär -->
+  
+  <definition>„Keller“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CELLARIUM</etymon>
+     
+    <!-- Assuming ceLLA-num -> CELLARIUM -->
+    
+    <cognates>
+      
+      <form lang="valt">? „piccola cantina“</form>
+      , 
+      <form lang="lecc">?</form>
+      , 
+      <form lang="u-eng">tschaler</form>
+      , 
+      <form lang="obw">tscheller</form>
+      , 
+      <form lang="fr">cellier</form>
+      , 
+      <form lang="sp">cillero</form>
+      , 
+      <form lang="pg">celleiro</form>
+      . 
+      <!-- Interpretation needed for valtell. le, Icent. ciull€, ăler, t$ell& -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="353">
+  
+  <lemma>chem</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (a)cl'em, mgl. ir. cl'em]</variants>
+   
+  <!-- Assuming (a)elem -> (a)cl'em, elem -> cl'em -->
+  
+  <definition>„rufen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CLAMO, -ARE</etymon>
+     
+    <!-- Assuming cLauo -> CLAMO -->
+    
+    <cognates>
+      
+      <form lang="it">chiamare</form>
+      , 
+      <form lang="eng">clamer</form>
+      , 
+      <form lang="pv">clamar</form>
+      , 
+      <form lang="a-frz">claimer</form>
+      , 
+      <form lang="sp">llamar</form>
+      , 
+      <form lang="pg">chamar</form>
+      . 
+      <!-- Assuming klamer -> clamer -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

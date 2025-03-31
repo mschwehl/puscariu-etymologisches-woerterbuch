@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="351">
+  
+  <lemma>chează</lemma>
+   
+  <!-- Assuming cheâză -> chează -->
+  
+  <pos>sf.</pos>
+  
+  <related_form>
+    
+    <form>chez</form>
+     
+    <pos>sm.</pos>
+    
+  </related_form>
+  
+  <usage>
+    (meist 
+    <form>piază, piez</form>
+     nach der Ana­logie von dial. 
+    <form>atră</form>
+     = schriftrum. 
+    <form>piatră</form>
+     etc.)
+  </usage>
+  
+  <definition>„Unheil, (schlechtes) Vorzeichen‘</definition>
+  
+  <etymology source="H. Candrea (mündlich)">
+    gehen auf 
+    <etymon lang="Lat">*CLADEA, -AM</etymon>
+    , 
+    <etymon lang="Lat">*CLADEUM</etymon>
+     (von 
+    <etymon lang="Lat">CLADES</etymon>
+     „Unheil, Unglück“) zu­rück.
+
+  </etymology>
+  
+  <derived_forms>
+    Von 
+    <form>piez</form>
+     abgeleitet: 
+    <form>pieziș, -ă</form>
+     adj. „schief“, also war 
+    <example>mă uit pieziș</example>
+     „ich blicke schief“ ursprünglich gleich „ich blicke unheilver­kündend“. 
+    <!-- Interpretation of piezig -> pieziș -->
+    
+  </derived_forms>
+  
+</entry>

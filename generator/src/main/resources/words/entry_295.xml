@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="295">
+  
+  <lemma>carne</lemma>
+   
+  <!-- Assuming eärne -> carne -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. =, mgl. carni, ir. carne]</variants>
+   
+  <!-- Assuming corne -> carne -->
+  
+  <definition>„Fleisch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CARO, CARNEM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">carne</form>
+      , 
+      <form lang="sp">carne</form>
+      , 
+      <form lang="pg">carne</form>
+      ,
+
+      <form lang="sard">carre</form>
+      , 
+      <form lang="eng">charn</form>
+      , 
+      <form lang="pv">car</form>
+      , 
+      <form lang="cat">car</form>
+      , 
+      <!-- Assuming Warn -> charn -->
+      
+      <form lang="fr">chair</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="315">
+  
+  <lemma>cățel</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. cățel]</variants>
+   
+  <!-- Assuming cătsăl -> cățel -->
+  
+  <definition>„Knolle (vom Knoblauch)“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CAPITELLUM</etymon>
+     
+    <!-- Assuming carti): -> CAPITELLUM -->
+    
+    <cognates>
+      
+      <form lang="it">capitello</form>
+       „Kopf, Knauf“, 
+      <form lang="neap">capetiello</form>
+      , 
+      <form lang="lomb">capitel?</form>
+      , 
+      <form lang="bellun">capitel?</form>
+      , 
+      <form lang="com">cavadell?</form>
+      , 
+      <form lang="bresc">cavadell?</form>
+      , 
+      <form lang="crem">cavadell?</form>
+      , 
+      <form lang="bologn">cavdell?</form>
+      , 
+      <form lang="romag">cavdell?</form>
+      , 
+      <form lang="pad">caviell?</form>
+      , 
+      <form lang="ven">cavielo</form>
+      , 
+      <form lang="frl">cjavidiell?</form>
+      , 
+      <form lang="eng">chavü?</form>
+       „Brustwarze“, 
+      <form lang="pv">capdel</form>
+      . 
+      <!-- Interpretation needed for various forms -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

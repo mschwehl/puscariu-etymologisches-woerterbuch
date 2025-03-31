@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="629">
+  
+  <lemma>foale</lemma>
+   
+  <!-- Assuming fodle -> foale -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Sack, Schlauch“</definition>
+  
+  <usage>
+    Pl. 
+    <form>foi</form>
+     (wovon auch ein neuer Sg. 
+    <form>foit</form>
+     
+    <source_ref>Sămănătorul LI, 660</source_ref>
+    ) „Blasebalg“, Pl. 
+    <form>foale</form>
+     „Bauch“
+  </usage>
+  
+  <variants>[ar. foale, Pl. foale? „Schlauch“, mgl. foali, Pl. foluri „Blasebalg, Bauch“, ir. foale, foaie? „Bauch“, foale Pl. „Blasebalg“)</variants>
+   
+  <!-- Assuming fo?, fol, fot -> foale?, foaie?, foale -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">FOLLIS, -EM</etymon>
+     „lederner Schlauch, Blasebalg“
+
+    <cognates>
+      
+      <form lang="it">folle</form>
+      , 
+      <form lang="pg">folle</form>
+      , 
+      <form lang="mail">foll</form>
+      , 
+      <form lang="pv">fol</form>
+      , 
+      <form lang="ven">folo</form>
+      , 
+      <form lang="bellun">fola</form>
+       „Blasebalg“, 
+      <form lang="valt">föl?</form>
+       „ledener Sack‘, 
+      <form lang="eng">foll?</form>
+      , 
+      <form lang="a-frz">fol</form>
+       „Blasebalg“‘, 
+      <form lang="sp">fuelle</form>
+      , 
+      <form lang="sard">fodde</form>
+      , 
+      <form lang="frl">fola?</form>
+      , 
+      <form lang="pad">fola</form>
+       (letztere drei weiblich). 
+      <!-- Interpretation needed for föl, fol, fole -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Auffallende Bildung: 
+    <form>foalte?</form>
+     sm. adj. „Vielfraß, gefräßig”.
+  </derived_forms>
+   
+  <!-- Assuming fölte -> foalte? -->
+  
+</entry>

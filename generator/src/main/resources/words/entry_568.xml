@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="568">
+  
+  <lemma>fag</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. =]</variants>
+  
+  <definition>„Buche“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FAGUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="lomb">fo</form>
+      , 
+      <form lang="piem">fo</form>
+      , 
+      <form lang="sic">fau?</form>
+      , 
+      <form lang="sard">fau</form>
+      , 
+      <form lang="pv">fau</form>
+      , 
+      <form lang="a-frz">fou</form>
+       (
+      <form lang="it">faggio</form>
+      , 
+      <form lang="sp">haya</form>
+      , 
+      <form lang="pg">faia</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Im Ar. heißt die Frucht der Buche: 
+    <form>fagă</form>
+     sf.
+  </usage_note>
+  
+  <derived_forms>
+    „Buchenwald“ heißt 
+    <form>făget</form>
+     sm [ar. 
+    <form>făget?</form>
+    ], vgl. 
+    <form lang="it">faggeto</form>
+    .
+  </derived_forms>
+   
+  <!-- Assuming fădzet! -> făget? -->
+  
+</entry>

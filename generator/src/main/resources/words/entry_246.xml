@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="246">
+  
+  <lemma>căci</lemma>
+   
+  <!-- Assuming edei -> căci -->
+  
+  <lemma_variants>
+    (dial., + 
+    <form>căce</form>
+    )
+  </lemma_variants>
+  
+  <pos>conj.</pos>
+  
+  <variants>[ar. căță, căț, mgl. căță]</variants>
+   
+  <!-- Assuming cätse, cătsi -> căță, căț; mol. kotsi -> mgl. căță? -->
+  
+  <definition>„warum, weil“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">QUOD + ECCE?</etymon>
+     
+    <!-- Assuming Quöp A+ QUID -> QUOD + ECCE? (A->E?) -->
+    
+  </etymology>
+  
+</entry>

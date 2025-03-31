@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="586">
+  
+  <lemma>făt</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. fetu, ir. fet]</variants>
+  
+  <definition>„Junge, Knabe“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FETUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="sard">fedu</form>
+       „prole, feto“, vgl. 
+      <form lang="cingol?">fetacci?</form>
+       „ragazzi“.
+
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="internal">vgl. fată.</reference>
+  
+</entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="33">
+  
+  <lemma>afară</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. (n)afoară, mgl. nafară, näfarä, ir. (a)fore]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„draußen, hinaus“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AD-FORAS</etymon>
+     
+    <!-- Assuming Ap-rănas -> AD-FORAS -->
+    
+    <cognates>
+      
+      <form lang="a-it">affuori</form>
+      ,
+
+      <form lang="sp">afuera</form>
+      . 
+      <!-- Assuming afiera -> afuera -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <examples>
+    
+    <example lang="mgl">cad nafară</example>
+     „leidet an Fallsucht“;
+
+    <example lang="d-rum">învăţ pe din afară</example>
+     „lerne aus­wendig“.
+
+  </examples>
+  
+</entry>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="9">
+  
+  <lemma>acel(a)</lemma>
+   
+  <!-- Assuming acct(a) is OCR error -->
+  
+  <feminine>aceâ (ce)</feminine>
+  
+  <pos>pron.</pos>
+  
+  <variants>[ar. atsel, atseloa, in Samarina atseu, mg). tsela, ir. t$el(a)]</variants>
+  
+  <definition>„jener“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ECCUM- (oder ATQUE) *ILLUM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">quello</form>
+      ,
+
+      <form lang="a-eng">(a)quel</form>
+      ,
+
+      <form lang="a-pv">aquel</form>
+      ,
+
+      <form lang="sp">aquel</form>
+      ,
+
+      <form lang="pg">aquelle</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <morphology_discussion>
+    Die Form 
+    <form>acela</form>
+     entspricht dem 
+    <form lang="it">quel-lo</form>
+    , 
+    <form lang="fr">celui-là</form>
+     und stammt aus 
+    <etymon lang="Lat">ECCUM-ILLUM-[IL]LĀC</etymon>
+    . Da neben 
+    <form>acela</form>
+     ein 
+    <form>acel</form>
+     bestand, löste man 
+    <morpheme>-a</morpheme>
+     (statt 
+    <morpheme>-la</morpheme>
+    ) ab und bildete damit auch 
+    <form>acest-a</form>
+     u.s. w.
+
+  </morphology_discussion>
+  
+</entry>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="326">
+  
+  <lemma>ce</lemma>
+  
+  <pos>pron.</pos>
+  
+  <variants>[ar. țe, țî, mgl. țî, ir. țî]</variants>
+   
+  <!-- Assuming ise, îsi, t$e -> țe, țî, țî -->
+  
+  <definition>„was“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">QUID</etymon>
+    
+    <cognates>
+      
+      <form lang="it">che</form>
+      , 
+      <form lang="sic">chi</form>
+      , 
+      <form lang="sard">ke</form>
+      , 
+      <form lang="eng">che</form>
+      , 
+      <form lang="a-frz">queid</form>
+      , 
+      <form lang="pv">que</form>
+      , 
+      <form lang="fr">que</form>
+      , 
+      <form lang="cat">que</form>
+      , 
+      <form lang="sp">que</form>
+      , 
+      <form lang="pg">que</form>
+      . 
+      <!-- Assuming ke -> che -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    <example>Ce om sălbatic!</example>
+     = 
+    <example lang="it">Che uomo salvatico!</example>
+     (Goldoni).
+  </usage_note>
+  
+</entry>

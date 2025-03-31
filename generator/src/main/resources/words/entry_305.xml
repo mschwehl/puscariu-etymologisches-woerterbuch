@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="305">
+  
+  <lemma>căsătoresc</lemma>
+   
+  <!-- Assuming edsätorese -> căsătoresc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„heiraten (von der Frau und vom Manne)“</definition>
+  
+  <etymology>
+    aus 
+    <form>+căsătoriu</form>
+     (
+    <source_ref>Cor. Tetr. 31, 44, 48 etc.</source_ref>
+    ) „pater fa­milias“ und dies aus einem ausgestorbenen 
+    <etymon lang="Lat">*CASO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">CASA</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="it">casare</form>
+      , 
+      <form lang="eng">chaser?</form>
+      , 
+      <form lang="pv">cazar</form>
+      , 
+      <form lang="cat">casar</form>
+      , 
+      <form lang="sp">casar</form>
+      , 
+      <form lang="pg">casar</form>
+      . 
+      <!-- Assuming k’aser -> chaser? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

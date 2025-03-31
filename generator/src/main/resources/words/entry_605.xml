@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="605">
+  
+  <lemma>fier</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. cheru?, mgl. ier, ir. fier]</variants>
+   
+  <!-- Assuming keru -> cheru?, fler -> fier -->
+  
+  <definition>„Eisen; Säge“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FERRUM</etymon>
+     
+    <!-- Assuming rerrun -> FERRUM -->
+    
+    <cognates>
+      
+      <form lang="it">ferro</form>
+      , 
+      <form lang="pg">ferro</form>
+      , 
+      <form lang="sic">ferru</form>
+      , 
+      <form lang="sard">ferru</form>
+      , 
+      <form lang="mail">ferr</form>
+      , 
+      <form lang="eng">ferr</form>
+      , 
+      <form lang="frl">fiêr?</form>
+      , 
+      <form lang="pv">fer</form>
+      , 
+      <form lang="fr">fer</form>
+      , 
+      <form lang="sp">hierro</form>
+      . 
+      <!-- Assuming fierr -> fiêr? -->
+      
+    </cognates>
+    
+    <usage_note>
+      Die Mehrzahl 
+      <form>fiare, fiară</form>
+       [ar. hiare?, mgl. dziare?, iară?, ir. fiere?] bedeutet „Eisenfessel“, wie 
+      <example lang="it">ferri</example>
+      , 
+      <example lang="fr">fers</example>
+      , 
+      <example lang="sp">hierros</example>
+      , 
+      <example lang="pg">ferros</example>
+      . 
+      <!-- Interpretation needed for Rare, zare, iară, flere -->
+      
+    </usage_note>
+    
+  </etymology>
+  
+</entry>

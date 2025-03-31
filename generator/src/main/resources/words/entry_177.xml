@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="177">
+  
+  <lemma>baie</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. baie, meist Pl. băi]</variants>
+   
+  <!-- Assuming bate -> baie -->
+  
+  <definition>„Bad, Bergwerk“</definition>
+  
+  <etymology_discussion source="Dens. H. l. r. 119">
+    ist eher 
+    <etymon lang="kslav">banja</etymon>
+     „Bad“ (woraus auch alb. g. 
+    <form lang="alb">banjë</form>
+    ) als lat. 
+    <etymon lang="Lat">BALNEUM</etymon>
+     : 
+    <cognates>
+      <form lang="it">bagno</form>
+      , 
+      <form lang="frl">ban</form>
+      , 
+      <form lang="obw">boign</form>
+      , 
+      <form lang="pv">banh</form>
+      , 
+      <form lang="sp">baño</form>
+      , 
+      <form lang="pg">banho</form>
+    </cognates>
+    . 
+    <!-- Assuming basi -> ban, bano -> baño -->
+    
+  </etymology_discussion>
+  
+  <variants>[ir. bor].</variants>
+  
+</entry>

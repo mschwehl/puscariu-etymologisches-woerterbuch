@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="619">
+  
+  <lemma>fiulare</lemma>
+   
+  <!-- Assuming fiuläre -> fiulare -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„cheville du joug“</definition>
+  
+  <source_ref>(Frîncu-Candrea: Rom. din muni apuseni, S. 100)</source_ref>
+   
+  <!-- Assuming iuni -> muni -->
+  
+  <etymology source="Candrea-Hecht: Les éléments latins, S. 80">
+    
+    <etymon lang="Lat">*FIBŬLARIA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">FIBULA</etymon>
+    ). 
+    <!-- Assuming (*rip[üjtarıa -> *FIBŬLARIA -->
+    
+  </etymology>
+  
+</entry>

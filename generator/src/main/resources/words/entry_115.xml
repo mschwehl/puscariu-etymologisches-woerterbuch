@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="115">
+  
+  <lemma>arete</lemma>
+   
+  <!-- Assuming câte -> arete -->
+  
+  <pos>sm.</pos>
+  
+  <variants>
+    [ar. sagt man 
+    <example>birbec areate</example>
+    , 
+    <example>cal areate</example>
+     etc., also ist 
+    <form>areate</form>
+     zu adj. geworden, mgl. reĭ, ir. arete]
+  </variants>
+   
+  <!-- Assuming rei -> reĭ -->
+  
+  <definition>„Widder“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARIES, ARIETEM</etymon>
+     
+    <!-- Assuming -ETEM -> ARIETEM -->
+    
+    <cognates>
+      
+      <form lang="gen">aeo?</form>
+      , 
+      <form lang="ast">?</form>
+      , 
+      <!-- Assuming qeo, ast need verification -->
+      
+      <form lang="sudost-frz">arei</form>
+      ,
+
+      <form lang="prov">aret</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt kl.-russ. 
+    <form lang="ukr">aretij</form>
+    .
+  </borrowing_note>
+  
+</entry>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="273">
+  
+  <lemma>căpăta</lemma>
+   
+  <!-- Assuming edpät] -> căpăta -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <related_form>
+    
+    <form>scăpăta</form>
+     I vb. 
+    <!-- Assuming sedpăt -> scăpăta -->
+    
+  </related_form>
+  
+  <etymology_discussion source="Ascoli: Archivio glott. ital. XI, 423ff; Jb. IX, 223">
+    gehen auf 
+    <etymon lang="Lat">*CAPITO, -ARE</etymon>
+     und auf 
+    <etymon lang="Lat">EXCAPITO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">CAPUT</etymon>
+    ) zurück.
+
+    <subsense n="1">
+      Auf 
+      <etymon lang="Lat">CAPUT</etymon>
+       „Kapital“ weist 
+      <form>căpăta</form>
+       „bekomme, erwerbe“ (
+      <cognates>
+        <form lang="sic">capitari</form>
+        , 
+        <form lang="a-sp">acabdar</form>
+      </cognates>
+       (
+      <form lang="pv">acabar</form>
+      , 
+      <form lang="cat">acabar</form>
+      , 
+      <form lang="a-frz">achever</form>
+        
+      <etymon lang="Lat">*ADCAPPARE</etymon>
+      )); dazu das Gegenstück 
+      <form>scăpăta</form>
+       „werde arm“ (
+      <example>om scăpătat</example>
+       = „armer Mensch‘).
+    </subsense>
+     
+    <!-- Assuming acabar -> *ADCAPPARE -->
+    
+    <subsense n="2">
+      An 
+      <etymon lang="Lat">CAPUT</etymon>
+       „Kopf“ knüpft an 
+      <form>scăpăta</form>
+       „gehe unter (von der Sonne)“, eigentl. „entköpfe“. Dazu 
+      <form>scăpătat</form>
+       sm. [ar. 
+      <form>scăpitată</form>
+       sf.] „Westen“, 
+      <form>scăpăciune</form>
+       sf. „Untergang, Verderben“. Damit scheint auch 
+      <form>scăpăt</form>
+       sm. „Rückseite eines Berges“ =— alb. 
+      <form lang="alb">kaptell?</form>
+       in Zusammen­hang zu stellen.
+    </subsense>
+     
+    <!-- Assuming kapte -> kaptell? -->
+    
+  </etymology_discussion>
+  
+  <homonym_discussion>
+    Mit dieser Wortsippe haben sich wahrscheinlich auch andere Wörter gemischt. So findet sich dial. ein 
+    <form>cipät</form>
+     = „pflücken“ (
+    <source_ref>Conv. lit. XX, 1006</source_ref>
+    ), das an 
+    <etymon lang="Lat">CAPIO</etymon>
+     „ergreife“ erinnert. ‚Auch mit 
+    <form>scap</form>
+     (
+    <etymon lang="Lat">*EXCAPPO</etymon>
+    ) ist 
+    <form>scăpăta</form>
+     in vielen Gegenden gleichbe­deutend (
+    <source_ref>Sandu: Drum si popas 88</source_ref>
+    : 
+    <example>„chipiul . . . scapătă deodată pînă peste ochii micului soldat“</example>
+    ). 
+    <!-- Assuming carıo -> CAPIO, scap -> *EXCAPPO -->
+    
+  </homonym_discussion>
+  
+</entry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="365">
+  
+  <lemma>ciu(n)de?</lemma>
+   
+  <!-- Interpretation needed -->
+  
+  <usage>
+    (
+    <source_ref>Dosofteiu Viaţa st. Sa</source_ref>
+    )
+  </usage>
+  
+  <pos>adv.</pos>
+  
+  <definition>„Jenseits“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ECCUM-INDE</etymon>
+    .
+
+  </etymology>
+  
+  <variants>[ar. n(d)aparte, dincolo].</variants>
+   
+  <!-- Assuming ndparte, didinde -> n(d)aparte, dincolo -->
+  
+</entry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="186">
+  
+  <lemma>beșesc</lemma>
+   
+  <!-- Assuming bäs -> beș -->
+  
+  <lemma_variants>(bășesc, besesc)</lemma_variants>
+   
+  <!-- Assuming bäsesc -> bășesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. beș, mgl. beș u. bișos IV]</variants>
+   
+  <!-- Assuming bes -> beș, bi$os -> bișos -->
+  
+  <definition>„pfarzen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">VISSĪO, -IRE</etymon>
+     (= 
+    <etymon lang="Lat">BISSĪO</etymon>
+     des 
+    <source_ref>C. gl. lat. III, 128</source_ref>
+    ) 
+    <!-- Assuming vissro -> VISSĪO -->
+    
+    <cognates>
+      
+      <form lang="a-frz">vessir</form>
+      , vgl. 
+      <form lang="it">vescia</form>
+      , 
+      <form lang="fr">vesse</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. pârdescu].</variants>
+   
+  <!-- Assuming pärdese -> pârdescu -->
+  
+</entry>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="49">
+  
+  <lemma>ajun</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. adzun, ir. žun]</variants>
+   
+  <!-- Assuming Zun -> žun -->
+  
+  <definition>„faste“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[IE]IŪNO, -ARE</etymon>
+     
+    <!-- Assuming [s|wscno -> [IE]IŪNO -->
+    
+    <cognates>
+      
+      <form lang="alb">agjëroj</form>
+      , 
+      <!-- Assuming agenoj -> agjëroj -->
+      
+      <form lang="sp">ayunar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="bibliographic">Vgl. Verfassers: Lat. Ti u. Ki S. 73—74.</reference>
+  
+  <derived_forms>
+    Ein Postverbale dazu ist 
+    <form>ajun</form>
+     
+    <pos>sm.</pos>
+     „Vorabend (der Weihnachten, des Neujahrs etc.)“ 
+    <variants>[ar. adjun „Fasten“]</variants>
+    .
+Ar. 
+    <form>adzun, -ă</form>
+     adj. „hungrig“ geht direkt auf lat. 
+    <etymon lang="Lat">[IE]IŪNUS, -A, -UM</etymon>
+     zurück.
+
+  </derived_forms>
+  
+  <comment>
+    [ar. 
+    <form>adzun</form>
+     I vb. bedeutet gewöhnlich „hungere“, für „faste‘“ gebraucht man meist 
+    <form>țin (păresimi)</form>
+     oder 
+    <form>nu mă purintu</form>
+    ].
+  </comment>
+   
+  <!-- Assuming tsin (păreasinii) -> țin (păresimi) -->
+  
+</entry>

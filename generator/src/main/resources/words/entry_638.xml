@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="638">
+  
+  <lemma>folcel</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„kleiner Schlauch“</definition>
+  
+  <source_ref>(Dosoft. Viaţa sf. 142/6)</source_ref>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FOLLICELLUS, -UM</etymon>
+    : 
+    <!-- Assuming POLLICELLUS -> FOLLICELLUS -->
+    
+    <cognates>
+      
+      <form lang="it">frugello?</form>
+      , 
+      <form lang="n-pv">fousel</form>
+      , 
+      <form lang="a-frz">faucel</form>
+      , 
+      <form lang="pic?">fauchel?</form>
+      . 
+      <!-- Interpretation needed for filugello, fauchel -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. utre (mic)].</variants>
+  
+</entry>

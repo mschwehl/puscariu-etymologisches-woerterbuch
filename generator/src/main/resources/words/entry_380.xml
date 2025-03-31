@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="380">
+  
+  <lemma>ciumă</lemma>
+   
+  <!-- Assuming cină -> ciumă -->
+  
+  <pos>sf.</pos>
+  
+  <etymology_discussion source="T. Zanardelli: Appunti lessicali I, 32; G. Meyer: Indogerm. Forsch. VI, 120; Verfassers: Lat. Ti u. Ki S. 60-61; Conv. lit. XXXVII, 600—601">
+    Lat. 
+    <etymon lang="Lat">CYMA</etymon>
+     „Sprosse“  gr. 
+    <etymon lang="Gr">κῦμα</etymon>
+     hat in den westromanischen Sprachen die Bedeutung „Gipfel“ (
+    <form lang="it">cima</form>
+    , 
+    <form lang="fr">cime</form>
+     etc.). Im Sardischen ist aber noch der alte Sinn von „Sprosse, Knospe, Lauch“ erhalten: 
+    <form lang="sard-log">chima</form>
+    , 
+    <form lang="sard-camp">cima</form>
+    ; daneben findet man im Campidanesischen auch die Form 
+    <form>ciumax(x)a?</form>
+     (neben 
+    <form>cimáccia?</form>
+    ), welche „flusso (di umori)“, ursprünglich wohl den „Auswuchs“, dann den „Ausfluß“ bedeutet — und im Alb. 
+    <form lang="alb">qimë</form>
+     (&gt; 
+    <form>k'im</form>
+    ) „Art Geschwüre“. Das letztere setzt, wie das rum. Wort, eine Aussprache 
+    <phoneme>k'uma</phoneme>
+     voraus und das Rum. stimmt wieder einmal mit dem Sardischen und Albanesischen über­ein. Im Ar. und Megl. bedeutet 
+    <form>ciumă</form>
+     zunächst „Beule, Geschwür“ (
+    <source_ref>Weigand: Arom. II, 234</source_ref>
+    ), davon mgl. 
+    <form>ciumăligă</form>
+     „Geschwulst am Kopf“, dann überhaupt „Büschel (Wolle)“. Daß das Wort für „Pest“ d-rum. 
+    <form>ciumă</form>
+     [ar. mgl. 
+    <form>ciumă</form>
+    ] sf. auch denselben Ursprung habe — die Pest äußert sich bekanntlich durch Geschwüre, vgl. auch 
+    <ref target_lemma="pănucle">pănucle</ref>
+     — ist unwahrscheinlich, weil es auch im Slavischen (kslav. 
+    <etymon lang="chu">čuma</etymon>
+    , serb. russ. 
+    <etymon lang="ru">čuma</etymon>
+    , blg. 
+    <etymon lang="bg">čumá</etymon>
+    , klruss. pol. 
+    <etymon lang="pl">dżuma</etymon>
+    ), Ungarischen (
+    <etymon lang="hu">csuma, csoma</etymon>
+    ) und Türkischen (
+    <etymon lang="tr">çuma?</etymon>
+    ) vorkommt. Jedoch ist es immerhin möglich, daß ein gleiches Fremdwort in dem fast gleich­bedeutendem Erbwort aufgegangen ist. Dagegen liegt das lat. 
+    <etymon lang="Lat">CYMA</etymon>
+     „Sproß“ in dem Pflanzennamen 
+    <form>ciuma faței</form>
+     „Stechapfel“ vor, auch 
+    <form>ciumăfaie</form>
+     (— 
+    <form>foaie?</form>
+    ) und 
+    <form>mărul porcului</form>
+     benannt (
+    <form lang="it">pomo spinoso, noce metella</form>
+    , 
+    <form lang="fr">pomme épineuse</form>
+    ). 
+    <!-- Interpretation needed for kima, tSima, tsummacea, tSimagga, kim, tSıemd, tfumuligä, €jumii, wma, ciuma feti, eiumäü-fae -->
+    
+  </etymology_discussion>
+  
+</entry>

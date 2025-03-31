@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="228">
+  
+  <lemma>bucium</lemma>
+   
+  <!-- Assuming biein (bücium) -> bucium -->
+  
+  <pos>sm.</pos>
+  
+  <variants>
+    [vgl. mgl. 
+    <form>buțală</form>
+     „instrumentul care ține hangul la gaidă“]
+  </variants>
+   
+  <!-- Assuming butsalä -> buțală -->
+  
+  <definition>„Horn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BUCCINA, -AM</etymon>
+     
+    <!-- Assuming Biccixa -> BUCCINA -->
+    
+    <cognates>
+      
+      <form lang="obw">büscin?</form>
+      , 
+      <form lang="eng">bütschintg?</form>
+      . 
+      <!-- Assuming bisel -> büscin?, üsen -> bütschintg? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

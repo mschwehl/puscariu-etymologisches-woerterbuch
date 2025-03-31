@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="626">
+  
+  <lemma>flutur</lemma>
+   
+  <!-- Assuming Futur -> flutur -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. flitur]</variants>
+  
+  <definition>„flattern“</definition>
+  
+  <etymology source="Candrea-Hecht, Romania XXXI, 310-311">
+    
+    <etymon lang="Lat">*FLUTTO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">FLUERE</etymon>
+     
+    <etymon lang="Lat">FLUITO?</etymon>
+    ): 
+    <!-- Assuming ae < evo -> FLUERE < FLUITO? -->
+    
+    <cognates>
+      
+      <form lang="alb">fluturoj</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

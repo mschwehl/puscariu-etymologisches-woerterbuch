@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="309">
+  
+  <lemma>castan</lemma>
+   
+  <!-- Assuming eästinit -> castan -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. căstoniu]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„Kastanienbaum“</definition>
+  
+  <related_form>
+    ar. 
+    <form>castană</form>
+     [bei Kaval. 
+    <form>găstană?</form>
+    , mgl. 
+    <form>căstonă</form>
+    ] st. „Kastanie“ 
+    <!-- Assuming eästine, gästäne -> castană, găstană? -->
+    
+  </related_form>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CASTANEUS, -UM</etymon>
+    , 
+    <etymon lang="Lat">CASTANEA, -AM</etymon>
+     
+    <!-- Assuming -AN -> -AM -->
+    
+    <cognates>
+      
+      <form lang="alb">kështenjë, gështenjë</form>
+      , 
+      <form lang="it">castagno, -a</form>
+      , 
+      <form lang="prov">castanho, -a</form>
+      , 
+      <form lang="fr">châtaigne (châtaignier)</form>
+      , 
+      <form lang="sp">castaño, -a</form>
+      , 
+      <form lang="pg">castanho, -a</form>
+      . 
+      <!-- Assuming kestene, gestene -> kështenjë, gështenjë; pr. -> prov.; irz. chütaigne -> fr. châtaigne -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

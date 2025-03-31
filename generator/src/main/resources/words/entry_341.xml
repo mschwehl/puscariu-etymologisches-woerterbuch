@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="341">
+  
+  <lemma>cerc</lemma>
+   
+  <!-- Assuming cere -> cerc -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. țerc]</variants>
+   
+  <!-- Assuming tserc -> țerc -->
+  
+  <definition>„Kreis, Reif“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CIRCUS, -UM</etymon>
+     
+    <!-- Assuming Ccinous -> CIRCUS -->
+    
+    <cognates>
+      
+      <form lang="alb">hark</form>
+      , 
+      <form lang="it">cerco</form>
+      , 
+      <form lang="sp">cerco</form>
+      , 
+      <form lang="pg">cerco</form>
+      . 
+      <!-- Assuming kark -> hark -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. țerclu].</variants>
+   
+  <!-- Assuming tserklu -> țerclu -->
+  
+</entry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="525">
+  
+  <lemma>despoi</lemma>
+   
+  <!-- Assuming despöiä -> despoi -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. dispolu, ir. respoiu?]</variants>
+   
+  <!-- Assuming respolw) -> respoiu? -->
+  
+  <definition>„berauben“</definition>
+  
+  <etymology source="Dens. H. l. r. 189">
+    
+    <etymon lang="Lat">DISPOLIO, -ARE</etymon>
+     oder 
+    <etymon lang="Lat">DESPOLIO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">spogliare</form>
+      , 
+      <form lang="eng">spoglier?</form>
+      , 
+      <form lang="frl">dispoiar?</form>
+      , 
+      <form lang="pv">despolhar</form>
+      , 
+      <form lang="fr">dépouiller</form>
+      , 
+      <form lang="sp">despojar</form>
+      . 
+      <!-- Assuming spolier -> spoglier?, dispoja -> dispoiar?, depouiller -> dépouiller -->
+      
+    </cognates>
+    
+    <semantic_note>Im Rum. It. Frl. Muggia hat das Wort auch die Bedeutung „entkleiden“ (eigtl. „der Kleider berauben“), wie schon im Lat.</semantic_note>
+    
+  </etymology>
+  
+</entry>

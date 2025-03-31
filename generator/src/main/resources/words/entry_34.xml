@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="34">
+  
+  <lemma>aflu</lemma>
+  
+  <verb_class>I</verb_class>
+   
+  <!-- Assuming 1 -> I -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. —, mgl. —, ir. oflu]</variants>
+  
+  <definition>„finde“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AFFLO, -ARE</etymon>
+     
+    <!-- Assuming Carero -> AFFLO -->
+    
+    <cognates>
+      
+      <form lang="neap">affare</form>
+      , 
+      <!-- Assuming uăare -> affare -->
+      
+      <form lang="cal">affjare</form>
+      , 
+      <!-- Assuming aljare -> affjare -->
+      
+      <form lang="sic">affari</form>
+      , 
+      <!-- Assuming aSari -> affari -->
+      
+      <form lang="cerign">acchjă</form>
+      , 
+      <form lang="bari">acchjă</form>
+      , 
+      <!-- Assuming bari acchjă combined -->
+      
+      <form lang="obw">aflar</form>
+      ,
+
+      <form lang="sp">hallar</form>
+      ,
+
+      <form lang="pg">achar</form>
+      , überall mit der Bedeutung „finden“, welche schon urromanisch sein muß, obwohl man sie erst im XI Jh. in lat.-span. Glossen belegen kann (
+      <reference type="bibliographic">Zeitschr. rom. Phil. XIX, 15</reference>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_development_discussion>
+    Der Sinnesübergang war nach 
+    <author>Ascoli</author>
+     (
+    <reference type="bibliographic">Studj critici, 32</reference>
+    ): „von rückwärts blasen‘ — „mit dem Atem einholen“ — „berühren“ — „finden“,
+nach 
+    <author>Schuchardt</author>
+     (
+    <reference type="bibliographic">Zeitschr. rom. Phil. XX, 555—536</reference>
+    ): 
+    <example lang="Lat">mihi afflatur</example>
+     „es wird mir zugeweht, zugetragen“, daraus 
+    <example lang="Lat">(a me) afflatur</example>
+     und endlich 
+    <example lang="Lat">afflatum habeo</example>
+     und 
+    <example lang="Lat">afflo</example>
+    .
+Vgl. ähnliches in Rum.: 
+    <example>„numai tu să nu te räsufli cuiva, ca să prindă el veste“</example>
+     (
+    <source_ref>Creangă: Capra cu trei iezi</source_ref>
+    ).
+
+  </semantic_development_discussion>
+  
+</entry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="130">
+  
+  <lemma>arsură</lemma>
+   
+  <!-- Assuming arsıir& -> arsură -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Verbrennung“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARSURA, -AM</etymon>
+     (
+    <source_ref>Apul. Herb. 118, 2</source_ref>
+    )
+
+    <cognates>
+      
+      <form lang="it">arsura</form>
+      , 
+      <form lang="pv">arsura</form>
+      ,
+
+      <form lang="sard-camp">assura</form>
+      , 
+      <!-- Assuming sard. e. -> camp. -->
+      
+      <form lang="obw">arsira</form>
+      ,
+
+      <form lang="a-frz">arsure</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. arsătură].</variants>
+   
+  <!-- Assuming arsäturä -> arsătură -->
+  
+</entry>

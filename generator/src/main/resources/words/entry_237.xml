@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="237">
+  
+  <lemma>bun</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mgl. —, ir. bun]</variants>
+   
+  <!-- Assuming bur -> bun -->
+  
+  <definition>„gut“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BONUS, -A, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">buono</form>
+      , 
+      <form lang="mail">bòn</form>
+      , 
+      <form lang="frl">bon</form>
+      , 
+      <form lang="fr">bon</form>
+      , 
+      <!-- Assuming bö -> bòn -->
+      
+      <form lang="eng">bun</form>
+      , 
+      <form lang="pv">bo</form>
+      ,
+
+      <form lang="sp">bueno</form>
+      , 
+      <form lang="pg">bom</form>
+      . 
+      <!-- Assuming pa. bom -> pg. bom -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_note source="Finamore 20; Tappolet: Verwandtschaftsnamen, 76; Dens. H. l. r. 223; Zeitschrift rom. Phil. XIX, 187">
+    In Verbindung mit Verwandtschaftsnamen bedeutet 
+    <form>bun(ă)</form>
+     (nachgesetzt)
+
+    <subsense n="1">
+      „echt, direkt“ z. B. 
+      <example>văr bun</example>
+       „echter Vetter“ (vgl. 
+      <example>„Colacul să face de o fată care are mamă și tată buni (nu vitregi!) din întâia căsătorie“</example>
+       
+      <source_ref>A. Eliade: Nunta . . . Noua rev. rom. IV, ?</source_ref>
+      ), ebenso in Lanciano: 
+      <example>'na bböna mamme</example>
+       „una buona madre“ gegen 
+      <example>la mamma bböne</example>
+       „la madre vera, non la matrigna“ (sonst ist in Lanciano 
+      <etymon lang="Lat">BONUS</etymon>
+       durch 
+      <etymon lang="Lat">BELLUS</etymon>
+       ersetzt).
+    </subsense>
+    
+    <subsense n="2">
+      „groß-“ 
+      <example>maică bună</example>
+       „Großmutter“, 
+      <example>taică bun</example>
+       „Großvater“, auch einfach 
+      <form>bun, bună</form>
+      , oder das Diminut. 
+      <form>bunic, bunică</form>
+       „Großvater, Groß­mutter“. Desgleichen in Nordwestpiemont und in frz. Dialekten: 
+      <form>bonique</form>
+       „Greis“. „Urgroßvater, Ur­großmutter“ heißen 
+      <form>stră-bun(ic)</form>
+      , 
+      <form>stră-bun(ic)ă</form>
+       (auch 
+      <form>stră-moș, -șe</form>
+      ; ar. 
+      <form>stră-pap, str(ă)-auș</form>
+      ), wie alb. 
+      <form lang="alb">stër-gjysh, -e</form>
+       {vgl. it. 
+      <form lang="it">strabuono</form>
+      }.
+    </subsense>
+     
+    <!-- Assuming strä-bunfic -> stră-bun(ic), ster-güs -> stër-gjysh -->
+    Sonst bedeutet 
+    <form>bun</form>
+     als Subst. „Gut“, in Arom. 
+    <form>bunile</form>
+     fem. plur. „die Feen“, 
+    <form>buna</form>
+     sf. „Güte“, 
+    <example>a umbla cu buna</example>
+     — eng. ir. 
+    <example>cum las bunas</example>
+     „liebevoll mit einem umgehen“. Im Mgl. ist 
+    <form>bun</form>
+     auch Adv. = d-rum. 
+    <form>bine</form>
+     (
+    <example>mgl. învățau bun — d-rum. învățau bine</example>
+    ). 
+    <!-- Assuming Mel. -> Mgl. -->
+    
+  </semantic_note>
+  
+  <derived_forms>
+    Semasio­logisch interessant sind die Ableitungen: 
+    <form>nebun, -ă</form>
+     „toll, verrückt“ (ar. mgl. 
+    <form>nĭbun</form>
+     „dumm“) und 
+    <form>răzbun</form>
+     I vb. „rächen“ (in der Moldau ist die ursprüngl. Bedeutung noch in 
+    <example>vremea să răzbună</example>
+     „das Wetter verbessert sich“ erhalten).
+
+  </derived_forms>
+  
+</entry>

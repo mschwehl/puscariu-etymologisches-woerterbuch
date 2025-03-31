@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="610">
+  
+  <lemma>ființă</lemma>
+   
+  <!-- Assuming fiinţă -> ființă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Wesen“</definition>
+  
+  <etymology source="Verfassers: Lat. Tiu. Ki, S. 44">
+    
+    <etymon lang="Lat">*FIENTIA, -AM</etymon>
+    . 
+    <!-- Assuming *rranrra -> *FIENTIA -->
+    
+  </etymology>
+  
+  <variants>[ar. viață].</variants>
+   
+  <!-- Assuming vatsă -> viață -->
+  
+</entry>

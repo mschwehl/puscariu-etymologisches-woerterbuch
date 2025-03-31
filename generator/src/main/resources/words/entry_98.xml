@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="98">
+  
+  <lemma>apoi</lemma>
+   
+  <!-- Assuming apdi -> apoi -->
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. apoea, mgl. napoi, năpoi, ir. = ]</variants>
+   
+  <!-- ir. = ? should be napoi? -->
+  
+  <definition>„nachher*</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AD POST</etymon>
+     
+    <!-- Assuming AD-PăST -> AD POST -->
+    
+    <cognates>
+      
+      <form lang="a-sard">appus</form>
+      ,
+
+      <form lang="mail">apos</form>
+      ,
+
+      <form lang="alatri">apo</form>
+      ,
+
+      <form lang="a-pg">apos</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="481">
+  
+  <lemma>cuviincios</lemma>
+   
+  <!-- Assuming curids -> cuviincios -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+   
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„ziemend, andächtig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CONVENIŌSUS, -A, -UM</etymon>
+     (von 
+    <etymon lang="Lat">CONVENIO</etymon>
+     im Sinne des rum. 
+    <ref target_lemma="cuvin">cuvin</ref>
+    ). 
+    <!-- Assuming *coxvrnıögus -> *CONVENIŌSUS -->
+    
+  </etymology>
+  
+</entry>

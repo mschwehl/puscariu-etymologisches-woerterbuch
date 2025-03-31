@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="297">
+  
+  <lemma>căloare</lemma>
+   
+  <!-- Assuming cărodre -> căloare -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sf.</pos>
+  
+  <variants>[căloare Epirus, Thessalien, mgl. căloari]</variants>
+  
+  <definition>„große Hitze“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CALOR, -ŌREM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">calore</form>
+      , 
+      <form lang="eng">chalur</form>
+      , 
+      <form lang="fr">chaleur</form>
+      , 
+      <form lang="pv">calor</form>
+      , 
+      <form lang="sp">calor</form>
+      , 
+      <form lang="pg">calor</form>
+      . 
+      <!-- Assuming kulur -> chalur -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

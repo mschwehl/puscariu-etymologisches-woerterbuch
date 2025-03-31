@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="414">
+  
+  <lemma>cresc</lemma>
+   
+  <!-- Assuming crese -> cresc -->
+  
+  <inflection>crescui, -ut</inflection>
+   
+  <!-- Assuming ti, -üt -> crescui, -ut -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. ir. crescu, mgl. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„wachsen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CRESCO, -ERE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">crescere</form>
+      , 
+      <form lang="sard-log">creschere?</form>
+      , 
+      <form lang="eng">craischer</form>
+      , 
+      <form lang="pv">creisser</form>
+      , 
+      <form lang="fr">croître</form>
+      , 
+      <form lang="sp">crecer</form>
+      , 
+      <form lang="pg">crescer</form>
+      . 
+      <!-- Assuming kreskere -> creschere?, kreser -> craischer -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

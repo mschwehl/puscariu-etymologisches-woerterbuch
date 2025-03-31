@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="110">
+  
+  <lemma>arătură</lemma>
+   
+  <!-- Assuming avătiră -> arătură -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Pflügen; Ackerfeld“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARATURA, -AM</etymon>
+     (
+    <source_ref>C. gl. VI, 87</source_ref>
+    )
+
+    <cognates>
+      
+      <form lang="it">aratura</form>
+      ,
+
+      <form lang="frl">aradure</form>
+      ,
+
+      <form lang="eng">aradüra</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

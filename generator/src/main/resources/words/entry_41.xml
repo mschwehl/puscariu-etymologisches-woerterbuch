@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="41">
+  
+  <lemma>aiept</lemma>
+   
+  <!-- Assuming aispt -> aiept -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„verleiten, schmeicheln“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALLECTO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">allettare</form>
+      . 
+      <!-- Assuming alletiare -> allettare -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="bibliographic">Haşdeu: Magn. Etym. Rom. 583.</reference>
+  
+</entry>

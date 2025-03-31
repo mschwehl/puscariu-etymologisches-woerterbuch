@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="90">
+  
+  <lemma>anin</lemma>
+  
+  <lemma_variants>(arin)</lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. arin, anin (Thessalien), mgl. rin]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„Erle“</definition>
+  
+  <etymology source="Haşdeu: Etym. Magn. Rom.">
+    
+    <etymon lang="Lat">*ALNINUS, -UM</etymon>
+     (von 
+    <etymon lang="Lat">ALNUS</etymon>
+    ) 
+    <!-- Assuming *auxinus -> *ALNINUS, aunus -> ALNUS -->
+    
+    <cognates>
+      
+      <form lang="sard">alinu</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <comment>
+    Auffallend ist die Form 
+    <form>arinde</form>
+     in Biharia (
+    <source_ref>Conv. lit. XX, 1004</source_ref>
+    ); auch 
+    <form>anine</form>
+     kommt vor.
+  </comment>
+  
+</entry>

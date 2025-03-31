@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="622">
+  
+  <lemma>flamură</lemma>
+   
+  <!-- Assuming flâmură -> flamură -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. —]</variants>
+  
+  <definition>„Fahne“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FLAMMŬLA, -AM</etymon>
+    . 
+    <!-- Assuming rrammüra -> FLAMMŬLA -->
+    
+  </etymology>
+  
+  <borrowing_note>
+    Dagegen stammt ar. 
+    <form>flambură</form>
+     „Fahne, Blume im Gewebe“, 
+    <form>flămbură</form>
+     „Tannen­baum, der bei Hochzeiten auf dem Giebel des Hauses gesetzt wird“, wie vielleicht auch alb. 
+    <form lang="alb">flamur, flamur</form>
+    , aus ngr. 
+    <etymon lang="ngr">φλάμπουρον</etymon>
+     (byz. 
+    <etymon lang="byz">φλάμμουρον</etymon>
+    ). Auch ar. 
+    <form>fliamă?</form>
+     „Flamme“ weist auf alb. Vermitt­lung des lat. 
+    <etymon lang="Lat">FLAMMA</etymon>
+    . 
+    <!-- Assuming fleäimä -> fliamă? -->
+    
+  </borrowing_note>
+  
+  <variants>[ir. banderă].</variants>
+   
+  <!-- Assuming bandere -> banderă -->
+  
+</entry>

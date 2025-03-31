@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="444">
+  
+  <lemma>cumpăt</lemma>
+   
+  <!-- Assuming cümpät -> cumpăt -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Fassung, Mäßigkeit“.</definition>
+  
+  <etymology_discussion source="Zeitschr. rom. Phil. XXVIII. 680">
+    Ein von 
+    <etymon lang="Lat">COMPITUM</etymon>
+     „Scheideweg“ abgeleitetes Verbum mit der Bedeutung „am Scheide­weige stehen — „den Weg suchen“ — „suchen“ findet sich im 
+    <form lang="sard-log">cumpidare?</form>
+     „suchen“. Im „Suchen“ ist die „Vorsicht“ und die „Aufmerksamkeit“ inbegriffen, daher 
+    <form lang="it">compito</form>
+     „Vorsicht“ (in 
+    <example lang="it">parlare a compito con qd.</example>
+    ) und alb. 
+    <form lang="alb">kuptoj?</form>
+     „aufmerksam“, von 
+    <form lang="alb">kuptoj</form>
+     „merken, verstehen“, daher alb. 
+    <form lang="alb">kuptonej?</form>
+     „verständig, klug“ = rum. 
+    <form>cumpătat</form>
+     = 
+    <form>cu cumpăt</form>
+     „klug, mit Bedachtsamkeit“. Also ist 
+    <form>cumpăt</form>
+     „Fassung, Bedachtsamkeit“ ein postverb. Subst. von 
+    <form>mă cumpătez</form>
+     I vb. „sich mäßigen“; dagegen lebt 
+    <etymon lang="Lat">COMPITUM</etymon>
+     „Scheideweg“ noch in 
+    <example>pe sub cumpăt</example>
+     „auf ungeradem Wege, verstohlen“ (
+    <source_ref>Varl. Caz. 1643 S. 293b</source_ref>
+    ) und 
+    <example>a sta în cumpăt</example>
+     „un­schlüssig sein“ (eigtl. „am Scheidewege stehen, nicht wissen wohin“) weiter. 
+    <!-- Interpretation needed for cumpidari, kupelore", kupeton, kupetonej -->
+    
+  </etymology_discussion>
+  
+</entry>

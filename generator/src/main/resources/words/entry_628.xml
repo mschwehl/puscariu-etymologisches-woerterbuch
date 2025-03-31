@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="628">
+  
+  <lemma>foaie</lemma>
+   
+  <!-- Assuming fodie -> foaie -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ir. foaie]</variants>
+   
+  <!-- Assuming fole -> foaie -->
+  
+  <definition>„Blatt“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FOLIA, -AE</etymon>
+     (statt 
+    <etymon lang="Lat">FOLIA</etymon>
+     Neutr. Plur. von 
+    <etymon lang="Lat">FOLIUM</etymon>
+    : 
+    <form lang="it">foglio</form>
+    , 
+    <form lang="pv">folh</form>
+    ):
+
+    <cognates>
+      
+      <form lang="it">foglia</form>
+      , 
+      <form lang="sic">fogghia</form>
+      , 
+      <form lang="sard">foza</form>
+      , 
+      <form lang="eng">föglia?</form>
+      , 
+      <form lang="fr">feuille</form>
+      , 
+      <form lang="sp">hoja</form>
+      , 
+      <form lang="pg">folha</form>
+      . 
+      <!-- Assuming foggya -> fogghia, fila -> föglia? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. frîndză].</variants>
+   
+  <!-- Assuming frindza -> frîndză -->
+  
+</entry>

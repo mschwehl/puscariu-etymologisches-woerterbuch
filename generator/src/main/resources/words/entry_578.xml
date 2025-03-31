@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="578">
+  
+  <lemma>faŭă?</lemma>
+   
+  <!-- Assuming fâo -> faŭă? -->
+  
+  <lemma_variants>(faună)</lemma_variants>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Bohne‘‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FABA, -AM</etymon>
+     
+    <!-- Assuming rana -> FABA -->
+    
+    <cognates>
+      
+      <form lang="it">fava</form>
+      , 
+      <form lang="pv">fava</form>
+      , 
+      <form lang="pg">fava</form>
+      , 
+      <form lang="sard">fa</form>
+      , 
+      <form lang="frl">fave</form>
+      , 
+      <form lang="eng">fava?</form>
+      , 
+      <form lang="fr">fève</form>
+      , 
+      <form lang="sp">haba</form>
+      , 
+      <form lang="gasc">haba</form>
+      . 
+      <!-- Assuming feva -> fava?, five -> fève -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

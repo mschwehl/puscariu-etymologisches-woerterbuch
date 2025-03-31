@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="457">
+  
+  <lemma>curat</lemma>
+   
+  <!-- Assuming curät -> curat -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mgl. X. ir. curat]</variants>
+   
+  <!-- Assuming curot -> curat -->
+  
+  <definition>„rein“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 758">
+    
+    <etymon lang="Lat">COLATUS, -A, -UM</etymon>
+     „rein“.
+
+  </etymology>
+  
+</entry>

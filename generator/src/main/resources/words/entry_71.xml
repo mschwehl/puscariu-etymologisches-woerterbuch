@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="71">
+  
+  <lemma>alung</lemma>
+   
+  <!-- Assuming ating -> alung -->
+  
+  <verb_class>I</verb_class>
+   
+  <!-- Assuming vb. I -->
+  
+  <pos>vb.</pos>
+  
+  <definition>„vertreiben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ALLONGO, -ARE</etymon>
+     (eher als 
+    <etymon lang="Lat">ELONGO, -ARE</etymon>
+    : 
+    <cognates>
+      <form lang="fr">éloigner</form>
+    </cognates>
+    )
+
+    <cognates>
+      
+      <form lang="a-lomb">alongar</form>
+       „entfernen“,
+(
+      <form lang="gen">alongao</form>
+       „allontanato“),
+
+      <form lang="cat">alunyar(se)</form>
+       „(sich) entfernen“,
+vgl. 
+      <form lang="it">dilungare</form>
+      (sonst: 
+      <form lang="it">allungare</form>
+      , 
+      <form lang="fr">allonger</form>
+       etc. „verlängern“ = 
+      <form lang="ro">lungesc</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. a(z)gunescu, avin].</variants>
+  
+</entry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="54">
+  
+  <lemma>alălalt</lemma>
+  
+  <lemma_variants>(ălălant)</lemma_variants>
+  
+  <pos>pron.</pos>
+  
+  <variants>[ar. alantu, anantu, mgl. lalt, lant, lalant]</variants>
+   
+  <!-- Assuming talant -> lalant -->
+  
+  <definition>„der andere“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ILLUM + ILLUM + ALTERUM</etymon>
+     
+    <!-- Assuming FInLUM + ALTER -> ILLUM + ALTERUM -->
+    
+  </etymology>
+  
+</entry>

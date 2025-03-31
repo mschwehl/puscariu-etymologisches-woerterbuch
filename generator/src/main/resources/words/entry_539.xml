@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="539">
+  
+  <lemma>dogar</lemma>
+   
+  <!-- Assuming dogâr -> dogar -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Böttcher“</definition>
+  
+  <etymology source="Dens. H. l. r. 159">
+    
+    <etymon lang="Lat">DOGARIUS, -UM</etymon>
+    . 
+    <!-- Assuming pocarıus -> DOGARIUS -->
+    
+  </etymology>
+  
+  <variants>[ar. butar].</variants>
+   
+  <!-- Assuming butâr -> butar -->
+  
+</entry>

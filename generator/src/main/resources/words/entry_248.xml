@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="248">
+  
+  <lemma>căciulă</lemma>
+   
+  <!-- Assuming cdeitla -> căciulă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. cățula, cățuă]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„Peltzmütze“</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki S. 53—54">
+    
+    <etymon lang="Lat">*CATTIŬLA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">CATTA</etymon>
+     „Katze“) 
+    <!-- Assuming FCATTEULLA -> *CATTIŬLA, ECATTEA -> CATTA -->
+    
+    <semantic_comparison>
+      Für „flockige, haarige“ Gegenstände findet sich überall der Vergleich mit der Katze, vgl. 
+      <example lang="fr">petit chat</example>
+      , 
+      <example lang="fr">chats de saule</example>
+      , rum. 
+      <example>pisicuță de salcie</example>
+      , deutsch „Kätzchen von Nußbaum“, rum. 
+      <form>miță</form>
+       „Lämmerwolle“, 
+      <form>mițos</form>
+       „lang­haarig“ etc. 
+      <!-- Assuming pisicet -> pisicuță, mifös -> mițos -->
+      
+    </semantic_comparison>
+    
+    <suffix_comparison>
+      Für das Suffix vgl. lat. 
+      <etymon lang="Lat">CUCULLUS</etymon>
+      , sp. 
+      <form lang="sp">cogulla</form>
+       „Kapuze“, 
+      <form lang="sp">capullo</form>
+       „Blütendecke“ etc.
+
+    </suffix_comparison>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt alb. 
+    <form lang="alb">kësulë</form>
+    , blg. 
+    <form lang="bg">kadulka, kacjul</form>
+    , maz.-blg. 
+    <form>ketsul</form>
+    , n.-gr. 
+    <form lang="ngr">κατσούλα</form>
+    . 
+    <!-- Assuming kesule -> kësulë, zatloüla -> κατσούλα -->
+    
+  </borrowing_note>
+  
+</entry>

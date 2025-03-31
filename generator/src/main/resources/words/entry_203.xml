@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="203">
+  
+  <lemma>bine</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. ghine, mgl. bini, ir. bine]</variants>
+   
+  <!-- Assuming gine -> ghine, bire -> bine -->
+  
+  <definition>„gut“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BENE</etymon>
+     
+    <!-- Assuming sExe -> BENE -->
+    
+    <cognates>
+      
+      <form lang="it">bene</form>
+      ,
+
+      <form lang="sic">beni</form>
+      ,
+
+      <form lang="mail">ben</form>
+      , 
+      <form lang="frl">ben</form>
+      , 
+      <form lang="pv">ben</form>
+      ,
+
+      <form lang="fr">bien</form>
+      , 
+      <form lang="sp">bien</form>
+      ,
+
+      <form lang="pg">bem</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

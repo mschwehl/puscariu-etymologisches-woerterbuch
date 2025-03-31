@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="530">
+  
+  <lemma>detun</lemma>
+   
+  <!-- Assuming detin -> detun -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„donnern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DETŌNO, -ARE</etymon>
+    .
+
+  </etymology>
+  
+  <variants>[ar. bumbunedz].</variants>
+   
+  <!-- Assuming bumbuneadzä -> bumbunedz -->
+  
+</entry>

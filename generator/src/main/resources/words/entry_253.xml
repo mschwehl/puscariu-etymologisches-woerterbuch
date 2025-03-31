@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="253">
+  
+  <lemma>călariu</lemma>
+   
+  <!-- Assuming eäläriu -> călariu -->
+  
+  <pos>sm. adj.</pos>
+  
+  <usage>
+    (
+    <source_ref>Cod. Vor. 5/</source_ref>
+    )
+  </usage>
+  
+  <definition>„Reiter“, „zu Pferd, be­ritten“</definition>
+  
+  <variants>[ar. călar, auch „Dachfirstbalken“, ncălar, mgl. (an)călar, ir. călor]</variants>
+  
+  <usage_note>
+    heute nur adverbiel 
+    <form>călare</form>
+     „zu Pferd‘ gebraucht
+  </usage_note>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CABALLARIUS, -A, -UM</etymon>
+     
+    <!-- Assuming cauaın-LARIUS -> CABALLARIUS -->
+    
+    <cognates>
+      
+      <form lang="alb">kalorës</form>
+      , 
+      <!-- Assuming kabıar -> kalorës -->
+      
+      <form lang="fr">chevalier</form>
+      ,
+
+      <form lang="sp">caballero</form>
+      ,
+
+      <form lang="pg">cavaleiro</form>
+      . 
+      <!-- Assuming caballeiro -> cavaleiro -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

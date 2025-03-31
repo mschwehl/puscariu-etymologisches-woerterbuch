@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="285">
+  
+  <lemma>car</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„(mit dem Wagen) tragen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CARRO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">CARRUM</etymon>
+    ) 
+    <!-- Assuming CARRUN -> CARRUM -->
+    
+    <cognates>
+      
+      <form lang="sard">carrare</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

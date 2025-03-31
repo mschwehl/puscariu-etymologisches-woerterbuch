@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="45">
+  
+  <lemma>ainde</lemma>
+  
+  <lemma_variants>(aindene, aîndere(a) Uonv. lit. XX, 1004)</lemma_variants>
+   
+  <!-- Uonv -> Conv.? -->
+  
+  <pos>adv.</pos>
+  
+  <definition>„anderswo“</definition>
+  
+  <etymology_discussion>
+    
+    <proposed_etymology source="Miklosich, Vokal. 1,5">
+      
+      <etymon lang="Lat">ALIUNDE</etymon>
+       
+      <!-- Assuming AaLruxoe -> ALIUNDE -->
+      
+      <cognates>
+        
+        <form lang="pv">alhondre</form>
+        .
+
+      </cognates>
+      
+    </proposed_etymology>
+    
+    <alternative_etymology>
+      Anders 
+      <reference type="bibliographic">Hasdeu: Magn. Etym. Rom. 556.</reference>
+      
+    </alternative_etymology>
+    
+  </etymology_discussion>
+  
+</entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="416">
+  
+  <lemma>cruce</lemma>
+   
+  <!-- Assuming eriüce -> cruce -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. cruțe, căruțe bei den Farșer., mgl. cruțe auch: „ein Sternbild“]</variants>
+   
+  <!-- Assuming erulse, cärutse, crutse -> cruțe, căruțe, cruțe -->
+  
+  <definition>„Kreuz“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CRUX, -UCEM</etymon>
+     
+    <!-- Assuming ceröx, -Gcex -> CRUX, -UCEM -->
+    
+    <cognates>
+      
+      <form lang="alb">kryq</form>
+      , 
+      <form lang="it">croce</form>
+      , 
+      <form lang="eng">crusch</form>
+      , 
+      <form lang="pv">crotz</form>
+      , 
+      <form lang="fr">croix</form>
+      , 
+      <form lang="cat">creu</form>
+       (
+      <form lang="sp">cruz</form>
+      , 
+      <form lang="pg">cruz</form>
+       gelehrt). 
+      <!-- Assuming krük’ -> kryq, krus -> crusch -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Im D-rum. heißt 
+    <form>crucea spinării</form>
+     (mgl. einfach: 
+    <form>cruțe</form>
+    , ar. dafür 
+    <form>cățină?</form>
+    ) „Rückgrat“, ähnlich im Eng., wo 
+    <form>crusch</form>
+     auch „Stück Fleisch mit dem Rückgrate über dem Schwanze” bedeutet.
+  </usage_note>
+  
+</entry>

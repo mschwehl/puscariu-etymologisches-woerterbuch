@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="456">
+  
+  <lemma>curastră</lemma>
+   
+  <!-- Assuming curästäa -> curastră -->
+  
+  <usage>(Jb. III, 319)</usage>
+  
+  <lemma_variants>(culaș(t)ră)</lemma_variants>
+   
+  <!-- Assuming colasi(r)ă -> culaș(t)ră -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, culastră, „die erste Milch, nachdem das Vieh geworfen hat“, mgl. gulastră]</variants>
+  
+  <definition>„Biestmilch“</definition>
+  
+  <etymology source="Meyer-Lübke: Wiener Studien XXV, 104">
+    
+    <etymon lang="Lat">*COLASTRA, -AM</etymon>
+     (vielleicht nach Suffix 
+    <suffix>-ASTER</suffix>
+    , statt 
+    <etymon lang="Lat">COLOSTRUM</etymon>
+    ) 
+    <!-- Assuming conastra -> COLASTRA -->
+    
+    <cognates>
+      
+      <form lang="it">colostro, -a</form>
+      , 
+      <form lang="tess">colostru?</form>
+      , 
+      <form lang="sard-log">colostru</form>
+      , 
+      <form lang="frl">calostre?</form>
+      ; auch 
+      <etymon lang="Lat">*COLESTRUM</etymon>
+       wird von 
+      <form lang="astur">culiestru</form>
+       gefordert und ist viel­leicht in C. Gl. V, 376, 4 belegt. 
+      <!-- Interpretation needed for kolöftru, colostu, cajoste, kuliestru -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt blg. 
+    <form lang="bg">kulastra</form>
+    , kl.-russ. 
+    <form lang="ukr">kolastra</form>
+    , ung. 
+    <form lang="hu">gulaszt(r)a</form>
+    .
+
+  </borrowing_note>
+  
+</entry>

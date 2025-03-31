@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="125">
+  
+  <lemma>armă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. auch „Kleid“ =, ir. orme]</variants>
+  
+  <definition>„Waffe“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARMA, -A</etymon>
+     
+    <!-- Assuming -An -> -A (plural) -->
+    
+    <cognates>
+      
+      <form lang="alb">armë</form>
+      ,
+
+      <form lang="it">arma</form>
+      , 
+      <form lang="sp">arma</form>
+      , 
+      <form lang="pg">arma</form>
+      ,
+
+      <form lang="fr">arme</form>
+      . 
+      <!-- Assuming fr. frz. -> just frz. or fr. -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

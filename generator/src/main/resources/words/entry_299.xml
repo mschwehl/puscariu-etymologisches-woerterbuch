@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="299">
+  
+  <lemma>carte</lemma>
+   
+  <!-- Assuming ccâvte -> carte -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Brief, Buch“</definition>
+  
+  <variants>
+    [ar. = „Brief“, plur. 
+    <form>cărțĭ</form>
+     „Lungenflügel“]
+  </variants>
+  
+  <etymology source="Archiv lat. Lex. I, 272">
+    
+    <etymon lang="Lat">CHARTA, -AM</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">kartë</form>
+       „Papier“, 
+      <form lang="it">carta</form>
+      , 
+      <form lang="pv">carta</form>
+      , 
+      <form lang="cat">carta</form>
+      , 
+      <form lang="sp">carta</form>
+      , 
+      <form lang="pg">carta</form>
+      , 
+      <form lang="fr">charte</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="52">
+  
+  <lemma>ajutor</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. adziutâr, mgl. žutor]</variants>
+   
+  <!-- Assuming Zutor -> žutor -->
+  
+  <definition>„Hilfe“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ADIŪTORIUM</etymon>
+     
+    <!-- Assuming Apsurörtmm -> ADIŪTORIUM -->
+    
+  </etymology>
+  
+</entry>

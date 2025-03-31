@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="463">
+  
+  <lemma>Curtu</lemma>
+   
+  <!-- Assuming Cürt« -> Curtu -->
+  
+  <definition>„Name der Hunde ohne Schwanz“</definition>
+  
+  <source_ref>(Liuba Jana: Mäidan 114)</source_ref>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CURTUS, -A, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">corto</form>
+      , 
+      <form lang="sp">corto</form>
+      , 
+      <form lang="pv">cort</form>
+      , 
+      <form lang="cat">cort</form>
+      , 
+      <form lang="eng">curt</form>
+      , 
+      <form lang="fr">court</form>
+      , 
+      <form lang="pg">curto</form>
+      . 
+      <!-- Assuming kuort -> curt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <related_form source="Dens. H. i. r. 169">
+    Sonst durch 
+    <form>scurt, -ă</form>
+     [ir. =] „kurz“: 
+    <cognates>
+      <form lang="alb">shkurtër</form>
+       (ar. 
+      <form>scurt</form>
+      ), 
+      <form lang="it">scorto</form>
+      , 
+      <form lang="aquil">scurtu</form>
+       „terminato“
+    </cognates>
+    , verdrängt, dessen 
+    <phoneme>s-</phoneme>
+     von 
+    <form>scurtez</form>
+     I vb. „verkürzen“  
+    <etymon lang="Lat">EXCURTO, -ARE</etymon>
+    : 
+    <cognates>
+      <form lang="alb">shkurtoj</form>
+      , 
+      <form lang="abruzz">scurtà?</form>
+      , 
+      <form lang="frl">scurtà?</form>
+      , 
+      <form lang="a-ven">scortar</form>
+      , 
+      <form lang="fr">écourter</form>
+    </cognates>
+    , stammt. 
+    <!-- Assuming Skurte -> shkurtër, Scurt -> scurt, scurtw -> scurtu, scurtdz -> scurtez, Skurtoi -> shkurtoj, skurtă -> scurtà?, eskurtar -> scortar, &courter -> écourter -->
+    
+  </related_form>
+  
+  <usage_note>
+    
+    <example>Trag scurta</example>
+     „ich ziehe den Kürzeren (von zwei Loosen“, vgl. alb. 
+    <form lang="alb">shkurtezë?</form>
+     „Loos“).
+
+  </usage_note>
+  
+  <related_form>
+    
+    <form>Scurteică</form>
+     sf. „kurzes Kleid“, vgl. 
+    <form lang="a-frz">escourge?</form>
+    . 
+    <!-- Assuming escors -> escourge? -->
+    
+  </related_form>
+  
+  <variants>[mgl. cus „kurz“].</variants>
+  
+</entry>

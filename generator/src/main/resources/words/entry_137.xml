@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="137">
+  
+  <lemma>așchiez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„zersplittern“</definition>
+  
+  <variants>
+    [ar. nur das Partz. 
+    <form>ascl'at</form>
+     „geborsten“, sonst 
+    <form>dispic</form>
+    ]
+  </variants>
+   
+  <!-- Assuming asclat -> ascl'at, disîc -> dispic -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ASCLO, -ARE</etymon>
+     (vom vorigen). 
+    <!-- Assuming *AascLo -> *ASCLO -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="68">
+  
+  <lemma>altar</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. X, ir. altor]</variants>
+   
+  <!-- mel. -> mgl.? X=unknown? -->
+  
+  <definition>„Altar“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALTARIUM</etymon>
+     oder 
+    <etymon lang="Lat">ALTARE</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">lter</form>
+      , 
+      <!-- Assuming ter -> lter -->
+      
+      <form lang="it">altare</form>
+      ,
+
+      <form lang="sic">autari</form>
+      ,
+
+      <form lang="eng">auter</form>
+      , 
+      <!-- Assuming uter -> auter -->
+      
+      <form lang="frl">altar</form>
+      , 
+      <form lang="pv">altar</form>
+      , 
+      <!-- Assuming îvl. -> frl. -->
+      
+      <form lang="fr">autel</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <comment>
+    Dagegen geht 
+    <form>oltar</form>
+     auf 
+    <etymon lang="kslav">oltari</etymon>
+     zurück.
+  </comment>
+   
+  <!-- Assuming oliitari -> oltari -->
+  
+  <variants>[ar. temblu, ag'iadimă].</variants>
+   
+  <!-- Assuming ayudimä -> ag'iadimă? -->
+  
+</entry>

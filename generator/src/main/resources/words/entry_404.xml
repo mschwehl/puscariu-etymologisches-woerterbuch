@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="404">
+  
+  <lemma>corumbă?</lemma>
+   
+  <!-- Interpretation needed -->
+  
+  <usage_marker>ir.</usage_marker>
+  
+  <pos>sf.</pos>
+  
+  <variants>[vgl. ar. curubit „Schlehenbusch“, curabiță „Schlehe“]</variants>
+   
+  <!-- Assuming Schehenbusch -> Schlehenbusch -->
+  
+  <definition>„Schlehdorn“</definition>
+  
+  <etymology source="G. Meyer: Etym. Wörtb. der alb. Sprache 212; Schuchardt: Zeitschr. f. vergl. Sprachwiss. XX, 219">
+    
+    <etymon lang="Lat">COLUMBŬLA, -AM</etymon>
+    , vgl. alb. 
+    <form lang="alb">kullumbri</form>
+     ‚Weißdorn, Schlehe‘, so genannt nach der Farbe; im D-rum. heißt der „Schlehdorn“ dementsprechend 
+    <form>porumbar</form>
+    . 
+    <!-- Assuming corunsa -> COLUMBŬLA, porumbed -> porumbar -->
+    
+  </etymology>
+  
+</entry>

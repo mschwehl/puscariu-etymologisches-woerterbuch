@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="471">
+  
+  <lemma>cute</lemma>
+   
+  <!-- Assuming eüte -> cute -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Wetzstein</definition>
+  
+  <etymology source="Tiktin: Zeitschrift rom. Phil. XVIII, 148; J. U. Jarnik (ap. Miklosich)">
+    
+    <etymon lang="Lat">COS, COTEM</etymon>
+    : 
+    <cognates>
+      <form lang="it">cote</form>
+      , 
+      <form lang="eng">cöt?</form>
+      , 
+      <form lang="pv">cot</form>
+      , 
+      <form lang="a-frz">couz</form>
+      , 
+      <form lang="fr">queux</form>
+    </cognates>
+    . Die Wiedergabe des 
+    <phoneme>o</phoneme>
+     durch 
+    <phoneme>u</phoneme>
+     ist unerklärt. — Auf ein 
+    <etymon lang="Lat">*COTITUS, -UM</etymon>
+     „gewetzt“ geht 
+    <form>cuţit</form>
+     sm. [ar. 
+    <form>cățit</form>
+    , 
+    <form>cuțut</form>
+    , mgl. 
+    <form>cuțot</form>
+    , ir. =], „Messer“ zurück. 
+    <!-- Assuming cofe -> cote, kut -> cöt?, gueux -> queux -->
+    
+  </etymology>
+  
+</entry>

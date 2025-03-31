@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="286">
+  
+  <lemma>cărăbuș</lemma>
+   
+  <!-- Assuming cărăbiiş -> cărăbuș -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„Maikäfer“</definition>
+  
+  <etymology_discussion>
+    scheint eine Entstellung von 
+    <etymon lang="Lat">SCARABAEUS, -UM</etymon>
+     zu sein, die auch im 
+    <form lang="sard-log">calabrone?</form>
+     „scarabeo“ wiederkehrt, vgl. 
+    <form lang="piem">scarabózz?</form>
+     „scarabeo“. Formell würde ein 
+    <etymon lang="Lat">*[S]CARABUSCUS</etymon>
+     passen, dessen zweiter Bestandteil zu 
+    <etymon lang="Lat">*BUSCUS</etymon>
+     „Wald“ gehören würde, also etwa „Waldkäfer“. Für das rum. kommt indessen auch alb. 
+    <form lang="alb">karabush</form>
+     „schwarzer Käfer“ (
+    <etymon lang="tr">kara</etymon>
+     „schwarz“, 
+    <etymon lang="tr">baș</etymon>
+     „Kopf“) in Betracht, vgl. auch alb. 
+    <form lang="alb">karabush</form>
+     „Meerzwiebel“. 
+    <!-- Assuming carrabusu -> calabrone?, rabata-büsa -> scarabózz?, *[s]earan + Buscrus -> *[S]CARABUSCUS -->
+    
+  </etymology_discussion>
+  
+</entry>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="430">
+  
+  <lemma>cufuresc</lemma>
+   
+  <!-- Assuming cufur -> cufuresc -->
+  
+  <lemma_variants>(cufurăsc?)</lemma_variants>
+   
+  <!-- Assuming cufuröse -> cufurăsc? -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar cufurescu, mgl. cufureș?]</variants>
+   
+  <!-- Assuming ceufüres -> cufureș? -->
+  
+  <definition>„Durchfall haben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CONFORIO, -IRE</etymon>
+     (von 
+    <etymon lang="Lat">FORIA, -AM</etymon>
+     „Durchlauf der Schweine“: 
+    <cognates>
+      <form lang="valmagg?">fojra</form>
+      , 
+      <form lang="posch?">sfoira</form>
+      , 
+      <form lang="pv">foira</form>
+      , 
+      <form lang="fr">foire</form>
+    </cognates>
+    . Das mgl. 
+    <form>cufureală?</form>
+     sf. „Durchlauf“ geht auf ein von 
+    <form>cufur(esc)</form>
+     be­einflußtes älteres 
+    <form>+foare</form>
+     zurück). 
+    <!-- Assuming cufodri -> cufureală? -->
+    
+  </etymology>
+  
+</entry>

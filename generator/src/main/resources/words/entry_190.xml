@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="190">
+  
+  <lemma>bășină</lemma>
+  
+  <lemma_variants>(beșină)</lemma_variants>
+   
+  <!-- Assuming besinä -> beșină -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. bișină, mgl. bișonă]</variants>
+   
+  <!-- Assuming bisinä -> bișină, bisona -> bișonă -->
+  
+  <definition>„Farzen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*VISSĪNA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">VISSĪO</etymon>
+    ) 
+    <!-- Assuming CX -> <* -->
+    
+    <cognates>
+      vgl. 
+      <form lang="pad">vessinar</form>
+      , 
+      <form lang="sard-log">pisina</form>
+      , 
+      <form lang="sard-gall">pišinu</form>
+      . 
+      <!-- Assuming pisina, g. piSinu -> pisina, gall. pišinu -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. părdăț].</variants>
+   
+  <!-- Assuming părdâts -> părdăț -->
+  
+</entry>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="483">
+  
+  <lemma>depăr</lemma>
+   
+  <!-- Assuming däpär -> depăr -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. deapir, mgl. depir]</variants>
+  
+  <definition>„die Haare, die Feder ausrupfen“</definition>
+   
+  <!-- Assuming ansrupten -> ausrupfen -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">DEPILO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="a-it">dipelare</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_note>
+    Im Mgl. heißt 
+    <example>om dipirat</example>
+     „verzweifelter Mensch“, 
+    <example>coini si depiră</example>
+     „der Hund heult unheilverkündend“, auch ar. 
+    <form>deapir</form>
+     „verzweifeln, klagen“. Diese Wörter haben mit 
+    <etymon lang="Lat">DESPERO</etymon>
+     nichts zu tun, sondern „verzweifeln‘ ist aus „sich vor Verzweiflung die Haare ausraufen“ entstanden.
+
+  </semantic_note>
+  
+</entry>

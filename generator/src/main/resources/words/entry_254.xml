@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="254">
+  
+  <lemma>calc</lemma>
+   
+  <!-- Assuming cale -> calc -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. calcu, mgl. &gt;]</variants>
+  
+  <definition>„treten, bügeln“</definition>
+  
+  <etymology source="Mulomed. Chiron. ed. Oder 202, 14">
+    
+    <etymon lang="Lat">CALCO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">calcare</form>
+      , 
+      <form lang="pv">calcar</form>
+      , 
+      <form lang="sp">calcar</form>
+      , 
+      <form lang="pg">calcar</form>
+      ,
+
+      <form lang="fr">caucher</form>
+      . 
+      <!-- Assuming cocher -> caucher -->
+      
+    </cognates>
+    
+    <comparison>
+      Vgl. 
+      <example lang="Lat">calcare in capite ungulae</example>
+       = 
+      <example>calc în vîrful unghiilor</example>
+      .
+    </comparison>
+     
+    <!-- Assuming cale -> calc -->
+    
+  </etymology>
+  
+</entry>

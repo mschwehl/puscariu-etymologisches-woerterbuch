@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="637">
+  
+  <lemma>foios</lemma>
+   
+  <!-- Assuming foids -> foios -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+   
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„blätterreich“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FOLIŌSUS, -A, -UM</etymon>
+     
+    <!-- Assuming roLıösus -> FOLIŌSUS -->
+    
+    <cognates>
+      
+      <form lang="it">Foglioso</form>
+      , 
+      <form lang="pv">folhos</form>
+      , 
+      <form lang="sp">hojoso</form>
+      , 
+      <form lang="pg">folhoso</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. frundzos].</variants>
+  
+</entry>

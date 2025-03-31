@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="107">
+  
+  <lemma>aramă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>
+    (+ 
+    <form>arame</form>
+     
+    <source_ref>Cor. 17, 75</source_ref>
+    , 
+    <form>rame</form>
+     
+    <source_ref>Cuv. d. b. I, XXXI</source_ref>
+     etc.) [ar. aramă]
+  </variants>
+  
+  <definition>„Kupfer“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AERAMEN</etymon>
+     (assimiliert aus 
+    <etymon lang="Lat">AERAMEN</etymon>
+    ) 
+    <!-- Assuming EARAMEN -> AERAMEN -->
+    
+    <cognates>
+      
+      <form lang="alb">rem</form>
+      ,
+
+      <form lang="it">rame</form>
+      ,
+
+      <form lang="gombit">ramme</form>
+      , 
+      <form lang="sillano">ramme</form>
+      ,
+
+      <form lang="a-berg">ram</form>
+      ,
+
+      <form lang="alatri">rame</form>
+      ,
+
+      <form lang="piem">aram</form>
+      ,
+(
+      <form lang="cal">aramare</form>
+       „vom Grünspan putzen‘),
+
+      <form lang="sard-log">ramene</form>
+      , 
+      <!-- Assuming ramini -> ramene -->
+      
+      <form lang="eng">aram</form>
+      ,
+
+      <form lang="a-frz">arain</form>
+      ,
+
+      <form lang="pv">aram</form>
+      , 
+      <form lang="cat">aram</form>
+      ,
+
+      <form lang="sp">arambre</form>
+      ,
+
+      <form lang="pg">arame</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>
+    [mgl. blizna, bacăr, ir. rom ( 
+    <etymon lang="ven">ramo</etymon>
+    )].
+  </variants>
+   
+  <!-- Assuming bacor -> bacăr -->
+  
+  <comment>[Papahagi kennt nur ar. băcare, hălcuimă].</comment>
+   
+  <!-- Assuming bäcäre, hăleuimă -> băcare, hălcuimă -->
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="140">
+  
+  <lemma>ascut</lemma>
+   
+  <!-- Assuming aseit -> ascut -->
+  
+  <lemma_variants>(ascuț)</lemma_variants>
+   
+  <!-- Assuming ascuf -> ascuț -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„schleifen“</definition>
+  
+  <variants>
+    [mgl 
+    <form>scuțăt, -ă</form>
+     adj. „ge­schliffen“]
+  </variants>
+   
+  <!-- Assuming scutsdt -> scuțăt -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*EXCOTO, -IRE</etymon>
+     (von 
+    <etymon lang="Lat">COS</etymon>
+     „Schleifstein“). 
+    <!-- Assuming *x»xcörıo -> *EXCOTO -->
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. cuţit.</reference>
+  
+  <variants>[ar. dau pri k'atră, strujescu].</variants>
+   
+  <!-- Assuming struxeseu -> strujescu -->
+  
+</entry>

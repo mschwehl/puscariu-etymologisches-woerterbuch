@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="181">
+  
+  <lemma>balț</lemma>
+   
+  <!-- Assuming balt -> balț -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. baltsu „Kopftuch”]</variants>
+   
+  <!-- Assuming Daltsu -> baltsu -->
+  
+  <definition>„Schlinge, Schnur“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BALTEUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">balzo</form>
+      , 
+      <!-- Assuming balza -> balzo -->
+      
+      <form lang="trient">bausa</form>
+      , 
+      <!-- Assuming vausa -> bausa -->
+      
+      <form lang="sp">balzo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms source="Densusianu Rom. XXIV, 586">
+    Davon abgeleitet ist 
+    <form>bălțat, -ă</form>
+     adj. [ar. =] „scheckig (von Pferden)“. 
+    <!-- Assuming bälfät -> bălțat -->
+    
+  </derived_forms>
+  
+</entry>

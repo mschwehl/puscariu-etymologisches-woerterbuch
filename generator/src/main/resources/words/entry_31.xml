@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="31">
+  
+  <lemma>adun</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. ©, mgl. dun, ir. aduru]</variants>
+   
+  <!-- Assuming far. -> ar., ıngl. -> mgl. -->
+  
+  <definition>„vereinigen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ADUNO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">adunare</form>
+      ,
+
+      <form lang="a-berg">aduna</form>
+      ,
+
+      <form lang="a-pv">aunar</form>
+      ,
+
+      <form lang="a-sp">aunar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <reflexive_usage>
+    Refl. 
+    <form>mă adun</form>
+     „zusammenkommen“ 
+    <variants>[ar. mi adămu „begegne“]</variants>
+    .
+  </reflexive_usage>
+  
+  <derived_forms>
+    Abge­leitet: 
+    <form>adunătură</form>
+     
+    <pos>sf.</pos>
+     „Haufe, Gesindel“.
+  </derived_forms>
+  
+  <compounds_phrases>
+    Im Megl. auch 
+    <form>prădun</form>
+     = pre + adun;
+ar. 
+    <form>de adunu</form>
+     adv. „zugleich, zusammen‘ setzt ein 
+    <etymon lang="Lat">AD-UNUM</etymon>
+     voraus (vgl. sp. 
+    <form>a uno</form>
+     ?). 
+    <!-- din -> a uno? -->
+    
+  </compounds_phrases>
+  
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="258">
+   
+  <!-- Original numbering has P.S. -> treat as new entry -->
+  
+  <lemma>cald</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. caldu, mgl. X, ir. cald]</variants>
+   
+  <!-- Assuming cod -> cald -->
+  
+  <definition>„warm“</definition>
+  
+  <etymology source="Archiv lat. Lex. X, 421; C. I. L. XIV 2112, II 16 etc.">
+    
+    <etymon lang="Lat">CALDUS, -A, -UM</etymon>
+     (= 
+    <etymon lang="Lat">CALIDUS</etymon>
+    ) 
+    <!-- Assuming CCALDUS -> CALDUS, carivus -> CALIDUS -->
+    
+    <cognates>
+      
+      <form lang="it">caldo</form>
+      , 
+      <form lang="sp">caldo</form>
+      , 
+      <form lang="pg">caldo</form>
+      ,
+
+      <form lang="sic">caudu</form>
+      , 
+      <form lang="frl">cjald</form>
+      , 
+      <form lang="eng">chod</form>
+      , 
+      <!-- Assuming kaudu -> caudu, Wald -> cjald, kod -> chod -->
+      
+      <form lang="pv">caut</form>
+      , 
+      <form lang="fr">chaud</form>
+      , 
+      <form lang="wall">tchôd</form>
+      . 
+      <!-- Assuming waatl. tso -> wall. tchôd -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

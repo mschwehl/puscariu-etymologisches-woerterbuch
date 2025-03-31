@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="349">
+  
+  <lemma>cetate</lemma>
+   
+  <!-- Assuming cetäte -> cetate -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. țitate, ımgl. țitati „große Stadt“, ir. țetate]</variants>
+   
+  <!-- Assuming tsitate, tsitati, tsetote -> țitate, țitati, țetate -->
+  
+  <definition>„Festung, Stadt“</definition>
+  
+  <etymology source="Dens. H. l. r. 188">
+    
+    <etymon lang="Lat">CIVITAS, -TATEM</etymon>
+     
+    <!-- Assuming civiras -> CIVITAS -->
+    
+    <cognates>
+      
+      <form lang="alb">qytet</form>
+      , 
+      <form lang="it">città</form>
+      , 
+      <form lang="a-pv">ciutat</form>
+      , 
+      <form lang="fr">cité</form>
+      , 
+      <form lang="sp">ciudad</form>
+      , 
+      <form lang="pg">cidade</form>
+      . 
+      <!-- Assuming k’utet -> qytet, cittă -> città, cit -> cité -->
+      
+    </cognates>
+    
+    <usage_note>
+      Wie in Paris, so in Kronstadt, bedeutet 
+      <form>Cité</form>
+       bzw. 
+      <form>Cetate</form>
+       „innere Stadt‘, ursprüng­lich „Stadt“ im Munde der Vorstädter. — Belege für den Sinn „Stadt“ des 
+      <etymon lang="Lat">CIVITAS</etymon>
+       im Spätlat. bei Dens.
+    </usage_note>
+    
+  </etymology>
+  
+</entry>

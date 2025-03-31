@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="389">
+  
+  <lemma>coastă</lemma>
+   
+  <!-- Assuming codstă -> coastă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. &gt;, ir. coastă]</variants>
+   
+  <!-- Assuming coste -> coastă -->
+  
+  <definition>„Rippe“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">COSTA, -AM</etymon>
+     
+    <!-- Assuming cösta -> COSTA, -an -> -AM -->
+    
+    <cognates>
+      
+      <form lang="it">costa</form>
+      , 
+      <form lang="pv">costa</form>
+      , 
+      <form lang="pg">costa</form>
+      , 
+      <form lang="mail">costa?</form>
+      , 
+      <form lang="frl">cueste</form>
+      , 
+      <form lang="eng">cüesta?</form>
+      , 
+      <form lang="fr">côte</form>
+      , 
+      <form lang="wall">cwesse?</form>
+      , 
+      <form lang="sp">cuesta</form>
+      . 
+      <!-- Assuming koste -> costa?, kuosta -> cüesta?, cole -> côte, kues -> cwesse? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <footer_text>Puşcariu, Etymologisches Wörterbuch. 3</footer_text>
+  
+</entry>

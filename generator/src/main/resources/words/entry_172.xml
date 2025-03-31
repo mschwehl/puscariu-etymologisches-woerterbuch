@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="172">
+  
+  <lemma>auresc</lemma>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„vergolden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AURASCO, -ERE</etymon>
+     
+    <!-- Assuming Aurksco, *-irE (= -ÜRE) -> AURASCO, -ERE -->
+    
+  </etymology>
+  
+  <variants>[ar. aflu?].</variants>
+   
+  <!-- Assuming afin -> aflu? or other verb? -->
+  
+</entry>

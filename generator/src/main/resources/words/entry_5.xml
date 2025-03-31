@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="5">
+  
+  <lemma>aburesc</lemma>
+   
+  <!-- Assuming abureselV is OCR error -->
+  
+  <verb_class>IV</verb_class>
+   
+  <!-- Assuming V is OCR error for IV -->
+  
+  <pos>vb.</pos>
+  
+  <definition>„dampfen“</definition>
+  
+  <etymology_discussion>
+    
+    <proposed_etymology source="O. Densusianu, Rom, XXV, 130—131">
+      
+      <etymon lang="Lat">*AB-BURO, -IRE</etymon>
+       (= 
+      <etymon lang="Lat">ERE</etymon>
+       vgl. bustum) „brennen“
+
+    </proposed_etymology>
+    
+    <derived_forms>
+      Davon 
+      <form>äbur(e)</form>
+       
+      <pos>sm.</pos>
+       „Dampf, Dunst“ 
+      <variants>
+        [ar. =&gt;, davon 
+        <form>aburedzu</form>
+         
+        <pos>W. I vb.</pos>
+         „dampfen“]
+      </variants>
+       und 
+      <form>boare</form>
+       
+      <pos>sf.</pos>
+       „Dunst, Lüftchen“, beide Verbalsubstantiva, vgl. 
+      <reference type="bibliographic">Zeitschr. rom. Phil. XXVII, TI.</reference>
+      
+    </derived_forms>
+    
+    <alternative_etymology>
+      Vgl. indessen 
+      <reference type="bibliographic">G. Meyer: Alb. Wörtb. 21.</reference>
+      
+    </alternative_etymology>
+    
+  </etymology_discussion>
+  
+</entry>

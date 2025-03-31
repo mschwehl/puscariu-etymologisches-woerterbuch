@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="518">
+  
+  <lemma>desfătez</lemma>
+   
+  <!-- Assuming desfătez -> desfătez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„ergötzen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*DISFATO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">FATUM</etymon>
+    ) „den Zauber von Jemand wegnehmen“ und dadurch „entzücken“ (vgl. 
+    <etymon lang="Lat">*FATO, -ARE</etymon>
+     „bezaubern“: 
+    <cognates>
+      <form lang="it">fatare</form>
+      , 
+      <form lang="monf">?</form>
+      , 
+      <form lang="pv">fadar</form>
+      , 
+      <form lang="a-frz">faër</form>
+      , 
+      <form lang="sp">hadar</form>
+    </cognates>
+    ). 
+    <!-- Assuming anfajee -> ?, fa-er -> faër -->
+    
+  </etymology>
+  
+</entry>

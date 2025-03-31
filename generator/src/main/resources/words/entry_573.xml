@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="573">
+  
+  <lemma>făinar</lemma>
+   
+  <!-- Assuming făindr -> făinar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. fărinar]</variants>
+  
+  <definition>„Mehlhändler‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FARINARIUS, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">farinaiuolo</form>
+      , 
+      <form lang="pv">farnier</form>
+      , 
+      <form lang="fr">farinier</form>
+      , 
+      <form lang="sp">harinero</form>
+      , 
+      <form lang="pg">farinheiro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="51">
+  
+  <lemma>ajut</lemma>
+   
+  <!-- Assuming ajüt -> ajut -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. adzut, mgl. žut, ir. (a)žut „helfen“]</variants>
+   
+  <!-- Assuming Zut -> žut -->
+  
+  <definition>„helfen“</definition>
+   
+  <!-- Definition moved from variants -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">ADIŪTO, -ARE</etymon>
+     
+    <!-- Assuming Apstro -> ADIŪTO -->
+    
+    <cognates>
+      
+      <form lang="it">ajutare</form>
+      ,
+
+      <form lang="eng">ayüder</form>
+      ,
+
+      <form lang="pv">ajudar</form>
+      ,
+
+      <form lang="fr">aider</form>
+      ,
+
+      <form lang="sp">ayudar</form>
+      ,
+
+      <form lang="pg">ajudar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

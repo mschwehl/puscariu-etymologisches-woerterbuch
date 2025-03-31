@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="76">
+  
+  <lemma>amăreață</lemma>
+   
+  <!-- Assuming amäredtä -> amăreață -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„Bitterkeit“</definition>
+  
+  <etymology source="Dens. H. l. r. 159">
+    
+    <etymon lang="Lat">AMARITIA, -AM</etymon>
+     (für 
+    <etymon lang="Lat">AMARITIES</etymon>
+    )
+
+    <cognates>
+      
+      <form lang="it">amarezza</form>
+      , 
+      <form lang="rtr">amarezza</form>
+      ,
+
+      <form lang="frl">amareze</form>
+      , 
+      <!-- Assuming îrl. -> frl. -->
+      
+      <form lang="pv">amareza</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

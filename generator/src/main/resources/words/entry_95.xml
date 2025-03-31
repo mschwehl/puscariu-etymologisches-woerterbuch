@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="95">
+  
+  <lemma>apos</lemma>
+   
+  <!-- Assuming upätös -> apos -->
+  
+  <feminine_neuter>apoasă</feminine_neuter>
+   
+  <!-- Assuming -odsd -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„wässerig*</definition>
+  
+  <etymology source="Tiktin, Wörterb. 74">
+    
+    <etymon lang="Lat">*AQUOSUS, -A, -UM</etymon>
+     
+    <!-- Assuming *aquarosus -> *AQUOSUS -->
+    
+    <comparison>
+      (vgl. 
+      <etymon lang="Lat">aquatilis</etymon>
+      )
+    </comparison>
+    
+  </etymology>
+  
+</entry>

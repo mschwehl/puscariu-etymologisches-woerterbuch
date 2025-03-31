@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="270">
+  
+  <lemma>capă</lemma>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Mantel aus Ziegenwolle“</definition>
+  
+  <source_ref>(Papahagi: Megleno-Romînii II, 103)</source_ref>
+  
+  <etymology_discussion>
+    könnte aus 
+    <etymon lang="Lat">CAPPA, -A</etymon>
+    : 
+    <cognates>
+      <form lang="it">cappa</form>
+      , 
+      <form lang="pv">capa</form>
+      , 
+      <form lang="sp">capa</form>
+      , 
+      <form lang="fr">chape</form>
+    </cognates>
+     stammen, doch ist es wahrscheinlicher dem Alb. (
+    <form lang="alb">kapë</form>
+    ) und dieses dem Ital. entlehnt.
+
+  </etymology_discussion>
+  
+</entry>

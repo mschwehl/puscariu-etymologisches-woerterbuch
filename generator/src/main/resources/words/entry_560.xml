@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="560">
+  
+  <lemma>durez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„bauen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DOLO, -ARE</etymon>
+    : 
+    <cognates>
+      <form lang="sp">dolar</form>
+      , auch in süd-it., nord-it. und rtr. Mundarten.
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. adăr?, vielleicht dasselbe Wort].</variants>
+   
+  <!-- Assuming adär -> adăr? -->
+  
+</entry>

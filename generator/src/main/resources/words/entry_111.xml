@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="111">
+  
+  <lemma>arăzbor</lemma>
+   
+  <!-- Assuming aräzbör -> arăzbor -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>
+    (
+    <source_ref>Lumina II, 108</source_ref>
+    )
+  </variants>
+  
+  <definition>„fliegen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*RE-EX-VOLO, -ARE</etymon>
+     
+    <!-- Assuming *rr-Ex-văLo, -Ang -> *RE-EX-VOLO, -ARE -->
+    
+  </etymology>
+  
+  <comment>
+    Auffallend ist 
+    <form>arăzbodir</form>
+     im Epirus, vgl. 
+    <ref target_lemma="zbor">zbor</ref>
+    .
+  </comment>
+  
+</entry>

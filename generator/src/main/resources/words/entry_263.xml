@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="263">
+  
+  <lemma>călțămînt</lemma>
+   
+  <!-- Assuming călţământ -> călțămînt -->
+  
+  <usage>
+    (
+    <source_ref>Cip. Princ. 122</source_ref>
+    , heute nach 
+    <form>încalț</form>
+    : 
+    <form>încăl­țămînt</form>
+    )
+  </usage>
+  
+  <pos>sm.</pos>
+  
+  <related_form>
+    
+    <form>încălțăminte</form>
+     
+    <pos>sf.</pos>
+    
+  </related_form>
+  
+  <definition>„Beschuhung“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CALCEAMENTUM, CALCEA­MENTA</etymon>
+    
+    <cognates>
+      
+      <form lang="it">calzamento</form>
+      , 
+      <form lang="piem">causamenta</form>
+      , 
+      <form lang="sard">caltzamenta</form>
+      , 
+      <form lang="u-eng">cütsamainta</form>
+      , 
+      <form lang="sp">calzamiento</form>
+      , 
+      <form lang="fr">chaussement</form>
+      . 
+      <!-- Assuming kaosamenta -> causamenta, kaltsamenta -> caltzamenta, k’ütssamainta -> cütsamainta -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="194">
+  
+  <lemma>bătaie</lemma>
+   
+  <!-- Assuming bätdie -> bătaie -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[vgl. ar. bătale u. bătanie „plagă“]</variants>
+   
+  <!-- Assuming bätale u. bätane „piuä“ -> interpretation -->
+  
+  <definition>„Schlacht, Schlägerei“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BATTUALIA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">BATTUO</etymon>
+     vgl. 
+    <etymon lang="Lat">BATTALIA</etymon>
+     in 
+    <source_ref>Leges Burgundiorum III, 6</source_ref>
+     etc.) 
+    <!-- Assuming zarr[vlarıa -> BATTUALIA, Baranıa -> BATTALIA -->
+    
+    <cognates>
+      
+      <form lang="alb">batajë</form>
+       „Schrecken“, 
+      <!-- Assuming beiaje -> batajë -->
+      
+      <form lang="it">battaglia</form>
+      ,
+
+      <form lang="a-berg">bataja</form>
+      ,
+
+      <form lang="pv">batalha</form>
+      ,
+
+      <form lang="fr">bataille</form>
+      ,
+
+      <form lang="sp">batalla</form>
+      ,
+
+      <form lang="pg">batalha</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

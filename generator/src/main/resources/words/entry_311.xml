@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="311">
+  
+  <lemma>cășun</lemma>
+   
+  <!-- Assuming căşaiu -> cășun -->
+  
+  <lemma_variants>(cășunez)</lemma_variants>
+   
+  <!-- Assuming căşuntz -> cășunez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„verursachen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*OCCASIONO, -ARE</etymon>
+    .
+
+  </etymology>
+  
+  <usage_note>
+    <example>îmi cășună</example>
+     „es fällt mir ein“.
+  </usage_note>
+  
+</entry>

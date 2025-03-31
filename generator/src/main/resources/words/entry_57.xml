@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="57">
+  
+  <lemma>albesc</lemma>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. algescu, mgl. albes]</variants>
+  
+  <definition>„weiß werden, w. machen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALBESCO, -ERE</etymon>
+     
+    <!-- Assuming *-IRE (= -ESCERE) -> -ERE -->
+    
+    <cognates>
+      (
+      <form lang="sard">albeskere</form>
+       „Tag werden“ gehört wohl zu 
+      <form>alba</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

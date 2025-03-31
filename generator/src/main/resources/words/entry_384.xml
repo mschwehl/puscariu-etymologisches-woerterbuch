@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="384">
+  
+  <lemma>coadă</lemma>
+   
+  <!-- Assuming coddä -> coadă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. =, ir. coadă]</variants>
+   
+  <!-- Assuming code -> coadă -->
+  
+  <definition>„Schwanz“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CŌDA, -AM</etymon>
+     (oft belegt = 
+    <etymon lang="Lat">CAUDA</etymon>
+    ) 
+    <!-- Assuming cöpa -> CŌDA -->
+    
+    <cognates>
+      
+      <form lang="it">coda</form>
+      , 
+      <form lang="eng">cua</form>
+      , 
+      <form lang="pv">coza</form>
+      , 
+      <form lang="fr">queue</form>
+      , 
+      <form lang="cat">cua</form>
+      , 
+      <form lang="sp">(cola)</form>
+      . 
+      <!-- Assuming lua -> cua -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

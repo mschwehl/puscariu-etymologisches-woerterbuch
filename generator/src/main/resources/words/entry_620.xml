@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="620">
+  
+  <lemma>flacără</lemma>
+   
+  <!-- Assuming läcära -> flacără -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Flamme“</definition>
+  
+  <etymology source="G. Meyer: Etymol. Wörterbuch d. alb. Spr. 107; Cihac I, 95">
+    im Suffix nicht ganz klar (
+    <suffix>-ULA</suffix>
+    ?), beruht, wie 
+    <cognates>
+      <form lang="sard-camp">flacca, fracca</form>
+       „fiamma, frugnolo“
+    </cognates>
+     und 
+    <form lang="alb">flakë</form>
+     „Flamme“ (woraus ar. 
+    <form>fliacă?, fleacă</form>
+    ) auf 
+    <etymon lang="Lat">*FLACCŬLA, -AM</etymon>
+     für 
+    <etymon lang="Lat">FACŬLA</etymon>
+     (
+    <etymon lang="Lat">FACLA</etymon>
+     App. Probi = 
+    <etymon lang="Lat">FACŬLA</etymon>
+    ), vgl. 
+    <form lang="it">fiaccola</form>
+    .
+
+    <derived_forms>
+      Davon 
+      <form>flăcăr</form>
+       I vb, „entflammen“.
+    </derived_forms>
+    
+    <rejected_etymology>
+      Unwahrscheinlich ist Cihac's: 
+      <etymon lang="Lat">FLAGRO, -ARE</etymon>
+      .
+    </rejected_etymology>
+    
+  </etymology>
+  
+  <variants>[ar. pară?, ir. plomnic?].</variants>
+   
+  <!-- Assuming pird, plom(n)ic -> pară?, plomnic? -->
+  
+</entry>

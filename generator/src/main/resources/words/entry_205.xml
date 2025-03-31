@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="205">
+  
+  <lemma>blestem</lemma>
+   
+  <!-- Assuming blästäm -> blestem -->
+  
+  <lemma_variants>(blestem, blăstăm)</lemma_variants>
+   
+  <!-- Assuming blästäm -> blăstăm -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. blastim, vel. blăstinăt W., mgl. blăstim]</variants>
+  
+  <definition>„verfluchen“</definition>
+  
+  <etymology source="Parodi: Miscell. nuziale Rossi-Teiss, Trente 1897, 340; Le Blant: Nouv. rec. d’inscr. chrét. de la Gaule, 1892, 83">
+    
+    <etymon lang="Lat">*BLASTĒMO, -ARE</etymon>
+     (für 
+    <etymon lang="Lat">BLASPHĒMO</etymon>
+    , nach Parodi mit Anlehnung an 
+    <etymon lang="Lat">AESTIMARE</etymon>
+    ; vgl. 
+    <form lang="Lat">BLASTEMA</form>
+    )
+
+    <cognates>
+      
+      <form lang="sic">biastimari</form>
+      ,
+
+      <form lang="campob">jastemare?</form>
+      , 
+      <!-- Assuming jasteng -> jastemare? -->
+      
+      <form lang="lanc">(b)iastemare, vrastemare?</form>
+      , 
+      <!-- Assuming iastemä, vrastemd -> iastemare, vrastemare? -->
+      
+      <form lang="gombit">biastimma</form>
+      , 
+      <!-- Assuming biaătimma -> biastimma -->
+      
+      <form lang="sillano">biastema</form>
+      , 
+      <form lang="lucca">biastimare</form>
+      ,
+
+      <form lang="alatri">blastema</form>
+      , 
+      <form lang="brindisi">jastemare?</form>
+      , 
+      <!-- Assuming fui jastimi -> jastemare? -->
+      
+      <form lang="a-ven">blastemar</form>
+      , 
+      <form lang="sard-log">frastimare</form>
+      , 
+      <form lang="eng">blastmar?</form>
+      , 
+      <!-- Assuming blastemma -> blastmar? -->
+      
+      <form lang="frl">blestema</form>
+      , 
+      <form lang="pv">blastimar</form>
+      ,
+(
+      <form lang="fr">blâmer</form>
+      ), 
+      <form lang="cat">blastemar</form>
+      , 
+      <form lang="sp">lastimar</form>
+      ,
+(vgl. 
+      <form lang="lecce">astimu</form>
+       sb., 
+      <form lang="cerign">gastime</form>
+       sb., 
+      <form lang="a-chiogg">blastema</form>
+       sb., 
+      <form lang="sard-gall">gàstima</form>
+       sb., 
+      <form lang="sp">lástima</form>
+       sb.). 
+      <!-- Assuming gästimma -> gàstima -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Davon das Postverbale 
+    <form>blestem, blăstăm</form>
+     sm. „Fluch“.
+  </derived_forms>
+  
+</entry>

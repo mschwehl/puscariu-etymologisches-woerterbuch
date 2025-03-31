@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="III" number="455">
+  
+  <lemma>cur</lemma>
+  
+  <inflection>cursei (-- curui?), curs</inflection>
+   
+  <!-- Assuming curu -> curui? -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„laufen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CURRO, (CUCURRI), CURSUM, -ERE</etymon>
+     
+    <!-- Assuming cürro, (CECERRI) -> CURRO, (CUCURRI) -->
+    
+    <cognates>
+      
+      <form lang="it">correre</form>
+      , 
+      <form lang="pv">correr (corrir)</form>
+      , 
+      <form lang="a-frz">corre</form>
+      , (
+      <form lang="n-frz">courir</form>
+      ), 
+      <form lang="sp">correr</form>
+      , 
+      <form lang="pg">correr</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <morphology_note>
+    Von den Dialekten hat es Megl. noch insofern bewahrt, als dort von 
+    <etymon lang="Lat">CURRERE</etymon>
+     das Partz. 
+    <form>curat</form>
+     und 
+    <form>curs</form>
+     heißt. (Eine Vermischung beider Verba war begrifflich leicht, vgl. frz. „le sang court“ oder „le sang coule dans les veines“). Vom Partz. 
+    <form>curs</form>
+     hat sich nach 
+    <form>mers-merg</form>
+     ein Präsens 
+    <form>curg</form>
+     (Inf. 
+    <form>curgere</form>
+    ) entwickelt, welches heute das alte 
+    <form>cur</form>
+     gänzlich verdrängt hat. Das Gerund. 
+    <etymon lang="Lat">CURRENDO</etymon>
+     ist im Adv. 
+    <form>curînd</form>
+     [auch 
+    <form>curund</form>
+    , ar. 
+    <form>curundu</form>
+    , mgl. 
+    <form>curînd</form>
+    ] „rasch“ bewahrt. 
+    <!-- Assuming cnräre -> CURRERE, curundau -> curundu, curon -> curînd -->
+    
+  </morphology_note>
+  
+</entry>

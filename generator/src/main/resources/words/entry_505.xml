@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="505">
+  
+  <lemma>descalț</lemma>
+   
+  <!-- Assuming deseält -> descalț -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. discalțu]</variants>
+   
+  <!-- Assuming discaltsw -> discalțu -->
+  
+  <definition>„entschuhen“</definition>
+  
+  <etymology source="Dens. H. l. r. 169">
+    
+    <etymon lang="Lat">DISCALCEO, -ARE</etymon>
+     
+    <!-- Assuming DIS-CALCIO -> DISCALCEO -->
+    
+    <cognates>
+      
+      <form lang="it">scalzare</form>
+      , 
+      <form lang="alatri">scauzare?</form>
+      , 
+      <form lang="pv">descaussar</form>
+      , 
+      <form lang="fr">déchausser</form>
+      , 
+      <form lang="sp">descalzar</form>
+      , 
+      <form lang="pg">descalçar</form>
+      . 
+      <!-- Assuming skautsd -> scauzare?, dechausser -> déchausser, tescalcar -> descalçar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

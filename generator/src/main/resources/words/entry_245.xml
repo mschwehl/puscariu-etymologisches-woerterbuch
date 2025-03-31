@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="245">
+  
+  <lemma>că</lemma>
+  
+  <pos>conj.</pos>
+  
+  <variants>[ar. ©, mgl. © auch „wenn“, ir. că]</variants>
+   
+  <!-- Assuming mg. © -> mgl. =, ke -> că -->
+  
+  <definition>„daß, weil“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">QUOD</etymon>
+    , 
+    <!-- Assuming guöp -> QUOD -->
+    worauf vielleicht auch 
+    <cognates>
+      <form lang="alb">që?</form>
+      , 
+      <form lang="it">che</form>
+      , 
+      <form lang="pv">que</form>
+      , 
+      <form lang="fr">que</form>
+      , 
+      <form lang="cat">que</form>
+      , 
+      <form lang="sp">que</form>
+      , 
+      <form lang="pg">que</form>
+    </cognates>
+     zurückgehen. 
+    <!-- Assuming le -> që? -->
+    
+  </etymology>
+  
+</entry>

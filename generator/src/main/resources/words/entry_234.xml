@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="234">
+  
+  <lemma>bulgur</lemma>
+   
+  <!-- Assuming bülgur -> bulgur -->
+  
+  <pos>sm.</pos>
+  
+  <reference type="internal">vgl. bulz.</reference>
+  
+</entry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="640">
+  
+  <lemma>fraged</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„weich, biegsam“</definition>
+  
+  <etymology source="Conv. lit. XXXV, 821">
+    
+    <etymon lang="Lat">*FRACIDUS, -A, -UM</etymon>
+     (mit Suffixwechsel statt 
+    <etymon lang="Lat">FRAGILIS, -E</etymon>
+    ). 
+    <!-- Assuming *rracinus -> *FRACIDUS -->
+    
+  </etymology>
+  
+  <variants>[ar. crehtu].</variants>
+  
+</entry>

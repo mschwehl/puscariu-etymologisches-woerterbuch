@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="231">
+  
+  <lemma>buf</lemma>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sm.</pos>
+  
+  <variants>
+    [mgl. buf, d-rum. nur in der Ableitung 
+    <form>bufniță</form>
+     sf., daneben 
+    <form>buhă</form>
+     sf.]
+  </variants>
+   
+  <!-- Assuming mel. -> mgl.; bifnif& -> bufniță, bih@ -> buhă -->
+  
+  <definition>„Uhu, Eule“</definition>
+  
+  <etymology source="C. gl. V, 272, 40; 563, 46; IV 594, 35">
+    
+    <etymon lang="Lat">BŪBO</etymon>
+     (=
+    <etymon lang="Lat">BŪFO</etymon>
+    ) 
+    <!-- Assuming zuro -> BŪBO -->
+    
+    <cognates>
+      
+      <form lang="sp">buho</form>
+      ,
+
+      <form lang="pg">bufo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

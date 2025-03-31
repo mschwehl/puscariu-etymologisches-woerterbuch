@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="213">
+  
+  <lemma>bou</lemma>
+   
+  <!-- Assuming bot -> bou -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. —, ir. bou]</variants>
+   
+  <!-- Assuming bowu -> bou -->
+  
+  <definition>„Ochse“</definition>
+  
+  <etymology source="Mulomed. Chir. ed. Oder S. 284, 2">
+    
+    <etymon lang="Lat">*BOVUS, -UM</etymon>
+     (statt 
+    <etymon lang="Lat">BOS, BOVEM</etymon>
+    ) 
+    <!-- Assuming *zövus -> *BOVUS -->
+    
+    <cognates>
+      
+      <form lang="it">bue</form>
+      , 
+      <form lang="mail">bö</form>
+      , 
+      <form lang="eng">buf</form>
+      , 
+      <!-- Assuming Doe -> bö, bouf -> buf -->
+      
+      <form lang="pv">buou</form>
+      , 
+      <form lang="fr">bœuf</form>
+      ,
+
+      <form lang="sp">buey</form>
+      , 
+      <form lang="pg">boi</form>
+      .
+
+    </cognates>
+    
+    <comment>
+      (
+      <etymon lang="Lat">BOVUS</etymon>
+       ist belegt).
+    </comment>
+    
+  </etymology>
+  
+</entry>

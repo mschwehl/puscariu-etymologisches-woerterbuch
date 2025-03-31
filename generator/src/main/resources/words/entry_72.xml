@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="72">
+  
+  <lemma>am</lemma>
+  
+  <inflection>pf. avui, impf. aveam, ptz. avut, inf. aveà</inflection>
+   
+  <!-- Assuming avii -> avui, avedm -> aveam, auiit -> avut, aveă -> aveà -->
+  
+  <verb_class>II</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. am, avui, avută a(v)eare, mgl. am, vut II, ir. am(u), (avut), (a)ve]</variants>
+   
+  <!-- Assuming avută alv)eäre -> avută a(v)eare, aut -> avut -->
+  
+  <definition>„haben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">HABEO, HABUI, HABITUM, HABERE</etymon>
+     
+    <!-- Assuming ÎTUM -> HABITUM -->
+    
+    <comment>entsprechend in allen rom. Sprachen.</comment>
+    
+  </etymology>
+  
+  <semantic_note>
+    Das Ptz. dr. ar. 
+    <form>avut</form>
+     bedeutet in adjekt. Verwendung „reich“ (vgl. alb. 
+    <form lang="alb">kamës</form>
+     u. 
+    <form lang="alb">pasur</form>
+    ), in subst. Funktion Cod. Vor. 8/9, desgleichen wie der Inf. 
+    <form>avere</form>
+     sf. „Reichtum“ (vgl. „Hab und Gut“), wie auch 
+    <form lang="fr">avoir</form>
+    , 
+    <form lang="pv">aver</form>
+     „Schafherde“, 
+    <form lang="lyon">avair</form>
+     „Bienenstock“, 
+    <form lang="a-sp">aver</form>
+     (
+    <example>venga mia maiordoma, qui mios averes toma.</example>
+     
+    <source_ref>Auto de los reyes magos 117—118</source_ref>
+    ).
+
+  </semantic_note>
+  
+</entry>

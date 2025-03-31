@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="I" number="284">
+  
+  <lemma>car</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. =]</variants>
+  
+  <definition>„Wagen“</definition>
+  
+  <etymology source="Dens. H. l. r. 187">
+    
+    <etymon lang="Lat">CARRUS</etymon>
+     
+    <!-- Assuming carrux -> CARRUS -->
+    
+    <cognates>
+      
+      <form lang="alb">karrocë?</form>
+       
+      <comment>
+        (ar. 
+        <form>cară</form>
+        )
+      </comment>
+      , 
+      <form lang="it">carro</form>
+      , 
+      <form lang="frl">car</form>
+      , 
+      <form lang="eng">char</form>
+      , 
+      <form lang="pv">car</form>
+      , 
+      <form lang="fr">char</form>
+      , 
+      <form lang="sp">carro</form>
+      , 
+      <form lang="pg">carro</form>
+      . 
+      <!-- Assuming karg, kere -> karrocë?, keră -> cară; War -> char -->
+      
+    </cognates>
+    
+    <semantic_note>
+      In der Bedeutung „großer Bär (Sternbild) ist 
+      <etymon lang="Lat">CARRUS</etymon>
+       in Glossen belegbar und kommt außer im Rum. noch in 
+      <cognates>
+        <form lang="muggia">car</form>
+        , 
+        <form lang="trient">car</form>
+        , 
+        <form lang="istr">caro</form>
+        , 
+        <form lang="sp">carro</form>
+        , 
+        <form lang="pg">carro</form>
+        , (
+        <form lang="fr">chariot</form>
+        )
+      </cognates>
+       vor. 
+      <!-- Assuming har -> car -->
+      
+    </semantic_note>
+    
+  </etymology>
+  
+</entry>

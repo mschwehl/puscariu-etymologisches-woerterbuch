@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="320">
+  
+  <lemma>cățuie</lemma>
+   
+  <!-- Assuming cäfıtie -> cățuie -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Schöpfkelle“</definition>
+  
+  <etymology_discussion source="Lork: Altberg. Sprachdenkmäler, 191; Baist: Rom. Forsch. I, 106; Meyer-Lübke: Wiener Studien XXV, 96—97">
+    geht auf ein älteres 
+    <form>*cățâ</form>
+     zurück und dies entspricht lat. 
+    <etymon lang="Lat">CYATHUS, -UM</etymon>
+    . Das lat. Wort ist dem griech. 
+    <etymon lang="Gr">κύαθιον, κυάθ(ι)ον</etymon>
+     entlehnt und hatte in der Umgangssprache teils die Aussprache 
+    <etymon lang="Lat">*CIATHUM</etymon>
+     (davon 
+    <etymon lang="Lat">*CIATINA</etymon>
+    : 
+    <cognates>
+      <form lang="pad">zaina</form>
+      , 
+      <form lang="mail">zaina</form>
+      , 
+      <form lang="com">zaina</form>
+      , 
+      <form lang="a-berg">zaina</form>
+      , 
+      <form lang="n-berg">zaina</form>
+      , 
+      <form lang="crem">zaina</form>
+      , 
+      <form lang="pav">zaina</form>
+    </cognates>
+    ), teils 
+    <etymon lang="Lat">*CUATHUM</etymon>
+    , 
+    <etymon lang="Lat">*CUATHIA</etymon>
+      rum. 
+    <form>*cață</form>
+    , 
+    <cognates>
+      <form lang="it">cazza</form>
+      , 
+      <form lang="it">cazzo?</form>
+      , 
+      <form lang="a-berg">cazza</form>
+      , 
+      <form lang="crem">cazza</form>
+      , 
+      <form lang="eng">chatsch</form>
+      , 
+      <form lang="eng">catscha</form>
+      , 
+      <form lang="sp">cazo</form>
+      , 
+      <form lang="pg">caco</form>
+    </cognates>
+    . (vgl. späte Glossen CATTIA, CACHA u. cazza). 
+    <!-- Assuming zvd@eior, xud(hov» -> κύαθιον, κυάθ(ι)ον; tsaina -> zaina; Saina -> zaina; k’atss, katssa -> chatsch, catscha -->
+    
+  </etymology_discussion>
+  
+  <borrowing_note>
+    Im Ar. lautet das Wort 
+    <form>căție</form>
+     sf, welches, wie alb. 
+    <form lang="alb">kaci(je)</form>
+    , aus dem n.-griech. 
+    <etymon lang="ngr">κατσ(ί)</etymon>
+     stammen. 
+    <!-- Assuming cätsie si -> căție sf., zatloi -> κατσ(ί) -->
+    
+  </borrowing_note>
+  
+</entry>

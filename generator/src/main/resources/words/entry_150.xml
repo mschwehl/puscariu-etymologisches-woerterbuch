@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="150">
+  
+  <lemma>aștept</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. așteptu auch „nehme auf, empfange“, mgl. ștet, ir. așkeptu]</variants>
+  
+  <definition>„erwarten“</definition>
+  
+  <etymology_discussion source="Meyer-Lübke: Rom. Gramm. I § 469; Geheeb, Jb. V, 17">
+    Angesichts 
+    <cognates>
+      <form lang="sic">astittari</form>
+      , 
+      <form lang="tar">aspettare</form>
+      , 
+      <form lang="cal">aspettare</form>
+      , 
+      <form lang="a-log">assettare</form>
+      , 
+      <form lang="n-log">isettare</form>
+       (nb. 
+      <form>ispettare</form>
+      )
+    </cognates>
+     hat man angenommen, daß 
+    <etymon lang="Lat">ASPECTO</etymon>
+     durch Assimilation zu 
+    <etymon lang="Lat">*ASTECTO, -ARE</etymon>
+     geworden sei. Da aber im Arom. das Wort auch „empfangen“ bedeutet, so paßt zu diesem Sinn besser 
+    <etymon lang="Lat">EXCEPTO, -ARE</etymon>
+    . Es ist schwer zu entscheiden, ob beide lat. Wörter im Rum. weiterleben oder nur eines, welches dann, — vielleicht unter dem Einfluß des alb. 
+    <form lang="alb">pres</form>
+     = „erwarte“ und „empfange“ — eine Bedeutungs­erweiterung erfahren hat. Wie engverwandt die zwei Begriffe sind, tritt aus einem Satz, wie: 
+    <example>ieși la poartă să-l aștepte</example>
+     hervor, welcher „er trat ins Tor um ihn zu empfangen“ (daher „erwartete er ihn‘) oder „er trat ins Tor um ihn zu erwarten (damit „er ihn dann empfange“)“ heißen kann.
+
+    <alternative_etymology source="Haşdeu, Etym. Magn. Rom.">
+      Haşdeu belegt aus einem alten Glossar auch ein 
+      <form>acept</form>
+       „erwarte, hofte'*  
+      <etymon lang="Lat">ACCEPTO</etymon>
+      , welches mir indessen verdächtig erscheint.
+    </alternative_etymology>
+    
+  </etymology_discussion>
+  
+</entry>

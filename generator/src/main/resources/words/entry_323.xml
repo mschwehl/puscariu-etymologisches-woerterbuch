@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="323">
+  
+  <lemma>căuc</lemma>
+   
+  <!-- Assuming e@ue -> căuc -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Schöpflöffel‘</definition>
+  
+  <etymology source="Dens. H. l. r. 200; G. Meyer: Etyw. Wörtb. der alb. Spr. 165—166">
+    
+    <etymon lang="Lat">CAUCUS, -UM</etymon>
+    ,
+vgl. 
+    <cognates>
+      <form lang="alb">kafkë, kokë</form>
+       „Hirnschädel, Trinkgefäß“
+    </cognates>
+    , 
+    <etymon lang="byz">καῦκος</etymon>
+     „Becher“, vulgärgriech. 
+    <etymon lang="el">καυκί</etymon>
+     „patera“. 
+    <!-- Assuming kafke, koke -> kafkë, kokë; zaizos -> καῦκος; zeöze -> καυκί -->
+    
+  </etymology>
+  
+  <variants>[ar. ciubană].</variants>
+   
+  <!-- Assuming tsuband -> ciubană -->
+  
+</entry>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="151">
+  
+  <lemma>aștern</lemma>
+   
+  <!-- Assuming astern -> aștern -->
+  
+  <inflection>-ui, -ut</inflection>
+   
+  <!-- Assuming -ıti, -üt -> -ui, -ut -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. așternu, așteru in Albanien, mgl. ștern, ir. (a)șternu]</variants>
+   
+  <!-- Assuming asternu, asteru -> așternu, așteru; Stern -> ștern; (a)Sternu -> (a)șternu -->
+  
+  <definition>„hinstreuen, das Bett machen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ASTERNO, -STRĀVI, -STRĀTUM, -STERNERE</etymon>
+     oder 
+    <etymon lang="Lat">STERNO</etymon>
+    
+    <cognates>
+      
+      <form lang="alb">shtroj</form>
+      , 
+      <!-- Assuming Stros -> shtroj -->
+      
+      <form lang="piem">sterni</form>
+      ,
+
+      <form lang="sard">istèrrere</form>
+      , 
+      <!-- Assuming îsterriri -> istèrrere -->
+      
+      <form lang="eng">sterner</form>
+      ,
+
+      <form lang="wall">sterni</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

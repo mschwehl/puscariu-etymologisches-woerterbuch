@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="528">
+  
+  <lemma>deștept</lemma>
+   
+  <!-- Assuming deştept -> deștept -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. dișteptu, mgl. diștet]</variants>
+   
+  <!-- Assuming disteptu, distet -> dișteptu, diștet -->
+  
+  <definition>„aufwecken“</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, 11">
+    
+    <etymon lang="Lat">*DEEXCITO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">EXCITO, -ARE</etymon>
+    : 
+    <cognates>
+      <form lang="alb">?</form>
+      , 
+      <form lang="neap">?</form>
+      , 
+      <form lang="cal">?</form>
+      , 
+      <form lang="sard-log">?</form>
+      , 
+      <form lang="sard-camp">?</form>
+    </cognates>
+    ): 
+    <cognates>
+      <form lang="it">destare</form>
+      , 
+      <form lang="mail">?</form>
+      , 
+      <form lang="crem">?</form>
+      , 
+      <form lang="parm">?</form>
+      , 
+      <form lang="regg">?</form>
+      , 
+      <form lang="berg">?</form>
+      , 
+      <form lang="mant">?</form>
+      , 
+      <form lang="piac">?</form>
+      , 
+      <form lang="terr">?</form>
+      , 
+      <form lang="bol">?</form>
+      , 
+      <form lang="lecce">?</form>
+    </cognates>
+    . Da dem Inf. 
+    <form>deștepta</form>
+     ein Präs. 
+    <form>aștept?</form>
+     entsprach, so wurde auch von 
+    <form>deștetă</form>
+     ein 
+    <form>deștept</form>
+     gebildet. Die 
+    <phoneme>p</phoneme>
+    -losen Formen sind in Megl., die anderen im Daco-rum. Ar. Ir. ver­allgemeinert worden. 
+    <!-- Interpretation needed for many forms -->
+    
+    <derived_forms>
+      Ein postverbales Adjektivum dazu ist 
+      <form>deștept, -ă</form>
+       [mgl. 
+      <form>diștet</form>
+      ] „wach, aufgeweckt“.
+    </derived_forms>
+    
+  </etymology>
+  
+</entry>

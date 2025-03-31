@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="398">
+  
+  <lemma>cor</lemma>
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Tanz, Reigen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CHORUS, -UM</etymon>
+     
+    <!-- Assuming CcRORUS -> CHORUS -->
+    
+    <cognates>
+      
+      <form lang="it">coro</form>
+      , 
+      <form lang="pg">coro</form>
+      , 
+      <form lang="fr">chœur</form>
+      . 
+      <!-- Assuming îrz. cheur -> fr. chœur -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Dagegen stammt d-rum. 
+    <form>horă</form>
+     sf. „Rundtanz“ aus gr. 
+    <etymon lang="Gr">χορός</etymon>
+    .
+
+  </borrowing_note>
+  
+</entry>

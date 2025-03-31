@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="251">
+  
+  <lemma>căier</lemma>
+   
+  <!-- Assuming cdier -> căier -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. caer, „zweimal gekämmte Wolle auf dem Rocken“, mgl. cair, ir. caier]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„Rocken“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 689—69; G. Pascu's (Archiva, XV, 439)">
+    
+    <etymology>
+      
+      <etymon lang="Lat">*CARIUM</etymon>
+       (von 
+      <etymon lang="Lat">CARO, -ERE</etymon>
+       „krämpeln“).
+
+    </etymology>
+    
+    <rejected_etymology>
+      Unwahr­scheinlich ist G. Pascu's Ableitung aus a.-gr. 
+      <etymon lang="Gr">καιρός</etymon>
+       „die Schnüre, welche die sich durchkreuzenden Fäden der Kette oder des Aufzugs parallel nebeneinander befestigen, das Trumm“, nicht nur wegen der Bedeutung, sondern auch wegen der Erhaltung von 
+      <phoneme>ai</phoneme>
+      .
+
+    </rejected_etymology>
+    
+  </etymology>
+  
+</entry>

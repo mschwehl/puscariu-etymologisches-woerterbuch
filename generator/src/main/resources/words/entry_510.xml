@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="510">
+  
+  <lemma>descoper</lemma>
+   
+  <!-- Assuming deseöper -> descoper -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. discoapir, ir. descoper(esc)?]</variants>
+   
+  <!-- Assuming vescoper(esc)u -> descoper(esc)? -->
+  
+  <definition>„ent­hüllen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DISCOPERIO, -RUI, -RTUM, -IRE</etymon>
+     
+    <!-- Assuming -RUT -> -RUI -->
+    
+    <cognates>
+      
+      <form lang="it">scoprire</form>
+      , 
+      <form lang="fr">découvrir</form>
+      , 
+      <form lang="sp">descubrir</form>
+      , 
+      <form lang="pg">descobrir</form>
+      . 
+      <!-- Assuming decowwrir -> découvrir -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

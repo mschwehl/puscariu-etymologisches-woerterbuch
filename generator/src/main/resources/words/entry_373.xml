@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="373">
+  
+  <lemma>cîntec</lemma>
+   
+  <!-- Assuming eintec -> cîntec -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. cîntic, mgl. cîntic]</variants>
+   
+  <!-- Assuming cintie -> cîntic, contic -> cîntic -->
+  
+  <definition>„Gesang, Lied"</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CANTICUM</etymon>
+     
+    <!-- Assuming cax-ricux -> CANTICUM -->
+    
+    <cognates>
+      
+      <form lang="alb">këngë</form>
+       (
+      <form lang="it">cantico</form>
+      ). 
+      <!-- Assuming kenge -> këngë -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Davon ar. 
+    <form>cîntic?</form>
+     I vb. „Wiegen­lieder singen“.
+  </derived_forms>
+  
+</entry>

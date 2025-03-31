@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="139">
+  
+  <lemma>ascund</lemma>
+  
+  <lemma_variants>(ascunz)</lemma_variants>
+  
+  <inflection>-unsei, -uns</inflection>
+   
+  <!-- Assuming -üns -> -uns -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. ascundu, -msu, -ndu, III II, mgl. scunt, -ns, -nt III, ir. ascundu, -ns III]</variants>
+   
+  <!-- Assuming -mău -> -msu -->
+  
+  <definition>„verbergen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ABSCONDO, -NDI (Caper, K. VII, 94, 16 = -NDI), -NSUM (Gl. nom. 32) u. -DITUM, -ERE</etymon>
+     
+    <!-- Assuming -nsı, -xsum, -nolrun, -ERB -> -NDI, -NSUM, -DITUM, -ERE -->
+    
+    <cognates>
+      
+      <form lang="it">(n)ascondere</form>
+      ,
+
+      <form lang="sard-log">ascondere</form>
+      ,
+
+      <form lang="a-sp">asconder</form>
+      , 
+      <form lang="a-pg">asconder</form>
+      
+      <comment>
+        (und mit 
+        <prefix>ex-</prefix>
+         als Prefix: 
+        <form lang="a-ver">scondir</form>
+        , 
+        <form lang="pv">escondre</form>
+        , 
+        <form lang="a-frz">escondre</form>
+        , 
+        <form lang="sp">esconder</form>
+        , 
+        <form lang="pg">esconder</form>
+        ).
+      </comment>
+      
+    </cognates>
+    
+  </etymology>
+  
+  <derived_forms>
+    Abgel.: ar. 
+    <form>ascuntiș</form>
+     sm. „Schlupf­winkel“, mgl. 
+    <form>scunsăș</form>
+     adv. „verstohlen“, ursprünglich Adjekt. = 
+    <form>scuns</form>
+     (Partz.) + 
+    <suffix>-ăș</suffix>
+     
+    <reference type="bibliographic">Verfassers: Lat. Ti u. Ki, 60.</reference>
+  </derived_forms>
+   
+  <!-- Assuming seuntSös -> scunsăș, scunt -> scuns -->
+  
+</entry>

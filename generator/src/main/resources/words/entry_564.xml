@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="564">
+  
+  <lemma>duși?</lemma>
+   
+  <!-- Assuming düsi -> duși? -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„böser Geist“</definition>
+  
+  <variants>[mgl. dus „Wesen, Monstrum‘]</variants>
+   
+  <!-- Assuming dusw -> dus -->
+  
+  <etymology_discussion source="A. Densusianu; O. Densusianu H. i. r. 202">
+    
+    <rejected_etymology>
+      wollte A. Densusianu, und seine Etymol. befürwörtet O. Densusianu von dem Worte keltischen Ursprungs 
+      <etymon lang="Lat">DUSIUS</etymon>
+      , vgl. 
+      <form lang="rtr">düsel</form>
+      , dial. frz. 
+      <form lang="fr-dial">düzie?</form>
+      , ableiten.
+
+    </rejected_etymology>
+    
+    <proposed_etymology>
+      Es wird vielmehr nichts anderes sein, als der regelrechte Plural von kslav. 
+      <etymon lang="chu">duchŭ</etymon>
+       &gt; rum. 
+      <form>duh</form>
+       „Geist“, vgl. kslav. 
+      <etymon lang="chu">duša</etymon>
+       „Seele“.
+
+    </proposed_etymology>
+    
+  </etymology_discussion>
+  
+</entry>

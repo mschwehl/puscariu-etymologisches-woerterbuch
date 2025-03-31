@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="445">
+  
+  <lemma>cumplesc?</lemma>
+   
+  <!-- Interpretation needed -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„beendigen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">COMPLEŌ, -ĒRE</etymon>
+     (für 
+    <etymon lang="Lat">COMPLERE</etymon>
+    , vgl. 
+    <ref target_lemma="umplu">umplu</ref>
+    ) 
+    <!-- Assuming cimpla -> cumplesc?, -\"irE -> -ĒRE -->
+    
+    <cognates>
+      
+      <form lang="it">compire</form>
+      , 
+      <form lang="eng">cumplir</form>
+      , 
+      <form lang="a-frz">complir</form>
+      , 
+      <form lang="cat">cumplir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Heute lebt nur noch das Partz. 
+    <form>cumplit, -ă</form>
+     als Adj. in der Bedeutung „schrecklich“ weiter, welches durch die Mittel­stufe: — „über das Maß voll = übermäßig“ erklärlich wird (
+    <example>întuneric cumplit</example>
+     = „vollständige“, daher „schreckliche“ Finsternis).
+
+  </usage_note>
+  
+  <variants>[ar. bitisescu, bițescu, spărg? IV vb.].</variants>
+   
+  <!-- Assuming bitsescu, seärk’escu -> bițescu, spărg? -->
+  
+</entry>

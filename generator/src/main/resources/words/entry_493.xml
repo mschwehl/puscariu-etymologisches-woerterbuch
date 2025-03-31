@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="493">
+  
+  <lemma>dedau</lemma>
+   
+  <!-- Assuming dedäü -> dedau -->
+  
+  <lemma_variants>
+    (dădez 
+    <source_ref>Sämän. III, 446</source_ref>
+    )
+  </lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„gewöhnen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*DEDAO, -ARE</etymon>
+     (statt 
+    <etymon lang="Lat">DEDO, -ERE</etymon>
+     nach 
+    <form>dau</form>
+     vgl. 
+    <ref target_lemma="trăda">trădau</ref>
+    ). 
+    <!-- Assuming pane -> dau -->
+    
+    <semantic_development>
+      Der Sinnes­übergang erklärt sich zunächst in der refl. Verwendung: 
+      <example>mă dedau (la beutură)</example>
+       = „ich gebe mich ganz hin (der Trinksucht)“ dann „ich gewöhne mich (an die Trinksucht)”.
+
+    </semantic_development>
+    
+  </etymology>
+  
+  <variants>[ar. mă înveț].</variants>
+   
+  <!-- Assuming mi nrets -> mă înveț -->
+  
+</entry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="291">
+  
+  <lemma>călindar</lemma>
+   
+  <!-- Assuming cäriudäar -> călindar -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Januar“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CALENDARIUS</etymon>
+     (scil. 
+    <etymon lang="Lat">MENSIS</etymon>
+    )
+
+  </etymology>
+  
+  <comment>Mir ist das Wort unbekannt.</comment>
+  
+</entry>

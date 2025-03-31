@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="298">
+  
+  <lemma>cărpin</lemma>
+   
+  <!-- Assuming eärpinde) -> cărpin -->
+  
+  <lemma_variants>(carpen)</lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. carpin]</variants>
+   
+  <!-- Assuming carpiu -> carpin -->
+  
+  <definition>„Hagebuche“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CARPĪNUS, -UM</etymon>
+     (Die Messung 
+    <form>carpīnus</form>
+     hat keine Berechtigung) 
+    <!-- Assuming carpixts -> CARPĪNUS -->
+    
+    <cognates>
+      
+      <form lang="it">carpino, carpine</form>
+      , 
+      <form lang="piem">carpo?</form>
+      , 
+      <form lang="mail">carpen</form>
+      , 
+      <form lang="emil">carpen?</form>
+      , 
+      <form lang="frl">carpin</form>
+      , 
+      <form lang="fr">charme</form>
+      , 
+      <form lang="pv">carpre</form>
+      , 
+      <form lang="sp">carpe</form>
+      , 
+      <form lang="pg">carpe</form>
+      . 
+      <!-- Assuming cârpino, cârpine -> carpino, carpine; kerpu -> carpo?, kerpan -> carpen?, k'arpin -> carpin -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

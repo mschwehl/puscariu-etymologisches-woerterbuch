@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="625">
+   
+  <!-- Needs structure cleanup -->
+  
+  <lemma>fluier</lemma>
+   
+  <!-- Assuming fler -> fluier -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„pfeifen, Flöte spielen“</definition>
+  
+  <related_form>
+    
+    <form>fluier</form>
+     
+    <pos>sm.</pos>
+    , 
+    <form>fluieră</form>
+     
+    <pos>sf.</pos>
+     
+    <!-- Assuming fhier, fhieră -> fluier, fluieră -->
+    
+    <variants>[ar. fluieră P., fluier, flioară? W., mgl. fruiel?, fruiel?, auch sfîrîi?]</variants>
+     
+    <!-- Interpretation needed for fluedră, flăer, filiodra, friel, sfriel, sfirbi -->
+    
+    <definition>„Hirtenflöte“, auch „Schienbein“</definition>
+    
+    <usage>[mgl. fluier?]</usage>
+     
+    <!-- Assuming rue -> fluier? -->
+    
+  </related_form>
+  
+  <etymology_discussion source="Miklosich: Wanderungen der Rumunen, 23; Salvioni: Archivio glott. ital. XVI, 243—244">
+    scheinen nicht aus alb. 
+    <form lang="alb">floere, flojere?</form>
+     „Flöte, Pfeife", 
+    <form lang="alb">fyell</form>
+     g. 
+    <form>fyell</form>
+     „Flöte, Schäfer­pfeife, Destillierrohr* entlehnt zu sein, sondern beide gehen wahr­scheinlich auf eine gemeinsame Quelle zurück. Es „findet sich fast überall, wo rumänische Wanderhirten hingedrungen sind“: 
+    <borrowing_note>
+      ngr. 
+      <etymon lang="ngr">φλογέρα</etymon>
+      , klruss. 
+      <etymon lang="ukr">flojara</etymon>
+      , poln. 
+      <etymon lang="pl">fujara</etymon>
+      , mähr. slov. 
+      <etymon lang="sk">fujara</etymon>
+      , ung. 
+      <etymon lang="hu">furulya</etymon>
+      , serb. 
+      <etymon lang="sr">frula</etymon>
+      .
+    </borrowing_note>
+     Die Etymologie ist unbekannt. Vielleicht ist das Wort mit der von Salvioni besprochenen Wortsippe zusammenzustellen. 
+    <!-- Interpretation needed for floere, flojere, füet, füt, gâoytga -->
+    
+  </etymology_discussion>
+  
+  <variants>[ir. șuier IV vb. ar. șuier, șură? vb. P., mgl. șuierez IV vb.]</variants>
+   
+  <!-- Interpretation needed for svikese, dir, Siür, sfires -->
+  
+</entry>

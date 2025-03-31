@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="116">
+  
+  <lemma>argint</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. arzint, răzănt, ir. arzint]</variants>
+   
+  <!-- Assuming Imol. -> mgl., răzint -> răzănt -->
+  
+  <definition>„Silber“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ARGENTUM</etymon>
+     
+    <!-- Assuming AR­Gextun -> ARGENTUM -->
+    
+    <cognates>
+      
+      <form lang="alb">argjend</form>
+      , 
+      <!-- Assuming erjent -> argjend -->
+      
+      <form lang="vegl">arziant</form>
+      ,
+
+      <form lang="it">argento</form>
+      ,
+
+      <form lang="a-lomb">ariento</form>
+      ,
+
+      <form lang="frl">arint</form>
+      ,
+
+      <form lang="eng">argient</form>
+      ,
+
+      <form lang="pr">argen</form>
+      ,
+
+      <form lang="fr">argent</form>
+      ,
+
+      <form lang="a-sp">ariento</form>
+      . 
+      <!-- Assuming asp. argento -> a-sp ariento? or argento -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. asime].</variants>
+  
+</entry>

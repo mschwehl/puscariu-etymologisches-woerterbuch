@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="200">
+  
+  <lemma>berbece</lemma>
+  
+  <lemma_variants>(berbec)</lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. birbec, birbeacĭ (hei den Farse­rioten), mgl. birbeț, ir. birbece]</variants>
+   
+  <!-- Assuming birbeatse -> birbeacĭ, birbetsi -> birbeț, birbetse -> birbece -->
+  
+  <definition>„Hammel“</definition>
+  
+  <etymology source="Dens. H. l. r. 99">
+    
+    <etymon lang="Lat">VERVĒX, -ĒCEM</etymon>
+     (=
+    <etymon lang="Lat">VERVEX</etymon>
+    ) 
+    <!-- Assuming BrRBEx -> VERVĒX -->
+    
+    <cognates>
+      
+      <form lang="obw">berbeis</form>
+      ,
+
+      <form lang="sard-log">berbeghe, barveghe</form>
+      (
+      <form lang="it">berbice</form>
+      , 
+      <form lang="fr">brebis</form>
+      , 
+      <form lang="a-pv">berbitz</form>
+        
+      <etymon lang="Lat">*VERBICEM</etymon>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt ung. 
+    <form lang="hu">berbécs</form>
+    .
+  </borrowing_note>
+   
+  <!-- Assuming berbees -> berbécs -->
+  
+</entry>

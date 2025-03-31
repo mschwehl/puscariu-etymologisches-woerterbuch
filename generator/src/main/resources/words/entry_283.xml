@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="283">
+  
+  <lemma>căprifoi</lemma>
+   
+  <!-- Assuming eäpriföi -> căprifoi -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Lonicera caprifolium“</definition>
+  
+  <etymology source="Dens. H. l. r. 162">
+    
+    <etymon lang="Lat">CAPRIFOLIUM</etymon>
+     
+    <!-- Assuming carrlroLıum -> CAPRIFOLIUM -->
+    
+    <cognates>
+      
+      <form lang="it">caprifoglio</form>
+      ,
+
+      <form lang="fr">chèvrefeuille</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

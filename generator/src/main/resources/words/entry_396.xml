@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="396">
+  
+  <lemma>coperămînt</lemma>
+   
+  <!-- Assuming coperemânt -> coperămînt -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. acupirămînt, mgl. cupirimînt]</variants>
+   
+  <!-- Assuming acupirămintu -> acupirămînt, cupirimint -> cupirimînt -->
+  
+  <definition>„Decke“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">COOPERIMENTUM</etymon>
+    .
+
+  </etymology>
+  
+</entry>

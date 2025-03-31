@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="224">
+  
+  <lemma>brumă</lemma>
+   
+  <!-- Assuming brimä -> brumă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. &gt;]</variants>
+  
+  <definition>„Reif“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BRŪMA, -AM</etymon>
+     
+    <!-- Assuming erüna -> BRŪMA -->
+    
+    <cognates>
+      
+      <form lang="alb">brymë</form>
+      , 
+      <!-- Assuming brüme, brime -> brymë -->
+      
+      <form lang="it">bruma</form>
+      , 
+      <form lang="a-berg">bruma</form>
+      , 
+      <form lang="pv">bruma</form>
+      , 
+      <form lang="sp">bruma</form>
+      , 
+      <form lang="pg">bruma</form>
+      ,
+
+      <form lang="valses">bruma</form>
+      , 
+      <form lang="ossol">brima</form>
+      , 
+      <!-- Assuming brumme -> bruma, brime -> brima -->
+      
+      <form lang="fr">brume</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_discussion>
+    Um die Bedeutung des rum. Wortes zu erklären, braucht man nicht an 
+    <etymon lang="Lat">PRUĪNA</etymon>
+     zu denken, denn der „Winteranfang“ und der „Winterfrost“ (= lat. 
+    <etymon lang="Lat">PRŪĪNA</etymon>
+    ) ist der „Reif“. Dieselbe Be­deutung hat das Wort im Alb, während es im Pv. Frz. u. Sp. „Nebel“ heißt.
+
+  </semantic_discussion>
+  
+  <reference type="internal">Vgl. brumar.</reference>
+  
+</entry>

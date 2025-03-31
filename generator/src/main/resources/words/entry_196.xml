@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="196">
+  
+  <lemma>beat</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[mgl. ir. bet]</variants>
+  
+  <definition>„betrunken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*BIBITUS, -A, -UM</etymon>
+     
+    <!-- Assuming *zisitus -> *BIBITUS -->
+    
+    <cognates>
+      
+      <form lang="a-sp">beodo</form>
+      , 
+      <form lang="n-sp">bebido</form>
+      , vgl. 
+      <form lang="fr">boîte?</form>
+      , 
+      <form lang="it">bettola</form>
+       „Kneipe“. 
+      <!-- boite seems unlikely -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. biut, öfter îmbătat].</variants>
+   
+  <!-- Assuming mbitât -> îmbătat -->
+  
+</entry>

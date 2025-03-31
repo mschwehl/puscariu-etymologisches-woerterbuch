@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="119">
+  
+  <lemma>arie</lemma>
+  
+  <lemma_variants>
+    (+ 
+    <form>are</form>
+     
+    <source_ref>Varl. Caz. 1643 II 89b</source_ref>
+    . dial. 
+    <form>are</form>
+     
+    <source_ref>Conv. lit. XX, 1004</source_ref>
+    )
+  </lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. ary(i)e, mgl. äryie]</variants>
+   
+  <!-- Assuming dry(de -> ary(i)e -->
+  
+  <definition>„Tenne“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AREA, -AM</etymon>
+     
+    <!-- Assuming arra -> AREA -->
+    
+    <cognates>
+      
+      <form lang="it">aja</form>
+      ,
+
+      <form lang="eng">era</form>
+      ,
+
+      <form lang="pv">eira</form>
+      , 
+      <form lang="pg">eira</form>
+      ,
+
+      <form lang="fr">aire</form>
+      ,
+
+      <form lang="sp">era</form>
+      ,
+
+      <comment>
+        (vgl. alb. 
+        <form lang="alb">*erë</form>
+        , in 
+        <form>erëmitë</form>
+         „Dreschwerkzeuge“, dagegen ist alb. 
+        <form lang="alb">arë</form>
+          
+        <etymon lang="Lat">ARVUM</etymon>
+        ).
+      </comment>
+       
+      <!-- Assuming ereni-te -> erëmitë -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="189">
+  
+  <lemma>bășică</lemma>
+  
+  <lemma_variants>(beșică)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. bișică, mgl. bișocă]</variants>
+  
+  <definition>„Blase‘</definition>
+  
+  <etymology source="Zeitschr. f. österreich. Gymn. 1862, S. 329; Meyer-Lübke: Ital. Gramm. 97">
+    
+    <etymon lang="Lat">VESĪCA, -AE</etymon>
+     (vgl. 
+    <form>vessica</form>
+     im VI Jh.)
+
+    <cognates>
+      
+      <form lang="alb">fshikë</form>
+      ,
+
+      <form lang="it">vescica</form>
+      ,
+
+      <form lang="tosk">bussiga</form>
+      , 
+      <form lang="sic">bussiga</form>
+      , 
+      <!-- Assuming tosk. sie. -> Tusc.? Sic.? -->
+      
+      <form lang="gombit">besiga</form>
+      , 
+      <form lang="aret">busica</form>
+      ,
+
+      <form lang="piac">bissiga?</form>
+      , 
+      <form lang="parm">bissiga?</form>
+      , 
+      <form lang="mod">bissiga?</form>
+      , 
+      <!-- Assuming ‚psiga, -> bissiga? -->
+      
+      <form lang="pirano">bissiga</form>
+      , 
+      <form lang="muggia">bissiga</form>
+      , 
+      <form lang="rovigno">bissiga</form>
+      ,
+
+      <form lang="sard">busiga</form>
+      ,
+
+      <form lang="metz">p'şey'?</form>
+      , 
+      <form lang="beltort">p'soey'?</form>
+      , 
+      <!-- Needs verification -->
+      
+      <form lang="pg">bexiga</form>
+      
+      <comment>
+        (basc. 
+        <form lang="eu">bechigue, bechique, bichika</form>
+        )
+      </comment>
+      ;
+
+      <form lang="it">vescica</form>
+      , 
+      <form lang="rtr">veschia</form>
+      , 
+      <form lang="fr">vessie</form>
+      , 
+      <form lang="pv">vesiga</form>
+      , 
+      <form lang="sp">vejiga</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem Rum. stammt serb. 
+    <form lang="sr">bešika</form>
+    .
+  </borrowing_note>
+  
+  <semantic_note>
+    „Harnblase“ heißt 
+    <form>bășica udului</form>
+    .
+  </semantic_note>
+   
+  <!-- Assuming bäsica udului -> bășica udului -->
+  
+</entry>

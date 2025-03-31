@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="591">
+  
+  <lemma>făurar</lemma>
+   
+  <!-- Assuming făuvâr -> făurar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. flivar? olymp.-wal. flevar?, ir. fauror]</variants>
+  
+  <definition>„Februar“</definition>
+  
+  <etymology source="C. I. L. IX, 3160 etc.">
+    
+    <etymon lang="Lat">FEBRUARIUS, -UM</etymon>
+     (= 
+    <etymon lang="Lat">FEBRUARIUS</etymon>
+    ) 
+    <!-- Assuming rtprarıes -> FEBRUARIUS -->
+    
+    <cognates>
+      
+      <form lang="it">febbraio</form>
+      , 
+      <form lang="cal">frevaru</form>
+      , 
+      <form lang="sard">frearzu</form>
+      , 
+      <form lang="frl">freâr</form>
+      , 
+      <form lang="pv">feurier</form>
+      , 
+      <form lang="fr">février</form>
+      , 
+      <form lang="cat">febrer</form>
+      , 
+      <form lang="sp">febrero</form>
+      , 
+      <form lang="pg">fevereiro</form>
+      . 
+      <!-- Assuming febrajo -> febbraio, frevar -> freâr, fevrier -> février, hebrero -> febrero -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <folk_etymology_note>
+    Da man aber in 
+    <form>făurar</form>
+     eine Weiterbildung mit dem Suffix 
+    <suffix>-ar</suffix>
+    , welches eine Beschäftigung angibt, sah, fühlte man 
+    <form>făurar</form>
+     = 
+    <form>faur</form>
+     „Schmied“, daher auch umgekehrt 
+    <form>Faur</form>
+     (
+    <form>luna lui Faur</form>
+    ) = „Februar“.
+
+  </folk_etymology_note>
+  
+  <variants>[ar. ge­wöhnlich Scurtu (alb., mgl. sețcă)].</variants>
+   
+  <!-- Assuming setsca -> sețcă -->
+  
+</entry>

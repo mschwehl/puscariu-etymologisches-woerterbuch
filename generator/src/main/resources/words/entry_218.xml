@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="218">
+  
+  <lemma>brățară</lemma>
+   
+  <!-- Assuming bräfäre -> brățară -->
+  
+  <lemma_variants>(brățară)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Armband“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">BRACHIALE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">bracciale</form>
+      ,
+
+      <form lang="a-berg">bratzal</form>
+      ,
+
+      <form lang="ven">brassal</form>
+      , 
+      <!-- Assuming braissal -> brassal -->
+      
+      <form lang="sp">brazal</form>
+      ,
+
+      <form lang="pg">braçal</form>
+      . 
+      <!-- Assuming bracal -> braçal -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. bilăgic, biligică].</variants>
+   
+  <!-- Assuming bildZeke, bilidZueä -> bilăgic, biligică -->
+  
+</entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="624">
+  
+  <lemma>floc</lemma>
+  
+  <pos>sm.</pos>
+  
+  <related_form>
+    
+    <form>floacă</form>
+     
+    <pos>sf.</pos>
+    
+  </related_form>
+  
+  <variants>[ar. floc]</variants>
+  
+  <definition>„Flocke (Haar, Wolle), Haar (von Tieren), Schamhaar“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FLOCCUS, -UM</etymon>
+     
+    <!-- Assuming rröccus -> FLOCCUS -->
+    
+    <cognates>
+      
+      <form lang="alb">flok, floke</form>
+      , 
+      <form lang="it">fiocco, fiocca</form>
+      , 
+      <form lang="sard">fiocu?</form>
+      , 
+      <form lang="eng">floc?</form>
+      , 
+      <form lang="pv">floc</form>
+      , 
+      <form lang="fr">floc</form>
+      , 
+      <form lang="cat">floc</form>
+      , (
+      <form lang="fr">floche</form>
+      ), 
+      <form lang="sp">flueco?</form>
+      , 
+      <form lang="pg">choco?</form>
+      . 
+      <!-- Interpretation needed for fioku, flok’, Ilueco, choco -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. păr].</variants>
+   
+  <!-- Assuming per -> păr -->
+  
+</entry>

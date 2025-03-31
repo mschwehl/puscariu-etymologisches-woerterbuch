@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="588">
+  
+  <lemma>fată</lemma>
+   
+  <!-- Assuming fâtă -> fată -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. feată, mgl. fetă, ir. fete]</variants>
+  
+  <definition>„Mädchen“</definition>
+  
+  <etymology source="Gilliéron: Atlas linguistique de la France, II, 173">
+    
+    <etymon lang="Lat">FĒTA, -AM</etymon>
+     
+    <!-- Assuming {FETA -> <FĒTA -->
+    
+    <cognates>
+      
+      <form lang="piem">fea</form>
+      , 
+      <form lang="frl">feda</form>
+      , 
+      <form lang="lomb">feda</form>
+      , 
+      <form lang="dauph">feia</form>
+      , 
+      <form lang="béarn">heda?</form>
+      , 
+      <form lang="lyon">feia?</form>
+      , 
+      <form lang="wallon">?</form>
+       etc. in der Bedeutung „Schaf“. 
+      <!-- Interpretation needed for hede, feya, fiteye -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Im Vokativ (statt: 
+    <form>fată</form>
+    ) meist 
+    <form>fă! fa!</form>
+     als Ansprache der Frauen. 
+    <form>Fătărău, feteleu</form>
+     sm. „Hermaphrodit“.
+  </usage_note>
+  
+  <homonym_distinction>
+    Verschieden davon ist ar. 
+    <form>fatăză?</form>
+     „Fee“ und alb. 
+    <form lang="alb">fatezë</form>
+     (aus 
+    <etymon lang="Lat">FATUM</etymon>
+    ).
+  </homonym_distinction>
+  
+</entry>

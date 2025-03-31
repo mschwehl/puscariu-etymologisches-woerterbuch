@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="241">
+  
+  <lemma>bute</lemma>
+   
+  <!-- Assuming bite -> bute -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, mgl. buti]</variants>
+   
+  <!-- Assuming m -> = -->
+  
+  <definition>„Faß“</definition>
+  
+  <etymology source="Dens. H. l. r. 200; Körting Nr. 1671; G. Meyer: Etym. Wörtb. d. alb. Spr. 56—57; Lork: Altberg. Sprachdenkm. 169; Schuchardt, Zeitschr. rom. Phil. XV, 984">
+    
+    <etymon lang="Lat">BUTTIS, -EM</etymon>
+     (Belege bei Dens.) 
+    <!-- Assuming eürrıs, -wu -> BUTTIS, -EM -->
+    
+    <cognates>
+      
+      <form lang="alb">but(ë)</form>
+      ,
+
+      <form lang="it">botte</form>
+      ,
+
+      <form lang="eng">but?</form>
+      , 
+      <!-- Assuming buot -> but? -->
+      
+      <form lang="a-frz">bote</form>
+      ,
+
+      <form lang="pv">bota</form>
+      , 
+      <form lang="sp">bota</form>
+      , 
+      <form lang="pg">bota</form>
+      .
+
+    </cognates>
+    
+    <comment>Das Wort hat in Rum. u. Rom. zahlreiche Ableitungen.</comment>
+    
+  </etymology>
+  
+</entry>

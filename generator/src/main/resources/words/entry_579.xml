@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="579">
+  
+  <lemma>fapt</lemma>
+  
+  <pos>sm.</pos>
+  
+  <related_form>
+    
+    <form>faptă</form>
+     
+    <pos>sf.</pos>
+    
+  </related_form>
+  
+  <definition>„Tat“</definition>
+  
+  <variants>[ar. faptă, mgl. fapt]</variants>
+   
+  <!-- Assuming fut -> fapt -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">FACTUM (FACTA)</etymon>
+     
+    <!-- Assuming racrum (eacra) -> FACTUM (FACTA) -->
+    
+    <cognates>
+      
+      <form lang="it">fatto</form>
+      , 
+      <form lang="eng">fat</form>
+      , 
+      <form lang="piem">fait</form>
+      , 
+      <form lang="fr">fait</form>
+      , 
+      <form lang="pv">fait</form>
+      , 
+      <form lang="sp">hecho</form>
+      , 
+      <form lang="pg">feito</form>
+      . 
+      <!-- Assuming fatlo -> fatto, fats -> fait -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    <example>Faptul dimineții</example>
+     „Tagesanbruch“.
+  </usage_note>
+  
+</entry>

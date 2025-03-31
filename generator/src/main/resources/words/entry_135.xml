@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="135">
+  
+  <lemma>asin</lemma>
+   
+  <!-- Assuming dsăn -> asin -->
+  
+  <lemma_variants>(asin, asîn)</lemma_variants>
+   
+  <!-- Assuming asin -> asîn -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. osir]</variants>
+  
+  <definition>„Esel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ASINUS, -UM</etymon>
+     
+    <!-- Assuming asınus -> ASINUS -->
+    
+    <cognates>
+      
+      <form lang="it">asino</form>
+      ,
+
+      <form lang="fr">âne</form>
+      ,
+
+      <form lang="sp">asno</form>
+      , 
+      <form lang="pg">asno</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. gumar, magar].</variants>
+   
+  <!-- Assuming gunär, tar -> gumar, magar -->
+  
+</entry>

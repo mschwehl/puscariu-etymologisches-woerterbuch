@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="322">
+  
+  <lemma>cauă</lemma>
+   
+  <!-- Assuming eduä -> cauă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Popanz, Schreckbild‘</definition>
+  
+  <etymology_discussion source="Tiktin: Wörtb. 314">
+    
+    <rejected_etymology>
+      soll nach Tiktin aut ein lat. Imp. 
+      <etymon lang="Lat">CAVE</etymon>
+       (von 
+      <etymon lang="Lat">CAVEO</etymon>
+      ) beruhen, was wenig wahr­scheinlich ist.
+
+    </rejected_etymology>
+    
+  </etymology_discussion>
+  
+</entry>

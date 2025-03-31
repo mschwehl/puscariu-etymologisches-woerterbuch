@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="486">
+  
+  <lemma>dator</lemma>
+  
+  <pos>sm.</pos>
+  
+  <usage>
+    (aus älterem 
+    <form>detor</form>
+     
+    <source_ref>Ps. Sch. 368</source_ref>
+     (nach 
+    <form>dau</form>
+    ))
+  </usage>
+   
+  <!-- Assuming dan -> dau -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">DEBITORIUS, -UM</etymon>
+     (= 
+    <etymon lang="Lat">DEBITOR</etymon>
+    : 
+    <cognates>
+      <form lang="a-perug">debetore?</form>
+      , 
+      <form lang="pv">devedor?</form>
+      , 
+      <form lang="pv">deudor</form>
+      , 
+      <form lang="a-frz">detor?</form>
+      , 
+      <form lang="sp">deudor</form>
+      , 
+      <form lang="pg">devedor</form>
+    </cognates>
+    , vgl. alb. 
+    <form lang="alb">detyrë</form>
+      
+    <etymon lang="Lat">*DEBITURA</etymon>
+    . 
+    <!-- Interpretation needed for devefore, deveire, detre; DrBiTüRA -> *DEBITURA -->
+    
+  </etymology>
+  
+  <variants>[ar. burĝili].</variants>
+   
+  <!-- Assuming burdZili -> burĝili -->
+  
+</entry>

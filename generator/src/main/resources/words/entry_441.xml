@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="441">
+  
+  <lemma>cuminec</lemma>
+   
+  <!-- Assuming cuminee -> cuminec -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. cumnic, W. cuminic?, cuminic P. mgl. cuminic]</variants>
+   
+  <!-- Assuming cumânie -> cuminic? -->
+  
+  <definition>„zum Abendmahl gehen“</definition>
+  
+  <etymology source="Schuch. Vok. II, 193; Dens. H. l. r. 188">
+    
+    <etymon lang="Lat">*COMMUNICO, -ARE</etymon>
+     (für 
+    <etymon lang="Lat">COMMUNICO</etymon>
+    , mit diesem Sinne bei Kirchenschriftstellern) 
+    <!-- Assuming *comminico -> *COMMUNICO -->
+    
+    <cognates>
+      
+      <form lang="alb">kungoj</form>
+      , 
+      <form lang="lomb">scominiegar?</form>
+      , 
+      <form lang="gen">cominigà?</form>
+      , 
+      <form lang="erto?">comeligar?</form>
+      , 
+      <form lang="a-frz">acomungier?</form>
+      , 
+      <form lang="pv">comenjar?</form>
+      , 
+      <form lang="navarr">comungar?</form>
+      . 
+      <!-- Interpretation needed for kungon, skuminiar, kominniga, komelige, acommengier, comenegar, komingar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

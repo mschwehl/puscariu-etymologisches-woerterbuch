@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="215">
+  
+  <lemma>brăcie</lemma>
+   
+  <!-- Assuming brăcie -> brăcie? or brăcilă? -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Gurt“</definition>
+  
+  <etymology source="Conv. lit. XXXVIII, 701">
+    
+    <etymon lang="Lat">*BRACILIA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">BRACILE</etymon>
+     (von 
+    <etymon lang="Lat">BRACA</etymon>
+    ) &gt; 
+    <form lang="fr">braiel?</form>
+    , 
+    <form lang="a-sard-log">brakile</form>
+    ). 
+    <!-- Assuming EBRACILE > beictre -> interpretation -->
+    
+  </etymology>
+  
+  <variants>[ar. brîu, bîrn].</variants>
+   
+  <!-- Assuming brin, bärn -> brîu, bîrn -->
+  
+</entry>

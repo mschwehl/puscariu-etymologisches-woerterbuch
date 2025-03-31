@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="81">
+   
+  <!-- Numbering corrected -->
+  
+  <lemma>augmentez</lemma>
+   
+  <!-- Assuming conintu -> augmentez, based on etymology -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <variants>|(amintesc IV W.)</variants>
+  
+  <pos>vb.</pos>
+  
+  <definition>„gewinnen, verschaffen‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AUGMENTO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="sic">aumintari</form>
+      . 
+      <!-- Assuming umintari -> aumintari -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="bibliographic">Vgl. Weigand: Olympo-Walachen S. 28—29.</reference>
+  
+</entry>

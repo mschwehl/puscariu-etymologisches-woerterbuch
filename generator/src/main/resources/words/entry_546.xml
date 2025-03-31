@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="546">
+  
+  <lemma>dos</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. dos]</variants>
+  
+  <definition>„Rücken“</definition>
+  
+  <etymology source="Archiv lat. Lex. X, 44; Seelmann 330; Lindsay II § 104">
+    
+    <etymon lang="Lat">DOSSŨM (= DORSUM)</etymon>
+     
+    <!-- Assuming păssum -> DOSSŨM -->
+    
+    <cognates>
+      
+      <form lang="it">dosso</form>
+      , 
+      <form lang="sard">dossu</form>
+      , 
+      <form lang="pv">dos</form>
+      , 
+      <form lang="fr">dos</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. plătare].</variants>
+   
+  <!-- Assuming plătări -> plătare -->
+  
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="67">
+  
+  <lemma>alt</lemma>
+  
+  <feminine_neuter>altă</feminine_neuter>
+  
+  <pos>pron.</pos>
+   
+  <!-- Should be adj./pron. -->
+  
+  <variants>[ar. altu, mgl. &gt;, ir. ot]</variants>
+   
+  <!-- ot -> olt? -->
+  
+  <definition>„der andere“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALTER, -A, -UM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">altro</form>
+      ,
+
+      <form lang="sic">autru</form>
+      ,
+
+      <form lang="sard-gall">altu</form>
+      , 
+      <!-- Assuming sard. g. -> Gallurese -->
+      
+      <form lang="eng">oter</form>
+      , 
+      <!-- Assuming ofer -> oter -->
+      
+      <form lang="pv">autre</form>
+      , 
+      <form lang="fr">autre</form>
+      ,
+
+      <form lang="wall">aut</form>
+      , 
+      <form lang="sp">otro</form>
+      , 
+      <form lang="pg">outro</form>
+      . 
+      <!-- waatl. -> Wallonisch? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

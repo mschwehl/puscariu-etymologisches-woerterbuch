@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="80">
+   
+  <!-- Jump in numbering? 80 -> 91 in original text? Assuming 80 is correct -->
+  
+  <lemma>amîndoi</lemma>
+   
+  <!-- Assuming amindöi -> amîndoi -->
+  
+  <pos>num.</pos>
+  
+  <variants>[ar. (a)mîndoili, auch samîndoili und übertragen: amîntreili, -patruli, šimîndoili, ir. amîndoi]</variants>
+   
+  <!-- Assuming (Samindoili, Simindoili -->
+  
+  <definition>„beide“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*AMBINDUI</etymon>
+     (für *AMBIDUO) 
+    <!-- Assuming * AMINDUL -> *AMBINDUI -->
+    
+    <cognates>
+      
+      <form lang="it">amendue</form>
+      ,
+
+      <form lang="eng">amenduos</form>
+      
+      <comment>(eng. amandos, nach Schuchardt: AMBO AD DUOS)</comment>
+      ,
+vgl. 
+      <form lang="a-frz">andui</form>
+      . 
+      <!-- Assuming andın -> andui -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

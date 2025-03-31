@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="221">
+  
+  <lemma>broască</lemma>
+   
+  <!-- Assuming brodscä -> broască -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. = „Schildkröte“, wie alb., in Vlaho-Clisura „Frosch“, mgl. =]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„Frosch“</definition>
+  
+  <etymology_discussion source="Nigra: Archivio glott. ital. XV, 494 ff.; G. Meyer: Indogerm. Forsch. VI, 107; Etym. Wörtb. der alb. Sprache 47; Dens. H. l. r. 199">
+    
+    <etymology>
+      
+      <etymon lang="Lat">*BROASCA, -AM</etymon>
+       
+      <!-- Assuming *"prösca -> *BROASCA -->
+      
+      <cognates>
+        
+        <form lang="alb">breshkë</form>
+         „Schildkröte“. 
+        <!-- Assuming breske -> breshkë -->
+        
+      </cognates>
+      
+    </etymology>
+    Ein 
+    <etymon lang="Lat">*BROSCUS, -UM</etymon>
+     setzt Nigra auch für 
+    <cognates>
+      <form lang="it">rospo</form>
+      , 
+      <form lang="a-ver">rosco</form>
+      , 
+      <form lang="trient">rosch</form>
+      , 
+      <form lang="eng">ruosc</form>
+      , 
+      <form lang="a-frz">broisse?</form>
+      , 
+      <form lang="sard">bruxu?</form>
+      , 
+      <form lang="sp">brujo?</form>
+    </cognates>
+     „Frosch'‘ voraus, das er mit 
+    <etymon lang="Lat">BRUSCUS = RUBETA</etymon>
+     bei Papias zusammenstellt. Das 
+    <phoneme>o</phoneme>
+     aus 
+    <phoneme>u</phoneme>
+     erklärt sich am besten durch Kontamination mit griech. 
+    <etymon lang="Gr">βρόταχος</etymon>
+    , worauf auch cal. 
+    <form lang="cal">vrotacu</form>
+     deutet. Letzteres scheint ins Volkslat. als 
+    <etymon lang="Lat">*BROTĂCUS, -UM</etymon>
+    : rum. 
+    <form>brotac</form>
+     sm. „Kröte“ (betont nach dem Suffix 
+    <suffix>-ac</suffix>
+    , aber mgl. 
+    <form>brotác</form>
+    ), alb. 
+    <form lang="alb">bretk</form>
+    , sic. 
+    <form lang="sic">vròtacu</form>
+     und als 
+    <etymon lang="Lat">*BROTICUS, -UM</etymon>
+    : rum. 
+    <form>brotăcel</form>
+     sm. [ar. 
+    <form>broatic(ă)</form>
+    ] „Frosch“ übergegangen zu sein. 
+    <!-- Assuming brotde -> brotac, brodtee -> brotăcel -->
+    
+  </etymology_discussion>
+  
+</entry>

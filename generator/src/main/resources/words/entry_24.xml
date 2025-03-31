@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="24">
+  
+  <lemma>adevăr</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Wahrheit“</definition>
+  
+  <etymology_discussion>
+    
+    <comment>
+      Früher Adj. (
+      <example>închinători cei ade­veri</example>
+       
+      <source_ref>Varl. Caz. 1643 f. 159</source_ref>
+      ), ursprünglich Adv. „wahr“ (
+      <example>grăiesc adevăr</example>
+       = rede wahr, dann: rede Wahrheit), ist eine Zusammensetzung
+    </comment>
+    
+    <etymology>
+      
+      <etymon lang="Lat">AD + AD-VERUM &gt; *ADVERUM</etymon>
+       
+      <!-- Assuming FAVVERUN is OCR error -->
+      
+      <comparison>
+        (ar. 
+        <form>aver</form>
+        , vgl. 
+        <cognates>
+          <form lang="it">davvero</form>
+          , 
+          <form lang="lanc">adda­verg</form>
+          , 
+          <form lang="rtr">da daveiras</form>
+        </cognates>
+        ).
+      </comparison>
+       
+      <!-- lanc. = Lanciano? -->
+      
+    </etymology>
+    
+    <variants>[ar. aliha].</variants>
+    
+  </etymology_discussion>
+  
+</entry>

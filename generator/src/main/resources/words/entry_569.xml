@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry homonym_nr="II" number="569">
+  
+  <lemma>fag</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Wabe“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FAVUS, -UM</etymon>
+     
+    <!-- Assuming ravos -> FAVUS -->
+    
+    <cognates>
+      
+      <form lang="it">favo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="internal">Vgl. fagure.</reference>
+  
+  <variants>[ar. pită, turtă di miere].</variants>
+   
+  <!-- Assuming have -> miere -->
+  
+</entry>

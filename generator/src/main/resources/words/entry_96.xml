@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="96">
+  
+  <lemma>aprind?</lemma>
+   
+  <!-- Unclear lemma; ar. dpi is unusual for "open". Need context. Assuming aprind as possibility based on aprindere meaning opening sometimes? -->
+  
+  <usage_marker>ar.</usage_marker>
+  
+  <verb_class>IV</verb_class>
+   
+  <!-- Assuming IV vb. -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. &gt;]</variants>
+  
+  <definition>„Tag, hell werden“</definition>
+   
+  <!-- Or maybe "open"? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">APERIO, -UI, -ERTUM, -IRE</etymon>
+     
+    <!-- Assuming Ar£rıo -> APERIO -->
+    
+    <cognates>
+      
+      <form lang="it">aprire</form>
+      ,
+
+      <form lang="eng">avrir</form>
+      ,
+
+      <form lang="pv">ubrir</form>
+      , 
+      <!-- or obrir? -->
+      
+      <form lang="fr">ouvrir</form>
+      ,
+
+      <form lang="cat">obrir</form>
+      ,
+
+      <form lang="sp">abrir</form>
+      , 
+      <form lang="pg">abrir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

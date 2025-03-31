@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="390">
+  
+  <lemma>coc</lemma>
+  
+  <inflection>copsei (ban. copș), copt</inflection>
+   
+  <!-- Assuming cop$), copt ET -> copș), copt -->
+  
+  <verb_class>III</verb_class>
+   
+  <!-- Assuming ia: -> III -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. coc, copșu, coptu III, mgl. coc, coptă, copt III, ir. coc, copt III]</variants>
+   
+  <!-- Assuming copău, copă -> copșu, coptă -->
+  
+  <definition>„backen“</definition>
+  
+  <etymology source="Dens. H. l. r. 149; Meyer-Lübke: Einführung § 121">
+    
+    <etymon lang="Lat">COCO, COXĪ, COCTUM, CŎCERE</etymon>
+     (für 
+    <etymon lang="Lat">COQUO</etymon>
+    ) 
+    <!-- Assuming căco -> COCO, CÖCERE -> CŎCERE -->
+    
+    <cognates>
+      
+      <form lang="it">cuocere</form>
+      , 
+      <form lang="fr">cuire</form>
+      , 
+      <form lang="pv">cozer</form>
+      , 
+      <form lang="sp">-cocer</form>
+      , 
+      <form lang="pg">cozer</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <semantic_note>
+    Das rum. Wort heißt auch „reif werden (vom Obst, von Menschen)“, was mit lat. 
+    <etymon lang="Lat">PRAECOX</etymon>
+     u. 
+    <etymon lang="Lat">PRAECOQUIS</etymon>
+     „früh­reif“ zu vergleichen ist.
+
+  </semantic_note>
+  
+  <etymology_discussion source="Cihac I, 58; Schuchardt: Romanische Etymo­logien II, 17f., 23f.; Zeitschrift rom. Phil. XXVI, 322; Rom. XXXII, 75; G. Meyer: Etymol. Wörterb. d. alb. Sprache 194—195, 165">
+    Nicht davon abgeleitet (wie Cihac wollte), sondern mit der von Schuchardt besprochenen Wortsippe hängt rum. 
+    <form>cocă</form>
+     „Herdkuchen, Beere (vgl. 
+    <form>cocăzä?</form>
+    , 
+    <form>cocoașe</form>
+     etc.), Papp“, ar. 
+    <form>cocă</form>
+     „jede eßbare Frucht“, mgl. 
+    <form>cocă</form>
+     „Kopf“, alb. 
+    <form lang="alb">kokë, kokëz?</form>
+     „Beere, Saat­korn“ zusammen. 
+    <!-- Assuming codcäzä -> cocăzä?, kok, kök’e -> kokë, kokëz? -->
+    
+  </etymology_discussion>
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="99">
+  
+  <lemma>aprig</lemma>
+  
+  <feminine_neuter>aprigă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„heftig“</definition>
+  
+  <etymology_discussion>
+    Etymologie unbekannt.
+
+    <rejected_etymology>
+      Allgemein wird als Etymon 
+      <etymon lang="Lat">APRICUS, -A, -UM</etymon>
+       (
+      <cognates>
+        <form lang="pv">abric</form>
+        , 
+        <form lang="fr">abri</form>
+        , 
+        <form lang="sp">abrigo</form>
+      </cognates>
+      ) „sonnig“ angenommen.
+
+    </rejected_etymology>
+    
+    <rejected_etymology source="Tiktin’s (Wörterb. 80)">
+      Ebenso wenig wahrscheinlich ist Tiktin’s 
+      <etymon lang="Lat">*APRICUS, -A, -UM</etymon>
+       von 
+      <etymon lang="Lat">APER</etymon>
+       „wild“. 
+      <!-- Assuming *arriets -> *APRICUS? from APER -->
+      
+    </rejected_etymology>
+    
+  </etymology_discussion>
+  
+</entry>

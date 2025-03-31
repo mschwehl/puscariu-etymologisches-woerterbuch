@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="570">
+  
+  <lemma>fagure</lemma>
+   
+  <!-- Assuming fâgur(e) -> fagure -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Wabe'*</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FAVŬLUS, -UM</etymon>
+    : 
+    <cognates>
+      <form lang="it">fiavo?</form>
+    </cognates>
+    . Das Wort kann indessen auch eine anal. Singularbildung von 
+    <form>faguri</form>
+    , pl. von 
+    <ref target_lemma="fag">fag II</ref>
+     sein. 
+    <!-- Assuming *raviLus -> *FAVŬLUS -->
+    
+  </etymology>
+  
+  <variants>[ar. pită, turtă di miere].</variants>
+   
+  <!-- Assuming nare -> miere -->
+  
+</entry>

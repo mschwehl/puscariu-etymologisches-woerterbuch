@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="403">
+  
+  <lemma>corp</lemma>
+  
+  <usage_marker>mgl.</usage_marker>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Körper“</definition>
+  
+  <etymology source="Zauner: Körperteile 346">
+    
+    <etymon lang="Lat">CORPUS</etymon>
+     
+    <!-- Assuming cönrus -> CORPUS -->
+    
+    <cognates>
+      
+      <form lang="it">corpo</form>
+      , 
+      <form lang="pg">corpo</form>
+      , 
+      <form lang="pv">cors</form>
+      , 
+      <form lang="fr">corps</form>
+      , 
+      <form lang="sp">cuerpo</form>
+      .
+
+    </cognates>
+    
+    <usage_note>
+      Nach einer Mitteilung des H. Papahagi, ist das Wort im Megl. volkstümlich. Im Daco-rum. (
+      <form>corp</form>
+      , volkstüm­lich dafür 
+      <form>trup</form>
+      ) ist es sicherlich gelehrt, wie auch in manchen anderen rom. Sprachen.
+
+    </usage_note>
+    
+  </etymology>
+  
+</entry>

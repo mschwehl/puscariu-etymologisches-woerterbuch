@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="155">
+  
+  <lemma>asud</lemma>
+  
+  <lemma_variants>
+    (asudez 
+    <source_ref>Delavr. Hagi Tudose 36</source_ref>
+    )
+  </lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. =, mgl. sud]</variants>
+  
+  <definition>„schwitzen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">EXSŪDO, -ARE</etymon>
+    .
+
+    <comment>
+      (Im Rom. nur das Simplex 
+      <etymon lang="Lat">SŪDO, -ARE</etymon>
+      : 
+      <cognates>
+        <form lang="it">sudare</form>
+        , 
+        <form lang="eng">suar</form>
+        , 
+        <form lang="pv">suar</form>
+        , 
+        <form lang="cat">suar</form>
+        , 
+        <form lang="pg">suar</form>
+        , 
+        <form lang="fr">suer</form>
+        , 
+        <form lang="sp">sudar</form>
+      </cognates>
+      ).
+    </comment>
+     
+    <!-- Assuming süno -> SŪDO, süar -> suar -->
+    
+  </etymology>
+  
+</entry>

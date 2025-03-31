@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="482">
+  
+  <lemma>dafin</lemma>
+   
+  <!-- Assuming döfin -> dafin -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Lorbeer“</definition>
+  
+  <variants>[ar. dafin, dafnu]</variants>
+  
+  <etymology source="Schuehardt: Vok. II, 412; G. Meyer: Etymol. Wörtb. der alb. Sprache, 58">
+    
+    <etymon lang="Lat">*DAPHINUS, -UM</etymon>
+     (= 
+    <etymon lang="Lat">DAPHNE</etymon>
+     = griech. 
+    <etymon lang="Gr">δάφνη</etymon>
+    )
+vgl. alb. 
+    <form lang="alb">dafinë</form>
+     (nach Suffix 
+    <suffix>-inus</suffix>
+    , woraus ar. 
+    <form>dafină</form>
+    , blg. 
+    <etymon lang="bg">dafina</etymon>
+    ).
+
+  </etymology>
+  
+</entry>

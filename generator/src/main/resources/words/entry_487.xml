@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="487">
+  
+  <lemma>dau</lemma>
+   
+  <!-- Assuming däü -> dau -->
+  
+  <inflection>dădui (dedei, detei, + dedi, ban. dzădz?), dat</inflection>
+   
+  <!-- Assuming dădiii -> dădui, dzedz -> dzădz? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. dau, ded, dat I, mgl. dau, ded, dat I, ir. dowu?, dot I]</variants>
+   
+  <!-- Interpretation needed -->
+  
+  <definition>„geben“</definition>
+  
+  <etymology source="Festschrift zum VIII allg. deutschen Neuphilologentage; Dens H. l. r. 189, 230">
+    
+    <etymon lang="Lat">*DAO (= DO), DEDI, DATUM, DARE</etymon>
+    
+    <cognates>
+      
+      <form lang="it">dare</form>
+      , 
+      <form lang="eng">dar</form>
+      , 
+      <form lang="prov">dar</form>
+      , 
+      <form lang="cat">dar</form>
+      , 
+      <form lang="sp">dar</form>
+      , 
+      <form lang="pg">dar</form>
+      . 
+      <!-- Assuming der -> dar, pr. -> prov. -->
+      
+    </cognates>
+    
+    <usage_note>
+      Zur Phraseologie von 
+      <form>da!</form>
+       vgl. J. U. Jarnik's Artikel und Dens.
+    </usage_note>
+     
+    <!-- Assuming dai -> da! -->
+    
+  </etymology>
+  
+</entry>

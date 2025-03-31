@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="611">
+  
+  <lemma>fin</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. hilin?]</variants>
+   
+  <!-- Assuming Ailin -> hilin? -->
+  
+  <definition>„Täufling“</definition>
+  
+  <etymology source="G. Meyer: Etym. Wörterb. der alb. Spr. 104">
+    
+    <etymon lang="Lat">*FILIANUS, -UM</etymon>
+     (von 
+    <etymon lang="Lat">FILIUS</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="alb">fijan?</form>
+      .
+
+    </cognates>
+    
+    <related_form>
+      Fem. 
+      <form>fină</form>
+      .
+    </related_form>
+    
+  </etymology>
+  
+  <borrowing_note>
+    Aus dem rum. entlehnt ist kl.-russ. 
+    <form lang="ukr">fyn, fyna, fylyna?</form>
+    . (Vgl. ital. in Fiume 
+    <form lang="it-fiume">fiolso?</form>
+     „Täufling“.)
+  </borrowing_note>
+   
+  <!-- Assuming fylyna, fiotso -->
+  
+</entry>

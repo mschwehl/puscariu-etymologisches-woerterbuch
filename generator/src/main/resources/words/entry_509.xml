@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="509">
+  
+  <lemma>deschid</lemma>
+  
+  <lemma_variants>(deschiz)</lemma_variants>
+  
+  <inflection>-isei, -is</inflection>
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar, mgl. dischid?, -is III, ir. deschid?]</variants>
+   
+  <!-- Assuming disklid, resktid -> dischid?, deschid? -->
+  
+  <definition>„öffnen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DISCLUDO, -ŪSI, -ŪSUM, -ĔRE</etymon>
+    : 
+    <!-- Assuming piscLtno, -03i, -Tsum, -Epkrs -> DISCLUDO, -ŪSI, -ŪSUM, -ĔRE -->
+    
+    <cognates>
+      
+      <form lang="it">schiudere</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

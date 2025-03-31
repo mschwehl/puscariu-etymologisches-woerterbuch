@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="101">
+  
+  <lemma>aproape</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. aproape(a), mgl. proapi, ir. (a)prope]</variants>
+  
+  <definition>„nahe“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AD PROPE</etymon>
+    
+    <cognates>
+      
+      <form lang="a-it">approto</form>
+      , 
+      <!-- Assuming a-proto -> approto -->
+      
+      <form lang="a-ver">aproto</form>
+      ,
+
+      <form lang="com">aprof</form>
+      ,
+
+      <form lang="mail">apreuf</form>
+      ,
+
+      <form lang="a-ven">apruovo</form>
+      ,
+
+      <form lang="frl">apru</form>
+      , 
+      <!-- Assuming aprıw -> apru -->
+      
+      <form lang="a-sard">apprope</form>
+      ,
+
+      <form lang="pv">a prop</form>
+      ,
+
+      <form lang="a-frz">apruef</form>
+      , 
+      <!-- Assuming a pruef -> apruef -->
+      
+      <form lang="cat">aprop de</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

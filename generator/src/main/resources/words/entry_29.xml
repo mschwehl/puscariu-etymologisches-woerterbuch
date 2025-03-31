@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="29">
+  
+  <lemma>adulmec</lemma>
+   
+  <!-- Assuming aditimee -> adulmec -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„nachspüren, locken“</definition>
+  
+  <etymology_discussion>
+    
+    <proposed_etymology source="Haşdeu Magn. Etym. Rom. 336—387">
+      
+      <etymon lang="Lat">*ADULMICO, -ARE</etymon>
+      . 
+      <!-- Assuming AnörLnico -> ADULMICO -->
+      
+      <derivation>
+        Aus 
+        <etymon lang="Lat">OLEO, -ERE</etymon>
+         „riechen“ wurde 
+        <etymon lang="Lat">*OLMEN</etymon>
+         „Geruch“ &gt; alt-rum. 
+        <form>olm</form>
+        , daraus 
+        <etymon lang="Lat">*OLMO, -ARE</etymon>
+         &gt; 
+        <form>adîlmă</form>
+         vb. I (
+        <source_ref>Dosoft. Viaţa sf. Sl/,g etc.</source_ref>
+        ), und 
+        <etymon lang="Lat">*ŎLMICO, -ARE</etymon>
+         &gt; 
+        <form>ăulmec</form>
+         (
+        <source_ref>Dosofteiu</source_ref>
+        ), oder 
+        <etymon lang="Lat">*ADOLMICO, -ARE</etymon>
+         &gt; 
+        <form>adulmec</form>
+         „nachriechen, nachspüren“ abgeleitet.
+
+      </derivation>
+      
+    </proposed_etymology>
+    
+    <semantic_shift>
+      Da dieses Wort meist von dem „Nachspüren der Jagdhunde“ gebraucht wurde, konnte es leicht durch 
+      <form>urmă</form>
+       „Spur“ zu 
+      <form>adurmec</form>
+       verwandelt werden.
+    </semantic_shift>
+    
+    <comparison>
+      (vgl. auch 
+      <form lang="a-berg">osmament</form>
+      : „odoratus“ und 
+      <form lang="a-berg">odorus</form>
+      : „cosa da osma“ = 
+      <etymon lang="Gr">ὀσμή</etymon>
+      ).
+    </comparison>
+     
+    <!-- Assuming gr. dom -> gr. osmḗ -->
+    
+  </etymology_discussion>
+  
+</entry>
