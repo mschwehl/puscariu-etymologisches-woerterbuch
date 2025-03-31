@@ -20,11 +20,11 @@ jobs:
         distribution: 'temurin' # Use AdoptOpenJDK
         java-version: '21'      
 
-    - name: Build the project
-      run: mvn clean compile
-
-    - name: Run the project
-      run: mvn exec:java
+    - name: Build and Run Maven in Specific Directory
+      working-directory: ./generator # Replace this with your target directory
+      run: |
+        mvn clean compile
+        mvn exec:java
 
     - name: Prepare files for GitHub Pages
       run: |
