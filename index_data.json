@@ -1,0 +1,3829 @@
+[ {
+  "id" : "1",
+  "l" : "a",
+  "sl" : "a",
+  "d" : "nach, zu, auf",
+  "p" : "präp."
+}, {
+  "id" : "2",
+  "l" : "abät",
+  "sl" : "abat",
+  "d" : "niederhauen, ablenken",
+  "p" : "vb."
+}, {
+  "id" : "3",
+  "l" : "abea",
+  "sl" : "abea",
+  "d" : "kaum",
+  "p" : "adv."
+}, {
+  "id" : "4",
+  "l" : "abure",
+  "sl" : "abure",
+  "d" : "",
+  "p" : null
+}, {
+  "id" : "5",
+  "l" : "aburesc",
+  "sl" : "aburesc",
+  "d" : "dampfen",
+  "p" : "vb."
+}, {
+  "id" : "6",
+  "l" : "ac",
+  "sl" : "ac",
+  "d" : "Nadel",
+  "p" : "sm."
+}, {
+  "id" : "7",
+  "l" : "acăț",
+  "sl" : "acat",
+  "d" : "Die Grundbedeutung des Wortes ist: ergreife, fasse",
+  "p" : "vb."
+}, {
+  "id" : "8",
+  "l" : "acătâre",
+  "sl" : "acatare",
+  "d" : "",
+  "p" : "pron."
+}, {
+  "id" : "9",
+  "l" : "acel(a)",
+  "sl" : "acel(a)",
+  "d" : "jener",
+  "p" : "pron."
+}, {
+  "id" : "10",
+  "l" : "aceră",
+  "sl" : "acera",
+  "d" : "Adler",
+  "p" : "sf."
+}, {
+  "id" : "11",
+  "l" : "acest(a)",
+  "sl" : "acest(a)",
+  "d" : "dieser",
+  "p" : "pron."
+}, {
+  "id" : "12",
+  "l" : "aci",
+  "sl" : "aci",
+  "d" : "hier",
+  "p" : "adv."
+}, {
+  "id" : "13",
+  "l" : "acice",
+  "sl" : "acice",
+  "d" : "hierselbst",
+  "p" : "adv."
+}, {
+  "id" : "14",
+  "l" : "(a)colo",
+  "sl" : "(a)colo",
+  "d" : "dort",
+  "p" : "adv."
+}, {
+  "id" : "15",
+  "l" : "acöper",
+  "sl" : "acoper",
+  "d" : "bedecken",
+  "p" : "vb."
+}, {
+  "id" : "16",
+  "l" : "acru",
+  "sl" : "acru",
+  "d" : "sauer",
+  "p" : "adj."
+}, {
+  "id" : "17",
+  "l" : "acești",
+  "sl" : "acesti",
+  "d" : "so, derart",
+  "p" : "adv."
+}, {
+  "id" : "18",
+  "l" : "acum(a)",
+  "sl" : "acum(a)",
+  "d" : "jetzt",
+  "p" : "adv."
+}, {
+  "id" : "19",
+  "l" : "adăog",
+  "sl" : "adaog",
+  "d" : "vermehren",
+  "p" : "vb."
+}, {
+  "id" : "20",
+  "l" : "adăp",
+  "sl" : "adap",
+  "d" : "tränken",
+  "p" : "vb."
+}, {
+  "id" : "21",
+  "l" : "adăpost",
+  "sl" : "adapost",
+  "d" : "Schutz(dach)",
+  "p" : "sm."
+}, {
+  "id" : "22",
+  "l" : "adăst",
+  "sl" : "adast",
+  "d" : "lange warten",
+  "p" : "vb."
+}, {
+  "id" : "23",
+  "l" : "adecă",
+  "sl" : "adeca",
+  "d" : "nämlich",
+  "p" : "conj."
+}, {
+  "id" : "24",
+  "l" : "adevăr",
+  "sl" : "adevar",
+  "d" : "Wahrheit",
+  "p" : "sm."
+}, {
+  "id" : "25",
+  "l" : "adînc",
+  "sl" : "adinc",
+  "d" : "tief",
+  "p" : "adj."
+}, {
+  "id" : "26",
+  "l" : "adineauri",
+  "sl" : "adineauri",
+  "d" : "vorhin",
+  "p" : "adv."
+}, {
+  "id" : "27",
+  "l" : "adorm",
+  "sl" : "adorm",
+  "d" : "einschlafen",
+  "p" : "vb."
+}, {
+  "id" : "28",
+  "l" : "aduc",
+  "sl" : "aduc",
+  "d" : "bringen",
+  "p" : "vb."
+}, {
+  "id" : "29",
+  "l" : "adulmec",
+  "sl" : "adulmec",
+  "d" : "nachspüren, locken",
+  "p" : "vb."
+}, {
+  "id" : "30",
+  "l" : "adumbresc",
+  "sl" : "adumbresc",
+  "d" : "beschatten‘",
+  "p" : "vb."
+}, {
+  "id" : "31",
+  "l" : "adun",
+  "sl" : "adun",
+  "d" : "vereinigen",
+  "p" : "vb."
+}, {
+  "id" : "32",
+  "l" : "adzün",
+  "sl" : "adzun",
+  "d" : "",
+  "p" : null
+}, {
+  "id" : "33",
+  "l" : "afară",
+  "sl" : "afara",
+  "d" : "draußen, hinaus",
+  "p" : "adv."
+}, {
+  "id" : "34",
+  "l" : "aflu",
+  "sl" : "aflu",
+  "d" : "finde",
+  "p" : "vb."
+}, {
+  "id" : "35",
+  "l" : "afum",
+  "sl" : "afum",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "36",
+  "l" : "afund",
+  "sl" : "afund",
+  "d" : "vertiefen",
+  "p" : "vb."
+}, {
+  "id" : "37",
+  "l" : "ager",
+  "sl" : "ager",
+  "d" : "scharfsinnig, spitzfindig‘",
+  "p" : "adj."
+}, {
+  "id" : "38",
+  "l" : "agru",
+  "sl" : "agru",
+  "d" : "Ackerfeld",
+  "p" : null
+}, {
+  "id" : "39",
+  "l" : "agur",
+  "sl" : "agur",
+  "d" : "prophezeien",
+  "p" : "vb."
+}, {
+  "id" : "40",
+  "l" : "agust",
+  "sl" : "agust",
+  "d" : "August",
+  "p" : "sm."
+}, {
+  "id" : "41",
+  "l" : "aiept",
+  "sl" : "aiept",
+  "d" : "verleiten, schmeicheln",
+  "p" : "vb."
+}, {
+  "id" : "42",
+  "l" : "aiept",
+  "sl" : "aiept",
+  "d" : "aufrichten: werfen‘",
+  "p" : "vb."
+}, {
+  "id" : "43",
+  "l" : "aier",
+  "sl" : "aier",
+  "d" : "Luft",
+  "p" : "sm."
+}, {
+  "id" : "44",
+  "l" : "aimint(r)ea",
+  "sl" : "aimint(r)ea",
+  "d" : "anders",
+  "p" : "adv."
+}, {
+  "id" : "45",
+  "l" : "ainde",
+  "sl" : "ainde",
+  "d" : "anderswo",
+  "p" : "adv."
+}, {
+  "id" : "47",
+  "l" : "aiu",
+  "sl" : "aiu",
+  "d" : "Knoblauch",
+  "p" : "sm."
+}, {
+  "id" : "48",
+  "l" : "aiurea",
+  "sl" : "aiurea",
+  "d" : "anderswo",
+  "p" : "adv."
+}, {
+  "id" : "49",
+  "l" : "ajun",
+  "sl" : "ajun",
+  "d" : "faste",
+  "p" : "vb."
+}, {
+  "id" : "50",
+  "l" : "ajung",
+  "sl" : "ajung",
+  "d" : "einholen, gelangen",
+  "p" : "vb."
+}, {
+  "id" : "51",
+  "l" : "ajut",
+  "sl" : "ajut",
+  "d" : "helfen",
+  "p" : "vb."
+}, {
+  "id" : "52",
+  "l" : "ajutor",
+  "sl" : "ajutor",
+  "d" : "Hilfe",
+  "p" : "sm."
+}, {
+  "id" : "53",
+  "l" : "al",
+  "sl" : "al",
+  "d" : "jener",
+  "p" : "artic."
+}, {
+  "id" : "54",
+  "l" : "alălalt",
+  "sl" : "alalalt",
+  "d" : "der andere",
+  "p" : "pron."
+}, {
+  "id" : "55",
+  "l" : "alb",
+  "sl" : "alb",
+  "d" : "weiß",
+  "p" : "adj."
+}, {
+  "id" : "56",
+  "l" : "albastru",
+  "sl" : "albastru",
+  "d" : "hellblau",
+  "p" : "adj."
+}, {
+  "id" : "57",
+  "l" : "albesc",
+  "sl" : "albesc",
+  "d" : "weiß werden, w. machen",
+  "p" : "vb."
+}, {
+  "id" : "58",
+  "l" : "albie",
+  "sl" : "albie",
+  "d" : "Trog, Flußbett",
+  "p" : "sf."
+}, {
+  "id" : "59",
+  "l" : "albină",
+  "sl" : "albina",
+  "d" : "Biene",
+  "p" : "sf."
+}, {
+  "id" : "60",
+  "l" : "aleg",
+  "sl" : "aleg",
+  "d" : "wählen",
+  "p" : "vb."
+}, {
+  "id" : "61",
+  "l" : "alerg",
+  "sl" : "alerg",
+  "d" : "rennen",
+  "p" : "vb."
+}, {
+  "id" : "62",
+  "l" : "alin",
+  "sl" : "alin",
+  "d" : "besänftigen",
+  "p" : "vb."
+}, {
+  "id" : "63",
+  "l" : "alin",
+  "sl" : "alin",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "64",
+  "l" : "alint",
+  "sl" : "alint",
+  "d" : "verhätscheln",
+  "p" : "vb."
+}, {
+  "id" : "66",
+  "l" : "almăr",
+  "sl" : "almar",
+  "d" : "Schrank",
+  "p" : "sm."
+}, {
+  "id" : "67",
+  "l" : "alt",
+  "sl" : "alt",
+  "d" : "der andere",
+  "p" : "pron."
+}, {
+  "id" : "68",
+  "l" : "altar",
+  "sl" : "altar",
+  "d" : "Altar",
+  "p" : "sm."
+}, {
+  "id" : "69",
+  "l" : "aluat",
+  "sl" : "aluat",
+  "d" : "Hefe, Teig",
+  "p" : "sm."
+}, {
+  "id" : "70",
+  "l" : "alună",
+  "sl" : "aluna",
+  "d" : "Haselnuß",
+  "p" : "sf."
+}, {
+  "id" : "71",
+  "l" : "alung",
+  "sl" : "alung",
+  "d" : "vertreiben",
+  "p" : "vb."
+}, {
+  "id" : "72",
+  "l" : "am",
+  "sl" : "am",
+  "d" : "haben",
+  "p" : "vb."
+}, {
+  "id" : "73",
+  "l" : "amar",
+  "sl" : "amar",
+  "d" : "bitter",
+  "p" : "adj."
+}, {
+  "id" : "74",
+  "l" : "amărăcios",
+  "sl" : "amaracios",
+  "d" : "bitterlich",
+  "p" : "adj."
+}, {
+  "id" : "75",
+  "l" : "amărăsc",
+  "sl" : "amarasc",
+  "d" : "verbittern",
+  "p" : "vb."
+}, {
+  "id" : "76",
+  "l" : "amăreață",
+  "sl" : "amareata",
+  "d" : "Bitterkeit",
+  "p" : "sf."
+}, {
+  "id" : "77",
+  "l" : "ameninț",
+  "sl" : "amenint",
+  "d" : "drohen",
+  "p" : "vb."
+}, {
+  "id" : "78",
+  "l" : "amestec",
+  "sl" : "amestec",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "79",
+  "l" : "amîn",
+  "sl" : "amin",
+  "d" : "auf morgen schieben, verschieben",
+  "p" : "vb."
+}, {
+  "id" : "80",
+  "l" : "amîndoi",
+  "sl" : "amindoi",
+  "d" : "beide",
+  "p" : "num."
+}, {
+  "id" : "81",
+  "l" : "augmentez",
+  "sl" : "augmentez",
+  "d" : "gewinnen, verschaffen‘",
+  "p" : "vb."
+}, {
+  "id" : "82",
+  "l" : "amnăr",
+  "sl" : "amnar",
+  "d" : "Feuerstein",
+  "p" : "sm."
+}, {
+  "id" : "83",
+  "l" : "amorțesc",
+  "sl" : "amortesc",
+  "d" : "starr werden, einschlafen",
+  "p" : "vb."
+}, {
+  "id" : "84",
+  "l" : "amparu",
+  "sl" : "amparu",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "85",
+  "l" : "amò",
+  "sl" : "amo",
+  "d" : "",
+  "p" : "adv."
+}, {
+  "id" : "86",
+  "l" : "amuț",
+  "sl" : "amut",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "87",
+  "l" : "amuțesc",
+  "sl" : "amutesc",
+  "d" : "verstummen",
+  "p" : "vb."
+}, {
+  "id" : "88",
+  "l" : "an",
+  "sl" : "an",
+  "d" : "Jahr",
+  "p" : "sm."
+}, {
+  "id" : "89",
+  "l" : "anin",
+  "sl" : "anin",
+  "d" : "anhängen",
+  "p" : "vb."
+}, {
+  "id" : "90",
+  "l" : "anin",
+  "sl" : "anin",
+  "d" : "Erle",
+  "p" : "sm."
+}, {
+  "id" : "91",
+  "l" : "apă",
+  "sl" : "apa",
+  "d" : "Wasser, Fluß",
+  "p" : "sf."
+}, {
+  "id" : "92",
+  "l" : "apar",
+  "sl" : "apar",
+  "d" : "Wasserträger",
+  "p" : "sm."
+}, {
+  "id" : "93",
+  "l" : "apăr",
+  "sl" : "apar",
+  "d" : "verteidigen, schützen",
+  "p" : "vb."
+}, {
+  "id" : "94",
+  "l" : "apăs",
+  "sl" : "apas",
+  "d" : "drücken",
+  "p" : "vb."
+}, {
+  "id" : "95",
+  "l" : "apos",
+  "sl" : "apos",
+  "d" : "wässerig*",
+  "p" : "adj."
+}, {
+  "id" : "96",
+  "l" : "aprind?",
+  "sl" : "aprind?",
+  "d" : "Tag, hell werden",
+  "p" : "vb."
+}, {
+  "id" : "97",
+  "l" : "aplec",
+  "sl" : "aplec",
+  "d" : "niederbeugen",
+  "p" : "vb."
+}, {
+  "id" : "98",
+  "l" : "apoi",
+  "sl" : "apoi",
+  "d" : "nachher*",
+  "p" : "adv."
+}, {
+  "id" : "99",
+  "l" : "aprig",
+  "sl" : "aprig",
+  "d" : "heftig",
+  "p" : "adj."
+}, {
+  "id" : "100",
+  "l" : "aprind",
+  "sl" : "aprind",
+  "d" : "anzünden",
+  "p" : "vb."
+}, {
+  "id" : "101",
+  "l" : "aproape",
+  "sl" : "aproape",
+  "d" : "nahe",
+  "p" : "adv."
+}, {
+  "id" : "102",
+  "l" : "apropiu",
+  "sl" : "apropiu",
+  "d" : "nähern",
+  "p" : "vb."
+}, {
+  "id" : "103",
+  "l" : "apuc",
+  "sl" : "apuc",
+  "d" : "greifen, fassen; anfangen (vgl. prind, acăț)‘",
+  "p" : "vb."
+}, {
+  "id" : "105",
+  "l" : "ar",
+  "sl" : "ar",
+  "d" : "pflügen",
+  "p" : "vb."
+}, {
+  "id" : "106",
+  "l" : "arăd",
+  "sl" : "arad",
+  "d" : "vergleichen, gleichen",
+  "p" : "vb."
+}, {
+  "id" : "107",
+  "l" : "aramă",
+  "sl" : "arama",
+  "d" : "Kupfer",
+  "p" : "sf."
+}, {
+  "id" : "108",
+  "l" : "arăt",
+  "sl" : "arat",
+  "d" : "zeigen",
+  "p" : "vb."
+}, {
+  "id" : "109",
+  "l" : "arat",
+  "sl" : "arat",
+  "d" : "Pflug",
+  "p" : null
+}, {
+  "id" : "110",
+  "l" : "arătură",
+  "sl" : "aratura",
+  "d" : "Pflügen; Ackerfeld",
+  "p" : "sf."
+}, {
+  "id" : "111",
+  "l" : "arăzbor",
+  "sl" : "arazbor",
+  "d" : "fliegen",
+  "p" : "vb."
+}, {
+  "id" : "112",
+  "l" : "arbor(e)",
+  "sl" : "arbor(e)",
+  "d" : "Baum",
+  "p" : "sm."
+}, {
+  "id" : "113",
+  "l" : "arc",
+  "sl" : "arc",
+  "d" : "Bogen",
+  "p" : "sm."
+}, {
+  "id" : "114",
+  "l" : "ard",
+  "sl" : "ard",
+  "d" : "brennen",
+  "p" : "vb."
+}, {
+  "id" : "115",
+  "l" : "arete",
+  "sl" : "arete",
+  "d" : "Widder",
+  "p" : "sm."
+}, {
+  "id" : "116",
+  "l" : "argint",
+  "sl" : "argint",
+  "d" : "Silber",
+  "p" : "sm."
+}, {
+  "id" : "117",
+  "l" : "argintar",
+  "sl" : "argintar",
+  "d" : "Silberarbeiter",
+  "p" : "sm."
+}, {
+  "id" : "118",
+  "l" : "ariciu",
+  "sl" : "ariciu",
+  "d" : "Igel",
+  "p" : "sm."
+}, {
+  "id" : "119",
+  "l" : "arie",
+  "sl" : "arie",
+  "d" : "Tenne",
+  "p" : "sf."
+}, {
+  "id" : "120",
+  "l" : "arină",
+  "sl" : "arina",
+  "d" : "Sand",
+  "p" : "sf."
+}, {
+  "id" : "121",
+  "l" : "arendez",
+  "sl" : "arendez",
+  "d" : "verpachten",
+  "p" : "vb."
+}, {
+  "id" : "122",
+  "l" : "arinos",
+  "sl" : "arinos",
+  "d" : "sandig",
+  "p" : "adj."
+}, {
+  "id" : "123",
+  "l" : "aripă",
+  "sl" : "aripa",
+  "d" : "Flügel",
+  "p" : "sf."
+}, {
+  "id" : "124",
+  "l" : "arm",
+  "sl" : "arm",
+  "d" : "Oberarm",
+  "p" : "sm."
+}, {
+  "id" : "125",
+  "l" : "armă",
+  "sl" : "arma",
+  "d" : "Waffe",
+  "p" : "sf."
+}, {
+  "id" : "126",
+  "l" : "armăsar",
+  "sl" : "armasar",
+  "d" : "Hengst",
+  "p" : "sm."
+}, {
+  "id" : "127",
+  "l" : "armătură",
+  "sl" : "armatura",
+  "d" : "Rüstung",
+  "p" : "sf."
+}, {
+  "id" : "128",
+  "l" : "armur",
+  "sl" : "armur",
+  "d" : "",
+  "p" : "sm."
+}, {
+  "id" : "129",
+  "l" : "arșiță",
+  "sl" : "arsita",
+  "d" : "Sonnenglut; steiniger Ort‘",
+  "p" : "sf."
+}, {
+  "id" : "130",
+  "l" : "arsură",
+  "sl" : "arsura",
+  "d" : "Verbrennung",
+  "p" : "sf."
+}, {
+  "id" : "131",
+  "l" : "artar",
+  "sl" : "artar",
+  "d" : "Ahorn",
+  "p" : "sm."
+}, {
+  "id" : "132",
+  "l" : "arunc",
+  "sl" : "arunc",
+  "d" : "werfen‘‘",
+  "p" : "vb."
+}, {
+  "id" : "133",
+  "l" : "așa",
+  "sl" : "asa",
+  "d" : "so",
+  "p" : "adv."
+}, {
+  "id" : "134",
+  "l" : "asămăn",
+  "sl" : "asaman",
+  "d" : "vergleichen",
+  "p" : "vb."
+}, {
+  "id" : "135",
+  "l" : "asin",
+  "sl" : "asin",
+  "d" : "Esel",
+  "p" : "sm."
+}, {
+  "id" : "136",
+  "l" : "așchie",
+  "sl" : "aschie",
+  "d" : "Splitter, Spahn",
+  "p" : "sf."
+}, {
+  "id" : "137",
+  "l" : "așchiez",
+  "sl" : "aschiez",
+  "d" : "zersplittern",
+  "p" : "vb."
+}, {
+  "id" : "138",
+  "l" : "ascult",
+  "sl" : "ascult",
+  "d" : "hören, horchen",
+  "p" : "vb."
+}, {
+  "id" : "139",
+  "l" : "ascund",
+  "sl" : "ascund",
+  "d" : "verbergen",
+  "p" : "vb."
+}, {
+  "id" : "140",
+  "l" : "ascut",
+  "sl" : "ascut",
+  "d" : "schleifen",
+  "p" : "vb."
+}, {
+  "id" : "141",
+  "l" : "asemenea",
+  "sl" : "asemenea",
+  "d" : "eben­falls",
+  "p" : "adv."
+}, {
+  "id" : "142",
+  "l" : "așez",
+  "sl" : "asez",
+  "d" : "setzen",
+  "p" : "vb."
+}, {
+  "id" : "143",
+  "l" : "așijdere",
+  "sl" : "asijdere",
+  "d" : "",
+  "p" : "adv."
+}, {
+  "id" : "144",
+  "l" : "asmuț",
+  "sl" : "asmut",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "145",
+  "l" : "asplîng",
+  "sl" : "aspling",
+  "d" : "ausweinen",
+  "p" : "vb."
+}, {
+  "id" : "146",
+  "l" : "aspru",
+  "sl" : "aspru",
+  "d" : "rauh",
+  "p" : "adj."
+}, {
+  "id" : "147",
+  "l" : "ăst(a)",
+  "sl" : "ast(a)",
+  "d" : "dieser, diese, dieses",
+  "p" : "pron."
+}, {
+  "id" : "148",
+  "l" : "astup",
+  "sl" : "astup",
+  "d" : "den Weg abschneiden, begegnen",
+  "p" : "vb."
+}, {
+  "id" : "149",
+  "l" : "astău",
+  "sl" : "astau",
+  "d" : "zugegen sein",
+  "p" : "vb."
+}, {
+  "id" : "150",
+  "l" : "aștept",
+  "sl" : "astept",
+  "d" : "erwarten",
+  "p" : "vb."
+}, {
+  "id" : "151",
+  "l" : "aștern",
+  "sl" : "astern",
+  "d" : "hinstreuen, das Bett machen",
+  "p" : "vb."
+}, {
+  "id" : "152",
+  "l" : "astîmpăr",
+  "sl" : "astimpar",
+  "d" : "mäßigen",
+  "p" : "vb."
+}, {
+  "id" : "153",
+  "l" : "astruca",
+  "sl" : "astruca",
+  "d" : "bedecken (\\n    Jb. VII, 82\\n    , \\n    Liuba-Jana: Mäidan 97\\n    ), begraben",
+  "p" : "vb."
+}, {
+  "id" : "154",
+  "l" : "astup",
+  "sl" : "astup",
+  "d" : "verstopfen",
+  "p" : "vb."
+}, {
+  "id" : "155",
+  "l" : "asud",
+  "sl" : "asud",
+  "d" : "schwitzen",
+  "p" : "vb."
+}, {
+  "id" : "156",
+  "l" : "asupră",
+  "sl" : "asupra",
+  "d" : "oberhalb",
+  "p" : "adv."
+}, {
+  "id" : "157",
+  "l" : "asurzesc",
+  "sl" : "asurzesc",
+  "d" : "werde, mache taub",
+  "p" : "vb."
+}, {
+  "id" : "158",
+  "l" : "ață",
+  "sl" : "ata",
+  "d" : "Zwirn",
+  "p" : "sf."
+}, {
+  "id" : "159",
+  "l" : "atare",
+  "sl" : "atare",
+  "d" : "so beschaffen",
+  "p" : "pron."
+}, {
+  "id" : "160",
+  "l" : "ațin",
+  "sl" : "atin",
+  "d" : "auflauern",
+  "p" : "vb."
+}, {
+  "id" : "161",
+  "l" : "ating",
+  "sl" : "ating",
+  "d" : "an-, berühren",
+  "p" : "vb."
+}, {
+  "id" : "162",
+  "l" : "atît(a)",
+  "sl" : "atit(a)",
+  "d" : "so viel",
+  "p" : "adv."
+}, {
+  "id" : "163",
+  "l" : "ațîț",
+  "sl" : "atit",
+  "d" : "anschüren",
+  "p" : "vb."
+}, {
+  "id" : "164",
+  "l" : "atunci",
+  "sl" : "atunci",
+  "d" : "damals",
+  "p" : "adv."
+}, {
+  "id" : "165",
+  "l" : "au",
+  "sl" : "au",
+  "d" : "oder",
+  "p" : "conj."
+}, {
+  "id" : "166",
+  "l" : "oă",
+  "sl" : "oa",
+  "d" : "Traube",
+  "p" : "sf."
+}, {
+  "id" : "167",
+  "l" : "aud",
+  "sl" : "aud",
+  "d" : "hören",
+  "p" : "vb."
+}, {
+  "id" : "168",
+  "l" : "aulmec",
+  "sl" : "aulmec",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "169",
+  "l" : "aulm",
+  "sl" : "aulm",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "170",
+  "l" : "aur",
+  "sl" : "aur",
+  "d" : "Gold",
+  "p" : "sm."
+}, {
+  "id" : "171",
+  "l" : "aurar",
+  "sl" : "aurar",
+  "d" : "Vergolder",
+  "p" : "sm."
+}, {
+  "id" : "172",
+  "l" : "auresc",
+  "sl" : "auresc",
+  "d" : "vergolden",
+  "p" : "vb."
+}, {
+  "id" : "173",
+  "l" : "aușel",
+  "sl" : "ausel",
+  "d" : "Greis",
+  "p" : "sm."
+}, {
+  "id" : "174",
+  "l" : "austru",
+  "sl" : "austru",
+  "d" : "Südwind",
+  "p" : "sm."
+}, {
+  "id" : "175",
+  "l" : "aură",
+  "sl" : "aura",
+  "d" : "Kühle",
+  "p" : "sf."
+}, {
+  "id" : "176",
+  "l" : "azi",
+  "sl" : "azi",
+  "d" : "heute",
+  "p" : "adv."
+}, {
+  "id" : "177",
+  "l" : "baie",
+  "sl" : "baie",
+  "d" : "Bad, Bergwerk",
+  "p" : "sf."
+}, {
+  "id" : "178",
+  "l" : "băier",
+  "sl" : "baier",
+  "d" : "Band",
+  "p" : "sm."
+}, {
+  "id" : "179",
+  "l" : "batjocură",
+  "sl" : "batjocura",
+  "d" : "Spott",
+  "p" : "sf."
+}, {
+  "id" : "180",
+  "l" : "bale",
+  "sl" : "bale",
+  "d" : "Geifer, Speichel",
+  "p" : "sf. plur. tant."
+}, {
+  "id" : "181",
+  "l" : "balț",
+  "sl" : "balt",
+  "d" : "Schlinge, Schnur",
+  "p" : "sm."
+}, {
+  "id" : "182",
+  "l" : "barbă",
+  "sl" : "barba",
+  "d" : "Bart",
+  "p" : "sf."
+}, {
+  "id" : "183",
+  "l" : "bărbat",
+  "sl" : "barbat",
+  "d" : "Mann",
+  "p" : "sm."
+}, {
+  "id" : "184",
+  "l" : "bărbie",
+  "sl" : "barbie",
+  "d" : "Kinn",
+  "p" : "sf."
+}, {
+  "id" : "185",
+  "l" : "brățat",
+  "sl" : "bratat",
+  "d" : "Maß ausgestreckter Arme‘",
+  "p" : "sm."
+}, {
+  "id" : "186",
+  "l" : "beșesc",
+  "sl" : "besesc",
+  "d" : "pfarzen",
+  "p" : "vb."
+}, {
+  "id" : "187",
+  "l" : "băzăochiu",
+  "sl" : "bazaochiu",
+  "d" : "absonderlich",
+  "p" : "adj."
+}, {
+  "id" : "188",
+  "l" : "beșic",
+  "sl" : "besic",
+  "d" : "voll Blasen werden‘",
+  "p" : "vb."
+}, {
+  "id" : "189",
+  "l" : "bășică",
+  "sl" : "basica",
+  "d" : "Blase‘",
+  "p" : "sf."
+}, {
+  "id" : "190",
+  "l" : "bășină",
+  "sl" : "basina",
+  "d" : "Farzen",
+  "p" : "sf."
+}, {
+  "id" : "191",
+  "l" : "băș",
+  "sl" : "bas",
+  "d" : "küssen",
+  "p" : "vb."
+}, {
+  "id" : "192",
+  "l" : "bat",
+  "sl" : "bat",
+  "d" : "schlagen, klopfen etc.",
+  "p" : "vb."
+}, {
+  "id" : "193",
+  "l" : "bâtă",
+  "sl" : "bata",
+  "d" : "Band, Streifen",
+  "p" : "sf."
+}, {
+  "id" : "194",
+  "l" : "bătaie",
+  "sl" : "bataie",
+  "d" : "Schlacht, Schlägerei",
+  "p" : "sf."
+}, {
+  "id" : "195",
+  "l" : "bătrîn",
+  "sl" : "batrin",
+  "d" : "alt, Greis",
+  "p" : "adj. sb."
+}, {
+  "id" : "196",
+  "l" : "beat",
+  "sl" : "beat",
+  "d" : "betrunken",
+  "p" : "adj."
+}, {
+  "id" : "197",
+  "l" : "beau",
+  "sl" : "beau",
+  "d" : "trinken, saufen",
+  "p" : "vb."
+}, {
+  "id" : "198",
+  "l" : "beci",
+  "sl" : "beci",
+  "d" : "Hammel",
+  "p" : "sm. adj."
+}, {
+  "id" : "199",
+  "l" : "berbecar",
+  "sl" : "berbecar",
+  "d" : "Schafhirt‘",
+  "p" : "sm."
+}, {
+  "id" : "200",
+  "l" : "berbece",
+  "sl" : "berbece",
+  "d" : "Hammel",
+  "p" : "sm."
+}, {
+  "id" : "201",
+  "l" : "biet",
+  "sl" : "biet",
+  "d" : "arm",
+  "p" : "adj."
+}, {
+  "id" : "202",
+  "l" : "binaț",
+  "sl" : "binat",
+  "d" : "Zwillinge*",
+  "p" : "sm. plur. tant."
+}, {
+  "id" : "203",
+  "l" : "bine",
+  "sl" : "bine",
+  "d" : "gut",
+  "p" : "adv."
+}, {
+  "id" : "204",
+  "l" : "biserică",
+  "sl" : "biserica",
+  "d" : "Kirche",
+  "p" : "sf."
+}, {
+  "id" : "205",
+  "l" : "blestem",
+  "sl" : "blestem",
+  "d" : "verfluchen",
+  "p" : "vb."
+}, {
+  "id" : "206",
+  "l" : "blînd",
+  "sl" : "blind",
+  "d" : "zahm",
+  "p" : "adj."
+}, {
+  "id" : "207",
+  "l" : "blîndețe",
+  "sl" : "blindete",
+  "d" : "Zahmheit",
+  "p" : "sf."
+}, {
+  "id" : "208",
+  "l" : "boace",
+  "sl" : "boace",
+  "d" : "Stimme, Wort",
+  "p" : "sf."
+}, {
+  "id" : "209",
+  "l" : "boare",
+  "sl" : "boare",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "210",
+  "l" : "boașe",
+  "sl" : "boase",
+  "d" : "Hoden­sack",
+  "p" : "sf. plur. tant."
+}, {
+  "id" : "211",
+  "l" : "bot",
+  "sl" : "bot",
+  "d" : "Schnauze, Schnabel",
+  "p" : "sm."
+}, {
+  "id" : "212",
+  "l" : "botez",
+  "sl" : "botez",
+  "d" : "taufen",
+  "p" : "vb."
+}, {
+  "id" : "213",
+  "l" : "bou",
+  "sl" : "bou",
+  "d" : "Ochse",
+  "p" : "sm."
+}, {
+  "id" : "214",
+  "l" : "bour",
+  "sl" : "bour",
+  "d" : "Auerochs",
+  "p" : "sm."
+}, {
+  "id" : "215",
+  "l" : "brăcie",
+  "sl" : "bracie",
+  "d" : "Gurt",
+  "p" : "sf."
+}, {
+  "id" : "216",
+  "l" : "brăcire",
+  "sl" : "bracire",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "217",
+  "l" : "braț",
+  "sl" : "brat",
+  "d" : "Arm",
+  "p" : "sm."
+}, {
+  "id" : "218",
+  "l" : "brățară",
+  "sl" : "bratara",
+  "d" : "Armband",
+  "p" : "sf."
+}, {
+  "id" : "219",
+  "l" : "brebenei",
+  "sl" : "brebenei",
+  "d" : "Lerchensporn",
+  "p" : "sm. plur. tant."
+}, {
+  "id" : "220",
+  "l" : "brîncă",
+  "sl" : "brinca",
+  "d" : "Pfote, Hand (\\n    Conv. lit. XX, 1005\\n    , \\n    Frîncu-Candrea: Rom. d. Munţii apuseni 49\\n    )",
+  "p" : "sf."
+}, {
+  "id" : "221",
+  "l" : "broască",
+  "sl" : "broasca",
+  "d" : "Frosch",
+  "p" : "sf."
+}, {
+  "id" : "222",
+  "l" : "brotăcel",
+  "sl" : "brotacel",
+  "d" : "",
+  "p" : "sm."
+}, {
+  "id" : "223",
+  "l" : "brotac",
+  "sl" : "brotac",
+  "d" : "",
+  "p" : "sm."
+}, {
+  "id" : "224",
+  "l" : "brumă",
+  "sl" : "bruma",
+  "d" : "Reif",
+  "p" : "sf."
+}, {
+  "id" : "225",
+  "l" : "brumar",
+  "sl" : "brumar",
+  "d" : "November",
+  "p" : "sm."
+}, {
+  "id" : "226",
+  "l" : "bucă",
+  "sl" : "buca",
+  "d" : "Backe, Wange",
+  "p" : "sf."
+}, {
+  "id" : "227",
+  "l" : "bucată",
+  "sl" : "bucata",
+  "d" : "Bissen, Stück",
+  "p" : "sf."
+}, {
+  "id" : "228",
+  "l" : "bucium",
+  "sl" : "bucium",
+  "d" : "Horn",
+  "p" : "sm."
+}, {
+  "id" : "229",
+  "l" : "bucium",
+  "sl" : "bucium",
+  "d" : "(das Horn) blasen‘, dial. heulen (\\n    Frîncu-Candrea: Rom. din Munţii apuseni, 49\\n    )",
+  "p" : "vb."
+}, {
+  "id" : "230",
+  "l" : "buieștru",
+  "sl" : "buiestru",
+  "d" : "Paßgang, Paßgänger",
+  "p" : "sb. adj."
+}, {
+  "id" : "231",
+  "l" : "buf",
+  "sl" : "buf",
+  "d" : "Uhu, Eule",
+  "p" : "sm."
+}, {
+  "id" : "232",
+  "l" : "bună",
+  "sl" : "buna",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "233",
+  "l" : "bulgăr",
+  "sl" : "bulgar",
+  "d" : "",
+  "p" : "sm."
+}, {
+  "id" : "234",
+  "l" : "bulgur",
+  "sl" : "bulgur",
+  "d" : "",
+  "p" : "sm."
+}, {
+  "id" : "235",
+  "l" : "bulz",
+  "sl" : "bulz",
+  "d" : "Klumpen, Ball",
+  "p" : "sm."
+}, {
+  "id" : "236",
+  "l" : "bumbac",
+  "sl" : "bumbac",
+  "d" : "Baumwolle",
+  "p" : "sm."
+}, {
+  "id" : "237",
+  "l" : "bun",
+  "sl" : "bun",
+  "d" : "gut",
+  "p" : "adj."
+}, {
+  "id" : "238",
+  "l" : "bunătate",
+  "sl" : "bunatate",
+  "d" : "Güte",
+  "p" : "sf."
+}, {
+  "id" : "239",
+  "l" : "burete",
+  "sl" : "burete",
+  "d" : "Schwamm, Pilz‘",
+  "p" : "sm."
+}, {
+  "id" : "240",
+  "l" : "buric",
+  "sl" : "buric",
+  "d" : "Nabel",
+  "p" : "sm."
+}, {
+  "id" : "241",
+  "l" : "bute",
+  "sl" : "bute",
+  "d" : "Faß",
+  "p" : "sf."
+}, {
+  "id" : "242",
+  "l" : "buză",
+  "sl" : "buza",
+  "d" : "Lippe",
+  "p" : "sf."
+}, {
+  "id" : "243",
+  "l" : "ca",
+  "sl" : "ca",
+  "d" : "wie",
+  "p" : "adv."
+}, {
+  "id" : "244",
+  "l" : "ca",
+  "sl" : "ca",
+  "d" : "(auf) daß",
+  "p" : "conj."
+}, {
+  "id" : "245",
+  "l" : "că",
+  "sl" : "ca",
+  "d" : "daß, weil",
+  "p" : "conj."
+}, {
+  "id" : "246",
+  "l" : "căci",
+  "sl" : "caci",
+  "d" : "warum, weil",
+  "p" : "conj."
+}, {
+  "id" : "247",
+  "l" : "cac",
+  "sl" : "cac",
+  "d" : "scheißen‘‘",
+  "p" : "vb."
+}, {
+  "id" : "248",
+  "l" : "căciulă",
+  "sl" : "caciula",
+  "d" : "Peltzmütze",
+  "p" : "sf."
+}, {
+  "id" : "249",
+  "l" : "cad",
+  "sl" : "cad",
+  "d" : "fallen",
+  "p" : "vb."
+}, {
+  "id" : "250",
+  "l" : "cadă",
+  "sl" : "cada",
+  "d" : "Bottich",
+  "p" : "sf."
+}, {
+  "id" : "251",
+  "l" : "căier",
+  "sl" : "caier",
+  "d" : "Rocken",
+  "p" : "sm."
+}, {
+  "id" : "252",
+  "l" : "cal",
+  "sl" : "cal",
+  "d" : "Pferd",
+  "p" : "sm."
+}, {
+  "id" : "253",
+  "l" : "călariu",
+  "sl" : "calariu",
+  "d" : "Reiter, zu Pferd, be­ritten",
+  "p" : "sm. adj."
+}, {
+  "id" : "254",
+  "l" : "calc",
+  "sl" : "calc",
+  "d" : "treten, bügeln",
+  "p" : "vb."
+}, {
+  "id" : "255",
+  "l" : "călcătură",
+  "sl" : "calcatura",
+  "d" : "Treten",
+  "p" : "sf."
+}, {
+  "id" : "256",
+  "l" : "calce",
+  "sl" : "calce",
+  "d" : "calendula, caltha palustris",
+  "p" : "sf."
+}, {
+  "id" : "257",
+  "l" : "călcîi",
+  "sl" : "calcii",
+  "d" : "Ferse",
+  "p" : "sm."
+}, {
+  "id" : "258",
+  "l" : "cald",
+  "sl" : "cald",
+  "d" : "warm",
+  "p" : "adj."
+}, {
+  "id" : "259",
+  "l" : "căldare",
+  "sl" : "caldare",
+  "d" : "Kessel",
+  "p" : "sf."
+}, {
+  "id" : "260",
+  "l" : "căldar",
+  "sl" : "caldar",
+  "d" : "Kessel",
+  "p" : "sm."
+}, {
+  "id" : "261",
+  "l" : "căldură",
+  "sl" : "caldura",
+  "d" : "Wärme",
+  "p" : "sf."
+}, {
+  "id" : "262",
+  "l" : "cale",
+  "sl" : "cale",
+  "d" : "Pfad",
+  "p" : "sf."
+}, {
+  "id" : "263",
+  "l" : "călțămînt",
+  "sl" : "caltamint",
+  "d" : "Beschuhung",
+  "p" : "sm."
+}, {
+  "id" : "264",
+  "l" : "cam",
+  "sl" : "cam",
+  "d" : "dient bei der Steigerung um das wenig ge­steigerte‘ auszudrücken: \\n    un pom cam înalt\\n    : ein etwas hoher Baum.",
+  "p" : "adv."
+}, {
+  "id" : "265",
+  "l" : "cămai",
+  "sl" : "camai",
+  "d" : "",
+  "p" : "adv."
+}, {
+  "id" : "266",
+  "l" : "cămașă",
+  "sl" : "camasa",
+  "d" : "Hemd",
+  "p" : "sf."
+}, {
+  "id" : "267",
+  "l" : "cănuesc?",
+  "sl" : "canuesc?",
+  "d" : "werde grau",
+  "p" : "vb."
+}, {
+  "id" : "268",
+  "l" : "cănură",
+  "sl" : "canura",
+  "d" : "Kämmlinge, Faden aus loser Wolle",
+  "p" : "sf."
+}, {
+  "id" : "269",
+  "l" : "cap",
+  "sl" : "cap",
+  "d" : "Kopf, Ende",
+  "p" : "sm."
+}, {
+  "id" : "270",
+  "l" : "capă",
+  "sl" : "capa",
+  "d" : "Mantel aus Ziegenwolle",
+  "p" : "sf."
+}, {
+  "id" : "271",
+  "l" : "căprărie",
+  "sl" : "caprarie",
+  "d" : "Ziegenstall",
+  "p" : "sf."
+}, {
+  "id" : "272",
+  "l" : "căpăstru",
+  "sl" : "capastru",
+  "d" : "Halfter",
+  "p" : "sm."
+}, {
+  "id" : "273",
+  "l" : "căpăta",
+  "sl" : "capata",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "274",
+  "l" : "căpătîi",
+  "sl" : "capatii",
+  "d" : "Kopfende, Kissen",
+  "p" : "sm."
+}, {
+  "id" : "275",
+  "l" : "căpățînă",
+  "sl" : "capatina",
+  "d" : "Hirnschädel, (Knoblauch)knolle",
+  "p" : "sf."
+}, {
+  "id" : "276",
+  "l" : "căpătîn",
+  "sl" : "capatin",
+  "d" : "Bündel (Holz)",
+  "p" : "sm."
+}, {
+  "id" : "277",
+  "l" : "căpestre?",
+  "sl" : "capestre?",
+  "d" : "Zügel",
+  "p" : null
+}, {
+  "id" : "278",
+  "l" : "căpistere",
+  "sl" : "capistere",
+  "d" : "Backtrog",
+  "p" : "sf."
+}, {
+  "id" : "279",
+  "l" : "capră",
+  "sl" : "capra",
+  "d" : "Ziege",
+  "p" : "sf."
+}, {
+  "id" : "280",
+  "l" : "căprar",
+  "sl" : "caprar",
+  "d" : "Ziegenhirt",
+  "p" : "sm."
+}, {
+  "id" : "281",
+  "l" : "căprină",
+  "sl" : "caprina",
+  "d" : "Ziegenwolle",
+  "p" : "sf."
+}, {
+  "id" : "282",
+  "l" : "căprior",
+  "sl" : "caprior",
+  "d" : "Rehbock, Hindin",
+  "p" : "sm."
+}, {
+  "id" : "283",
+  "l" : "căprifoi",
+  "sl" : "caprifoi",
+  "d" : "Lonicera caprifolium",
+  "p" : "sm."
+}, {
+  "id" : "284",
+  "l" : "car",
+  "sl" : "car",
+  "d" : "Wagen",
+  "p" : "sm."
+}, {
+  "id" : "285",
+  "l" : "car",
+  "sl" : "car",
+  "d" : "(mit dem Wagen) tragen",
+  "p" : "vb."
+}, {
+  "id" : "286",
+  "l" : "cărăbuș",
+  "sl" : "carabus",
+  "d" : "Maikäfer",
+  "p" : "sm."
+}, {
+  "id" : "287",
+  "l" : "cărare",
+  "sl" : "carare",
+  "d" : "Fußweg",
+  "p" : "sf."
+}, {
+  "id" : "288",
+  "l" : "cărbunar",
+  "sl" : "carbunar",
+  "d" : "Köhler",
+  "p" : "sm."
+}, {
+  "id" : "289",
+  "l" : "cărbune",
+  "sl" : "carbune",
+  "d" : "Kohle",
+  "p" : "sm."
+}, {
+  "id" : "290",
+  "l" : "care",
+  "sl" : "care",
+  "d" : "welcher",
+  "p" : "pron."
+}, {
+  "id" : "291",
+  "l" : "călindar",
+  "sl" : "calindar",
+  "d" : "Januar",
+  "p" : "sm."
+}, {
+  "id" : "292",
+  "l" : "cărunt",
+  "sl" : "carunt",
+  "d" : "grau",
+  "p" : "adj."
+}, {
+  "id" : "293",
+  "l" : "car",
+  "sl" : "car",
+  "d" : "Holzwurm‘",
+  "p" : "sm."
+}, {
+  "id" : "294",
+  "l" : "cărnar",
+  "sl" : "carnar",
+  "d" : "Fleischhändler‘",
+  "p" : null
+}, {
+  "id" : "295",
+  "l" : "carne",
+  "sl" : "carne",
+  "d" : "Fleisch",
+  "p" : "sf."
+}, {
+  "id" : "296",
+  "l" : "cărnos",
+  "sl" : "carnos",
+  "d" : "fleischig'*",
+  "p" : "adj."
+}, {
+  "id" : "297",
+  "l" : "căloare",
+  "sl" : "caloare",
+  "d" : "große Hitze",
+  "p" : "sf."
+}, {
+  "id" : "298",
+  "l" : "cărpin",
+  "sl" : "carpin",
+  "d" : "Hagebuche",
+  "p" : "sm."
+}, {
+  "id" : "299",
+  "l" : "carte",
+  "sl" : "carte",
+  "d" : "Brief, Buch",
+  "p" : "sf."
+}, {
+  "id" : "300",
+  "l" : "căruntu?",
+  "sl" : "caruntu?",
+  "d" : "beduselt",
+  "p" : "adj."
+}, {
+  "id" : "301",
+  "l" : "cărunt",
+  "sl" : "carunt",
+  "d" : "grau (von Haaren)",
+  "p" : "adj."
+}, {
+  "id" : "302",
+  "l" : "casă",
+  "sl" : "casa",
+  "d" : "Haus",
+  "p" : "sf."
+}, {
+  "id" : "303",
+  "l" : "caș",
+  "sl" : "cas",
+  "d" : "Käse",
+  "p" : "sm."
+}, {
+  "id" : "304",
+  "l" : "cășar",
+  "sl" : "casar",
+  "d" : "Käsebereiter",
+  "p" : "sm."
+}, {
+  "id" : "305",
+  "l" : "căsătoresc",
+  "sl" : "casatoresc",
+  "d" : "heiraten (von der Frau und vom Manne)",
+  "p" : "vb."
+}, {
+  "id" : "306",
+  "l" : "căsc",
+  "sl" : "casc",
+  "d" : "klaffen, gähnen, weit öffnen",
+  "p" : "vb."
+}, {
+  "id" : "307",
+  "l" : "căscăund",
+  "sl" : "cascaund",
+  "d" : "Dummkopf",
+  "p" : "sm."
+}, {
+  "id" : "308",
+  "l" : "castană",
+  "sl" : "castana",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "309",
+  "l" : "castan",
+  "sl" : "castan",
+  "d" : "Kastanienbaum",
+  "p" : "sm."
+}, {
+  "id" : "310",
+  "l" : "castru",
+  "sl" : "castru",
+  "d" : "Lager, Festungsspiel, Kastell",
+  "p" : "sm."
+}, {
+  "id" : "311",
+  "l" : "cășun",
+  "sl" : "casun",
+  "d" : "verursachen",
+  "p" : "vb."
+}, {
+  "id" : "312",
+  "l" : "cat",
+  "sl" : "cat",
+  "d" : "suchen, Sorge tragen",
+  "p" : "vb."
+}, {
+  "id" : "313",
+  "l" : "cățea",
+  "sl" : "catea",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "314",
+  "l" : "cățel",
+  "sl" : "catel",
+  "d" : "kleiner Hund, kleine Hündin",
+  "p" : "sm."
+}, {
+  "id" : "315",
+  "l" : "cățel",
+  "sl" : "catel",
+  "d" : "Knolle (vom Knoblauch)",
+  "p" : "sm."
+}, {
+  "id" : "316",
+  "l" : "cătenar?",
+  "sl" : "catenar?",
+  "d" : "Schloß",
+  "p" : "sf."
+}, {
+  "id" : "317",
+  "l" : "cățină?",
+  "sl" : "catina?",
+  "d" : "Rückgrat",
+  "p" : null
+}, {
+  "id" : "318",
+  "l" : "cățîn?",
+  "sl" : "catin?",
+  "d" : "Napf",
+  "p" : "sm."
+}, {
+  "id" : "319",
+  "l" : "cătră",
+  "sl" : "catra",
+  "d" : "gegen",
+  "p" : "praep."
+}, {
+  "id" : "320",
+  "l" : "cățuie",
+  "sl" : "catuie",
+  "d" : "Schöpfkelle",
+  "p" : "sf."
+}, {
+  "id" : "321",
+  "l" : "cătușe",
+  "sl" : "catuse",
+  "d" : "Katze",
+  "p" : "sf."
+}, {
+  "id" : "322",
+  "l" : "cauă",
+  "sl" : "caua",
+  "d" : "Popanz, Schreckbild‘",
+  "p" : "sf."
+}, {
+  "id" : "323",
+  "l" : "căuc",
+  "sl" : "cauc",
+  "d" : "Schöpflöffel‘",
+  "p" : "sm."
+}, {
+  "id" : "324",
+  "l" : "gaună",
+  "sl" : "gauna",
+  "d" : "Loch",
+  "p" : "sf."
+}, {
+  "id" : "325",
+  "l" : "caut",
+  "sl" : "caut",
+  "d" : "suchen, Sorge tragen",
+  "p" : "vb."
+}, {
+  "id" : "326",
+  "l" : "ce",
+  "sl" : "ce",
+  "d" : "was",
+  "p" : "pron."
+}, {
+  "id" : "327",
+  "l" : "ceapă",
+  "sl" : "ceapa",
+  "d" : "Zwiebel",
+  "p" : "sf."
+}, {
+  "id" : "328",
+  "l" : "ceară",
+  "sl" : "ceara",
+  "d" : "Wachs, Ohrenschmalz",
+  "p" : "sf."
+}, {
+  "id" : "329",
+  "l" : "cearcăn",
+  "sl" : "cearcan",
+  "d" : "Ring (um die Augen, um den Mond)",
+  "p" : "sm."
+}, {
+  "id" : "330",
+  "l" : "cet",
+  "sl" : "cet",
+  "d" : "",
+  "p" : "pron."
+}, {
+  "id" : "331",
+  "l" : "celar",
+  "sl" : "celar",
+  "d" : "Keller",
+  "p" : "sm."
+}, {
+  "id" : "332",
+  "l" : "cenușe",
+  "sl" : "cenuse",
+  "d" : "Asche",
+  "p" : "sf."
+}, {
+  "id" : "333",
+  "l" : "cep",
+  "sl" : "cep",
+  "d" : "Zapfen",
+  "p" : "sm."
+}, {
+  "id" : "334",
+  "l" : "cepar",
+  "sl" : "cepar",
+  "d" : "Zwiebelhändler‘",
+  "p" : null
+}, {
+  "id" : "335",
+  "l" : "cer",
+  "sl" : "cer",
+  "d" : "Himmel",
+  "p" : "sm."
+}, {
+  "id" : "336",
+  "l" : "cer",
+  "sl" : "cer",
+  "d" : "Zerreiche‘‘",
+  "p" : "sm."
+}, {
+  "id" : "337",
+  "l" : "cer",
+  "sl" : "cer",
+  "d" : "verlangen, betteln, dial. suchen",
+  "p" : "vb."
+}, {
+  "id" : "338",
+  "l" : "cereașă",
+  "sl" : "cereasa",
+  "d" : "Kirsche",
+  "p" : "sf."
+}, {
+  "id" : "339",
+  "l" : "cerb",
+  "sl" : "cerb",
+  "d" : "Hirsch",
+  "p" : "sm."
+}, {
+  "id" : "340",
+  "l" : "cerbice",
+  "sl" : "cerbice",
+  "d" : "Nacken",
+  "p" : "sm."
+}, {
+  "id" : "341",
+  "l" : "cerc",
+  "sl" : "cerc",
+  "d" : "Kreis, Reif",
+  "p" : "sm."
+}, {
+  "id" : "342",
+  "l" : "cerc",
+  "sl" : "cerc",
+  "d" : "(ver)suchen",
+  "p" : "vb."
+}, {
+  "id" : "343",
+  "l" : "cercel",
+  "sl" : "cercel",
+  "d" : "Ohrring",
+  "p" : "sm."
+}, {
+  "id" : "344",
+  "l" : "cercetez",
+  "sl" : "cercetez",
+  "d" : "unter­suchen",
+  "p" : "vb."
+}, {
+  "id" : "345",
+  "l" : "cerențel",
+  "sl" : "cerentel",
+  "d" : "Dryas octopetala u. Geum urbanum",
+  "p" : "sm."
+}, {
+  "id" : "346",
+  "l" : "cern",
+  "sl" : "cern",
+  "d" : "sieben‘,",
+  "p" : "vb."
+}, {
+  "id" : "347",
+  "l" : "cert",
+  "sl" : "cert",
+  "d" : "zanken, streiten",
+  "p" : "vb."
+}, {
+  "id" : "348",
+  "l" : "cest",
+  "sl" : "cest",
+  "d" : "",
+  "p" : "pron."
+}, {
+  "id" : "349",
+  "l" : "cetate",
+  "sl" : "cetate",
+  "d" : "Festung, Stadt",
+  "p" : "sf."
+}, {
+  "id" : "350",
+  "l" : "ceteră",
+  "sl" : "cetera",
+  "d" : "Geige",
+  "p" : "sf."
+}, {
+  "id" : "351",
+  "l" : "chează",
+  "sl" : "cheaza",
+  "d" : "Unheil, (schlechtes) Vorzeichen‘",
+  "p" : "sf."
+}, {
+  "id" : "352",
+  "l" : "cheie",
+  "sl" : "cheie",
+  "d" : "Schlüssel",
+  "p" : "sf."
+}, {
+  "id" : "353",
+  "l" : "chem",
+  "sl" : "chem",
+  "d" : "rufen",
+  "p" : "vb."
+}, {
+  "id" : "354",
+  "l" : "cheutoare",
+  "sl" : "cheutoare",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "355",
+  "l" : "chiag",
+  "sl" : "chiag",
+  "d" : "Gerinnsel, Lab",
+  "p" : "sm."
+}, {
+  "id" : "356",
+  "l" : "chiar",
+  "sl" : "chiar",
+  "d" : "sogar",
+  "p" : "adv."
+}, {
+  "id" : "357",
+  "l" : "chingă",
+  "sl" : "chinga",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "358",
+  "l" : "ci",
+  "sl" : "ci",
+  "d" : "sondern",
+  "p" : "conj."
+}, {
+  "id" : "359",
+  "l" : "ceață",
+  "sl" : "ceata",
+  "d" : "Nebel",
+  "p" : "sf."
+}, {
+  "id" : "360",
+  "l" : "cicoare",
+  "sl" : "cicoare",
+  "d" : "Cichorie",
+  "p" : "sf."
+}, {
+  "id" : "361",
+  "l" : "cîmp",
+  "sl" : "cimp",
+  "d" : "Feld‘",
+  "p" : "sm."
+}, {
+  "id" : "362",
+  "l" : "cină",
+  "sl" : "cina",
+  "d" : "Abendmahl",
+  "p" : "sf."
+}, {
+  "id" : "363",
+  "l" : "cinci",
+  "sl" : "cinci",
+  "d" : "fünf",
+  "p" : "num."
+}, {
+  "id" : "364",
+  "l" : "cînd",
+  "sl" : "cind",
+  "d" : "wann",
+  "p" : "adv."
+}, {
+  "id" : "365",
+  "l" : "ciu(n)de?",
+  "sl" : "ciu(n)de?",
+  "d" : "Jenseits",
+  "p" : "adv."
+}, {
+  "id" : "366",
+  "l" : "cine",
+  "sl" : "cine",
+  "d" : "wer, wen",
+  "p" : "pron."
+}, {
+  "id" : "367",
+  "l" : "cîne",
+  "sl" : "cine",
+  "d" : "Hund",
+  "p" : "sm."
+}, {
+  "id" : "368",
+  "l" : "cînepă",
+  "sl" : "cinepa",
+  "d" : "Hanf",
+  "p" : "sf."
+}, {
+  "id" : "369",
+  "l" : "cinez",
+  "sl" : "cinez",
+  "d" : "zum Abend­mal speisen",
+  "p" : "vb."
+}, {
+  "id" : "370",
+  "l" : "cingă",
+  "sl" : "cinga",
+  "d" : "Gurt",
+  "p" : "sf."
+}, {
+  "id" : "371",
+  "l" : "cînt",
+  "sl" : "cint",
+  "d" : "Gesang",
+  "p" : "sm."
+}, {
+  "id" : "372",
+  "l" : "cînt",
+  "sl" : "cint",
+  "d" : "singen, spielen (Musikinstrument), krähen (Hahn)",
+  "p" : "vb."
+}, {
+  "id" : "373",
+  "l" : "cîntec",
+  "sl" : "cintec",
+  "d" : "Gesang, Lied",
+  "p" : "sm."
+}, {
+  "id" : "374",
+  "l" : "cîrnaț",
+  "sl" : "cirnat",
+  "d" : "Wurst‘",
+  "p" : "sm."
+}, {
+  "id" : "375",
+  "l" : "cărpător",
+  "sl" : "carpator",
+  "d" : "Kuchenbrett, Holzteller‘",
+  "p" : "sm."
+}, {
+  "id" : "376",
+  "l" : "cîșlegi",
+  "sl" : "cislegi",
+  "d" : "Karneval",
+  "p" : "sm. Pl. tant."
+}, {
+  "id" : "377",
+  "l" : "cîștig",
+  "sl" : "cistig",
+  "d" : "gewinnen, erwerben‘",
+  "p" : "vb."
+}, {
+  "id" : "378",
+  "l" : "cît",
+  "sl" : "cit",
+  "d" : "so viel?",
+  "p" : "pron. adj."
+}, {
+  "id" : "379",
+  "l" : "cîte",
+  "sl" : "cite",
+  "d" : "je",
+  "p" : "num."
+}, {
+  "id" : "380",
+  "l" : "ciumă",
+  "sl" : "ciuma",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "381",
+  "l" : "ciur",
+  "sl" : "ciur",
+  "d" : "Sieb",
+  "p" : "sm."
+}, {
+  "id" : "382",
+  "l" : "ciutură",
+  "sl" : "ciutura",
+  "d" : "Holzflasche, Mundstück der Pfeife",
+  "p" : "sf."
+}, {
+  "id" : "383",
+  "l" : "codină",
+  "sl" : "codina",
+  "d" : "Name eines Schafes mit gelber oder roter Schnauze",
+  "p" : "sf."
+}, {
+  "id" : "384",
+  "l" : "coadă",
+  "sl" : "coada",
+  "d" : "Schwanz",
+  "p" : "sf."
+}, {
+  "id" : "385",
+  "l" : "coamă",
+  "sl" : "coama",
+  "d" : "Mähne",
+  "p" : "sf."
+}, {
+  "id" : "386",
+  "l" : "coapsă",
+  "sl" : "coapsa",
+  "d" : "Hüfte",
+  "p" : "sf."
+}, {
+  "id" : "387",
+  "l" : "coardă",
+  "sl" : "coarda",
+  "d" : "Saite",
+  "p" : "sf."
+}, {
+  "id" : "388",
+  "l" : "coarnă",
+  "sl" : "coarna",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "389",
+  "l" : "coastă",
+  "sl" : "coasta",
+  "d" : "Rippe",
+  "p" : "sf."
+}, {
+  "id" : "390",
+  "l" : "coc",
+  "sl" : "coc",
+  "d" : "backen",
+  "p" : "vb."
+}, {
+  "id" : "391",
+  "l" : "cocă",
+  "sl" : "coca",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "392",
+  "l" : "codru",
+  "sl" : "codru",
+  "d" : "Urwald; Stück Brot",
+  "p" : "sm."
+}, {
+  "id" : "393",
+  "l" : "coif",
+  "sl" : "coif",
+  "d" : "Helm",
+  "p" : "sm."
+}, {
+  "id" : "394",
+  "l" : "coi",
+  "sl" : "coi",
+  "d" : "Hode(n)",
+  "p" : "sm."
+}, {
+  "id" : "395",
+  "l" : "coper",
+  "sl" : "coper",
+  "d" : "bedecken",
+  "p" : "vb."
+}, {
+  "id" : "396",
+  "l" : "coperămînt",
+  "sl" : "coperamint",
+  "d" : "Decke",
+  "p" : "sm."
+}, {
+  "id" : "397",
+  "l" : "coptură",
+  "sl" : "coptura",
+  "d" : "Blüte(r)?",
+  "p" : "sf."
+}, {
+  "id" : "398",
+  "l" : "cor",
+  "sl" : "cor",
+  "d" : "Tanz, Reigen",
+  "p" : "sm."
+}, {
+  "id" : "399",
+  "l" : "corb",
+  "sl" : "corb",
+  "d" : "Rabe",
+  "p" : "sm."
+}, {
+  "id" : "400",
+  "l" : "corn",
+  "sl" : "corn",
+  "d" : "Horn",
+  "p" : "sm."
+}, {
+  "id" : "401",
+  "l" : "corn",
+  "sl" : "corn",
+  "d" : "Kornelkirschbaum",
+  "p" : "sm."
+}, {
+  "id" : "402",
+  "l" : "cornut",
+  "sl" : "cornut",
+  "d" : "gehornt",
+  "p" : "adj."
+}, {
+  "id" : "403",
+  "l" : "corp",
+  "sl" : "corp",
+  "d" : "Körper",
+  "p" : "sm."
+}, {
+  "id" : "404",
+  "l" : "corumbă?",
+  "sl" : "corumba?",
+  "d" : "Schlehdorn",
+  "p" : "sf."
+}, {
+  "id" : "405",
+  "l" : "cos",
+  "sl" : "cos",
+  "d" : "nähen",
+  "p" : "vb."
+}, {
+  "id" : "406",
+  "l" : "cot",
+  "sl" : "cot",
+  "d" : "Ellbogen, Elle",
+  "p" : "sm."
+}, {
+  "id" : "407",
+  "l" : "Crăciun",
+  "sl" : "craciun",
+  "d" : "Weih­nachten.",
+  "p" : "sm."
+}, {
+  "id" : "408",
+  "l" : "crep",
+  "sl" : "crep",
+  "d" : "bersten, platzen; spalten‘",
+  "p" : "vb."
+}, {
+  "id" : "409",
+  "l" : "crăpătură",
+  "sl" : "crapatura",
+  "d" : "Riß, Spalte",
+  "p" : "sf."
+}, {
+  "id" : "410",
+  "l" : "creastă",
+  "sl" : "creasta",
+  "d" : "Kamm (der Vögel, Gebirgs-)",
+  "p" : "sf."
+}, {
+  "id" : "411",
+  "l" : "cred",
+  "sl" : "cred",
+  "d" : "glauben",
+  "p" : "vb."
+}, {
+  "id" : "412",
+  "l" : "credință",
+  "sl" : "credinta",
+  "d" : "Glaube",
+  "p" : "sf."
+}, {
+  "id" : "413",
+  "l" : "creier",
+  "sl" : "creier",
+  "d" : "",
+  "p" : "sm."
+}, {
+  "id" : "414",
+  "l" : "cresc",
+  "sl" : "cresc",
+  "d" : "wachsen",
+  "p" : "vb."
+}, {
+  "id" : "415",
+  "l" : "creștin",
+  "sl" : "crestin",
+  "d" : "Christ, christlich",
+  "p" : "sm. adj."
+}, {
+  "id" : "416",
+  "l" : "cruce",
+  "sl" : "cruce",
+  "d" : "Kreuz",
+  "p" : "sf."
+}, {
+  "id" : "417",
+  "l" : "crud",
+  "sl" : "crud",
+  "d" : "roh, unreif",
+  "p" : "adj."
+}, {
+  "id" : "418",
+  "l" : "crunt",
+  "sl" : "crunt",
+  "d" : "grausam, düster, blutig",
+  "p" : "adj."
+}, {
+  "id" : "419",
+  "l" : "crăpătoare",
+  "sl" : "crapatoare",
+  "d" : "Schaufel zum Einführen des Brotes im Backofen",
+  "p" : "sf."
+}, {
+  "id" : "420",
+  "l" : "cruț",
+  "sl" : "crut",
+  "d" : "sparen, schonen‘, eigtl. die Ausgaben kürzen",
+  "p" : "vb."
+}, {
+  "id" : "421",
+  "l" : "cu",
+  "sl" : "cu",
+  "d" : "mit",
+  "p" : "präp."
+}, {
+  "id" : "422",
+  "l" : "cuc",
+  "sl" : "cuc",
+  "d" : "Kukuk",
+  "p" : "sm."
+}, {
+  "id" : "423",
+  "l" : "cucă",
+  "sl" : "cuca",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "424",
+  "l" : "cucă",
+  "sl" : "cuca",
+  "d" : "Hügel, welcher einsam in der Ebene her­vorragt (\\n    Liuba-Jana: Mäidan 49\\n    )”.",
+  "p" : "sf."
+}, {
+  "id" : "425",
+  "l" : "cuceresc",
+  "sl" : "cuceresc",
+  "d" : "erobern",
+  "p" : "vb."
+}, {
+  "id" : "426",
+  "l" : "cucurbetă",
+  "sl" : "cucurbeta",
+  "d" : "Flaschenkürbiß",
+  "p" : "sf."
+}, {
+  "id" : "427",
+  "l" : "cucută",
+  "sl" : "cucuta",
+  "d" : "Schierling”",
+  "p" : "sf."
+}, {
+  "id" : "428",
+  "l" : "cufur?",
+  "sl" : "cufur?",
+  "d" : "",
+  "p" : null
+}, {
+  "id" : "429",
+  "l" : "cufund",
+  "sl" : "cufund",
+  "d" : "versenken",
+  "p" : "vb."
+}, {
+  "id" : "430",
+  "l" : "cufuresc",
+  "sl" : "cufuresc",
+  "d" : "Durchfall haben",
+  "p" : "vb."
+}, {
+  "id" : "431",
+  "l" : "cuget",
+  "sl" : "cuget",
+  "d" : "denken",
+  "p" : "vb."
+}, {
+  "id" : "432",
+  "l" : "cuib",
+  "sl" : "cuib",
+  "d" : "Nest",
+  "p" : "sm."
+}, {
+  "id" : "433",
+  "l" : "cui",
+  "sl" : "cui",
+  "d" : "Nagel",
+  "p" : "sm."
+}, {
+  "id" : "434",
+  "l" : "culă",
+  "sl" : "cula",
+  "d" : "kleines Versteck, Räubernest",
+  "p" : "sf."
+}, {
+  "id" : "435",
+  "l" : "culc",
+  "sl" : "culc",
+  "d" : "niederlegen",
+  "p" : "vb."
+}, {
+  "id" : "436",
+  "l" : "culeg",
+  "sl" : "culeg",
+  "d" : "sammeln",
+  "p" : "vb."
+}, {
+  "id" : "437",
+  "l" : "culme",
+  "sl" : "culme",
+  "d" : "Gipfel, Firstbalken",
+  "p" : "sf."
+}, {
+  "id" : "438",
+  "l" : "culmu?",
+  "sl" : "culmu?",
+  "d" : "",
+  "p" : "sm."
+}, {
+  "id" : "439",
+  "l" : "cum",
+  "sl" : "cum",
+  "d" : "wie",
+  "p" : "adv."
+}, {
+  "id" : "440",
+  "l" : "cumind",
+  "sl" : "cumind",
+  "d" : "den Toten Opfer bringen",
+  "p" : "vb."
+}, {
+  "id" : "441",
+  "l" : "cuminec",
+  "sl" : "cuminec",
+  "d" : "zum Abendmahl gehen",
+  "p" : "vb."
+}, {
+  "id" : "442",
+  "l" : "cumnat",
+  "sl" : "cumnat",
+  "d" : "Schwager",
+  "p" : "sm."
+}, {
+  "id" : "443",
+  "l" : "cumpăr",
+  "sl" : "cumpar",
+  "d" : "kaufen",
+  "p" : "vb."
+}, {
+  "id" : "444",
+  "l" : "cumpăt",
+  "sl" : "cumpat",
+  "d" : "Fassung, Mäßigkeit.",
+  "p" : "sm."
+}, {
+  "id" : "445",
+  "l" : "cumplesc?",
+  "sl" : "cumplesc?",
+  "d" : "beendigen",
+  "p" : "vb."
+}, {
+  "id" : "446",
+  "l" : "cună",
+  "sl" : "cuna",
+  "d" : "Lagerstätte, Wiege",
+  "p" : "sf."
+}, {
+  "id" : "447",
+  "l" : "cunosc",
+  "sl" : "cunosc",
+  "d" : "kennen",
+  "p" : "vb."
+}, {
+  "id" : "448",
+  "l" : "cunun",
+  "sl" : "cunun",
+  "d" : "vermählen",
+  "p" : "vb."
+}, {
+  "id" : "449",
+  "l" : "cunună",
+  "sl" : "cununa",
+  "d" : "Kranz",
+  "p" : "sf."
+}, {
+  "id" : "450",
+  "l" : "cupă",
+  "sl" : "cupa",
+  "d" : "Becher, Holzgefäß der Hirten",
+  "p" : "sf."
+}, {
+  "id" : "451",
+  "l" : "cuprind",
+  "sl" : "cuprind",
+  "d" : "umfassen",
+  "p" : "vb."
+}, {
+  "id" : "452",
+  "l" : "cuptor",
+  "sl" : "cuptor",
+  "d" : "Backofen, d-rum. auch Juli",
+  "p" : "sm."
+}, {
+  "id" : "453",
+  "l" : "cur",
+  "sl" : "cur",
+  "d" : "der Hintere‘",
+  "p" : "sm."
+}, {
+  "id" : "454",
+  "l" : "cur",
+  "sl" : "cur",
+  "d" : "reinigen",
+  "p" : "vb."
+}, {
+  "id" : "455",
+  "l" : "cur",
+  "sl" : "cur",
+  "d" : "laufen",
+  "p" : "vb."
+}, {
+  "id" : "456",
+  "l" : "curastră",
+  "sl" : "curastra",
+  "d" : "Biestmilch",
+  "p" : "sf."
+}, {
+  "id" : "457",
+  "l" : "curat",
+  "sl" : "curat",
+  "d" : "rein",
+  "p" : "adj."
+}, {
+  "id" : "458",
+  "l" : "curcubeu",
+  "sl" : "curcubeu",
+  "d" : "Regenbogen.",
+  "p" : "sm."
+}, {
+  "id" : "459",
+  "l" : "curea",
+  "sl" : "curea",
+  "d" : "Riemen",
+  "p" : "sf."
+}, {
+  "id" : "460",
+  "l" : "curechiu",
+  "sl" : "curechiu",
+  "d" : "Kraut",
+  "p" : "sm."
+}, {
+  "id" : "461",
+  "l" : "curs",
+  "sl" : "curs",
+  "d" : "Lauf",
+  "p" : "sm."
+}, {
+  "id" : "462",
+  "l" : "curte",
+  "sl" : "curte",
+  "d" : "Hof",
+  "p" : "sf."
+}, {
+  "id" : "463",
+  "l" : "Curtu",
+  "sl" : "curtu",
+  "d" : "Name der Hunde ohne Schwanz",
+  "p" : null
+}, {
+  "id" : "464",
+  "l" : "cuscru",
+  "sl" : "cuscru",
+  "d" : "die Eltern des einen Ehegatten im Verhältnis zu denen des anderen‘",
+  "p" : "sm."
+}, {
+  "id" : "465",
+  "l" : "cust",
+  "sl" : "cust",
+  "d" : "existieren, leben‘",
+  "p" : "vb."
+}, {
+  "id" : "466",
+  "l" : "cusurin",
+  "sl" : "cusurin",
+  "d" : "Vetter, Base",
+  "p" : "sm."
+}, {
+  "id" : "467",
+  "l" : "cusurină",
+  "sl" : "cusurina",
+  "d" : "",
+  "p" : null
+}, {
+  "id" : "468",
+  "l" : "cusătură",
+  "sl" : "cusatura",
+  "d" : "Naht",
+  "p" : "sf."
+}, {
+  "id" : "469",
+  "l" : "cută",
+  "sl" : "cuta",
+  "d" : "Runzel, Falte",
+  "p" : "sf."
+}, {
+  "id" : "470",
+  "l" : "cutare",
+  "sl" : "cutare",
+  "d" : "",
+  "p" : "pron."
+}, {
+  "id" : "471",
+  "l" : "cute",
+  "sl" : "cute",
+  "d" : "Wetzstein",
+  "p" : "sf."
+}, {
+  "id" : "472",
+  "l" : "cutez",
+  "sl" : "cutez",
+  "d" : "wagen",
+  "p" : "vb."
+}, {
+  "id" : "473",
+  "l" : "cuțit",
+  "sl" : "cutit",
+  "d" : "",
+  "p" : "sm."
+}, {
+  "id" : "474",
+  "l" : "cutreier",
+  "sl" : "cutreier",
+  "d" : "durchwandern",
+  "p" : "vb."
+}, {
+  "id" : "475",
+  "l" : "cutremur",
+  "sl" : "cutremur",
+  "d" : "erzittern",
+  "p" : "vb."
+}, {
+  "id" : "476",
+  "l" : "cutrubur?",
+  "sl" : "cutrubur?",
+  "d" : "verwirren",
+  "p" : "vb."
+}, {
+  "id" : "477",
+  "l" : "cuviință",
+  "sl" : "cuviinta",
+  "d" : "Schicklichkeit",
+  "p" : "sf."
+}, {
+  "id" : "478",
+  "l" : "cuvin",
+  "sl" : "cuvin",
+  "d" : "",
+  "p" : "vb. defektiv"
+}, {
+  "id" : "479",
+  "l" : "cuvînt",
+  "sl" : "cuvint",
+  "d" : "Wort, Rede",
+  "p" : "sm."
+}, {
+  "id" : "480",
+  "l" : "cuvînt",
+  "sl" : "cuvint",
+  "d" : "reden",
+  "p" : "vb."
+}, {
+  "id" : "481",
+  "l" : "cuviincios",
+  "sl" : "cuviincios",
+  "d" : "ziemend, andächtig",
+  "p" : "adj."
+}, {
+  "id" : "482",
+  "l" : "dafin",
+  "sl" : "dafin",
+  "d" : "Lorbeer",
+  "p" : "sm."
+}, {
+  "id" : "483",
+  "l" : "depăr",
+  "sl" : "depar",
+  "d" : "die Haare, die Feder ausrupfen",
+  "p" : "vb."
+}, {
+  "id" : "484",
+  "l" : "dărîpăn",
+  "sl" : "daripan",
+  "d" : "zerstören, refl. herunterkommen",
+  "p" : "vb."
+}, {
+  "id" : "485",
+  "l" : "dărîm",
+  "sl" : "darim",
+  "d" : "zerstören, stürzen",
+  "p" : "vb."
+}, {
+  "id" : "486",
+  "l" : "dator",
+  "sl" : "dator",
+  "d" : "",
+  "p" : "sm."
+}, {
+  "id" : "487",
+  "l" : "dau",
+  "sl" : "dau",
+  "d" : "geben",
+  "p" : "vb."
+}, {
+  "id" : "488",
+  "l" : "daună",
+  "sl" : "dauna",
+  "d" : "Schaden",
+  "p" : "sf."
+}, {
+  "id" : "489",
+  "l" : "dăunez",
+  "sl" : "daunez",
+  "d" : "schaden",
+  "p" : "vb."
+}, {
+  "id" : "490",
+  "l" : "dăunos",
+  "sl" : "daunos",
+  "d" : "schädlich",
+  "p" : "adj."
+}, {
+  "id" : "491",
+  "l" : "de",
+  "sl" : "de",
+  "d" : "von",
+  "p" : "präp."
+}, {
+  "id" : "492",
+  "l" : "depăn",
+  "sl" : "depan",
+  "d" : "wickeln, spulen",
+  "p" : "vb."
+}, {
+  "id" : "493",
+  "l" : "dedau",
+  "sl" : "dedau",
+  "d" : "gewöhnen",
+  "p" : "vb."
+}, {
+  "id" : "494",
+  "l" : "defăim",
+  "sl" : "defaim",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "495",
+  "l" : "defăimă",
+  "sl" : "defaima",
+  "d" : "Verruf”",
+  "p" : "sf."
+}, {
+  "id" : "496",
+  "l" : "deger",
+  "sl" : "deger",
+  "d" : "erfrieren",
+  "p" : "vb."
+}, {
+  "id" : "497",
+  "l" : "deget",
+  "sl" : "deget",
+  "d" : "Finger",
+  "p" : "sm."
+}, {
+  "id" : "498",
+  "l" : "degetar",
+  "sl" : "degetar",
+  "d" : "Fingerhut",
+  "p" : "sm."
+}, {
+  "id" : "499",
+  "l" : "dumic",
+  "sl" : "dumic",
+  "d" : "zerkleinern, zerstückeln",
+  "p" : "vb."
+}, {
+  "id" : "500",
+  "l" : "depărtez",
+  "sl" : "departez",
+  "d" : "entfernen",
+  "p" : "vb."
+}, {
+  "id" : "501",
+  "l" : "deprind",
+  "sl" : "deprind",
+  "d" : "üben, ange­wöhnen",
+  "p" : "vb."
+}, {
+  "id" : "502",
+  "l" : "depun",
+  "sl" : "depun",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "503",
+  "l" : "deretic",
+  "sl" : "deretic",
+  "d" : "(im Zimmer) räumen",
+  "p" : "vb."
+}, {
+  "id" : "504",
+  "l" : "des",
+  "sl" : "des",
+  "d" : "dicht",
+  "p" : "adj."
+}, {
+  "id" : "505",
+  "l" : "descalț",
+  "sl" : "descalt",
+  "d" : "entschuhen",
+  "p" : "vb."
+}, {
+  "id" : "506",
+  "l" : "descăm?",
+  "sl" : "descam?",
+  "d" : "ausfasern",
+  "p" : "vb."
+}, {
+  "id" : "507",
+  "l" : "descarc",
+  "sl" : "descarc",
+  "d" : "entladen",
+  "p" : "vb."
+}, {
+  "id" : "508",
+  "l" : "descînt",
+  "sl" : "descint",
+  "d" : "entzaubern",
+  "p" : "vb."
+}, {
+  "id" : "509",
+  "l" : "deschid",
+  "sl" : "deschid",
+  "d" : "öffnen",
+  "p" : "vb."
+}, {
+  "id" : "510",
+  "l" : "descoper",
+  "sl" : "descoper",
+  "d" : "ent­hüllen",
+  "p" : "vb."
+}, {
+  "id" : "511",
+  "l" : "desțin?",
+  "sl" : "destin?",
+  "d" : "aufsperren",
+  "p" : "vb."
+}, {
+  "id" : "512",
+  "l" : "desculț",
+  "sl" : "descult",
+  "d" : "barfüßig",
+  "p" : "adj."
+}, {
+  "id" : "513",
+  "l" : "desculț",
+  "sl" : "descult",
+  "d" : "entschuhen",
+  "p" : "vb."
+}, {
+  "id" : "514",
+  "l" : "descurc",
+  "sl" : "descurc",
+  "d" : "entwickeln, klären",
+  "p" : "vb."
+}, {
+  "id" : "515",
+  "l" : "deșert",
+  "sl" : "desert",
+  "d" : "leer",
+  "p" : "adj."
+}, {
+  "id" : "516",
+  "l" : "deșert",
+  "sl" : "desert",
+  "d" : "Leere",
+  "p" : "sm."
+}, {
+  "id" : "517",
+  "l" : "deșert",
+  "sl" : "desert",
+  "d" : "ausleeren",
+  "p" : "vb."
+}, {
+  "id" : "518",
+  "l" : "desfătez",
+  "sl" : "desfatez",
+  "d" : "ergötzen",
+  "p" : "vb."
+}, {
+  "id" : "519",
+  "l" : "desider",
+  "sl" : "desider",
+  "d" : "wünschen, ersehnen",
+  "p" : "vb."
+}, {
+  "id" : "520",
+  "l" : "desjug",
+  "sl" : "desjug",
+  "d" : "den Joch abnehmen",
+  "p" : "vb."
+}, {
+  "id" : "521",
+  "l" : "desleg",
+  "sl" : "desleg",
+  "d" : "entbinden",
+  "p" : "vb."
+}, {
+  "id" : "522",
+  "l" : "desmierd",
+  "sl" : "desmierd",
+  "d" : "liebkosen, ver­zärteln, verhätscheln",
+  "p" : "vb."
+}, {
+  "id" : "523",
+  "l" : "despart",
+  "sl" : "despart",
+  "d" : "trennen",
+  "p" : "vb."
+}, {
+  "id" : "524",
+  "l" : "despic",
+  "sl" : "despic",
+  "d" : "spalten",
+  "p" : "vb."
+}, {
+  "id" : "525",
+  "l" : "despoi",
+  "sl" : "despoi",
+  "d" : "berauben",
+  "p" : "vb."
+}, {
+  "id" : "526",
+  "l" : "despre",
+  "sl" : "despre",
+  "d" : "",
+  "p" : "präp."
+}, {
+  "id" : "527",
+  "l" : "despun",
+  "sl" : "despun",
+  "d" : "befehlen",
+  "p" : "vb."
+}, {
+  "id" : "528",
+  "l" : "deștept",
+  "sl" : "destept",
+  "d" : "aufwecken",
+  "p" : "vb."
+}, {
+  "id" : "529",
+  "l" : "descind?",
+  "sl" : "descind?",
+  "d" : "herabsteigen",
+  "p" : null
+}, {
+  "id" : "530",
+  "l" : "detun",
+  "sl" : "detun",
+  "d" : "donnern",
+  "p" : "vb."
+}, {
+  "id" : "531",
+  "l" : "dimînd",
+  "sl" : "dimind",
+  "d" : "verlangen, bestellen‘",
+  "p" : "vb."
+}, {
+  "id" : "532",
+  "l" : "dimineață",
+  "sl" : "dimineata",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "533",
+  "l" : "dinte",
+  "sl" : "dinte",
+  "d" : "Zahn",
+  "p" : "sm."
+}, {
+  "id" : "534",
+  "l" : "distorc",
+  "sl" : "distorc",
+  "d" : "aufdrehen",
+  "p" : "vb."
+}, {
+  "id" : "535",
+  "l" : "disic",
+  "sl" : "disic",
+  "d" : "spalten",
+  "p" : "vb."
+}, {
+  "id" : "536",
+  "l" : "doagă",
+  "sl" : "doaga",
+  "d" : "Daube",
+  "p" : "sf."
+}, {
+  "id" : "537",
+  "l" : "doamnă",
+  "sl" : "doamna",
+  "d" : "Herrin",
+  "p" : "sf."
+}, {
+  "id" : "538",
+  "l" : "doapăr",
+  "sl" : "doapar",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "539",
+  "l" : "dogar",
+  "sl" : "dogar",
+  "d" : "Böttcher",
+  "p" : "sm."
+}, {
+  "id" : "540",
+  "l" : "doi",
+  "sl" : "doi",
+  "d" : "zwei",
+  "p" : "num."
+}, {
+  "id" : "541",
+  "l" : "domn",
+  "sl" : "domn",
+  "d" : "Herr, Gott",
+  "p" : "sm."
+}, {
+  "id" : "542",
+  "l" : "dor",
+  "sl" : "dor",
+  "d" : "Sehnsucht, Heimweh",
+  "p" : "sm."
+}, {
+  "id" : "543",
+  "l" : "dor",
+  "sl" : "dor",
+  "d" : "schmerzen",
+  "p" : "vb."
+}, {
+  "id" : "544",
+  "l" : "dorm",
+  "sl" : "dorm",
+  "d" : "schlafen‘",
+  "p" : "vb."
+}, {
+  "id" : "545",
+  "l" : "dormitez",
+  "sl" : "dormitez",
+  "d" : "einschlafen",
+  "p" : "vb."
+}, {
+  "id" : "546",
+  "l" : "dos",
+  "sl" : "dos",
+  "d" : "Rücken",
+  "p" : "sm."
+}, {
+  "id" : "547",
+  "l" : "drac",
+  "sl" : "drac",
+  "d" : "Teufel‘",
+  "p" : "sm."
+}, {
+  "id" : "548",
+  "l" : "dreg",
+  "sl" : "dreg",
+  "d" : "",
+  "p" : "vb."
+}, {
+  "id" : "549",
+  "l" : "drepnea",
+  "sl" : "drepnea",
+  "d" : "Mauerschwalbe",
+  "p" : "sf."
+}, {
+  "id" : "550",
+  "l" : "drept",
+  "sl" : "drept",
+  "d" : "gerade, gerecht, recht (auch von der Hand)",
+  "p" : "adj."
+}, {
+  "id" : "551",
+  "l" : "dreptate",
+  "sl" : "dreptate",
+  "d" : "Recht",
+  "p" : "sf."
+}, {
+  "id" : "552",
+  "l" : "duc",
+  "sl" : "duc",
+  "d" : "führen",
+  "p" : "vb."
+}, {
+  "id" : "553",
+  "l" : "duios",
+  "sl" : "duios",
+  "d" : "schmachtend",
+  "p" : "adj."
+}, {
+  "id" : "554",
+  "l" : "dulce",
+  "sl" : "dulce",
+  "d" : "süß",
+  "p" : "adj."
+}, {
+  "id" : "555",
+  "l" : "dulcoare",
+  "sl" : "dulcoare",
+  "d" : "Süßigkeit",
+  "p" : "sf."
+}, {
+  "id" : "556",
+  "l" : "dumesnic",
+  "sl" : "dumesnic",
+  "d" : "zahm, zum Hause gehörig",
+  "p" : "adj."
+}, {
+  "id" : "557",
+  "l" : "duminecă",
+  "sl" : "dumineca",
+  "d" : "Sonntag",
+  "p" : "sf."
+}, {
+  "id" : "558",
+  "l" : "Dumnezeu",
+  "sl" : "dumnezeu",
+  "d" : "Gott",
+  "p" : "sm."
+}, {
+  "id" : "559",
+  "l" : "după",
+  "sl" : "dupa",
+  "d" : "hinter",
+  "p" : "präp."
+}, {
+  "id" : "560",
+  "l" : "durez",
+  "sl" : "durez",
+  "d" : "bauen",
+  "p" : "vb."
+}, {
+  "id" : "561",
+  "l" : "durez",
+  "sl" : "durez",
+  "d" : "dauern",
+  "p" : "vb."
+}, {
+  "id" : "562",
+  "l" : "durere",
+  "sl" : "durere",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "563",
+  "l" : "dururos",
+  "sl" : "dururos",
+  "d" : "schmerzlich",
+  "p" : null
+}, {
+  "id" : "564",
+  "l" : "duși?",
+  "sl" : "dusi?",
+  "d" : "böser Geist",
+  "p" : "sm."
+}, {
+  "id" : "565",
+  "l" : "e",
+  "sl" : "e",
+  "d" : "und, aber",
+  "p" : "conj."
+}, {
+  "id" : "566",
+  "l" : "fac",
+  "sl" : "fac",
+  "d" : "machen; gebären",
+  "p" : "vb."
+}, {
+  "id" : "567",
+  "l" : "făclie",
+  "sl" : "faclie",
+  "d" : "Fackel",
+  "p" : "sf."
+}, {
+  "id" : "568",
+  "l" : "fag",
+  "sl" : "fag",
+  "d" : "Buche",
+  "p" : "sm."
+}, {
+  "id" : "569",
+  "l" : "fag",
+  "sl" : "fag",
+  "d" : "Wabe",
+  "p" : "sm."
+}, {
+  "id" : "570",
+  "l" : "fagure",
+  "sl" : "fagure",
+  "d" : "Wabe'*",
+  "p" : "sm."
+}, {
+  "id" : "571",
+  "l" : "faimă",
+  "sl" : "faima",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "572",
+  "l" : "făină",
+  "sl" : "faina",
+  "d" : "Mehl",
+  "p" : "sf."
+}, {
+  "id" : "573",
+  "l" : "făinar",
+  "sl" : "fainar",
+  "d" : "Mehlhändler‘",
+  "p" : "sm."
+}, {
+  "id" : "574",
+  "l" : "făinos",
+  "sl" : "fainos",
+  "d" : "mehlig",
+  "p" : "adj."
+}, {
+  "id" : "575",
+  "l" : "falcă",
+  "sl" : "falca",
+  "d" : "Kinnbacke‘",
+  "p" : "sf."
+}, {
+  "id" : "576",
+  "l" : "falce",
+  "sl" : "falce",
+  "d" : "Morgen (Land)",
+  "p" : "sf."
+}, {
+  "id" : "577",
+  "l" : "femen",
+  "sl" : "femen",
+  "d" : "Eunuch",
+  "p" : "sb."
+}, {
+  "id" : "578",
+  "l" : "faŭă?",
+  "sl" : "faua?",
+  "d" : "Bohne‘‘",
+  "p" : "sf."
+}, {
+  "id" : "579",
+  "l" : "fapt",
+  "sl" : "fapt",
+  "d" : "Tat",
+  "p" : "sm."
+}, {
+  "id" : "580",
+  "l" : "făptură",
+  "sl" : "faptura",
+  "d" : "Figur, Schöpfung",
+  "p" : "sf."
+}, {
+  "id" : "581",
+  "l" : "fără",
+  "sl" : "fara",
+  "d" : "ohne, sondern",
+  "p" : "praep. conj."
+}, {
+  "id" : "582",
+  "l" : "fărîmă",
+  "sl" : "farima",
+  "d" : "Brocken",
+  "p" : "sf."
+}, {
+  "id" : "583",
+  "l" : "farmec",
+  "sl" : "farmec",
+  "d" : "Zauber",
+  "p" : "sm."
+}, {
+  "id" : "584",
+  "l" : "farmec",
+  "sl" : "farmec",
+  "d" : "bezaubern",
+  "p" : "vb."
+}, {
+  "id" : "585",
+  "l" : "fașă",
+  "sl" : "fasa",
+  "d" : "Windel",
+  "p" : "sf."
+}, {
+  "id" : "586",
+  "l" : "făt",
+  "sl" : "fat",
+  "d" : "Junge, Knabe",
+  "p" : "sm."
+}, {
+  "id" : "587",
+  "l" : "făt",
+  "sl" : "fat",
+  "d" : "Junge werfen",
+  "p" : "vb."
+}, {
+  "id" : "588",
+  "l" : "fată",
+  "sl" : "fata",
+  "d" : "Mädchen",
+  "p" : "sf."
+}, {
+  "id" : "589",
+  "l" : "față",
+  "sl" : "fata",
+  "d" : "Gesicht, Wange, Oberfläche, (Tisch)decke, Farbe",
+  "p" : "sf."
+}, {
+  "id" : "590",
+  "l" : "faur",
+  "sl" : "faur",
+  "d" : "Schmied",
+  "p" : "sm."
+}, {
+  "id" : "591",
+  "l" : "făurar",
+  "sl" : "faurar",
+  "d" : "Februar",
+  "p" : "sm."
+}, {
+  "id" : "592",
+  "l" : "făuresc",
+  "sl" : "fauresc",
+  "d" : "schmieden, machen",
+  "p" : "vb."
+}, {
+  "id" : "593",
+  "l" : "fecior",
+  "sl" : "fecior",
+  "d" : "Knabe, Bursche",
+  "p" : "sm."
+}, {
+  "id" : "594",
+  "l" : "fecioară",
+  "sl" : "fecioara",
+  "d" : "Jungfrau",
+  "p" : "sf."
+}, {
+  "id" : "595",
+  "l" : "femeie",
+  "sl" : "femeie",
+  "d" : "Frau",
+  "p" : "sf."
+}, {
+  "id" : "596",
+  "l" : "fereastră",
+  "sl" : "fereastra",
+  "d" : "Fenster",
+  "p" : "sf."
+}, {
+  "id" : "597",
+  "l" : "feric",
+  "sl" : "feric",
+  "d" : "beschlagen",
+  "p" : "vb."
+}, {
+  "id" : "598",
+  "l" : "ferigă",
+  "sl" : "feriga",
+  "d" : "Farrenkraut",
+  "p" : "sf."
+}, {
+  "id" : "599",
+  "l" : "ferice",
+  "sl" : "ferice",
+  "d" : "glücklich",
+  "p" : "adj."
+}, {
+  "id" : "600",
+  "l" : "festucă",
+  "sl" : "festuca",
+  "d" : "Halm",
+  "p" : "sf."
+}, {
+  "id" : "601",
+  "l" : "fiară",
+  "sl" : "fiara",
+  "d" : "wildes Tier",
+  "p" : "sf."
+}, {
+  "id" : "602",
+  "l" : "fiastru",
+  "sl" : "fiastru",
+  "d" : "Stiefsohn‘‘",
+  "p" : "sm."
+}, {
+  "id" : "603",
+  "l" : "ficat",
+  "sl" : "ficat",
+  "d" : "Leber",
+  "p" : "sm."
+}, {
+  "id" : "604",
+  "l" : "fie",
+  "sl" : "fie",
+  "d" : "",
+  "p" : "sf."
+}, {
+  "id" : "605",
+  "l" : "fier",
+  "sl" : "fier",
+  "d" : "Eisen; Säge",
+  "p" : "sm."
+}, {
+  "id" : "606",
+  "l" : "fierar",
+  "sl" : "fierar",
+  "d" : "Schmid",
+  "p" : "sm."
+}, {
+  "id" : "607",
+  "l" : "fierb",
+  "sl" : "fierb",
+  "d" : "sieden",
+  "p" : "vb."
+}, {
+  "id" : "608",
+  "l" : "fierbinte",
+  "sl" : "fierbinte",
+  "d" : "siedend, heiß",
+  "p" : "adj."
+}, {
+  "id" : "609",
+  "l" : "fiere",
+  "sl" : "fiere",
+  "d" : "Galle",
+  "p" : "sf."
+}, {
+  "id" : "610",
+  "l" : "ființă",
+  "sl" : "fiinta",
+  "d" : "Wesen",
+  "p" : "sf."
+}, {
+  "id" : "611",
+  "l" : "fin",
+  "sl" : "fin",
+  "d" : "Täufling",
+  "p" : "sm."
+}, {
+  "id" : "612",
+  "l" : "fîn",
+  "sl" : "fin",
+  "d" : "Heu",
+  "p" : "sm."
+}, {
+  "id" : "613",
+  "l" : "fînaț",
+  "sl" : "finat",
+  "d" : "Weide",
+  "p" : "sm."
+}, {
+  "id" : "614",
+  "l" : "fîneață",
+  "sl" : "fineata",
+  "d" : "Weide",
+  "p" : "sf."
+}, {
+  "id" : "615",
+  "l" : "fîntînă",
+  "sl" : "fintina",
+  "d" : "Brunnen",
+  "p" : "sf."
+}, {
+  "id" : "616",
+  "l" : "fior",
+  "sl" : "fior",
+  "d" : "Schauer",
+  "p" : "sm."
+}, {
+  "id" : "617",
+  "l" : "fir",
+  "sl" : "fir",
+  "d" : "Faden",
+  "p" : "sm."
+}, {
+  "id" : "618",
+  "l" : "fiu",
+  "sl" : "fiu",
+  "d" : "Sohn",
+  "p" : "sm."
+}, {
+  "id" : "619",
+  "l" : "fiulare",
+  "sl" : "fiulare",
+  "d" : "cheville du joug",
+  "p" : "sf."
+}, {
+  "id" : "620",
+  "l" : "flacără",
+  "sl" : "flacara",
+  "d" : "Flamme",
+  "p" : "sf."
+}, {
+  "id" : "621",
+  "l" : "flămînd",
+  "sl" : "flamind",
+  "d" : "hungrig.",
+  "p" : "adj."
+}, {
+  "id" : "622",
+  "l" : "flamură",
+  "sl" : "flamura",
+  "d" : "Fahne",
+  "p" : "sf."
+}, {
+  "id" : "623",
+  "l" : "floare",
+  "sl" : "floare",
+  "d" : "Blume",
+  "p" : "sf."
+}, {
+  "id" : "624",
+  "l" : "floc",
+  "sl" : "floc",
+  "d" : "Flocke (Haar, Wolle), Haar (von Tieren), Schamhaar",
+  "p" : "sm."
+}, {
+  "id" : "625",
+  "l" : "fluier",
+  "sl" : "fluier",
+  "d" : "pfeifen, Flöte spielen",
+  "p" : "vb."
+}, {
+  "id" : "626",
+  "l" : "flutur",
+  "sl" : "flutur",
+  "d" : "flattern",
+  "p" : "vb."
+}, {
+  "id" : "627",
+  "l" : "fluture",
+  "sl" : "fluture",
+  "d" : "Schmetterling",
+  "p" : "sm."
+}, {
+  "id" : "628",
+  "l" : "foaie",
+  "sl" : "foaie",
+  "d" : "Blatt",
+  "p" : "sf."
+}, {
+  "id" : "629",
+  "l" : "foale",
+  "sl" : "foale",
+  "d" : "Sack, Schlauch",
+  "p" : "sm."
+}, {
+  "id" : "630",
+  "l" : "foame",
+  "sl" : "foame",
+  "d" : "Hunger",
+  "p" : "sf."
+}, {
+  "id" : "631",
+  "l" : "foamete",
+  "sl" : "foamete",
+  "d" : "Hungersnot",
+  "p" : "sf."
+}, {
+  "id" : "632",
+  "l" : "foarfec",
+  "sl" : "foarfec",
+  "d" : "mit der Scheere schneiden, übertr. Jmd. hernehmen‘",
+  "p" : "vb."
+}, {
+  "id" : "633",
+  "l" : "foarfece",
+  "sl" : "foarfece",
+  "d" : "Scheere",
+  "p" : "sf."
+}, {
+  "id" : "634",
+  "l" : "foarte",
+  "sl" : "foarte",
+  "d" : "sehr‘",
+  "p" : "adv."
+}, {
+  "id" : "635",
+  "l" : "foc",
+  "sl" : "foc",
+  "d" : "Feuer",
+  "p" : "sm."
+}, {
+  "id" : "636",
+  "l" : "foiesc",
+  "sl" : "foiesc",
+  "d" : "wimmeln‘ etc.",
+  "p" : "vb."
+}, {
+  "id" : "637",
+  "l" : "foios",
+  "sl" : "foios",
+  "d" : "blätterreich",
+  "p" : "adj."
+}, {
+  "id" : "638",
+  "l" : "folcel",
+  "sl" : "folcel",
+  "d" : "kleiner Schlauch",
+  "p" : "sm."
+}, {
+  "id" : "639",
+  "l" : "fragă",
+  "sl" : "fraga",
+  "d" : "Erdbeere",
+  "p" : "sf."
+}, {
+  "id" : "640",
+  "l" : "fraged",
+  "sl" : "fraged",
+  "d" : "weich, biegsam",
+  "p" : "adj."
+}, {
+  "id" : "641",
+  "l" : "frămînt",
+  "sl" : "framint",
+  "d" : "gären, kneten‘",
+  "p" : "vb."
+} ]
