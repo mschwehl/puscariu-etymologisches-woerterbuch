@@ -22,6 +22,4 @@ Thumbs.db
 # Ignore IDE Metadata (if using any additional tools/plugins)
 *.iml
 .idea/
-/entries
-/index_data.json
-/index_data.json
+

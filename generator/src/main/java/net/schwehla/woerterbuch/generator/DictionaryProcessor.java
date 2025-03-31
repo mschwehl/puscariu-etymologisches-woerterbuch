@@ -167,10 +167,6 @@ public class DictionaryProcessor {
 		// Generate index_data.json
 		generateSearchIndexJson(indexEntries, baseOutputPath.resolve(OUTPUT_INDEX_DATA_FILE));
 
-		// Remove or comment out index_links.html generation if not needed
-		// generateIndexLinksHtml(indexEntries,
-		// baseOutputPath.resolve(OUTPUT_INDEX_LINKS_FILE));
-
 		System.out.println("\nProcessing complete.");
 		System.out.println("HTML entries generated in: " + entriesOutputPath.toAbsolutePath());
 		System.out
