@@ -76,16 +76,22 @@ export default {
     <!-- Wikipedia Link -->
     <span class="text-sm">
       <a href="https://de.wikipedia.org/wiki/Sextil_Pu%C8%99cariu" class="text-blue-400 hover:underline" target="_blank" rel="noopener noreferrer">
-        Sextil Iosif Pușcariu
-      </a>.
+        Dr. Sextil Iosif Pușcariu
+      </a>      <p class="text-xs text-gray-400 mt-1">Inhalt nicht auditiert</p>
     </span>
 
-    <!-- GitHub Icon -->
-    <a href="https://github.com/mschwehl/puscariu-etymologisches-woerterbuch" target="_blank" rel="noopener noreferrer" class="text-white hover:text-blue-400">
-      <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
-        <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.207 11.387.6.113.793-.258.793-.577v-2.234c-3.338.724-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.757-1.333-1.757-1.087-.744.083-.729.083-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.834 2.809 1.304 3.495.998.108-.775.42-1.305.763-1.604-2.665-.305-5.466-1.334-5.466-5.93 0-1.31.469-2.381 1.236-3.221-.124-.304-.536-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.005.404 2.291-1.552 3.299-1.23 3.299-1.23.653 1.653.241 2.873.118 3.176.77.84 1.233 1.911 1.233 3.221 0 4.609-2.804 5.625-5.475 5.921.43.372.823 1.102.823 2.222v3.293c0 .322.192.694.801.576C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12z"/>
-      </svg>
-    </a>
+    <!-- GitHub and Support Group -->
+    <div class="flex items-center space-x-4">
+      <!-- GitHub Icon -->
+      <a href="https://github.com/mschwehl/puscariu-etymologisches-woerterbuch" target="_blank" rel="noopener noreferrer" class="text-white hover:text-blue-400">
+        <img src="https://pngimg.com/uploads/github/github_PNG40.png" alt="GitHub" class="w-6 h-6">
+      </a>
+
+      <!-- Support Link -->
+      <a href="https://www.sprachenlernen24.de/rumaenisch-lernen/?id=MT132514" target="_blank" rel="noopener noreferrer" class="text-sm text-green-400 hover:underline">
+        Lerne Rumänisch!
+      </a>
+    </div>
   </div>
 </nav>
 <header class="container mx-auto text-center my-8 px-4">
