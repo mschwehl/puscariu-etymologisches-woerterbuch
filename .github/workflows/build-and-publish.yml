@@ -1,0 +1,40 @@
+name: Build and Publish
+
+on:
+  push:
+    branches:
+      - main  
+  workflow_dispatch:
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v3
+
+    - name: Set up Java
+      uses: actions/setup-java@v3
+      with:
+        distribution: 'temurin' # Use AdoptOpenJDK
+        java-version: '21'      
+
+    - name: Build and Run Maven in Specific Directory
+      working-directory: ./generator # Replace this with your target directory
+      run: |
+        mvn clean compile
+        mvn exec:java
+
+    - name: Prepare files for GitHub Pages
+      run: |
+        mkdir -p output
+        cp -r entries output/
+        cp -r js output/
+        cp index* output/
+
+    - name: Publish to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./output
