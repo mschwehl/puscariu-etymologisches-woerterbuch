@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1275">
+  
+  <lemma>părticică</lemma>
+  
+  <!-- Assuming particeä -> părticică -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Teilchen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PARTICELLA, -AM</etymon>
+     (für 
+    <etymon lang="Lat">PARTICULA</etymon>
+    ): 
+    <!-- Assuming *rArtickıLa -> *PARTICELLA -->
+    
+    <cognates>
+      
+      <form lang="it">particella</form>
+      ,
+
+      <form lang="vec-OLD">partesella?</form>
+      , 
+      <!-- Interpretation needed for a.-ven. partesella -->
+      
+      <form lang="oc">parcela</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">parcelle</form>
+      ,
+
+      <form lang="es">partecilla?</form>
+      , 
+      <!-- Interpretation needed for partecilla -->
+      
+      <form lang="pt">parcela</form>
+      . 
+      <!-- Assuming parcella -> parcela -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. părtică?].</variants>
+  
+  <!-- Interpretation needed for părtică -->
+  
+</entry>

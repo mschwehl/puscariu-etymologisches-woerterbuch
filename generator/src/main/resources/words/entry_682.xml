@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="682">
+  
+  <lemma>furnică</lemma>
+  
+  <!-- Assuming furnicä -> furnică -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. mgl. furnigă, ir. frunige?]</variants>
+  
+  <!-- Interpretation needed for frunige -->
+  
+  <definition>„Ameise“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FORMICA, -AM</etymon>
+    : 
+    <!-- Assuming Pe Sera -> FORMICA -->
+    
+    <cognates>
+      
+      <form lang="it">formica</form>
+      ,
+
+      <form lang="roh-ENG">furmia</form>
+      ,
+
+      <form lang="oc">formiga</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">formiga</form>
+      ,
+
+      <form lang="pt">formiga</form>
+      ,
+
+      <form lang="fr">fourmi</form>
+      , 
+      <!-- Assuming ourmi -> fourmi -->
+      
+      <form lang="fr-LOR">fermi</form>
+      , 
+      <!-- Assuming lothr. -> fr-LOR -->
+      
+      <form lang="es">hormiga</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

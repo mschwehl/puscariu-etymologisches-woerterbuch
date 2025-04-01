@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1143">
+  
+  <lemma>mustru</lemma>
+  
+  <lemma_variants>(mustrez?)</lemma_variants>
+  
+  <!-- Assuming mustr£z -> mustrez? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„tadeln”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MONSTRO, -ARE</etymon>
+     „zeigen‘“ (für den Sinnesübergang vgl. 
+    <form lang="fr">remontrer</form>
+    ): 
+    <!-- Assuming möln]stro -> MONSTRO -->
+    
+    <cognates>
+      
+      <form lang="it">mostrare</form>
+      ,
+
+      <form lang="ca">mostrar</form>
+      , 
+      <form lang="es">mostrar</form>
+      , 
+      <form lang="pt">mostrar</form>
+      . 
+      <!-- Assuming cat. sp. pg. -> ca, es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. încațu?, giudic?, vărsescu?].</variants>
+  
+  <!-- Interpretation needed for ncatsu, diudie, väryesc -->
+  
+</entry>

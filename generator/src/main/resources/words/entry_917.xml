@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="917">
+  
+  <lemma>jugar</lemma>
+  
+  <!-- Assuming jugär -> jugar -->
+  
+  <feminine_neuter>-ă?</feminine_neuter>
+  
+  <!-- Assuming =ci -> -ă? -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„Zieh-“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IUGARIUS, -A, -UM</etymon>
+    .
+
+  </etymology>
+  
+</entry>

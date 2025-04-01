@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="809">
+  
+  <lemma>încap</lemma>
+  
+  <!-- Assuming îneccdp -> încap -->
+  
+  <principal_parts>încăpui?, încăput?</principal_parts>
+  
+  <!-- Assuming ti, =ait -> încăpui?, încăput? -->
+  
+  <verb_class>II</verb_class>
+   
+  <!-- IL -> II -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (în)cap, mgl. (a)ncap]</variants>
+  
+  <definition>„Raum haben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CAPERE</etymon>
+     (für 
+    <etymon lang="Lat">-ERE</etymon>
+    ): 
+    <!-- Assuming “carıo. -FBRE -> CAPERE -->
+    
+    <cognates>
+      
+      <form lang="it">capere</form>
+      ,
+
+      <form lang="oc">caber</form>
+      , 
+      <!-- Assuming pr. -> oc -->
+      
+      <form lang="es">caber</form>
+      ,
+
+      <form lang="pt">caber</form>
+      , 
+      <!-- Assuming pe. -> pt -->
+      
+      <form lang="fr">-cevoir</form>
+      .
+
+    </cognates>
+     Für die rom. Bedeutung „Raum haben“ vgl. lat. 
+    <example lang="la">id non capit toto in orbe</example>
+     (= totus orbis id non capit). 
+    <!-- Assuming habng -> haben -->
+    
+  </etymology>
+  
+</entry>

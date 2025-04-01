@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="756">
+  
+  <lemma>iară?</lemma>
+  
+  <!-- Assuming iartă -> iară? -->
+  
+  <pos>conj.</pos>
+  
+  <variants>[ar. =, mgl. ară]</variants>
+   
+  <!-- Assuming far. . -> ar. = -->
+  
+  <definition>„und, aber, wieder“</definition>
+  
+  <etymology source="Schuchardt: Zeitschr. rom. Phil. XV, 240-241; Meyer-Lübke: Rom. Gramm. III, § 495">
+    unbekannter Herkunft. Schuchardt: Zeitschr. rom. Phil. XV, 240 bis 241 und Meyer-Lübke: Rom. Gramm. III, § 495 vergleicht damit 
+    <form lang="roh-OBW">er(a)</form>
+    , 
+    <form lang="roh-ENG">eir</form>
+     „etiam', 
+    <form lang="oc">er(a), eras</form>
+     „auch“ und glaubt, daß sie auf ein urrom. Wort zurückgehen, welches 
+    <form lang="el">ἆρα?, ῥα?</form>
+    , 
+    <form lang="lt">ir?</form>
+     entspricht.
+
+    <!-- Interpretation needed for Eoa, doa, în -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="803">
+  
+  <lemma>înalț</lemma>
+  
+  <!-- Assuming inalt -> înalț -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. înalț?, mgl. nalț?]</variants>
+  
+  <!-- Interpretation needed for analtsı -> înalț?, nalts -> nalț? -->
+  
+  <definition>„heben, in die Höhe richten‘</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, 103">
+    
+    <etymon lang="Lat">*ALTIO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">ALTUS</etymon>
+    ): 
+    <!-- Assuming *aLrio, -akB -> *ALTIO, -ARE, aurtvs -> ALTUS -->
+    
+    <cognates>
+      
+      <form lang="it">alzare</form>
+       (dial. Formen in 
+      <reference type="bibliographic">Verfassers: Lat. Ti u. Ki, 103</reference>
+      ),
+
+      <form lang="sc-L">alțare</form>
+      , 
+      <!-- Assuming sard. l. -> sc-L -->
+      
+      <form lang="roh-ENG">alțar?</form>
+      , 
+      <!-- Interpretation needed for otser -->
+      
+      <form lang="oc">auçar</form>
+      , 
+      <!-- Assuming pr. aussar -> oc auçar -->
+      
+      <form lang="fr">hausser</form>
+      ,
+
+      <form lang="ca">alçar</form>
+      , 
+      <!-- Assuming cat. alsar -> alçar -->
+      
+      <form lang="es">alzar</form>
+      ,
+
+      <form lang="pt">alçar</form>
+      . 
+      <!-- Assuming algar -> alçar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="707">
+   
+  <!-- Assuming 107 -> 707 -->
+  
+  <lemma>ger</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. dzer]</variants>
+   
+  <!-- Assuming far. -> ar. -->
+  
+  <definition>„Frost“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GELU</etymon>
+    : 
+    <!-- Assuming ckru -> GELU -->
+    
+    <cognates>
+      
+      <form lang="it">gelo</form>
+      ,
+
+      <form lang="oc">gel</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">gel</form>
+      ,
+
+      <form lang="es">hielo, yelo</form>
+      . 
+      <!-- Assuming yelo, hielo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

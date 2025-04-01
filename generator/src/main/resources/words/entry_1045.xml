@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1045">
+  
+  <lemma>măsea</lemma>
+  
+  <!-- Assuming mäseäd -> măsea -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. măseao?, mgl. măsea?]</variants>
+  
+  <!-- Interpretation needed for mäseao, mäsenä -> măsea? -->
+  
+  <definition>„Backenzahn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MAXILLA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">mascella</form>
+      ,
+
+      <form lang="it-SIC">maxilla?</form>
+      , 
+      <form lang="sc">maxilla?</form>
+      , 
+      <!-- Interpretation needed for sic. sard. masidda -->
+      
+      <form lang="pms">masèla?</form>
+      , 
+      <form lang="rm-GRD?">masèla?</form>
+      , 
+      <!-- Interpretation needed for piem. gredn. mas-sella -->
+      
+      <form lang="oc">maissèla?</form>
+      , 
+      <!-- Interpretation needed for pv. maissella -->
+      
+      <form lang="fro">maisselle</form>
+      , 
+      <!-- Assuming a.-Irz. -> fro -->
+      
+      <form lang="es">mejilla</form>
+      .
+
+    </cognates>
+     Die Bedeutung „Backenzahn“ hat auch 
+    <form lang="frp-LYO">maissèla?</form>
+    , 
+    <form lang="fr-POI?">maisselle?</form>
+    . 
+    <!-- Interpretation needed for lyon. maissella, poit. maisselle -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1135">
+  
+  <lemma>mușc</lemma>
+  
+  <!-- Assuming muârsee -> mușc -->
+  
+  <usage_note>(Cuv. d. b. I, 294, Sämän. II, 758 etc.)</usage_note>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mușcare? O. D. %®/,,]</variants>
+  
+  <!-- Interpretation needed for mursicare -> mușcare?, % -> ? -->
+  
+  <definition>„beißen, + verschlingen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MORSICO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">morsicare</form>
+      ,
+
+      <form lang="fur">morsecà?</form>
+      , 
+      <!-- Interpretation needed for Irl. morseka -->
+      
+      <form lang="lmo-VALS">musgà?</form>
+      , 
+      <!-- Interpretation needed for valsass. musgă -->
+      
+      <form lang="ca">mossegar</form>
+      , 
+      <form lang="pt">mossegar</form>
+      , 
+      <!-- Assuming cat. pg. -> ca, pt -->
+      (vgl. 
+      <form lang="es">muesca</form>
+       „Kerbe“).
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. P. mușcu?, mâscu?].</variants>
+  
+  <!-- Interpretation needed for muscu, mâscu -->
+  
+</entry>

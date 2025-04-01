@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1099">
+  
+  <lemma>mnerău?</lemma>
+  
+  <!-- Assuming mrenu -> mnerău? -->
+  
+  <feminine_neuter>-ă?</feminine_neuter>
+  
+  <lemma_variants>
+    (meru? etc, 
+    <source_ref>Jb. VI, 20</source_ref>
+    )
+  </lemma_variants>
+  
+  <!-- Interpretation needed for heru -->
+  
+  <definition>„blau®</definition>
+   
+  <!-- Definition seems incorrect for MERUS -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MERUS, -A, -UM</etymon>
+     „rein:
+
+    <cognates>
+      
+      <form lang="oc">mer</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">mier</form>
+      . 
+      <!-- Assuming a.-Irz. -> fro -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

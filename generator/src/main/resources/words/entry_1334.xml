@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1334">
+  
+  <lemma>plec</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. =?]</variants>
+  
+  <!-- Interpretation needed for > -> =? -->
+  
+  <definition>„beugen; fortgehen‘‘</definition>
+  
+  <etymology source="Dens. H. l. r. 194; Zeitschrift rom. Phil. XI, 252; XVI, 559">
+    
+    <etymon lang="Lat">PLICO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">piegare</form>
+      ,
+
+      <form lang="roh-ENG">plegar?</form>
+      , 
+      <!-- Interpretation needed for plajer -->
+      
+      <form lang="oc">plegar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">plier</form>
+      ,
+
+      <form lang="es">llegar</form>
+      ,
+
+      <form lang="pt">chegar</form>
+      .
+
+    </cognates>
+     im Sp.-Pg. bedeutet das Wort „sich nähern, erreichen‘ und 
+    <etymon lang="Lat">PLICARE</etymon>
+     ist im Spätlat. in dieser Bedeutung belegbar (Dens. H. l. r. 194); im Rum. dagegen kommt, neben der ursprünglichen Bedeutung „biegen, beugen”, auch die dem Sp.-Pg. entgegengesetzte von: „weggehen" vor. Nach einer mündlichen Mitteilung von W. Meyer-Lübke hat sich dieser Sinn zunächst in der Soldatensprache entwickelt, wo „das Zelt zusammenbiegen‘ dasselbe wie „weggehen“ (vgl. deutsch: „aufbrechen“) ist. 
+    <example>Vă plec</example>
+     oder 
+    <example>mi se pleacă (de o mîncare)</example>
+     bedeutet „es wird mir übel (von einem Essen)” und dies ist eine Bestätigung von Meyer-Lübke’s Erklärung von sp. 
+    <form lang="es">basca</form>
+     „Ekel“ zu 
+    <etymon lang="Lat">VASCUS?</etymon>
+     „krumm“ (
+    <reference type="bibliographic">Zeitschrift rom. Phil. XI, 252</reference>
+    ), welche von demselben auch durch den Vergleich mit 
+    <form lang="it-LUC?">aoncare?</form>
+     „far sforzi di vomito“ zu 
+    <etymon lang="Lat">UNCUS, UNCARE</etymon>
+     wahrscheinlich gemacht wurde (
+    <reference type="bibliographic">Zeitschr. rom. Phil. XVI, 559</reference>
+    ). 
+    <!-- Assuming vascus -> VASCUS?, lucc. aoncare -> aoncare? -->
+    
+  </etymology>
+  
+</entry>

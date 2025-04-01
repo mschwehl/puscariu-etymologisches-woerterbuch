@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="789">
+  
+  <lemma>împlinesc</lemma>
+  
+  <lemma_variants>(plinesc)</lemma_variants>
+  
+  <pos>vb.</pos>
+   
+  <!-- POS vb inferred from ending -->
+  
+  <verb_class>IV</verb_class>
+   
+  <!-- Verb class IV inferred from ending -->
+  
+  <definition>„erfüllen“</definition>
+  
+  <etymology source="Dens. H. l. r. 150">
+    
+    <etymon lang="Lat">*IMPLENESCO, -IRE?</etymon>
+     (Dens. H. l. r. 150): 
+    <!-- Assuming rLextsco, -*ire -> *IMPLENESCO, -IRE? -->
+    
+    <cognates>
+      
+      <form lang="vec">impinir</form>
+      , 
+      <!-- Assuming ven. -> vec -->
+      
+      <form lang="lmo-MIL">impieni</form>
+      , 
+      <!-- Assuming mail. -> lmo-MIL -->
+      
+      <form lang="oc">plenir</form>
+      . 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+     Vgl. auch 
+    <form lang="chu">plŭniti</form>
+    . 
+    <!-- Assuming kslav. plüniti -> chu plŭniti -->
+    
+  </etymology>
+  
+</entry>

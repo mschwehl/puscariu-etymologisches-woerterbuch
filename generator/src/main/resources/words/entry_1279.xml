@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1279">
+  
+  <lemma>păs</lemma>
+  
+  <pos>sm.</pos>
+   
+  <!-- Assuming smn. -> sm. -->
+  
+  <definition>„Sorge“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PENSUM</etymon>
+     „Gewicht“: 
+    <!-- Assuming pr[n]sum -> PENSUM -->
+    
+    <cognates>
+      
+      <form lang="sq">peshë</form>
+       „Last, Gewicht“, 
+      <!-- Interpretation needed for pese -->
+      
+      <form lang="it">peso</form>
+      , 
+      <form lang="es">peso</form>
+      , 
+      <form lang="pt">peso</form>
+      ,
+
+      <form lang="sc-C">pesu</form>
+       „pena“, 
+      <!-- Interpretation needed for sard. e. pesu -->
+      
+      <form lang="roh-ENG">pais</form>
+      ,
+
+      <form lang="oc">pes</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">poids</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

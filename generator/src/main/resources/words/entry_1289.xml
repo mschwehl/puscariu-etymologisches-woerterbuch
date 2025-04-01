@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1289">
+  
+  <lemma>patru</lemma>
+  
+  <!-- Assuming pdtru -> patru -->
+  
+  <pos>num.</pos>
+  
+  <variants>[ar. mgl. =, ir. patru?]</variants>
+  
+  <!-- Interpretation needed for I -> =, potru -> patru? -->
+  
+  <definition>„vier“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">QUATTUOR</etymon>
+     &gt; 
+    <!-- Assuming quarr/ujor -> QUATTUOR -->
+    
+    <cognates>
+      
+      <form lang="it">quattro</form>
+      ,
+
+      <form lang="sc-L">bàtoro?</form>
+      , 
+      <!-- Interpretation needed for sard. l. batturu -->
+      
+      <form lang="roh-ENG">kater?</form>
+      , 
+      <!-- Interpretation needed for kater -->
+      
+      <form lang="fr">quatre</form>
+      ,
+
+      <form lang="es">cuatro</form>
+      , 
+      <!-- Interpretation needed for cuatyo -->
+      
+      <form lang="pt">quatro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

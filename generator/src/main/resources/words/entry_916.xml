@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="916">
+  
+  <lemma>jug</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. giug? auch „Gebirgskamm‘“, mgl. jug?, ir. jug?]</variants>
+  
+  <!-- Interpretation needed for diug -> giug?, Fu -> jug?, Zug -> jug? -->
+  
+  <definition>„Joch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IUGUM</etymon>
+    : 
+    <!-- Assuming Caicin -> IUGUM -->
+    
+    <cognates>
+      
+      <form lang="it">giogo</form>
+      ,
+
+      <form lang="it-SIC">iugu?</form>
+      , 
+      <!-- Interpretation needed for juvu -->
+      
+      <form lang="roh-ENG">jouf?</form>
+      , 
+      <!-- Interpretation needed for dăuf -->
+      
+      <form lang="fur">jouf?</form>
+      , 
+      <!-- Interpretation needed for îrl. yov -->
+      
+      <form lang="oc">jo</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">joug</form>
+      ,
+
+      <form lang="ca">jou</form>
+      , 
+      <!-- Assuming eat. -> ca -->
+      
+      <form lang="es">yugo</form>
+      , 
+      <!-- Assuming 274190 -> yugo -->
+      
+      <form lang="pt">jugo</form>
+      . 
+      <!-- Assuming Pg. Jugo -> pt jugo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

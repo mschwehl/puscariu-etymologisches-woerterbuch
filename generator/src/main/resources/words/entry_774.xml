@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="774">
+   
+  <!-- Assuming 114 -> 774 -->
+  
+  <prefix>II</prefix>
+  
+  <lemma>ie</lemma>
+  
+  <!-- Assuming îie -> ie -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Frauenhemd“</definition>
+  
+  <etymology source="Dens. H. l. r. 158">
+    
+    <etymon lang="Lat">LINEA, -AM</etymon>
+     „Hemd“ (substantiviert aus 
+    <etymon lang="Lat">LINEUS, -A, -UM</etymon>
+     „aus Lein'): 
+    <!-- Assuming <Lixza -> LINEA -->
+    
+    <cognates>
+      
+      <form lang="sq">linjë?</form>
+       „Hemd“, 
+      <!-- Interpretation needed for fine -->
+      
+      <form lang="roh-ENG">lîndza?</form>
+      , 
+      <!-- Interpretation needed for lindZa -->
+      
+      <form lang="fr">linge</form>
+      ,
+
+      <form lang="es">lía?</form>
+      . 
+      <!-- Interpretation needed for lia -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

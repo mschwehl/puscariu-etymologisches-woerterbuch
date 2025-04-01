@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="911">
+  
+  <lemma>joi</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. joi(a)?, mgl. joi?]</variants>
+  
+  <!-- Interpretation needed for dzoi(a) -> joi(a)?, Z0i -> joi? -->
+  
+  <definition>„Donnerstag“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">JOVIS (DIES)</etymon>
+    : 
+    <!-- Assuming sövıs (se. DIES) -> JOVIS (DIES) -->
+    
+    <cognates>
+      
+      <form lang="it">giovedì</form>
+      ,
+
+      <form lang="pms">giòves?</form>
+      , 
+      <!-- Interpretation needed for giöves -->
+      
+      <form lang="sc-N">zòbi?</form>
+      , 
+      <!-- Interpretation needed for nordsard. dZobi -->
+      
+      <form lang="oc">jòus?</form>
+      , 
+      <!-- Interpretation needed for pv. jous -->
+      
+      <form lang="fr">jeudi</form>
+      ,
+
+      <form lang="es">jueves</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

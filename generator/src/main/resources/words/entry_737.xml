@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="737">
+   
+  <!-- Assuming 737 -->
+  
+  <lemma>grînar</lemma>
+  
+  <!-- Assuming grîndr -> grînar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„Kornboden‘“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GRANARIUM</etymon>
+    :: 
+    <!-- Assuming GRANARIUN -> GRANARIUM -->
+    
+    <cognates>
+      
+      <form lang="it">granajo</form>
+      ,
+
+      <form lang="roh-ENG">graner</form>
+      ,
+
+      <form lang="oc">granier?</form>
+      , 
+      <!-- Assuming pY. granter -> granier? -->
+      
+      <form lang="fr">grenier</form>
+      ,
+
+      <form lang="ca">graner</form>
+      ,
+
+      <form lang="es">granero</form>
+      ,
+
+      <form lang="pt">granel</form>
+      . 
+      <!-- Assuming ranel -> granel -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

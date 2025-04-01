@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1028">
+  
+  <lemma>măreț</lemma>
+  
+  <feminine_neuter>-eață</feminine_neuter>
+  
+  <!-- Assuming -edtä -> -eață -->
+  
+  <pos>adj.</pos>
+  
+  <reference type="see">
+    vgl 
+    <targetLemma>mare</targetLemma>
+    .
+  </reference>
+  
+</entry>

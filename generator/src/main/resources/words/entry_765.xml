@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="765">
+  
+  <lemma>iepure</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. lepur?, lepur?? (Samarina), lăpur?? (Avela, Breaza etc.), mgl. iepure? W., iepure? P., ir. lepur]</variants>
+  
+  <!-- Interpretation needed for l&pure -> lepur?, Tepre -> lepur??, löpure -> lăpur??, mel. lepuri -> mgl. iepure?, fepur -> iepure? -->
+  
+  <definition>„Hase“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LEPUS, -OREM</etymon>
+    : 
+    <!-- Assuming <1Erus, -ÖREM -> LEPUS, -OREM -->
+    
+    <cognates>
+      
+      <form lang="sq">lepur</form>
+      , 
+      <!-- Assuming fepur -> lepur -->
+      
+      <form lang="it">lepre</form>
+      ,
+
+      <form lang="it-SIC">lebbra</form>
+      , 
+      <!-- Assuming sic. -> it-SIC -->
+      
+      <form lang="sc">lepere</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="fur">jeur?</form>
+      , 
+      <!-- Interpretation needed for yeur -->
+      
+      <form lang="roh-ENG">leivra?</form>
+      , 
+      <!-- Interpretation needed for laivra -->
+      
+      <form lang="oc">lebre, lieura</form>
+      , 
+      <!-- Assuming pv. lebra -> lebre -->
+      
+      <form lang="fr-LOR">lièvre?</form>
+      , 
+      <!-- Interpretation needed for liöf -->
+      
+      <form lang="fr">lièvre</form>
+      , 
+      <!-- Assuming livre -> lièvre -->
+      
+      <form lang="es">liebre</form>
+      ,
+
+      <form lang="pt">lebre</form>
+      .
+
+    </cognates>
+     (Außer rum. alb. sard. frz., überall weiblich).
+
+  </etymology>
+  
+</entry>

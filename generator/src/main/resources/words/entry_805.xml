@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="805">
+  
+  <lemma>încalec</lemma>
+  
+  <!-- Assuming tnedlee -> încalec -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. încalic?, mgl. ancalic]</variants>
+  
+  <!-- Interpretation needed for ncalie -> încalic? -->
+  
+  <definition>„ein Pferd besteigen“</definition>
+  
+  <etymology source="Anthimus, praef. ed. Rose">
+    
+    <etymon lang="Lat">CABALLICO, -ARE</etymon>
+     (belegt): 
+    <!-- Assuming { -> from -->
+    
+    <cognates>
+      
+      <form lang="sq">(n)galkoj?</form>
+      , 
+      <!-- Interpretation needed for (n)yalkon -->
+      
+      <form lang="it">cavalcare</form>
+      ,
+
+      <form lang="it-SIC">cavalcare?</form>
+      , 
+      <!-- Interpretation needed for kravakkari -->
+      
+      <form lang="it-LEC">încărcare?</form>
+      , 
+      <!-- Interpretation needed for nkarkare -->
+      
+      <form lang="lmo-BER">cavalca?</form>
+      , 
+      <!-- Interpretation needed for a.-berg. kavalka -->
+      
+      <form lang="sc-L">cavaligare?</form>
+      , 
+      <!-- Interpretation needed for sard. }. kadrliyare -->
+      
+      <form lang="oc">(en)cavalgar</form>
+      , 
+      <!-- Assuming py. -> oc -->
+      
+      <form lang="fr">chevaucher</form>
+      ,
+
+      <form lang="es">cabalgar?</form>
+      , 
+      <!-- Interpretation needed for cabalyar -->
+      
+      <form lang="pt">cavalgar</form>
+      .
+
+    </cognates>
+     Überall: „reiten“, wofür rum. 
+    <form>călăresc</form>
+     (vgl. 
+    <form>călăreț?</form>
+    ) eingetreten ist (umgekehrt im Frz.: 
+    <example lang="fr">monter un cheval</example>
+     — „reiten“). 
+    <!-- Assuming călărese -> călăresc, cälariu -> călăreț? -->
+    
+  </etymology>
+  
+</entry>

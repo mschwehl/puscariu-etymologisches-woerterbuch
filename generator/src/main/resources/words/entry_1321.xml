@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1321">
+  
+  <lemma>pîntece</lemma>
+  
+  <lemma_variants>(ban. pîntec?)</lemma_variants>
+  
+  <!-- Interpretation needed for pintsek -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. pîntece?, pîntică?, pîntece?, mgl. pîntece?]</variants>
+  
+  <!-- Interpretation needed for pintie -> pîntece?, pintitse -> pîntece?, pontitsi -> pîntece? -->
+  
+  <definition>„Bauch, Magen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PANTEX, -ICEM</etymon>
+    :
+
+    <cognates>
+      (alb. 
+      <form lang="sq">plëndës?</form>
+      ), 
+      <!-- Interpretation needed for plendes -->
+      
+      <form lang="it">pancia</form>
+      ,
+
+      <form lang="oc">pansa</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">panse</form>
+      , 
+      <!-- Assuming fız. -> fr -->
+      
+      <form lang="ca">panxa?</form>
+      , 
+      <!-- Interpretation needed for panzxa -->
+      
+      <form lang="es">panza</form>
+      , 
+      <form lang="pt">pança</form>
+       
+      <!-- Interpretation needed for sp. pg. panza -->
+       (überall weiblich).
+
+    </cognates>
+     Wie im Rum. findet sich der Ausdruck „Bauch“ auch für „Magen“ gebraucht in 
+    <form lang="it-PER?">trippa?</form>
+    , 
+    <form lang="fr-MENT?">pansa?</form>
+    , 
+    <form lang="co-CORR?">ventre?</form>
+     etc. 
+    <!-- Interpretation needed for per. frippa -> trippa?, mentone pansa, corrăze ventre -->
+    
+  </etymology>
+  
+  <variants>[ir. trbuh?].</variants>
+  
+  <!-- Interpretation needed for trbuh -->
+  
+</entry>

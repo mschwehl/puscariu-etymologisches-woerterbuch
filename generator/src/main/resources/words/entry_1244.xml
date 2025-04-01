@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1244">
+  
+  <lemma>păgîn</lemma>
+  
+  <!-- Assuming pägin -> păgîn -->
+  
+  <pos>sm.</pos>
+  
+  <feminine>păgînă</feminine>
+  
+  <!-- Assuming päginä -> păgînă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„Heide, Heidin; heidnisch‘</definition>
+  
+  <etymology source="Rönsch: Itala u. Vulgata, 339">
+    
+    <etymon lang="Lat">PAGANUS, -A, -UM</etymon>
+     (zuerst „Landbewohner“, dann „Heide“. Rönsch: Itala u. Vulgata, 339):
+
+    <cognates>
+      
+      <form lang="it">pagano</form>
+      , 
+      <form lang="es">pagano</form>
+      ,
+
+      <form lang="roh-ENG">pajaun?</form>
+      , 
+      <!-- Interpretation needed for pajaun -->
+      
+      <form lang="fr">payen</form>
+      ,
+
+      <form lang="pt">pagão</form>
+      . 
+      <!-- Assuming pagäo -> pagão -->
+      
+    </cognates>
+     — Aus dem Lat. stammt 
+    <etymon lang="chu">poganĭnŭ?</etymon>
+    , woraus rum. 
+    <form>pogan</form>
+     „böse“. 
+    <!-- Assuming kslav. pogani -> chu poganĭnŭ? -->
+     Zu serb. 
+    <form lang="sr">poganiti</form>
+     „verunreinigen" paßt der Bedeutung nach rum. 
+    <form>pîngăresc</form>
+     IV vb. [ar. 
+    <form lang="ro-AR">pîngănescu?</form>
+    ] 
+    <!-- Interpretation needed for pinginescu -->
+     und scheint aus alb. 
+    <form lang="sq">pegër?</form>
+     „unrein“ (
+    <form lang="sq">përgënj?</form>
+     „beschmutze“) zu stammen, 
+    <!-- Interpretation needed for pegere, pergon -->
+     welches seinerseits durch die Erhaltung des intervokalischen g auffällt. „Heide“ heißt ar. 
+    <form lang="ro-AR">pîngîn?</form>
+    . 
+    <!-- Interpretation needed for pingin -->
+    
+  </etymology>
+  
+</entry>

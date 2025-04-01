@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1166">
+  
+  <lemma>negreață</lemma>
+  
+  <!-- Assuming negredtä -> negreață -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Schwärze“</definition>
+  
+  <variants>[mgl. negreață? „der schwarze Teil des Auges“]</variants>
+  
+  <!-- Interpretation needed for nigretsä -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">NIGRITIA, -AM</etymon>
+    : 
+    <!-- Assuming nigrirtia -> NIGRITIA -->
+    
+    <cognates>
+      
+      <form lang="it">negrezza</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. lașă?, lăeață?].</variants>
+  
+  <!-- Interpretation needed for lasă, lăeatsă -->
+  
+</entry>

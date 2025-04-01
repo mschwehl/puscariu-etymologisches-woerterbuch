@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="788">
+  
+  <lemma>împing</lemma>
+  
+  <principal_parts>-insei, -ins</principal_parts>
+  
+  <!-- Assuming -nsei, -ns -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„hineinstoßen‘</definition>
+  
+  <etymology source="Lumina II, 110">
+    
+    <etymon lang="Lat">IMPINGO, -PEGI?, -PACTUM, -NGERE</etymon>
+    : 
+    <!-- Assuming 1npisco, -EGL, -ACTUN -> IMPINGO, -PEGI?, -PACTUM -->
+    
+    <cognates>
+      
+      <form lang="it">impingere, impignere</form>
+      ,
+
+      <form lang="it-FEL?">impingere?</form>
+      , 
+      <!-- Interpretation needed for fel. impenzi -->
+      
+      <form lang="oc">empenher</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">empeindre</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="ca">empenyer</form>
+      . 
+      <!-- Assuming cat. -> ca -->
+      
+    </cognates>
+     Im Ar. ist nach dem Muster der unzähligen Formen mit und ohne Prefix in- ein 
+    <form lang="ro-AR">pingu?</form>
+    , 
+    <form lang="ro-AR">pimpșu?</form>
+    , 
+    <form lang="ro-AR">pimtu?</form>
+    , III, II vb. „stechen“ (der Sinn „stoßen“ in 
+    <source_ref>Lumina II, 110</source_ref>
+     wird ein Dacorumänismus sein) gebildet worden. 
+    <!-- Interpretation needed for pingu, pimpSu, pimtu -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="984">
+  
+  <lemma>linte</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. = P., mgl. linte?]</variants>
+  
+  <!-- Interpretation needed for mgl. linti -> linte? -->
+  
+  <definition>„Linse“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LENS, LENTEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">lente</form>
+      ,
+
+      <form lang="fur">lint</form>
+      . 
+      <!-- Assuming frl. -> fur -->
+      
+    </cognates>
+     — Sonst ist 
+    <etymon lang="Lat">LENS</etymon>
+     durch das Dimin. 
+    <etymon lang="Lat">LENTICULA, -AM</etymon>
+     ersetzt worden:
+
+    <cognates>
+      
+      <form lang="it">lenticchia</form>
+      ,
+
+      <form lang="lij-GEN">lentiggia?</form>
+      , 
+      <!-- Interpretation needed for a.-gen. lentid£Za -->
+      
+      <form lang="roh-ENG">lenticla?</form>
+      , 
+      <!-- Interpretation needed for lentila -->
+      
+      <form lang="oc">lentilha</form>
+      , 
+      <form lang="pt">lentilha</form>
+      , 
+      <!-- Assuming pv. pg. -> oc, pt -->
+      
+      <form lang="fr">lentille</form>
+      ,
+
+      <form lang="ca">llentilla?</form>
+       (
+      <form lang="it-PAD-OLD">lintecla?</form>
+      , 
+      <form lang="it-TER?">lintecchia?</form>
+      , 
+      <form lang="it-MAN">lantella?</form>
+      , 
+      <form lang="it-MIR?">lintessa?</form>
+      , 
+      <form lang="rm-POSCH">lantella?</form>
+      , 
+      <form lang="es">lenteja</form>
+       &lt; 
+      <etymon lang="Lat">LENTICULA</etymon>
+      ). 
+      <!-- Interpretation needed for Uentia -> llentilla?, a.-pad. lintechta -> lintecla?, teram. linteechia -> lintecchia?, mant. lantelsa -> lantella?, mirand. lintessa -> lintessa?, posch. antela -> lantella?, lenteja -->
+      
+    </cognates>
+     Dieses hat einst auch im Rum. existieren müssen, weil ein 
+    <form>măzăriche</form>
+     „Kichererbse‘ von 
+    <form>mazăre</form>
+     „Erbse‘, illyrischen Ursprungs, nur durch dessen Analogie entstehen konnte, da ein Suffix 
+    <suffix>-iche</suffix>
+     im Rum. nicht produktiv ist.
+
+  </etymology>
+  
+</entry>

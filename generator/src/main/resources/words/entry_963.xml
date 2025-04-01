@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="963">
+   
+  <!-- Assuming „963 -> 963 -->
+  
+  <lemma>lemn</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. lemn „Holz, Baum“, mgl. =, ir. lemne, in Zej. lemn?]</variants>
+  
+  <!-- Interpretation needed for lemnu -> lemn, © -> =, lemän -> lemn? -->
+  
+  <definition>„Holz“</definition>
+  
+  <etymology source="Dens. Hist. l. r. 230">
+    
+    <etymon lang="Lat">LIGNUM</etymon>
+    : 
+    <!-- Assuming riexum -> LIGNUM -->
+    
+    <cognates>
+      
+      <form lang="it">legno</form>
+      ,
+
+      <form lang="it-CAM?">legne?</form>
+      , 
+      <!-- Interpretation needed for campob. leyene -->
+      
+      <form lang="it-CER?">legne?</form>
+      , 
+      <!-- Interpretation needed for cerign. livene -->
+      
+      <form lang="it-LEC">legnu?</form>
+      , 
+      <!-- Interpretation needed for leunu -->
+      
+      <form lang="it-SIC">linu</form>
+      , 
+      <!-- Assuming sie. -> it-SIC -->
+      
+      <form lang="sc-L">linna</form>
+      , 
+      <!-- Assuming sard. l. -> sc-L -->
+      
+      <form lang="roh-ENG">lain</form>
+      ,
+
+      <form lang="fro">laigne</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="es">leño</form>
+      , 
+      <!-- Assuming leno -> leño -->
+      
+      <form lang="pt">lenho</form>
+      .
+
+    </cognates>
+     — Wie Rum. bedeutet 
+    <form lang="it-TIR?">len?</form>
+     auch „Baum“ (
+    <reference type="bibliographic">Dens. Hist. l. r. 230</reference>
+    ). 
+    <!-- Interpretation needed for tir. led -> len? -->
+    
+  </etymology>
+  
+</entry>

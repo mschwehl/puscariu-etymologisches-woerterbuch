@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1019">
+  
+  <lemma>mamă</lemma>
+  
+  <!-- Assuming mima -> mamă -->
+  
+  <lemma_variants>(mumă)</lemma_variants>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. mamă, mumă auch: „Hals“ W., verkürzt ma und mu- (mu-mea), mgl. mamă auch: „Kropf der Hühner“, mumă auch „Bienenkönigin“]</variants>
+  
+  <definition>„Mutter“</definition>
+  
+  <etymology source="C. I. L. X, 2965 = I. R. N. 3373; Tappolet: Verwandtschaftsnamen 20 ff.">
+    
+    <etymon lang="Lat">MAMMA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">mëmë?</form>
+      , 
+      <!-- Interpretation needed for meme -->
+      
+      <form lang="it">mamma</form>
+      , 
+      <form lang="pt">mamãe?</form>
+      , 
+      <!-- Interpretation needed for mamına -->
+      
+      <form lang="fr">maman</form>
+      , 
+      <!-- Assuming îrz. -> fr -->
+      
+      <form lang="es">mamá</form>
+      . 
+      <!-- Assuming mama -> mamá -->
+      
+    </cognates>
+     — In Zusammensetzung mit dem Possesivpron. 
+    <form>mă-ta</form>
+    , 
+    <form>mă-sa</form>
+     [ar. —] „deine, seine Mutter“. Die Form 
+    <form>mamei?</form>
+     [ar. 
+    <form lang="ro-AR">mamin?</form>
+    , mgl. 
+    <form lang="ro-MG">mumon?</form>
+    ] neben 
+    <form>mame?</form>
+     in Gen. Dat. Sing. und im Nom. Akk. Plur. 
+    <!-- Assuming mămîni -> mamei?, mämin -> mamin?, mumon -> mumon?, mane -> mame?, Asc. -> Akk. -->
+     ist durch den Dativ 
+    <etymon lang="Lat">MAMMAE?</etymon>
+     in 
+    <source_ref>C. I. L. X, 2965 = I. R. N. 3373</source_ref>
+    ) belegt. 
+    <!-- Assuming mamanr -> MAMMAE? -->
+    
+    <reference type="bibliographic">Über Verbreitung des Wortes vgl. Tappolet: Verwandtschaftsnamen 20 ff.</reference>
+     — 
+    <form>Mumă</form>
+     (nicht auch 
+    <form>mamă</form>
+    ) bedeutet, wie „Mutter“ im Deutschen, auch den „Bodensatz (des Weines, des Essigs)“, vgl. 
+    <form lang="lmo-MIL">mader</form>
+     „fondo dell’ aceto“, 
+    <form lang="sc-SAS">maddriga?</form>
+     „lievito“. 
+    <!-- Assuming sassar. maddrigga -> maddriga? -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="807">
+  
+  <prefix>+</prefix>
+  
+  <lemma>încălțăre</lemma>
+  
+  <!-- Assuming tneältäre -> încălțăre -->
+  
+  <usage_note>(Dosofteiu: Viaţa sf, 19, etc.)</usage_note>
+   
+  <!-- Assuming Dosoftein -> Dosofteiu -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. încălțăre?]</variants>
+  
+  <!-- Interpretation needed for ncăltsare -->
+  
+  <definition>„Beschuhung, Schuh“</definition>
+  
+  <etymology>
+    aus älterem 
+    <etymon lang="Lat">*CALCEARE?</etymon>
+     (+ 
+    <form>încalț</form>
+    ) 
+    <etymon lang="Lat">CALCEARE</etymon>
+    : 
+    <!-- Assuming *cälfare -> *CALCEARE?, CE cALORARE -> CALCEARE -->
+    
+    <cognates>
+      
+      <form lang="it">calzare</form>
+       „Fußbekleidung“.
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

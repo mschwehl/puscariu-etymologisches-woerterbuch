@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="965">
+  
+  <lemma>lemnos</lemma>
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. lemnos?]</variants>
+  
+  <!-- Interpretation needed for limnos -> lemnos? -->
+  
+  <definition>„holzig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LIGNOSUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming Liaxosus -> LIGNOSUS -->
+    
+    <cognates>
+      
+      <form lang="it">legnoso</form>
+      ,
+
+      <form lang="es">leñoso</form>
+      , 
+      <!-- Assuming leftoso -> leñoso -->
+      
+      <form lang="pt">lenhoso</form>
+      . 
+      <!-- Assuming pe. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

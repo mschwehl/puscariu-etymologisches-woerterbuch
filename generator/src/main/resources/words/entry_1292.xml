@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1292">
+  
+  <lemma>păun</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. =]</variants>
+  
+  <definition>„Pfau“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PAVO, -ONEM</etymon>
+    : 
+    <!-- Assuming Cpavo -> PAVO -->
+    
+    <cognates>
+      
+      <form lang="it">pavone</form>
+       (&gt; 
+      <form lang="sq">pagua?</form>
+      ), 
+      <!-- Interpretation needed for pagua -->
+      
+      <form lang="it-SIC">pauni</form>
+      ,
+
+      <form lang="roh-ENG">pavun?</form>
+      , 
+      <!-- Interpretation needed for parun -->
+      
+      <form lang="oc">pau</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">paon</form>
+      ,
+
+      <form lang="es">pavón</form>
+      , 
+      <!-- Assuming pavon -> pavón -->
+      
+      <form lang="pt">pavão</form>
+      , 
+      <!-- Assuming paräo -> pavão -->
+      (vgl. 
+      <etymon lang="chu">paunŭ</etymon>
+      , bg. hr. 
+      <form lang="bg hr">paun</form>
+       &gt; ir. 
+      <form lang="ro-IR">păun</form>
+      ). 
+      <!-- Assuming kslav. paunü -> chu paunŭ -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

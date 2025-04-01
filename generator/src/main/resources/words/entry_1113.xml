@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1113">
+  
+  <lemma>muciged</lemma>
+  
+  <!-- Assuming muoiced -> muciged -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„schimmelig‘</definition>
+  
+  <etymology source="Schuchardt: Rom. Etym. I, 58">
+    
+    <etymon lang="Lat">MUCIDUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming mtcipus, -A, -uar -> MUCIDUS, -A, -UM -->
+    
+    <cognates>
+      
+      <form lang="it-FELT?">muțar?</form>
+       „odore di mucido“, 
+      <!-- Interpretation needed for fel. mütsar -->
+      
+      <form lang="oc">musc?</form>
+      , 
+      <!-- Interpretation needed for pv. muide -->
+      
+      <form lang="fr">moite?</form>
+      , etc. 
+      <!-- Interpretation needed for motte -->
+       vgl. Schuchardt: Rom. Etym. I, 58.
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. muhlit?].</variants>
+  
+  <!-- Interpretation needed for muhlid -->
+  
+</entry>

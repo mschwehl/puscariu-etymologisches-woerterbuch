@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1076">
+  
+  <lemma>mijloc</lemma>
+  
+  <lemma_variants>(dial. nîjloc?)</lemma_variants>
+  
+  <!-- Interpretation needed for nilZoc -->
+  
+  <pos>sm.</pos>
+  
+  <definition>auch „Mittel, Kreuz (als Mitte des Körpers aufgefaßt“)</definition>
+  
+  <variants>[ar. mijloc? W., mijloc? W., mgl. mijloc?, ir. mijloc?]</variants>
+  
+  <!-- Interpretation needed for noldzied -> mijloc?, noldzuc -> mijloc?, meälue -> mijloc?, anezloc -> mijloc? -->
+  
+  <definition>„Mitte“</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, S. 54-55">
+    
+    <etymon lang="Lat">*MEDIOLUS LOCUS?</etymon>
+     (vgl. 
+    <etymon lang="Lat">*MEDIOLUS</etymon>
+     &gt; 
+    <form lang="lmo-BER">mezzöl?</form>
+    ). 
+    <!-- Assuming *mEproLus -> *MEDIOLUS, *ırEnıoLus -> *MEDIOLUS, a.-berg. mezul -> mezzöl? -->
+     Vgl. Verfassers: Lat. Ti u. Ki, S. 54—55.
+
+  </etymology>
+  
+  <variants>[ar. P. nur mesu?].</variants>
+  
+  <!-- Interpretation needed for mesel -> mesu? -->
+  
+</entry>

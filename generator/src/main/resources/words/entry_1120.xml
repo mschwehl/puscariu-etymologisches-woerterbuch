@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1120">
+  
+  <lemma>muiere</lemma>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming si. -> sf. -->
+  
+  <variants>[ar. muiere?, m(u)iare?, mgl. muiere?, ir. muiere?]</variants>
+  
+  <!-- Interpretation needed for mulare -> muiere?, m(g)lare -> m(u)iare?, mulari -> muiere?, mulere -> muiere? -->
+  
+  <definition>„Weib, Frau”</definition>
+  
+  <etymology source="Dens. H. l. r. 66">
+    
+    <etymon lang="Lat">MULIER</etymon>
+     (: 
+    <form lang="it">moglie</form>
+    , 
+    <form lang="rgn">mòi?</form>
+    ), 
+    <etymon lang="Lat">-IEREM</etymon>
+     (= 
+    <etymon lang="Lat">-EREM</etymon>
+    ; Belege bei Dens. H. l. r. 66): 
+    <!-- Assuming mol -> mòi? -->
+    
+    <cognates>
+      
+      <form lang="it">mogliera</form>
+      ,
+
+      <form lang="it-SIC">mugghiera?</form>
+      , 
+      <!-- Interpretation needed for muggyera -->
+      
+      <form lang="it-LEC">mugghiera?</form>
+      , 
+      <!-- Interpretation needed for mugghiere -->
+      
+      <form lang="lmo-MIL">mujer?</form>
+      , 
+      <!-- Interpretation needed for muyer -->
+      
+      <form lang="sc">mugere?</form>
+      , 
+      <!-- Interpretation needed for sard. muzere -->
+      
+      <form lang="roh-ENG">mulèr?</form>
+      , 
+      <!-- Interpretation needed for muler -->
+      
+      <form lang="roh-OBW">mulièr?</form>
+      , 
+      <!-- Interpretation needed for muldäer -->
+      
+      <form lang="fur">muìr?</form>
+      , 
+      <!-- Interpretation needed for fr]. muir -->
+      
+      <form lang="oc">molher</form>
+      , 
+      <form lang="pt">molher</form>
+      , 
+      <!-- Assuming pv. pg. -> oc, pt -->
+      
+      <form lang="fro">moillier</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="ca">muller</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">mujer</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

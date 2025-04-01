@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="992">
+  
+  <lemma>lumînare</lemma>
+  
+  <!-- Assuming tTumändre -> lumînare -->
+  
+  <lemma_variants>(lumânare)</lemma_variants>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. luminare, mgl. luminare?]</variants>
+  
+  <!-- Interpretation needed for bumi-nnari -> luminare? -->
+  
+  <definition>„Kerze“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUMINARE</etymon>
+     od. 
+    <etymon lang="Lat">LUMINARIA</etymon>
+     (Pl.):
+
+    <cognates>
+      
+      <form lang="it-AQUI?">Lumenera?</form>
+      , 
+      <!-- Interpretation needed for aquil. -->
+      
+      <form lang="es-OLD">lumnera?</form>
+      , 
+      <!-- Interpretation needed for a.-sp. humnera -->
+      
+      <form lang="fr">lumière</form>
+       „Licht“.
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

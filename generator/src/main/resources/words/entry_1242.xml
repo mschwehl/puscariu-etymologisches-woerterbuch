@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1242">
+  
+  <lemma>păduchios</lemma>
+  
+  <!-- Assuming päduchids -> păduchios -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsä -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. piduclos?, biduclos? (Thessal.)]</variants>
+  
+  <!-- Interpretation needed for piduclos, biductos -->
+  
+  <definition>„lausig“</definition>
+  
+  <etymology source="Mulomed. Chir.">
+    
+    <etymon lang="Lat">PEDUC[U]LOSUS, -A, -UM</etymon>
+     (Mulomed. Chir.): 
+    <!-- Assuming prpüc(ü]Lösus -> PEDUC[U]LOSUS -->
+    
+    <cognates>
+      
+      <form lang="it">pidocchioso</form>
+      ,
+
+      <form lang="rgn">pdoccios?</form>
+      , 
+      <!-- Interpretation needed for bduts$os -->
+      
+      <form lang="fr">pouilleux</form>
+      , 
+      <!-- Assuming powillewx -> pouilleux -->
+      
+      <form lang="es">piojoso</form>
+      ,
+
+      <form lang="pt">piolhoso</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

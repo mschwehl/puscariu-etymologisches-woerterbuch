@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1223">
+  
+  <lemma>orb</lemma>
+  
+  <feminine_neuter>oarbă</feminine_neuter>
+  
+  <!-- Assuming odrbä -> oarbă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. orbu, mgl. orb?, ir. =?]</variants>
+  
+  <!-- Interpretation needed for worb -> orb?, > -> =? -->
+  
+  <definition>„blind“</definition>
+  
+  <etymology source="Dens. H. l. r. 193">
+    
+    <etymon lang="Lat">ORBUS, -A, -UM</etymon>
+     (in der rom. Bedeutung „blind“ = „des Gesichts beraubt“ oft belegt, vgl. Dens. H. l. r. 193, vgl. auch die a.-berg. Glossen, die 
+    <form lang="la">ORBUS?</form>
+     durch 
+    <example lang="lmo-BER-OLD">colu chi à fora li ögi</example>
+     übersetzen): 
+    <!-- Assuming orsus -> ORBUS? -->
+    
+    <cognates>
+      
+      <form lang="sq-G">verbër?</form>
+      , 
+      <!-- Interpretation needed for alb. g. verp -->
+      
+      <form lang="isv">varb?</form>
+      , 
+      <!-- Interpretation needed for vegl. vuarb -->
+      
+      <form lang="it">orbo</form>
+      ,
+
+      <form lang="fur">uarb?</form>
+      , 
+      <!-- Interpretation needed for frl. warb -->
+      
+      <form lang="oc">orb</form>
+      , 
+      <form lang="fro">orb</form>
+      , 
+      <form lang="ca">orb</form>
+      . 
+      <!-- Assuming pv. a.-frz. cat. -> oc, fro, ca -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

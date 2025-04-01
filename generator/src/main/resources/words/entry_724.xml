@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="724">
+  
+  <lemma>cloță?</lemma>
+  
+  <!-- Assuming gtötsä -> cloță? -->
+  
+  <scope>ar.</scope>
+  
+  <lemma_variants>(Olympo-Wal.)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Gluckhenne“</definition>
+  
+  <etymology source="Weigand: Olympo-Walachen, 33; Körting? Nr. 2265">
+    ((
+    <form>cloță?</form>
+    ), postverbale Bildung aus 
+    <form>cloțire?</form>
+     (
+    <form lang="ro-AR">clocire?</form>
+     (Weigand: Olympo-Walachen, 33) vgl. 
+    <form lang="it">chioccia, chiocciare</form>
+     etc. Körting? Nr. 2265. 
+    <!-- Assuming gfotsä -> cloță?, glutsire -> cloțire?, arocie -> clocire?, chioceia -> chioccia, chioceiare -> chiocciare -->
+    
+  </etymology>
+  
+</entry>

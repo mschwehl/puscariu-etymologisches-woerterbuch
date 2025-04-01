@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1002">
+  
+  <lemma>lupt</lemma>
+  
+  <!-- Assuming Zupt -> lupt -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. lupt?]</variants>
+  
+  <!-- Interpretation needed for alımtu -> lupt? -->
+  
+  <definition>„kämpfen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUCTOR, -ARI</etymon>
+    : 
+    <!-- Assuming wvcro, -are -> LUCTOR, -ARI -->
+    
+    <cognates>
+      
+      <form lang="sq">luftoj</form>
+       (&gt; ar. 
+      <form lang="ro-AR">lupt?</form>
+      ), 
+      <!-- Interpretation needed for tufton -> luftoj, luftu -> lupt? -->
+      
+      <form lang="it">lottare</form>
+      ,
+
+      <form lang="roh-OBW">luctar?</form>
+      , 
+      <!-- Interpretation needed for luk'ar -->
+      
+      <form lang="oc">luchar</form>
+      , 
+      <form lang="es">luchar</form>
+      , 
+      <!-- Assuming pv. sp. -> oc, es -->
+      
+      <form lang="fro">luitier?</form>
+      , 
+      <!-- Interpretation needed for a.-frz, luitier -->
+      
+      <form lang="ca">lluitar?</form>
+      , 
+      <!-- Interpretation needed for Uuytar -->
+      
+      <form lang="pt">lutar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="793">
+  
+  <lemma>împrostez?</lemma>
+  
+  <!-- Assuming (îompvustedzu -> împrostez? -->
+  
+  <scope>ar.</scope>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. împrost?]</variants>
+  
+  <!-- Assuming mel]. amprostu -> mgl. împrost? -->
+  
+  <definition>„aufrichten, fixieren“</definition>
+  
+  <etymology source="Conv. lit. XXXIX, 66">
+    
+    <etymon lang="Lat">PROSTO, -ARE?</etymon>
+     „vorstehen“ (d. h. „von der ebenen Richtung hervorragen‘, daher: „aufrecht stellen“). Davon ar. 
+    <form lang="ro-AR">împrost?</form>
+    , mgl. 
+    <form lang="ro-MG">prost</form>
+     adj. adv. „aufrecht“. 
+    <!-- Assuming mprostu -> împrost?, stelien -> stellen -->
+    
+    <reference type="bibliographic">Conv. lit. XXXIX, 66.</reference>
+    
+  </etymology>
+  
+</entry>

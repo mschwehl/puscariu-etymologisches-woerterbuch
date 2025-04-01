@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1263">
+  
+  <prefix>II</prefix>
+  
+  <lemma>păr</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. per]</variants>
+  
+  <definition>„Birnbaum“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PIRUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">pero</form>
+       (sonst nur die abgeleitete Form: 
+      <form lang="roh-ENG">pairer?</form>
+      , 
+      <form lang="oc">perier</form>
+      , 
+      <form lang="fr">poirier</form>
+      , 
+      <form lang="es">peral</form>
+      , 
+      <form lang="pt">pereiro</form>
+      ). 
+      <!-- Assuming eng. -> roh-ENG, pv. -> oc -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

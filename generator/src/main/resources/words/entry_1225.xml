@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1225">
+  
+  <lemma>orz</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. ordzu, mgl. —]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„Gerste“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">HORDEUM</etymon>
+    : 
+    <!-- Assuming opta -> HORDEUM -->
+    
+    <cognates>
+      
+      <form lang="it">orgio, orzo</form>
+      ,
+
+      <form lang="it-NAP">uordzu?</form>
+      , 
+      <!-- Interpretation needed for uordzo -->
+      
+      <form lang="it-SIC">ordzu</form>
+      , 
+      <form lang="it-LEC">ordzu</form>
+      ,
+
+      <form lang="it-AQUI?">ordzu?</form>
+      , 
+      <!-- Interpretation needed for aquil. ordzu -->
+      
+      <form lang="it-BAR">erse?</form>
+      , 
+      <!-- Interpretation needed for bari erse -->
+      
+      <form lang="it-TER?">?</form>
+      , 
+      <!-- Interpretation needed for teram. Ähuoreig -->
+      
+      <form lang="it-CAM?">uoreie?</form>
+      , 
+      <!-- Interpretation needed for campob. woreie -->
+      
+      <form lang="lmo-MIL">ordz</form>
+      , 
+      <form lang="lmo-BER-OLD">ordz</form>
+      , 
+      <!-- Assuming mail. a.-berg. -> lmo-MIL, lmo-BER-OLD -->
+      
+      <form lang="it-LUC?">orzo?</form>
+      , 
+      <!-- Interpretation needed for lucca orzo -->
+      
+      <form lang="it-SIL?">ordze?</form>
+      , 
+      <!-- Interpretation needed for sillano ordze -->
+      
+      <form lang="sc-N">oldzu?</form>
+      , 
+      <!-- Interpretation needed for nord.-sard. oldzu -->
+      
+      <form lang="fur">uardi?</form>
+      , 
+      <!-- Interpretation needed for frl. uardi -->
+      
+      <form lang="roh-UEG">jördi?</form>
+      , 
+      <!-- Interpretation needed for u.-eng. jördi -->
+      
+      <form lang="oc">ordi</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">orge</form>
+      , 
+      <form lang="pt-OLD">orge</form>
+      , 
+      <!-- Assuming frz. a.-pg. -> fr, pt-OLD -->
+      
+      <form lang="fr-LOR">uòdz?</form>
+      , 
+      <!-- Interpretation needed for lothr. wodZ -->
+      (
+      <form lang="es">orzuelo</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1017">
+  
+  <prefix>I</prefix>
+  
+  <lemma>mai</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. mai?]</variants>
+  
+  <!-- Interpretation needed for malt -->
+  
+  <definition>„Holzhammer“</definition>
+   
+  <!-- Assuming Holzkammer -> Holzhammer -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MALLEUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">majë?</form>
+      , 
+      <!-- Interpretation needed for ma) -->
+      
+      <form lang="it">maglio</form>
+      ,
+
+      <form lang="it-SIC">magghiu?</form>
+      , 
+      <!-- Interpretation needed for maggyu -->
+      
+      <form lang="sc">mazu</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">mal</form>
+      ,
+
+      <form lang="oc">malh</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">mail</form>
+      ,
+
+      <form lang="ca">mall?</form>
+      , 
+      <!-- Interpretation needed for maly -->
+      
+      <form lang="es">majo</form>
+      ,
+
+      <form lang="pt">malho</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

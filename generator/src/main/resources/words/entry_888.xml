@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="888">
+  
+  <lemma>întorc</lemma>
+  
+  <principal_parts>-orsei?, -ors</principal_parts>
+  
+  <!-- Assuming -vsdi -> -orsei? -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <lemma_variants>
+    (torc 
+    <source_ref>Jb. VI, 67</source_ref>
+    )
+  </lemma_variants>
+  
+  <definition>„umdrehen“</definition>
+  
+  <etymology source="Cur. d. b. I, 285">
+    
+    <etymon lang="Lat">INTORQUEO, -RSI, -RTUM, -ERE?</etymon>
+     (= 
+    <etymon lang="Lat">-ERE</etymon>
+     vgl. 
+    <form>torc</form>
+    ): 
+    <!-- Assuming CINTORQTEO, -RSI, -RTUN, “ERE -> INTORQUEO, -RSI, -RTUM, -ERE? -->
+    
+    <cognates>
+      
+      <form lang="fro">entordre</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+     Das alte Partizip 
+    <etymon lang="Lat">INTORTUM</etymon>
+     hat altrum. 
+    <form lang="ro-OLD">întort, -ă</form>
+     adj. „eigensinnig, starrköpfig“ (davon 
+    <form lang="ro-OLD">întortare</form>
+     sf. „Eigensinn“), 
+    <source_ref>Cur. d. b. I, 285</source_ref>
+     gegeben. 
+    <!-- Assuming ıyrörrum -> INTORTUM, st -> sf. -->
+    
+  </etymology>
+  
+  <variants>[ar. tornu?].</variants>
+  
+  <!-- Interpretation needed for tornz -->
+  
+</entry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1249">
+  
+  <lemma>palmă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. =, ir. palmă?]</variants>
+  
+  <!-- Interpretation needed for >, pome -> palmă? -->
+  
+  <definition>„flache Hand, Spanne; Ohrfeige”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PALMA, -AM</etymon>
+    : 
+    <!-- Assuming Para -> PALMA -->
+    
+    <cognates>
+      (
+      <form lang="sq">pëllëmbë?</form>
+       aus 
+      <etymon lang="tr">?</etymon>
+      , oder 
+      <etymon lang="el">παλάμη?</etymon>
+       „Ohrfeige“?), 
+      <!-- Interpretation needed for alb. pelembe aus Frudeh, oder n.-gr. zardur, zahanıd -->
+      
+      <form lang="it">palma</form>
+      , 
+      <form lang="roh-ENG">palma</form>
+      , 
+      <form lang="oc">palma</form>
+      , 
+      <form lang="ca">palma</form>
+      , 
+      <!-- Interpretation needed for eng. pr. &. palma -> palma -->
+      
+      <form lang="it-SIC">parma?</form>
+      , 
+      <form lang="wa">parma?</form>
+      , 
+      <!-- Interpretation needed for sic. waatl. parma -->
+      
+      <form lang="oc-N">pauma?</form>
+      , 
+      <!-- Interpretation needed for n.-pv. paumo -->
+      
+      <form lang="fr">paume</form>
+       
+      <!-- Interpretation needed for trz. paume -->
+      (vgl. 
+      <form lang="it">palmo</form>
+      , 
+      <form lang="es">palmo</form>
+      , 
+      <form lang="pt">palmo</form>
+       „Spanne“). 
+      <!-- Interpretation needed for vel. -> vgl. -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1243">
+  
+  <lemma>pădure</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =?]</variants>
+  
+  <!-- Interpretation needed for > -> =? -->
+  
+  <definition>„Wald“</definition>
+  
+  <etymology source="Schuch. Vok. I, 29, III, 8">
+    
+    <etymon lang="Lat">PADULEM?</etymon>
+     (für 
+    <etymon lang="Lat">PALUDEM</etymon>
+     von 
+    <etymon lang="Lat">PALUS</etymon>
+    , Schuch. Vok. I, 29, III, 8): 
+    <!-- Assuming pantrem -> PADULEM? -->
+    
+    <cognates>
+      
+      <form lang="vec-OLD">paludo</form>
+      , 
+      <!-- Assuming a.-ven. -> vec-OLD -->
+      
+      <form lang="roh-OBW">palü?</form>
+      , 
+      <!-- Interpretation needed for paliea -->
+      
+      <form lang="fr">palu</form>
+      ,
+
+      <form lang="oc">palut</form>
+      : 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="sq">pyll</form>
+      , 
+      <!-- Assuming pül -> pyll -->
+      
+      <form lang="it">padule</form>
+       (masc. nach Wörtern auf 
+      <suffix>-ule</suffix>
+      ),
+
+      <form lang="it-NAP">padula</form>
+      ,
+
+      <form lang="it-CER?">padule?</form>
+      , 
+      <!-- Interpretation needed for cerign. padule -->
+      
+      <form lang="sc-L">paule</form>
+      , 
+      <!-- Assuming sard. l. -> sc-L -->
+      
+      <form lang="es">paúl</form>
+      , 
+      <form lang="pt">paul</form>
+      . 
+      <!-- Assuming sp. pg. paul -> paúl, paul -->
+      
+    </cognates>
+     Überall hat das Wort den ursprünglichen Sinn von „Sumpf“, nur im Alb. und Rum. bedeutet es „Wald“.
+
+  </etymology>
+  
+  <variants>[mgl. urman?].</variants>
+  
+  <!-- Interpretation needed for urmau -->
+  
+</entry>

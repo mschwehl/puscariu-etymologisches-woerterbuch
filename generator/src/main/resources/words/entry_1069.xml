@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1069">
+  
+  <lemma>mie</lemma>
+  
+  <!-- Assuming mufe -> mie -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. ile?, mgl. mie?, ir. mie?]</variants>
+  
+  <!-- Interpretation needed for ile, milt -> mie?, mile -> mie? -->
+  
+  <definition>„Tausend“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MILIA</etymon>
+     (Pl. von 
+    <etymon lang="Lat">MILLE</etymon>
+    : 
+    <!-- Assuming aiLıa -> MILIA, mine -> MILLE -->
+    
+    <cognates>
+      
+      <form lang="it">mille</form>
+      ,
+
+      <form lang="roh-ENG">milli?</form>
+      , 
+      <form lang="fr">mille</form>
+      , 
+      <form lang="oc-BEAR?">mil?</form>
+      , 
+      <form lang="es">mil</form>
+      , 
+      <form lang="pt">mil</form>
+      ): 
+      <!-- Interpretation needed for eng. frz. bearn. sp. pg. mei -> milli?, mille, mil?, mil, mil -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="sq">mijë</form>
+      , 
+      <!-- Interpretation needed for mije -->
+      
+      <form lang="it">miglia</form>
+      ,
+
+      <form lang="it-SIC">migghia?</form>
+      , 
+      <!-- Interpretation needed for miggya -->
+      
+      <form lang="sc">miza?</form>
+      , 
+      <!-- Interpretation needed for sard. miza -->
+      (
+      <form lang="fr">mille</form>
+      ),
+
+      <form lang="es">milla?</form>
+      , 
+      <!-- Interpretation needed for mija -->
+      
+      <form lang="pt">milha</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

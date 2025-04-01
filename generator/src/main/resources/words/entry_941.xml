@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="941">
+  
+  <lemma>lăptucă</lemma>
+  
+  <!-- Assuming Läptieä -> lăptucă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„Lattich“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LACTUCA, -AM</etymon>
+    : 
+    <!-- Assuming acttca -> LACTUCA -->
+    
+    <cognates>
+      
+      <form lang="it">lattuga</form>
+      ,
+
+      <form lang="it-SIC">lattuca?</form>
+      , 
+      <!-- Interpretation needed for lattuka -->
+      
+      <form lang="pms">laitüa?</form>
+      , 
+      <!-- Interpretation needed for laitiia -->
+      
+      <form lang="lmo">latsüga?</form>
+      , 
+      <!-- Interpretation needed for latsüga -->
+      
+      <form lang="oc">lachuga</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">laitue</form>
+      ,
+
+      <form lang="es">lechuga</form>
+      ,
+
+      <form lang="pt">leituga</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <!-- Footer "Puşcariu, Etymologisches Wörterbuch. 6" omitted -->
+  
+</entry>

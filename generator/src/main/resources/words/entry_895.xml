@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="895">
+  
+  <lemma>întunec</lemma>
+  
+  <!-- Assuming intiimee -> întunec -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. (a)ntunic]</variants>
+  
+  <definition>„dunkel machen, dunkel werden‘</definition>
+  
+  <etymology source="Byhan: Jb. III, 25-26; Sămăn. II, 824">
+    
+    <etymon lang="Lat">IN-TUNICO, -ARE</etymon>
+    , eigtl. „mit einem Mantel (= 
+    <etymon lang="Lat">TUNICA</etymon>
+    ) bedecken“, dann „einhüllen“, zunächst in 
+    <example>cerul s'întunecă?</example>
+     „der Himmel hüllt sich ein“, 
+    <!-- Assuming s@ntunceä -> s'întunecă?, hällt -> hüllt -->
+     vgl. auch 
+    <form lang="it">intonicare</form>
+     „berappen, schminken“, deutsch: 
+    <form lang="de">tünchen</form>
+    . 
+    <reference type="bibliographic">Byhan: Jb. III, 25—26.</reference>
+     Im ar. dafür 
+    <form lang="ro-AR">întunerec?</form>
+     I vb., aber im Aor. 
+    <form lang="ro-AR">întunecai?</form>
+    , Partz. 
+    <form lang="ro-AR">întunecat?</form>
+    . — Auch ein 
+    <form>întunecos?</form>
+     IV vb. mit Konjugationswechsel kommt vor (
+    <source_ref>Sămăn. II, 824</source_ref>
+    ). 
+    <!-- Interpretation needed for ntımeärie -> întunerec?, ntunicdi -> întunecai?, ntuniedt -> întunecat?, intimeeöse -> întunecos? -->
+    
+  </etymology>
+  
+</entry>

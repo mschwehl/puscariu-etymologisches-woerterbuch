@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="769">
+   
+  <!-- Assuming 169 -> 769 -->
+  
+  <lemma>iert</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. iertu?, mgl. iert?]</variants>
+  
+  <!-- Interpretation needed for fertu, tert -->
+  
+  <definition>„freilassen, freisprechen, verzeihen, entschuldigen‘</definition>
+  
+  <etymology source="Archiv lat. Lex. III, 258, VIII, 450">
+    
+    <etymon lang="Lat">LIBERTO, -ARE</etymon>
+     „freilassen” (belegt). Vgl. 
+    <form lang="sc">libertare</form>
+    , welches kein volkstümliches Gepräge trägt. 
+    <!-- Assuming sard. -> sc -->
+    
+  </etymology>
+  
+</entry>

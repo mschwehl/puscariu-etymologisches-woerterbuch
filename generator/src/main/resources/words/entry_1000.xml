@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1000">
+  
+  <lemma>luntre</lemma>
+  
+  <!-- Assuming ziare -> luntre -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Kahn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LINTER, -TREM?</etymon>
+    : 
+    <!-- Assuming Curea, -raam -> LINTER, -TREM? -->
+    
+    <cognates>
+      
+      <form lang="sq">lundër</form>
+      , 
+      <!-- Interpretation needed for Tundre -->
+      
+      <form lang="isv">lundro</form>
+      . 
+      <!-- Assuming vegl. -> isv -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

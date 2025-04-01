@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="787">
+   
+  <!-- Assuming 187 -> 787 -->
+  
+  <lemma>împiedic</lemma>
+  
+  <!-- Assuming împiedec -> împiedic -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. împiedic?, mgl. (a)mpedic]</variants>
+  
+  <!-- Interpretation needed for nk’adie -> împiedic? -->
+  
+  <definition>„verhindern“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. II, § 577; Lex Burgund. 45, 1">
+    
+    <etymon lang="Lat">IMPEDICO, -ARE</etymon>
+    : 
+    <!-- Assuming CamPEDICO, -ArEı -> IMPEDICO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="sq">pengoj?</form>
+      , 
+      <!-- Interpretation needed for pengon -->
+      
+      <form lang="it-OLD">impedicare</form>
+      , 
+      <!-- Assuming a.-it. -> it-OLD -->
+      
+      <form lang="lmo-COM">pedegà?</form>
+       „operar lentamente“, 
+      <!-- Interpretation needed for com. pedegd -->
+      
+      <form lang="oc">empedegar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">empêcher</form>
+      , 
+      <!-- Assuming îrz. -> fr -->
+      (
+      <form lang="pt">(dial.) empelgar</form>
+       „die Füße? abstellen“, vgl. Meyer-Lübke: Rom. Gramm. II, § 577). 
+      <!-- Assuming Mühe -> Füße? -->
+      
+    </cognates>
+     Im Rum. u. Alb. bedeutet das Wort auch „fessele die Beine eines Pferdes, damit es sich nicht entfernen kann“, vgl. dazu: „
+    <example lang="la">si autem impedicato caballo ingenuus pedicam tulerit ...</example>
+    “ Lex Burgund. 45, 1. 
+    <!-- Assuming sielı -> sich -->
+    
+  </etymology>
+  
+</entry>

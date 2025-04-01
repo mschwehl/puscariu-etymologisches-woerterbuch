@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1109">
+  
+  <lemma>mormînt</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mormîntu?, mormîntu? W., mormînt? P., mgl. mormînt?]</variants>
+  
+  <!-- Interpretation needed for märmintu -> mormîntu?, mirmintu -> mormîntu?, murminte -> mormînt?, murmint -> mormînt? -->
+  
+  <definition>„Grab“</definition>
+  .
+
+  <etymology source="C. I. L. III, Sp. 581, 586; I, 1014; VIII, 2269; X, 3675; Dens. H. l.r. 193">
+    Das rum. Wort kann auch von 
+    <etymon lang="Lat">MONUMENTUM</etymon>
+     kommen, doch verlangen die übrigen rom. Formen ein 
+    <etymon lang="Lat">MONIMENTUM</etymon>
+    , das oft belegt ist (
+    <source_ref>C. I. L. III, Sp. 581, 586 etc. I, 1014 etc.</source_ref>
+    ):
+
+    <cognates>
+      
+      <form lang="sc-LOG">monumentu?</form>
+      , 
+      <!-- Interpretation needed for log. munimentu -->
+      
+      <form lang="lij-GEN-OLD">monimento?</form>
+      , 
+      <!-- Interpretation needed for a.-gen. munimento -->
+      
+    </cognates>
+     so daß auch das rum. Wort von diesem, kaum von der dissimilierten Form 
+    <etymon lang="Lat">MONIMENTUM?</etymon>
+     (
+    <source_ref>C. I. L. VIII, 2269</source_ref>
+    ): 
+    <!-- Assuming monıstentun -> MONIMENTUM? -->
+    
+    <cognates>
+      
+      <form lang="it-SIC">monimento?</form>
+      , 
+      <!-- Interpretation needed for mulimentin -->
+      
+      <form lang="lij-GEN-OLD">morimento?</form>
+      , 
+      <!-- Interpretation needed for a.-gen. morimento -->
+      
+      <form lang="lmo-OLD">molimento?</form>
+      , 
+      <form lang="vec-OLD">molimento?</form>
+      , 
+      <!-- Interpretation needed for a.-lomb. a.-ven. molimento -->
+      
+      <form lang="lmo-BER-OLD">moliment?</form>
+      , 
+      <!-- Interpretation needed for a.-berg. moliment -->
+      
+      <form lang="roh-ENG">monimaint?</form>
+       
+      <!-- Interpretation needed for mulimaint -->
+      
+    </cognates>
+     abzuleiten ist, da o &gt;&gt; ă nur zwischen Labial und Nasal erklärlich wird. Den Sinn „sepulcrum‘ (auch sard., a.-gen., eng.) belegt Dens. H. l.r. 193 aus 
+    <source_ref>C. I. L. X, 3675</source_ref>
+    .
+
+  </etymology>
+  
+</entry>

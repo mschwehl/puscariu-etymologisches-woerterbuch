@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="773">
+   
+  <!-- Assuming 173 -> 773 -->
+  
+  <prefix>I</prefix>
+  
+  <lemma>ie</lemma>
+  
+  <prefix_note>+</prefix_note>
+   
+  <!-- Assuming + after I -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming si. -> sf. -->
+  
+  <variants>[ar. ile?, mgl. ile]</variants>
+  
+  <!-- Interpretation needed for öle -> ile? -->
+  
+  <definition>„Unterleib, Hüfte, Weichen“</definition>
+  
+  <etymology source="Körting? Nr. 4708; Jb. III, 317">
+    
+    <etymon lang="Lat">ILIA, -AM</etymon>
+     (Plur. von 
+    <etymon lang="Lat">ile</etymon>
+    ): 
+    <!-- Assuming <irıa. *-am -> ILIA, -AM -->
+    
+    <cognates>
+      
+      <form lang="sq">ijë</form>
+       „Weichen“,
+
+      <form lang="it-CER">iggie?</form>
+       „hanchi", 
+      <!-- Interpretation needed for cerign. -->
+      
+      <form lang="roh-OBW">ila</form>
+      , 
+      <!-- Assuming obw. -> roh-OBW -->
+      
+      <form lang="oc">ilha</form>
+       
+      <!-- Assuming pv. -> oc -->
+       (sonst im Rom. Ableitungen davon, vgl. Körting? Nr. 4708).
+
+    </cognates>
+     Ban. 
+    <form lang="ro-BAN">iu</form>
+     sm. 
+    <source_ref>Jb. III, 317</source_ref>
+     ist aus der Mehrzahl 
+    <form>iie</form>
+     rückgebildet.
+
+  </etymology>
+  
+</entry>

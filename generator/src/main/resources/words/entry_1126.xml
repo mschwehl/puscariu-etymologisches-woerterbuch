@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1126">
+  
+  <lemma>muncel</lemma>
+  
+  <!-- Assuming muuneel -> muncel -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Hügel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MONTICELLUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="isv">munčel?</form>
+      , 
+      <!-- Interpretation needed for vegl. mundal -->
+      
+      <form lang="it">monticello</form>
+      ,
+
+      <form lang="istro-ROV?">montiselu?</form>
+      , 
+      <!-- Interpretation needed for rovign. mumtisielo -->
+      
+      <form lang="fr">monceau</form>
+      ,
+
+      <form lang="es">montecillo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="932">
+  
+  <lemma>lăcrimez</lemma>
+  
+  <!-- Assuming laerimez -> lăcrimez -->
+  
+  <lemma_variants>(lăcrămez)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. lăcrimedz?, lăcärmedz?],</variants>
+  
+  <definition>„tränen"</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LACRIMO, -ARE</etymon>
+    : 
+    <!-- Assuming CLACRIDIO -> LACRIMO -->
+    
+    <cognates>
+      
+      <form lang="it">lagrimare</form>
+      ,
+
+      <form lang="roh-ENG">larmer</form>
+      ,
+
+      <form lang="es">lagrimar</form>
+      , 
+      <form lang="oc">lagrimar</form>
+      . 
+      <!-- Assuming sp. pv. -> es, oc -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

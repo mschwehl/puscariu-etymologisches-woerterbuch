@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1005">
+  
+  <lemma>lut</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. ir. =]</variants>
+  
+  <!-- Interpretation needed for > -> = -->
+  
+  <definition>„Lehm“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUTUM</etymon>
+    : 
+    <!-- Assuming nörum -> LUTUM -->
+    
+    <cognates>
+      
+      <form lang="it">loto</form>
+      ,
+
+      <form lang="it-SIC">lutu</form>
+      ,
+
+      <form lang="lmo">lodo</form>
+      , 
+      <form lang="es">lodo</form>
+      , 
+      <form lang="pt">lodo</form>
+      , 
+      <!-- Assuming lomb. sp. pg. -> lmo, es, pt -->
+      
+      <form lang="sc">ludu</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">lut</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

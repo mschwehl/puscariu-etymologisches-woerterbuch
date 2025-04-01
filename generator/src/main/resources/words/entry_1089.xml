@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1089">
+  
+  <lemma>mintă</lemma>
+  
+  <!-- Assuming inte -> mintă -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <definition>„Minze“</definition>
+  
+  <etymology source="Byhan: Jb. V, 319">
+    
+    <etymon lang="Lat">MENTA, -AM</etymon>
+    : 
+    <!-- Assuming MENTA -->
+    
+    <cognates>
+      
+      <form lang="it">menta</form>
+      , 
+      <form lang="sc">menta</form>
+      , 
+      <form lang="oc">menta</form>
+      , 
+      <form lang="ca">menta</form>
+      , 
+      <!-- Assuming sard. pv. cat. -> sc, oc, ca -->
+      
+      <form lang="fr">menthe</form>
+      , 
+      <!-- Assuming mente -> menthe -->
+      
+      <form lang="es">menta?</form>
+      . 
+      <!-- Interpretation needed for mienta -->
+      
+    </cognates>
+     Byhan: Jb. V, 319 leitet es aus 
+    <etymon lang="chu">męta?</etymon>
+     ab, 
+    <!-- Assuming kslav. mötya -> chu męta? -->
+     „denn, wenn es direkt vom lat. 
+    <etymon lang="Lat">MENTA</etymon>
+     herkäme, müßte es 
+    <form>*mîntă</form>
+     lauten“. Aber auch das slav. Wort hätte 
+    <form>*mint(v)ă</form>
+     ergeben. 
+    <!-- Assuming mexta -> MENTA -->
+    
+  </etymology>
+  
+</entry>

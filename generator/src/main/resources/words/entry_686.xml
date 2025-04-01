@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="686">
+  
+  <lemma>furtună</lemma>
+  
+  <pos>sf?</pos>
+  
+  <variants>[ar. mgl. =, letzteres auch „Elend“]</variants>
+  
+  <definition>„Sturm“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FORTUNA, -AM</etymon>
+    Der Sinnesübergang von „Geschick“ zu „Sturm“ muß am Meere geschehen sein, wo man vom Geschick das Böse, d. h. den Sturm, erwartete, ähnlich wie man heute „fatal“ fast ausschließlich im bösen Sinne verwendet.
+Bei Ducange findet man:
+
+    <example lang="la">MARIS FORTUNA == maris tempestas</example>
+    und auch:
+
+    <form lang="vec">fortuna</form>
+    ,
+
+    <form lang="it">fortuna</form>
+     heißt „Unwetter“ (daraus:
+
+    <form lang="sr">fortuna</form>
+    ,
+
+    <form lang="hr">fortuna</form>
+    ).
+Das Wort ist auf der ganzen Balkanhalbinsel verbreitet:
+
+    <form lang="sq">furtunë</form>
+    ,
+
+    <form lang="bg">furtuna?</form>
+    ,
+
+    <form lang="tk">fırtına</form>
+    ,
+
+    <form lang="el">φουρτούνα?</form>
+    .
+bg, furtune -&gt; furtunë, fortuna -&gt; fırtına, yolvoroör -&gt; φουρτούνα?
+Vielleicht stammt das rum. Wort aus dem Griechischen.
+
+  </etymology>
+  
+  <variants>
+    [ir. furtună?, 
+    <form lang="it-ARK">fortunale?</form>
+      
+    <etymon lang="it">fortunale</etymon>
+    ].
+  </variants>
+  
+</entry>

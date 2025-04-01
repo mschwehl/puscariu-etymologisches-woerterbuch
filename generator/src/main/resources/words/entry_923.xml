@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="923">
+  
+  <lemma>junincea?</lemma>
+  
+  <!-- Assuming juniomeä -> junincea? -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Färse“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IUNICEA, -AM</etymon>
+     (statt 
+    <etymon lang="Lat">IUNICEM</etymon>
+    ) (vgl. 
+    <form lang="oc-N">juneza?</form>
+     &lt; 
+    <etymon lang="Lat">*IUNICEA</etymon>
+    ). 
+    <!-- Assuming *züsica -> *IUNICEA, günierm -> IUNICEM, n.-pv. Zünego -> juneza?, *ytxica -> *IUNICEA -->
+    
+  </etymology>
+  
+  <variants>[ar. bou?].</variants>
+  
+  <!-- Interpretation needed for bied -> bou? -->
+  
+</entry>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1067">
+  
+  <lemma>mic</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mic?, mgl. auch „kleines Kind“, ir. =?]</variants>
+  
+  <!-- Interpretation needed for Ric -> mic?, n -> =? -->
+  
+  <definition>„klein“</definition>
+  
+  <etymology source="C. I. Gr. I, 3498; Dens. Hist. l. r. 201; Dorsa: Tradizione graeca-latina S. 52; C. gl. l. III, 87, 20; III, 164, 53; Meyer-Lübke: Wiener Studien XXV, 104; Zeitschr. rom. Phil. 177 Anm.">
+    
+    <etymon lang="Lat">*MICCUS, -A, -UM</etymon>
+     od. 
+    <etymon lang="Lat">*MICUS, -A, -UM</etymon>
+     (= 
+    <etymon lang="el">μικκός</etymon>
+     C. I. Gr. I, 3498, wozu Dens. Hist. l. r. 201, gr. dor. 
+    <etymon lang="el">μικρός</etymon>
+     = ar. 
+    <etymon lang="ro-AR">mic?</etymon>
+    , wozu Dorsa: Tradizione graeca-latina S. 52, vgl. 
+    <etymon lang="Lat">MICINNA?</etymon>
+     C. gl. l. III, 87, 20, III, 164, 53, wozu Meyer-Lübke: Wiener Studien XXV, 104): 
+    <!-- Assuming zızös -> μικκός, zuzz0s -> μικρός, »06: -> mic?, wıcıma -> MICINNA? -->
+    
+    <cognates>
+      
+      <form lang="it">miccino, miccinino, miccichino, micolino</form>
+      ,
+
+      <form lang="it-CAL">miccu?, miccarillu?</form>
+       „un corpo piccolo ed esile“, 
+      <!-- Interpretation needed for mikku, mikkarillu, piecolo -> piccolo -->
+      vgl. 
+      <form lang="it-SIC">nicu, nicareddu?</form>
+      , 
+      <!-- Interpretation needed for niku, nikaru, nikareddu -->
+      
+      <form lang="it-ABR">mic?, nicc?, nicul?</form>
+       „wenig“ (vgl. 
+      <form>nițel</form>
+      ), 
+      <!-- Interpretation needed for mile, nikke, nikule -->
+      
+      <form lang="fr">mioche, miochon</form>
+       „kleines Kind“ (vgl. Zeitschr. rom. Phil. 177 Anm.).
+
+    </cognates>
+     Doch ist für das rum. Wort auch eine Ableitung von 
+    <etymon lang="Lat">MICA, -AM</etymon>
+     denkbar (vgl. 
+    <form lang="fr">mioche</form>
+     = „Krümchen“ und „kleines Kind“): „Krümchen“ — „kleines Kind“ (zunächst weiblich: 
+    <form>mică</form>
+    , dann männlich: 
+    <form>mic</form>
+    ) — „klein“. Auffallend ist das Dimin. 
+    <form>mititel</form>
+     = 
+    <form>micuțel</form>
+    .
+
+  </etymology>
+  
+</entry>

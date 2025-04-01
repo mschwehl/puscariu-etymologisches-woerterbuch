@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1162">
+  
+  <lemma>negel</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Fingerwarze“</definition>
+  
+  <etymology>
+    scheint auf 
+    <etymon lang="Lat">NIGELLUS, -A, -UM</etymon>
+     mit der Bedeutungsentwicklung: „schwarz“ (so süd-sard. 
+    <form lang="sc-S">nigeddu?</form>
+    ) — „schwarzer Fleck (in dieser Bedeutung findet sich ein 
+    <etymon lang="Lat">NIGRUM</etymon>
+     bei Ovid)“ — „Muttermal“ — „Fingerwarze“ zu beruhen. 
+    <!-- Interpretation needed for nieddu -->
+     Daraus rückgebildet 
+    <form>neg</form>
+     sm. „Fingerwarze“. Die Ableitung des letzteren aus 
+    <etymon lang="Lat">NAEVUS</etymon>
+    , oder vielmehr 
+    <etymon lang="Lat">NEUS</etymon>
+     (
+    <source_ref>C. gl. IV, 124, 26; 541, 10</source_ref>
+    : 
+    <form lang="it">neo</form>
+    , 
+    <form lang="it-NAP">nieo</form>
+    , 
+    <form lang="rgn">ni?</form>
+    , 
+    <form lang="it-SIE?">niego?</form>
+    , 
+    <form lang="it-LEC">neu</form>
+    , 
+    <form lang="sc">neu</form>
+    ) stößt auf unüberwindbare lautliche Schwierigkeiten; 
+    <!-- Interpretation needed for romgn. mi -> ni?, sen. niego -> niego?, lecce, sard. neu -->
+     doch ist eine Kreuzung von 
+    <etymon lang="Lat">*NAEVELLUS?</etymon>
+     (vgl. moden. 
+    <form lang="it-MOD">nièl?</form>
+    ) und 
+    <etymon lang="Lat">NIGELLUS</etymon>
+     nicht ausgeschlossen. 
+    <!-- Interpretation needed for *nzv&rrus -> *NAEVELLUS?, niel -> nièl? -->
+    
+  </etymology>
+  
+  <variants>[ar. ariță?].</variants>
+  
+  <!-- Interpretation needed for aritsü -->
+  
+</entry>

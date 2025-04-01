@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1144">
+  
+  <prefix>I</prefix>
+  
+  <lemma>mut</lemma>
+  
+  <!-- Assuming amut -> mut -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mgl. ir. =?]</variants>
+  
+  <!-- Interpretation needed for > -> =? -->
+  
+  <definition>„stumm“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MUTUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming nmürus -> MUTUS -->
+    
+    <cognates>
+      
+      <form lang="it">muto</form>
+      ,
+
+      <form lang="sc">mudu</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="oc">mut</form>
+      , 
+      <form lang="fro">mut</form>
+      , 
+      <!-- Assuming pv. a.-frz. -> oc, fro -->
+      
+      <form lang="ca">mut?</form>
+      , 
+      <!-- Interpretation needed for mud -->
+      
+      <form lang="es">mudo</form>
+      , 
+      <form lang="pt">mudo</form>
+      . 
+      <!-- Assuming sp. pg. -> es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

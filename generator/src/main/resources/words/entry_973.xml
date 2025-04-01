@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="973">
+  
+  <lemma>lin</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„sanft“</definition>
+  ,
+
+  <etymology>
+    Wie 
+    <form lang="it">leno</form>
+     verlangt auch rum. 
+    <form>lin</form>
+     ein lat. 
+    <etymon lang="Lat">*LENUS, -A, -UM</etymon>
+    . Daß aber auch ein 
+    <etymon lang="Lat">*LENE</etymon>
+     (
+    <etymon lang="Lat">LENIS, -E</etymon>
+    : 
+    <form lang="oc">len?</form>
+    ) daneben existiert hat, 
+    <!-- Assuming uexıs, a -> LENIS, -E; pv. le -> len? -->
+     wird indirekt durch 
+    <form>repede</form>
+     statt 
+    <form>*răped</form>
+     &lt; 
+    <etymon lang="Lat">RAPIDUS</etymon>
+    , ferner durch 
+    <form>turbure</form>
+    , 
+    <form>limpede</form>
+     bewiesen, lauter Ausdrücke, die sich auf den Lauf oder den Stand des Wassers beziehen, und deren Übergang zur geschlechtslosen Deklination nur durch 
+    <etymon lang="Lat">*LENE</etymon>
+    , = 
+    <form>lin</form>
+     erklärlich wird.
+
+  </etymology>
+  
+</entry>

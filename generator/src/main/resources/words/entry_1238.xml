@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1238">
+  
+  <lemma>păcurar</lemma>
+  
+  <!-- Assuming pdeurdr -> păcurar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. păcurar?, picular?, mgl. picurar, ir. păcurar?]</variants>
+  
+  <!-- Interpretation needed for pieurär -> păcurar?, pecuror -> păcurar? -->
+  
+  <definition>„Schafhirt“</definition>
+  
+  <etymology source="Dens. H. l. r. 159">
+    
+    <etymon lang="Lat">*PECORARIUS, -UM</etymon>
+     (Dens. H. l. r. 159): 
+    <!-- Assuming “rzcorarıus -> *PECORARIUS -->
+    
+    <cognates>
+      
+      <form lang="it">pecoraio</form>
+      , 
+      <!-- Assuming pecorajo -> pecoraio -->
+      
+      <form lang="it-CAL">pecuraru?</form>
+      , 
+      <!-- Interpretation needed for pekuraru -->
+      
+      <form lang="it-SIC">picuraru?</form>
+      , 
+      <!-- Interpretation needed for pikuraru -->
+      
+      <form lang="it-ERT?">pegorer?</form>
+      , 
+      <!-- Interpretation needed for Erto pegorer -->
+      
+      <form lang="pt">pegureiro</form>
+      .
+
+    </cognates>
+     — Aus dem Rum. stammt 
+    <form lang="hu">pakulár</form>
+    . 
+    <!-- Assuming ung. pakulär -> hu pakulár -->
+    
+  </etymology>
+  
+</entry>

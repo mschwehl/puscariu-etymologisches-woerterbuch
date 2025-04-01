@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1133">
+  
+  <lemma>mură</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. (a)mură]</variants>
+  
+  <definition>„Maulbeere“</definition>
+  
+  <etymology source="Archiv lat. Lex. XIV, 123">
+    
+    <etymon lang="Lat">MORA, -AM</etymon>
+    (Archiv lat. Lex. XIV, 123, von 
+    <etymon lang="Lat">MORUM</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="it">mora</form>
+      
+      <form lang="ca">mora</form>
+      
+      <form lang="es">mora</form>
+      
+      <form lang="roh-OBW">mara</form>
+      
+      <form lang="fro">meure</form>
+      
+      <form lang="fr">mûre</form>
+      
+      <form lang="pt">amora</form>
+      
+    </cognates>
+    
+    <note>
+      U für O ist unerklärt (vgl.
+
+      <form lang="fr">mûre</form>
+      ,
+
+      <form lang="sr">mora</form>
+      ,
+
+      <form lang="sl">mora</form>
+      ,
+
+      <form lang="sq">man?</form>
+       &lt; 
+      <etymon lang="el">μοῦρο?</etymon>
+      ).
+
+    </note>
+    
+    <note>
+      Ar. 
+      <form lang="ro-AR">mură</form>
+       bedeutet auch „Schlund der Tiere“.
+    </note>
+    
+  </etymology>
+  
+</entry>

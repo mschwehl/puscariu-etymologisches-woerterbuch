@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="698">
+  
+  <lemma>graniț?</lemma>
+  
+  <!-- Assuming gärits -> graniț? -->
+  
+  <scope>ar.</scope>
+  
+  <pos>sm.</pos>
+  
+  <verb_class>IV?</verb_class>
+   
+  <!-- POS sm. and IV? Seems contradictory. Assuming sm. based on definition start -->
+  
+  <definition>„Korn, Blitz, Hagel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*GRANICIUM</etymon>
+     (von 
+    <etymon lang="Lat">GRANUM</etymon>
+    ): 
+    <!-- Assuming *eranicıum -> *GRANICIUM, GRANUN -> GRANUM -->
+    
+    <cognates>
+      
+      <form lang="es">granizo</form>
+       „Hagel“,
+
+      <form lang="pt">granizo</form>
+       „Hagel“.
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[P. unbekannt].</variants>
+  
+</entry>

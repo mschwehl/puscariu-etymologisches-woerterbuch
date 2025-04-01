@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="897">
+  
+  <lemma>înveștesc?</lemma>
+  
+  <!-- Assuming inväse -> înveștesc? -->
+  
+  <lemma_variants>(învesc)</lemma_variants>
+  
+  <principal_parts>-tii?, -tit?</principal_parts>
+  
+  <!-- Assuming -ni, -üt -> -tii?, -tit? -->
+  
+  <verb_class>IV?</verb_class>
+   
+  <!-- Assuming II -> IV based on -esc -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (în)vescu?, mgl. (a)nvesc?]</variants>
+  
+  <!-- Interpretation needed for (n)vescw -> (în)vescu?, (a)nvese -> (a)nvesc? -->
+  
+  <definition>„ankleiden, bekleiden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[IN-]VESTIO, -IRE</etymon>
+     (= 
+    <etymon lang="Lat">-IRE</etymon>
+    ): 
+    <!-- Assuming [ix-|vestio, -*ERE -> [IN-]VESTIO, -IRE -->
+    
+    <cognates>
+      
+      <form lang="it">(in)vestire</form>
+      ,
+
+      <form lang="roh-ENG">vestir?</form>
+      , 
+      <!-- Interpretation needed for vesti -->
+      
+      <form lang="fr">vêtir</form>
+      , 
+      <!-- Interpretation needed for velir -->
+      
+      <form lang="oc">vestir</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">vestir</form>
+      ,
+
+      <form lang="ca">embestir</form>
+       „anrennen“?, 
+      <!-- Assuming cat. embestir -> embestir (meaning mismatch?) -->
+      
+      <form lang="es">embestir</form>
+       „anrennen“:
+
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="sq">vesh?</form>
+      , 
+      <!-- Interpretation needed for ves -->
+      
+      <form lang="it-SIC">m(i)nestiri?</form>
+      , 
+      <!-- Interpretation needed for sie, minestiri -->
+      vgl. 
+      <form lang="frp-MORV?">vetre?</form>
+      , 
+      <form lang="frp-FC?">vetre?</form>
+      . 
+      <!-- Interpretation needed for morv. franchecomt. vetre -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

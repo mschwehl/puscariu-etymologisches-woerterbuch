@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="905">
+  
+  <lemma>învolt, -ă?</lemma>
+  
+  <!-- Assuming invölt, -ă -> învolt, -ă? -->
+  
+  <pos>adj.</pos>
+  
+  <reference type="see">
+    s. 
+    <targetLemma>învolb</targetLemma>
+    .
+  </reference>
+  
+  <!-- Assuming involb -->
+  
+</entry>

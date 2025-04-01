@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="929">
+  
+  <lemma>la</lemma>
+  
+  <pos>präp.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+  
+  <!-- Assuming X -> = -->
+  
+  <definition>„zu, nach, an, in“ (Richtung und Ruhe). bezeichnet auch den Dativ und die unbestimmte Dauer.</definition>
+  
+  <etymology source="Kurth, Jb. X, 558-565; Weigand, Jb. X, 437; Meyer-Lübke: Rom. Gramm. III, 364">
+    
+    <etymon lang="Lat">ILLAC + AD?</etymon>
+     
+    <!-- Assuming ( mnvac-an -> ILLAC + AD? -->
+    
+    <reference type="bibliographic">Vgl. Kurth, Jb. X, 558—565; Weigand, Jb. X, 437 und Meyer-Lübke: Rom. Gramm. III, 364.</reference>
+    
+  </etymology>
+  
+</entry>

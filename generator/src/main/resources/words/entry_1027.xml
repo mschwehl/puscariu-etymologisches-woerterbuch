@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1027">
+  
+  <prefix>II</prefix>
+  
+  <lemma>mare</lemma>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. —, mgl. mare?, ir. mare?]</variants>
+  
+  <!-- Interpretation needed for ıngl. mari -> mgl. mare?, more -> mare? -->
+  
+  <definition>„groß“</definition>
+  
+  <etymology source="Diez; Cihac I. 158; M. Bartoli „Un po’ di sardo“, 154; Bălcescu: Mihaiu Viteazul osîndit la moarte">
+    
+    <etymon lang="Lat">MAS, MAREM</etymon>
+    . Diese schon von Diez als wahrscheinlich bezeichnete Etymologie ist die zutreffende. Auszugehen ist von 
+    <etymon lang="Lat">MAS</etymon>
+    , welches an Tiernamen ohne formellen Geschlechtsunterschied, zur Bezeichnung des männlichen Geschlechtes angehängt wurde: 
+    <form lang="la">pavo mas</form>
+     „männlicher Pfau“. Doch unterscheidet man bekanntlich das Männchen vom Weibchen beim Tiere gerade durch dessen „Größe“, so daß in der Jägersprache z. B. 
+    <example>vulpes mas</example>
+     (vulpe mare?) unter Umständen „großer Fuchs‘ bedeuten konnte. Der ursprüngliche Sinn des 
+    <form>mare</form>
+     tritt noch deutlich hervor in dem Ausdruck 
+    <form>fată mare</form>
+    , welches nicht „großes Mädchen“, sondern „Jungfrau“ bedeutet. Wie aber aus dem Synon[y]m (
+    <form>fată</form>
+    ) 
+    <form>fecioară</form>
+     hervorgeht (von 
+    <form>fecior</form>
+     „Bursche‘‘) und aus ar. 
+    <form lang="ro-AR">măritătoare?</form>
+     (von 
+    <form lang="ro-AR">mărit</form>
+     „heirate‘), ist für de[n] Rumänen die Jungfrau nicht durch deren „Jugend“, wie im Deutschen u. Französischen (
+    <example lang="fr">jeune fille</example>
+    ), gekennzeichnet, sondern durch ihre „Mannbarkeit“. Auch im adj. 
+    <form>măreț, -eață?</form>
+     „stolz“ &lt; 
+    <etymon lang="Lat">*MARICIUS, -A, -UM?</etymon>
+     läßt sich deutlich die Grundbedeutung „männlich“ erkennen: 
+    <example>„Sosind [Mihaiu Viteazul] în locul unde trebuia să primească moartea, călăul cu toporul în mînă să apropie de el, dar cînd aținti privirea asupra jertfei sale, cînd văzu acel trup măreț [= jenen männlichen Körper], acea căutătură sălbatică și înfiorătoare, un tremur groaznic îl apucă.“</example>
+     (
+    <source_ref>Bălcescu: Mihaiu Viteazul osîndit la moarte</source_ref>
+    ). Die sonstigen Etymologien sind zu verwerfen: kelt. 
+    <etymon lang="cel">mar</etymon>
+     kann trotz der auffallenden Ähnlichkeit deshalb nicht in Betracht kommen, weil im Rum. sonst kein einziges keltisches Lehnwort nachweisbar ist, u. Cihacs (I. 158): 
+    <etymon lang="Lat">MAIOR</etymon>
+    , neuerdings von M. Bartoli („Un po’ di sardo“, 154) verteidigt, hätte wohl nie 
+    <form>mare</form>
+     ergeben können. 
+    <!-- Interpretation needed for märtätoäre -> măritătoare?, -edtä -> -eață?, FMARICIUS -> *MARICIUS?, Mihaiii -> Mihaiu, mină -> mînă, afinti -> aținti -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1207">
+  
+  <lemma>nun</lemma>
+  
+  <pos>sm.</pos>
+  
+  <feminine>nună?</feminine>
+  
+  <!-- Definition implies fem form, assumed nună -->
+  
+  <definition>„Brautzeuge”, und „Brautzeugin“</definition>
+  
+  <variants>[ar. mgl. nun, -ă „die Person, die das Brautpaar unter ihren besonderen Schutz nimmt und sämtliche Kinder aus der Taufe hebt]</variants>
+  
+  <etymology source="G. Meyer: Neugr. Studien, II. 48; Tappolet: Die rom. Verwandtschaftsnamen, 71; Liuba Jana: Mäidan, 25; Zeitschr. rom. Phil. XXVII, 744-745">
+    
+    <etymon lang="Lat">NONNUS, -UM</etymon>
+    ; 
+    <etymon lang="Lat">NONNA, -AM</etymon>
+    : 
+    <!-- Assuming woxnus -> NONNUS -->
+    
+    <cognates>
+      
+      <form lang="sq">nun</form>
+       „Taufpate, Gevatter“,
+(
+      <form lang="el">νουνός?</form>
+       „Pate, Trauzeuge“, vgl. G. Meyer: Neugr. Studien, II. 48), 
+      <!-- Interpretation needed for rorroös -->
+      
+      <form lang="it-OLD">nonno, -a</form>
+       „Pate, Patin“, 
+      <!-- Assuming a.-it. (XIV Jh.) -->
+      
+      <form lang="sc">nonnu, nonna</form>
+       „Pate, Patin“. 
+      <!-- Assuming sard. -> sc -->
+      
+    </cognates>
+     Sonst hat das Wort im Rom. andere Bedeutungen, u. z. (nach Tappolet: Die rom. Verwandtschaftsnamen, 71): „Großvater — Großmutter": it., „Schwiegervater — Schwiegermutter": nord-it., „Vater — Mutter“: sic., „Alter — Alte“: it. („steinalt“: sp.), „Mönch — Nonne“: it.? frz. deutsch. In dem Sinne „Taufpate, Taufpatin“ gebraucht der Daco-rum. das Diminut. 
+    <form>nunaș, -ă</form>
+     (
+    <source_ref>Liuba Jana: Mäidan, 25</source_ref>
+    ), woraus mit Vokalassimil. 
+    <form>nănaș, -ă</form>
+     (&gt; kl.-russ. 
+    <form lang="uk">нанашко?</form>
+    ), und gekürzt: 
+    <form>naș, nașă</form>
+    . 
+    <reference type="bibliographic">Zeitschr. rom. Phil. XXVII, 744—745.</reference>
+     
+    <!-- Interpretation needed for vv. -> it.?, nanasko -->
+    
+  </etymology>
+  
+</entry>

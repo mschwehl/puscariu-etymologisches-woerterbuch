@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1088">
+  
+  <lemma>mint</lemma>
+  
+  <lemma_variants>(mînț?, mîntesc?)</lemma_variants>
+  
+  <!-- Interpretation needed for minf, minfesce -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. =, ir. mint?]</variants>
+  
+  <!-- Interpretation needed for >, mintu -> mint? -->
+  
+  <definition>„lügen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MENTIOR, -IRI</etymon>
+    : 
+    <!-- Assuming MENTIO, -înn -> MENTIOR, -IRI -->
+    
+    <cognates>
+      
+      <form lang="it">mentire</form>
+      ,
+
+      <form lang="roh-OBW">mentir?</form>
+      , 
+      <!-- Interpretation needed for mankir -->
+      
+      <form lang="oc">mentir</form>
+      , 
+      <form lang="fr">mentir</form>
+      , 
+      <form lang="ca">mentir</form>
+      , 
+      <form lang="es">mentir</form>
+      , 
+      <form lang="pt">mentir</form>
+      . 
+      <!-- Assuming pv. frz. cat. sp. pg. -> oc, fr, ca, es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. mințunedz?].</variants>
+  
+  <!-- Interpretation needed for mintsunedz -->
+  
+</entry>

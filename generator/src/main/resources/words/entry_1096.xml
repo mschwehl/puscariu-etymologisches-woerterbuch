@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1096">
+  
+  <lemma>mirindz?</lemma>
+  
+  <!-- Assuming mirindzu -> mirindz? -->
+  
+  <scope>mgl.</scope>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (a)miridzesc?]</variants>
+  
+  <!-- Interpretation needed for (a)miridzu -->
+  
+  <definition>„halte Mittagsruhe (vom Vieh)“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MERIDIO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it-ABR">?</form>
+      , 
+      <!-- Interpretation needed for ab. ee -->
+      
+      <form lang="it">meriggiare</form>
+      ,
+
+      <form lang="it-TOSC">meriare?</form>
+      , 
+      <!-- Interpretation needed for tosc. meria -->
+      
+      <form lang="fur">meridià?</form>
+       „ruhen (vom Vieh)“. 
+      <!-- Interpretation needed for {rl. mivia -->
+      
+    </cognates>
+     Davon das Verbalsubst. mgl. 
+    <form lang="ro-MG">mirindz?</form>
+     sm. [ar. 
+    <form lang="ro-AR">amiridzu?</form>
+    ] „Siestaplatz des Viehes” = 
+    <form lang="it">meriggio</form>
+    , 
+    <form lang="it-TOSC">merigge?</form>
+    . 
+    <!-- Interpretation needed for mirindz, amiridzu, merfa -->
+    
+  </etymology>
+  
+</entry>

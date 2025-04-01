@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="763">
+   
+  <!-- Assuming 163 -> 763 -->
+  
+  <lemma>iederă</lemma>
+  
+  <!-- Assuming icderă -> iederă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. iederă?, mgl. iederă?]</variants>
+  
+  <!-- Assuming eadiră -> iederă?, mel. fadirä -> mgl. iederă? -->
+  
+  <definition>„Epheu“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">HEDERA</etymon>
+    : 
+    <!-- Assuming <n£p£ra -> HEDERA -->
+    
+    <cognates>
+      
+      <form lang="it">edera</form>
+      , 
+      <!-- Assuming âdera -> edera -->
+      
+      <form lang="oc">edra</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">ierre</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="fr">lierre</form>
+      , 
+      <!-- Assuming n.-frz. -> fr -->
+      
+      <form lang="es">hiedra</form>
+      ,
+
+      <form lang="pt">hera</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

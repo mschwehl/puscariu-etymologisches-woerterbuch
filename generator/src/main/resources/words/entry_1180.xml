@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1180">
+  
+  <lemma>nime</lemma>
+  
+  <lemma_variants>(nimenea), nime?, nimă?, nime?</lemma_variants>
+  
+  <usage_note>Jb. III, 322</usage_note>
+  
+  <pos>pron.</pos>
+  
+  <variants>[mgl. nimea, nimeni?]</variants>
+  
+  <definition>„keiner“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. II, § 568">
+    
+    <etymon lang="Lat">NEMO, -INEM</etymon>
+    
+    <cognates>
+      
+      <form lang="it-PIST?">nimo?</form>
+      , 
+      <!-- Interpretation needed for (Pistoja) nimo -->
+      
+      <form lang="sc">nemus</form>
+      ; 
+      <!-- Assuming sard. -> sc -->
+      
+    </cognates>
+     „sonst durch die Vertreter von 
+    <etymon lang="Lat">NULLUS</etymon>
+    , im Frz. durch 
+    <form>personne</form>
+     ersetzt.“ 
+    <reference type="bibliographic">Meyer-Lübke: Rom. Gramm. II, § 568.</reference>
+    
+  </etymology>
+  
+  <variants>[ar. vîrnu?, -ă, vîră?].</variants>
+  
+</entry>

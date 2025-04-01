@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1267">
+  
+  <lemma>păresimi</lemma>
+  
+  <pos>sm.</pos>
+  
+  <number>Plur. tant.</number>
+  
+  <variants>[ar. păresimi?]</variants>
+  
+  <!-- Interpretation needed for päreasıni -->
+  
+  <definition>„das vierzigtägige Fasten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">QUADRAGESIMA</etymon>
+    : 
+    <!-- Assuming Qua[p]ralelesisıa -> QUADRAGESIMA -->
+    
+    <cognates>
+      
+      <form lang="sq">kreshmë?</form>
+      , 
+      <!-- Interpretation needed for kresme -->
+      
+      <form lang="isv">koresma?</form>
+      , 
+      <!-- Interpretation needed for vegl. koresma -->
+      
+      <form lang="it-ALA?">caraesima?</form>
+      , 
+      <!-- Interpretation needed for alatri karaesima -->
+      
+      <form lang="it-NAP">quaraesema?</form>
+      , 
+      <!-- Interpretation needed for quaraesema -->
+      
+      <form lang="it-SIC">coraìsima?</form>
+      , 
+      <!-- Interpretation needed for koraisima -->
+      
+      <form lang="lmo">quaresma</form>
+      , 
+      <form lang="es">cuaresma</form>
+      , 
+      <form lang="pt">quaresma</form>
+      , 
+      <!-- Assuming lomb. sp. pg. -> lmo, es, pt -->
+      
+      <form lang="roh-ENG">quaraisma?</form>
+      , 
+      <!-- Interpretation needed for quaraisına -->
+      
+      <form lang="roh-OBW">cuareisma?</form>
+      , 
+      <!-- Interpretation needed for quareizma -->
+      
+      <form lang="fr">carême</form>
+      . 
+      <!-- Interpretation needed for careıne -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

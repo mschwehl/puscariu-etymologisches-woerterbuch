@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1247">
+  
+  <lemma>păioară</lemma>
+  
+  <!-- Assuming pdioäräa -> păioară -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„(Toten)schleier“</definition>
+  
+  <etymology source="G. Meyer: Etymol. Wörtb. d. alb. Spr. 318; Zeitschrift rom. Phil. XXVIII, 684">
+    
+    <etymon lang="Lat">PALLIOLA, -AM?</etymon>
+     (= 
+    <etymon lang="Lat">PALLIOLUM</etymon>
+     Dim. von 
+    <etymon lang="Lat">PALLIUM</etymon>
+     „Totenschleier“). In den übrigen rom. Sprachen ist das Wort gelehrten Ursprungs (
+    <form lang="fro">paile</form>
+     „Überkleid, Teppich“, 
+    <form lang="es">palio</form>
+     „(Bischofs)mantel“), nur das Alb. zeigt es, nebst dem Rum., in volkstümlicher Gestalt: 
+    <form lang="sq">pallë?</form>
+    , 
+    <form lang="sq">pajë?</form>
+     „Mitgift“ (falls G. Meyer’s Etymologie (Etymol. Wörtb. d. alb. Spr. 318) richtig ist). 
+    <reference type="bibliographic">Zeitschrift rom. Phil. XXVIII, 684</reference>
+    . 
+    <!-- Assuming pal -> pallë?, paje -> pajë? -->
+    
+  </etymology>
+  
+  <variants>[ar. săvan „Totenschleier“].</variants>
+  
+</entry>

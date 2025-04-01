@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="909">
+  
+  <prefix>I</prefix>
+  
+  <lemma>joc</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. (a)dzoc, mgl. joc?, ir. joc?]</variants>
+  
+  <!-- Interpretation needed for Zoc -> joc? -->
+  
+  <definition>
+    „Spiel, Tanz (nach slav. 
+    <etymon lang="chu">igra</etymon>
+     „Spiel und Tanz“)
+  </definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">JOCUS, -UM</etymon>
+    : 
+    <!-- Assuming söcts -> JOCUS -->
+    
+    <cognates>
+      
+      <form lang="it">gioco</form>
+      , 
+      <!-- Assuming giwoco -> gioco -->
+      
+      <form lang="lmo-MIL">giöch?</form>
+      , 
+      <!-- Interpretation needed for dzăg -->
+      
+      <form lang="roh-ENG">jö?</form>
+      , 
+      <!-- Interpretation needed for dZö -->
+      
+      <form lang="fur">jûc?</form>
+      , 
+      <!-- Interpretation needed for dzug -->
+      
+      <form lang="oc">joc</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">jeu</form>
+      , 
+      <!-- Assuming jew -> jeu -->
+      
+      <form lang="ca">joc</form>
+      , 
+      <!-- Assuming cat. j0g -> joc -->
+      
+      <form lang="es">juego</form>
+      ,
+
+      <form lang="pt">jogo</form>
+      . 
+      <!-- Assuming PE. j0g0 -> pt jogo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

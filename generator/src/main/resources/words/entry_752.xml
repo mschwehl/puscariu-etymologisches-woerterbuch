@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="752">
+  
+  <lemma>hic</lemma>
+  
+  <!-- Assuming Ric -> hic -->
+  
+  <scope>ar.</scope>
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. ie]</variants>
+  
+  <definition>„Feigenbaum”</definition>
+  
+  <related_forms>
+    <form lang="ro-AR">hică</form>
+     sf. [mgl. 
+    <form lang="ro-MG">ică?</form>
+    ] „Feige“
+  </related_forms>
+   
+  <!-- Assuming Ricä -> hică, ick -> ică? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">FICUS, -UM?</etymon>
+    ; 
+    <etymon lang="Lat">FICA, -AM</etymon>
+    : 
+    <!-- Assuming rtcus, -Cu -> FICUS, -UM? -->
+    
+    <cognates>
+      
+      <form lang="sq">fik</form>
+      ,
+
+      <form lang="it">fico, fica</form>
+      ,
+
+      <form lang="oc">figa</form>
+      , 
+      <!-- Assuming pr. -> oc -->
+      
+      <form lang="es">higo, higa</form>
+      ,
+
+      <form lang="pt">figo, figa</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

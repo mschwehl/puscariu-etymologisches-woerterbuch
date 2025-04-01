@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="799">
+  
+  <lemma>în</lemma>
+  
+  <!-- Assuming in -> în -->
+  
+  <pos>präp.</pos>
+  
+  <variants>[ar. (în), mgl. (în), ir. (în)]</variants>
+  
+  <!-- Assuming (Ü)n -> (în), (a)n -> (în), (@)r -> (în) -->
+  
+  <definition>„in“ (auf die Fragen: wo? und wohin?)</definition>
+  
+  <etymology source="Kurth: Jb. X, 527-532">
+    
+    <etymon lang="Lat">IN</etymon>
+    : 
+    <!-- Assuming rs -> IN -->
+    
+    <cognates>
+      
+      <form lang="it">in</form>
+      ,
+
+      <form lang="roh-ENG">in</form>
+      , 
+      <!-- Assuming eng. -> roh-ENG -->
+      
+      <form lang="oc">en</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">en</form>
+      ,
+
+      <form lang="ca">en</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">en</form>
+      , 
+      <!-- Assuming span. -> es -->
+      
+      <form lang="pt">em</form>
+      .
+
+    </cognates>
+     Vgl. Kurth: Jb. X, 527—532.
+
+  </etymology>
+  
+</entry>

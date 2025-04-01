@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="693">
+  
+  <lemma>gáie</lemma>
+   
+  <!-- Assuming Gâie -> gáie -->
+  
+  <lemma_variants>
+    (găiță, + găică 
+    <source_ref>Cuv. d. b. I, 281</source_ref>
+    )
+  </lemma_variants>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming si. -> sf. -->
+  
+  <definition>„Eichelrabe“</definition>
+  
+  <variants>[ar. gaie „Krähe“]</variants>
+  
+  <etymology source="Dens. H. l. r. 197; Apuleus: Metam. 5, 28; C. Gl. l. VI, 85; Zeitschrift rom. Phil XXVII, 140; Marian: Ornitologia I, 62; Hașdeu: Cuv. d. b. I, 281">
+    will Dens. H. l. r. 197 von 
+    <etymon lang="Lat">GAVIA, -AM</etymon>
+     „Möwe“ ableiten 
+    <!-- Assuming Gavra -> GAVIA -->
+     und vergleicht damit: 
+    <form lang="it">gabbiano</form>
+    , 
+    <form lang="lmo">gavina</form>
+    , 
+    <form lang="it-NAP">gavina</form>
+    , 
+    <form lang="vec-OLD">gavinello</form>
+    , 
+    <form lang="es">gavia</form>
+    , 
+    <form lang="pt">gaivota</form>
+    , 
+    <form lang="it-ERT?">gaia</form>
+    . 
+    <!-- Interpretation needed for Erto -->
+    Dies letztere, wie 
+    <form lang="pms">gaia?</form>
+    , 
+    <form lang="it-FEL?">gaia?</form>
+    , 
+    <form lang="it-SAC?">gaia?</form>
+    , 
+    <form lang="it-CAD?">gaja</form>
+    , 
+    <form lang="it-CAD?">gajola</form>
+    , 
+    <form lang="it-GAR?">gaggia</form>
+    , 
+    <form lang="vec-VER">gadza</form>
+    , 
+    <form lang="lmo-BER">gadza</form>
+    , 
+    <form lang="it-GIU?">gadza</form>
+    , 
+    <form lang="it-VALC?">gadza</form>
+    , 
+    <form lang="roh-ENG">giazza?</form>
+    , 
+    <form lang="it-BEL">gadz(i)a</form>
+    , 
+    <form lang="roh-OBW">gadz(i)a</form>
+    , 
+    <form lang="pms-VS">gadăza</form>
+    , (
+    <form lang="it">gazza</form>
+     aus Norditalien), 
+    <form lang="fr">geai</form>
+    , 
+    <form lang="oc">gai, jai?</form>
+    , 
+    <form lang="es">gaya, gayo</form>
+    , 
+    <form lang="pt">gaio</form>
+    , paßt jedoch zur Glosse des Papias (XI Jh.): 
+    <form lang="la">GAYUS</form>
+     „picus“, 
+    <form lang="la">GAJA</form>
+     „pica“. 
+    <!-- Interpretation needed for feltre, sacile, cadore, garfagnana, veron., berg., giudic., Val Uannobina, diadza, belun., obw., valses., jat, pa. -->
+    Dieses allerdings nicht geklärte Wort stimmt auch der Bedeutung nach zum rum. 
+    <form>gaie</form>
+     besser. Dagegen ist 
+    <form>găliță</form>
+     sf. „Eichelrabe“ (Marian: Ornitologia I, 62) = 
+    <etymon lang="chu">galica</etymon>
+     „Dohle“ (vgl. 
+    <form lang="sr">galic</form>
+     „Rabe“, 
+    <form lang="sq">gale</form>
+     „Rabe'). Vgl. auch Hașdeu: Cuv. d. b. I, 281. 
+    <!-- Assuming kslav. -> chu -->
+    
+  </etymology>
+  
+</entry>

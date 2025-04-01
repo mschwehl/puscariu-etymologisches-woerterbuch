@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="843">
+  
+  <lemma>înfrînez?</lemma>
+  
+  <!-- Assuming infrindgz -> înfrînez? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„bändigen, zähmen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IN-FRENO, -ARE</etymon>
+    : 
+    <!-- Assuming Ix-FRENO -> IN-FRENO -->
+    
+    <cognates>
+      
+      <form lang="it">infrenare</form>
+      ,
+
+      <form lang="roh-UEG">infrenar?</form>
+      , 
+      <!-- Interpretation needed for u.-eng. infrainar -->
+      
+      <form lang="oc">enfrenar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">enfrenar</form>
+      ,
+
+      <form lang="ca">enfrenar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="pt">enfrear</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. căpistrusescu?].</variants>
+  
+  <!-- Interpretation needed for căpistrusescu -->
+  
+</entry>

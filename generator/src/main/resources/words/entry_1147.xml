@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1147">
+  
+  <lemma>muțesc</lemma>
+  
+  <!-- Assuming mutese -> muțesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. muțăscu?]</variants>
+  
+  <!-- Interpretation needed for mutsăscu -->
+  
+  <definition>„verstummen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MUTESCO, -ERE?</etymon>
+     (= 
+    <etymon lang="Lat">-ESCERE</etymon>
+    : 
+    <form lang="es">enmudecer?</form>
+    ): 
+    <!-- Assuming murEsco, FIRE -> MUTESCO, -ERE?, miudecer -> enmudecer? -->
+    
+    <cognates>
+      
+      <form lang="oc">mudir</form>
+      . 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+     Vgl. 
+    <form>amuțesc</form>
+    .
+
+  </etymology>
+  
+</entry>

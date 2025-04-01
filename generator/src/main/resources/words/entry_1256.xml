@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1256">
+  
+  <prefix>I</prefix>
+  
+  <lemma>pap</lemma>
+  
+  <scope>ar.</scope>
+  
+  <note>W.</note>
+  
+  <pos>sm.</pos>
+  
+  <definition>
+    „Großvater“ (Plur 
+    <form lang="ro-AR">păpari?</form>
+     „Vorfahren“ 
+    <source_ref>Cod. Dim. 90%</source_ref>
+    , &lt; 
+    <etymon lang="Lat">PAPPAS?</etymon>
+    )
+  </definition>
+  
+  <!-- Interpretation needed for päpär -> păpari?, (*Ppappası) -> PAPPAS? -->
+  
+  <etymology source="N. Sulieä: Gazeta Transilvaniei 1900, Nr. 193; Conv. lit. XXIV, 929">
+    
+    <etymon lang="Lat">PAPPUS, -UM</etymon>
+    . — Darauf scheint d-rum. ar. 
+    <form>păpușă</form>
+     sf. „Puppe“ zurückzugehen, vgl. N. Sulieä: Gazeta Transilvaniei 1900, Nr. 193, wo gezeigt wird, daß 
+    <etymon lang="Lat">PAPPUS</etymon>
+     die typische Figur des geizigen Alten in den lat. 
+    <form lang="la">fabulae Atellanae</form>
+     war; also mag 
+    <form>păpușă</form>
+     ursprünglich „Marionette‘‘ bedeutet haben. Aus „Puppe“ entwickelt sich der Sinn „Bündel“ (
+    <example>păpușă de tutun</example>
+     „Tabakbündel“; aus dem Rum. stammt bulg. klruss. 
+    <form lang="bg uk">papuša</form>
+     „Bündel von Tabakblätter“), auch „Stritzel“‘ („
+    <example>mai duce un colac mare de-i zice păpușe: păpuşa miresii; o duce täciunarul; de abia o duce aşa de mare este</example>
+    “. 
+    <source_ref>Conv. lit. XXIV, 929</source_ref>
+    ). Eine Ableitung davon ist 
+    <form>păpușoi</form>
+     sm. (auch 
+    <form>popușoi</form>
+    ) „Maisstengel (mit einem Bündel verglichen) u. Tannenzapfen (mit dem Maiskolben verglichen)“, woraus klruss. 
+    <form lang="uk">papušoja?</form>
+    . 
+    <!-- Assuming rarrus -> PAPPUS, päpuse -> păpușă, täciunarul -> tăciunarul, päpugöiß -> păpușoi, papuăoja -> papušoja? -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1060">
+  
+  <lemma>merindez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„Eßvorrat sammeln, essen“</definition>
+  
+  <variants>[ar. merindez? „esse zur Vesperzeit“]</variants>
+  
+  <!-- Interpretation needed for mirindu -> merindez? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MERENDO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">merendare</form>
+      ,
+
+      <form lang="ca">berenar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">merendar</form>
+      , 
+      <form lang="pt">merendar</form>
+      . 
+      <!-- Assuming sp. pg. -> es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

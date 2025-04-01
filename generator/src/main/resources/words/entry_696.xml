@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="696">
+  
+  <lemma>galben</lemma>
+  
+  <!-- Assuming gälbin -> galben -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <!-- Assuming -& -> -ă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mgl. =]</variants>
+   
+  <!-- Assuming => -> = -->
+  
+  <definition>„gelb“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GALBINUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming GALBISUS -> GALBINUS (commoner form, fits derivatives) -->
+    
+    <cognates>
+      
+      <form lang="sq">gëlbërë?</form>
+       „grün“, 
+      <!-- Assuming gelbere -> gëlbërë? -->
+      
+      <form lang="fr">jaune</form>
+       (aus dem Frz. 
+      <form lang="it">giallo</form>
+      , 
+      <form lang="es">jalde</form>
+      , 
+      <form lang="pt">jalne</form>
+      ). 
+      <!-- Assuming pe. -> pt -->
+      
+    </cognates>
+     —
+
+    <form>Gălbinare</form>
+     sf. [ar. =, mgl. gălbinari] „Gelbsucht“, 
+    <!-- Assuming >, mel. -> =, mgl. -->
+    
+    <form>gălbenuș?</form>
+     sm. [mgl. =] „Eidotter“ (entspricht genau dem russ. 
+    <form lang="ru">жёлтый?</form>
+    ). 
+    <!-- Assuming gălbiniiș -> gălbenuș?, Z0lt-y5 -> жёлтый? -->
+     Auf ein lat. 
+    <etymon lang="Lat">*GALBEUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming *GALEUS -> *GALBEUS -->
+    
+    <cognates>
+      
+      <form lang="roh-ENG">galben?</form>
+      , -a, 
+      <!-- Assuming Zalv -> galben? -->
+      
+    </cognates>
+     läßt schließen rum.
+
+    <form>gălbicios</form>
+    , -oasă adj. — 
+    <!-- Assuming gälbiclös -> gălbicios -->
+    
+    <form>gălbiniuț?</form>
+    , -oasă? adj. [mgl. =] „gelblich“, 
+    <!-- Assuming gälbinieios, -odsă -> gălbiniuț?, -oasă? -->
+    
+    <form>gălbui?</form>
+    , -e adj. „gelblich“, 
+    <!-- Assuming gălbiiiii -> gălbui? -->
+    
+    <form>gălbează?</form>
+     sf. „Gelbsucht“. 
+    <!-- Assuming gälbieitine -> gălbează? -->
+     Nicht von 
+    <etymon lang="Lat">GALBINUS</etymon>
+     abgeleitet, sondern daran angelehnt, ist 
+    <form>gălbează</form>
+    , nb. 
+    <form>călbează?</form>
+     „Leberkrankheit der Schafe“ (
+    <form lang="sq">këlbazë</form>
+    , 
+    <form lang="sq">gëlbezë?</form>
+    ). 
+    <!-- Assuming călbeazit -> călbează?, kefbaze -> këlbazë, gelbaze -> gëlbezë? -->
+    
+  </etymology>
+  
+</entry>

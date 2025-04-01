@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="892">
+  
+  <lemma>întreg</lemma>
+  
+  <feminine_neuter>-eagă</feminine_neuter>
+  
+  <!-- Assuming -edgă -> -eagă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. întreg?, mgl. întreg?, ir. întreg?]</variants>
+  
+  <!-- Interpretation needed for ntreg -> întreg?, antreg -> întreg?, äntrey -> întreg? -->
+  
+  <definition>„ganz“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">INTEGRUM, -AM</etymon>
+     (Naevius = 
+    <etymon lang="Lat">INTEGER, -GRA, -GRUM</etymon>
+    ): 
+    <!-- Assuming CINTEGRUM -> INTEGRUM, -un -> -UM -->
+    
+    <cognates>
+      
+      <form lang="it">intero</form>
+      ,
+
+      <form lang="roh-ENG">inter</form>
+      ,
+
+      <form lang="fr">entier</form>
+      ,
+
+      <form lang="es">entero</form>
+      ,
+
+      <form lang="pt">enteiro</form>
+      .
+
+    </cognates>
+     Die metathetische Form liegt, außer dem Rum. auch nordital. u. rtr. Dialekten zugrunde. 
+    <!-- Assuming metathes. -> metathetische -->
+    
+  </etymology>
+  
+</entry>

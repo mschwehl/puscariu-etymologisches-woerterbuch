@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="848">
+  
+  <lemma>îngăl?</lemma>
+  
+  <!-- Assuming ingälez -> îngăl? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„vernachlässigen“</definition>
+  
+  <etymology source="Dens. H. l. r. 191; Schuchardt: Zeitschr. rom. Phil. XXXIX, 323ff, 332">
+    
+    <etymon lang="Lat">[*IN-]GALLO, -ARE</etymon>
+    : 
+    <!-- Assuming <[*rx-]GALLo -> [*IN-]GALLO -->
+    
+    <cognates>
+      
+      <form lang="it">gallare</form>
+       „ausgelassen sein“,
+
+      <form lang="it-CAM?">ingalla?</form>
+      , 
+      <!-- Interpretation needed for campob. -->
+      vgl. 
+      <form lang="es">gallo</form>
+       „Stolz“.
+
+    </cognates>
+    
+    <reference type="bibliographic">Dens. H. l. r. 191.</reference>
+     Vgl. ar. 
+    <form lang="ro-AR">gălescu?</form>
+     IV vb. „heiter werden (vom Himmel)“, 
+    <!-- Interpretation needed for găleseu, Hinmel -> Himmel -->
+     mgl. 
+    <form lang="ro-MG">gălesc?</form>
+     IV vb. „verhätscheln“. 
+    <!-- Interpretation needed for găles -->
+     Vgl. indessen: Schuchardt: Zeitschr. rom. Phil. XXXIX, 323ff, 332.
+
+  </etymology>
+  
+</entry>

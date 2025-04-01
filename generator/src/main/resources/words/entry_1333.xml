@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1333">
+  
+  <lemma>plată</lemma>
+  
+  <scope>ar.</scope>
+  
+  <pos>sf.</pos>
+  
+  <definition>„flache Erde“</definition>
+  , substantiviertes Adjektivum
+
+  <etymology>
+    aus 
+    <etymon lang="Lat">*PLATTUS, -A, -UM</etymon>
+     „flach“ (unbekannten Ursprungs):
+
+    <cognates>
+      
+      <form lang="it">piatto</form>
+      ,
+
+      <form lang="roh-ENG">plat</form>
+      , 
+      <form lang="oc">plat</form>
+      , 
+      <form lang="fr">plat</form>
+      , 
+      <!-- Assuming eng. pv. frz. -> roh-ENG, oc, fr -->
+      
+      <form lang="es">chato</form>
+      , 
+      <form lang="pt">chato</form>
+      . 
+      <!-- Assuming sp. pe. -> es, pt -->
+      
+    </cognates>
+     Davon ar. 
+    <form lang="ro-AR">în plat?</form>
+     adv. „waagerecht“. 
+    <!-- Interpretation needed for niplat -> în plat? -->
+    
+  </etymology>
+  
+  <variants>[ar. P. unbekannt].</variants>
+  
+</entry>

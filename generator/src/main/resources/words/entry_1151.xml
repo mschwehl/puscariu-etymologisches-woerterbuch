@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1151">
+  
+  <lemma>nămalie</lemma>
+  
+  <!-- Assuming nămaie -> nămalie -->
+  
+  <pos>sf.</pos>
+  
+  <usage_note>(Jb. III, 322)</usage_note>
+  
+  <definition>„kleines Hornvieh“</definition>
+  
+  <variants>[ar. nămalț?, nămalțu? sm. „Schlachttier‘‘, mgl. nămat? sm. „Rind, Tier“]</variants>
+  
+  <!-- Interpretation needed for nă-malt -> nămalț?, numalü -> nămalțu?, nămati -> nămat? -->
+  
+  <etymology source="W. Meyer: Lat. Neutr. 101; Zeitschr. rom. Phil. XXVII, 744">
+    
+    <etymon lang="Lat">ANIMALIA, -AM?</etymon>
+    : 
+    <!-- Assuming -*AM -> -AM? -->
+    
+    <cognates>
+      
+      <form lang="it-S">armalia</form>
+       „Tier,
+
+      <form lang="fur">armare?</form>
+       „Schlange“, 
+      <!-- Interpretation needed for mare -->
+      
+      <form lang="roh-ENG">limargia?</form>
+      , 
+      <!-- Interpretation needed for limardza -->
+      
+      <form lang="fr">aumaille</form>
+       „Hornvieh“,
+
+      <form lang="es">alimana</form>
+      ,
+
+      <form lang="pt">almalha</form>
+       „junge Kuh“,
+
+    </cognates>
+     — daneben der neugebildete Sing. 
+    <etymon lang="Lat">*ANIMALIUM?</etymon>
+    : 
+    <!-- Assuming *anImauıum -> *ANIMALIUM? -->
+    
+    <cognates>
+      
+      <form lang="roh-OBW">amari?</form>
+      , 
+      <!-- Interpretation needed for Igi-mari -->
+      
+      <form lang="roh-ENG">almaris?</form>
+      , 
+      <!-- Interpretation needed for almeris -->
+      
+      <form lang="gl">armallo?</form>
+       „buey flaco“. 
+      <!-- Interpretation needed for galiz. armallo -->
+      
+    </cognates>
+    
+    <reference type="bibliographic">W. Meyer: Lat. Neutr. 101. — Zeitschr. rom. Phil. XXVII, 744.</reference>
+    
+  </etymology>
+  
+</entry>

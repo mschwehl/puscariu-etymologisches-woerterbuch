@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1181">
+  
+  <lemma>nimica</lemma>
+  
+  <pos>sf.</pos>
+  
+  <lemma_variants>(nimic sm.)</lemma_variants>
+  
+  <definition>„nichts“</definition>
+  
+  <etymology source="Reichenauer Glossen Nr. 36 ed. Förster u. Koschwitz">
+    
+    <etymon lang="Lat">NE MICA</etymon>
+     (Reichenauer Glossen Nr. 36 ed. Förster u. Koschwitz = 
+    <etymon lang="Lat">NE + MICA</etymon>
+     „nicht ein Krümchen‘): 
+    <!-- Assuming nxemica -> NE MICA -->
+    
+    <cognates>
+      
+      <form lang="vec">nemiga</form>
+      , 
+      <!-- Assuming ven. -> vec -->
+      
+      <form lang="fur">nemighe?</form>
+      , 
+      <!-- Interpretation needed for nemighe -->
+      
+      <form lang="roh-ENG">nimia?</form>
+      , 
+      <!-- Interpretation needed for nimia -->
+      
+      <form lang="fr">ne-mie</form>
+       (vgl. 
+      <form lang="es-OLD">nemigaia?</form>
+       &lt; 
+      <etymon lang="Lat">NEC-*MICALIA?</etymon>
+      ). 
+      <!-- Interpretation needed for a.-sp. nemigaja -> nemigaia?, NEc-*MICALIA -> NEC-*MICALIA? -->
+      
+    </cognates>
+    Die Mehrzahl 
+    <form>nimicuri</form>
+     bedeutet „Kleinigkeiten“. Da das Wort oft als Adverbium gebraucht wird, empfand man das auslautende -a als Adverbialsuffix, so daß daneben ein 
+    <form>nimic</form>
+     entstehen konnte.
+
+  </etymology>
+  
+  <variants>[ar. țiva?].</variants>
+  
+  <!-- Interpretation needed for tsivd -->
+  
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="913">
+  
+  <lemma>jude</lemma>
+  
+  <lemma_variants>(+ judec?)</lemma_variants>
+  
+  <!-- Assuming jüdect -> judec? -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Richter“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IUDEX, -ICEM?</etymon>
+    : 
+    <!-- Assuming supex, Ion -> IUDEX, -ICEM? -->
+    
+    <cognates>
+      
+      <form lang="sq">gjyk?</form>
+      , 
+      <!-- Interpretation needed for Jüh' -->
+      
+      <form lang="it">giudice</form>
+      ,
+
+      <form lang="vec">zudese?</form>
+      , 
+      <!-- Interpretation needed for zudese -->
+      
+      <form lang="lmo-BER">giude?</form>
+      , 
+      <!-- Interpretation needed for a.-berg. zude -->
+      
+      <form lang="lmo">giudes?</form>
+      , 
+      <!-- Interpretation needed for dăiides -->
+      
+      <form lang="sc">giuighe?</form>
+      , 
+      <!-- Interpretation needed for sard. zuighe -->
+      
+      <form lang="es">juez</form>
+       (&gt; 
+      <form lang="es">juez?</form>
+      ). 
+      <!-- Assuming jüez -> juez, ju6z -> juez? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

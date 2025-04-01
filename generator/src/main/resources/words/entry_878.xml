@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="878">
+   
+  <!-- Assuming 875 -> 878 -->
+  
+  <lemma>înstelez</lemma>
+  
+  <!-- Assuming înstelez -> înstelez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„mit Sternen besetzen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[*IN-]STELLO, -ARE</etymon>
+    : 
+    <!-- Assuming < |* ın-IsTELLO -> [*IN-]STELLO -->
+    
+    <cognates>
+      
+      <form lang="it">instellarsi</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1072">
+  
+  <lemma>miere</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. miáre?, mgl. (m)iáre?, ir. miáre?]</variants>
+  
+  <!-- Interpretation needed for Aare -> miáre?, (m)niari -> (m)iáre?, mlore) -> miáre? -->
+  
+  <definition>„Honig“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. II, § 377">
+    
+    <etymon lang="Lat">MEL, *MELEM?</etymon>
+    :
+
+    <cognates>
+      (vgl. 
+      <form lang="sq">mjalt</form>
+      ),
+
+      <form lang="it">miele</form>
+      ,
+
+      <form lang="it-SIC">meli</form>
+      , 
+      <!-- Assuming sie. -> it-SIC -->
+      
+      <form lang="lij-GEN-OLD">me</form>
+      , 
+      <!-- Assuming a.-gen. -> lij-GEN-OLD -->
+      
+      <form lang="lmo-MIL">mel</form>
+      , 
+      <form lang="oc">mel</form>
+      , 
+      <form lang="ca">mel</form>
+      , 
+      <form lang="pt">mel</form>
+      , 
+      <!-- Assuming mail. pv. cat. pg. nel -> mel -->
+      
+      <form lang="pms">amel</form>
+      ,
+
+      <form lang="fur">mîl?</form>
+      , 
+      <!-- Interpretation needed for îrl. mil -->
+      
+      <form lang="roh-ENG">meil</form>
+      ,
+
+      <form lang="fr">miel</form>
+      , 
+      <form lang="es">miel</form>
+      .
+
+    </cognates>
+     (Femininum im Span. Cat. A.-gen. Mail. Mittelrät. Friaul. A.-ven. u. südlich bis Parma. 
+    <reference type="bibliographic">Meyer-Lübke: Rom. Gramm. II, § 377</reference>
+    .)
+
+  </etymology>
+  
+</entry>

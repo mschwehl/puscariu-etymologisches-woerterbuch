@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="825">
+  
+  <lemma>încui</lemma>
+  
+  <!-- Assuming înciiii -> încui -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„sperren“ (eigtl. „verkeilen“)</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[*IN-]CUNEO, -ARE</etymon>
+    : 
+    <!-- Assuming < [* ım-]cüneo -> [*IN-]CUNEO -->
+    
+    <cognates>
+      
+      <form lang="it-SIC">incunari</form>
+      , 
+      <!-- Assuming sic. -> it-SIC -->
+      
+      <form lang="sc-L">cunzare?</form>
+       „sperren, umzäumen“, 
+      <!-- Interpretation needed for sard. l. kundzare -->
+      
+      <form lang="roh-ENG">incunar?</form>
+       „verkeilen“. 
+      <!-- Interpretation needed for inkuner -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

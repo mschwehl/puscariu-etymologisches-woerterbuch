@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1304">
+  
+  <lemma>pic</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. pic?, mgl. —]</variants>
+  
+  <!-- Interpretation needed for k’ik -> pic? -->
+  
+  <definition>„tröpfeln, herunterfallen“</definition>
+  ,
+
+  <etymology source="Körting² Nr. 7131; Verfassers: Lat. Ti u. Ki, S. 111-113; Kuhns Zeitschr. XXXVI, 381-382; Conv. lit. XX, 1015">
+    vielleicht auch „stechen“, wenn der Ausdruck: „
+    <example>era frumoasă de pica</example>
+    “ (
+    <source_ref>Sămăn. II, 150</source_ref>
+    ) etwa wie das deutsche „sie stach vor Schönheit ab“ zu verstehen ist. Es gehört zu dem im Rom. weit verbreiteten Stamme 
+    <etymon lang="Lat">PICC-</etymon>
+    , worüber Körting² Nr. 7131. Zu dieser Wortsippe gehört ferner: 
+    <form>picur</form>
+    , I vb. „tröpfeln‘“‘, 
+    <form>picătură</form>
+     sf. [mgl. =] „Tropfen“, dann: 
+    <form>pic</form>
+     sm. „Tropfen“ (wie die rom. Entsprechungen von 
+    <etymon lang="Lat">GUTTA</etymon>
+     auch als Wenigkeitsbegriff verwendet: 
+    <example>un pic</example>
+     „ein wenig“, vgl. 
+    <form>o fîră</form>
+     „ein wenig“ von 
+    <form>fîrăesc?</form>
+     „tröpfeln“), wofür mgl. 
+    <form lang="ro-MG">pică</form>
+     sf. „Tropfen, ein wenig“ (wie 
+    <form lang="it-CAL">picca</form>
+     „poco“), auch 
+    <form>picluș?</form>
+     sm. „Tropfen“, ferner 
+    <form>pitic?</form>
+     sm. „kleines Kind“, 
+    <form>pițigoi</form>
+     sm. 
+    <form>pițigaț?</form>
+     (
+    <source_ref>Conv. lit. XX, 1015</source_ref>
+    ) „Zaunkönig“, dann: 
+    <form>pisc</form>
+    , sm. „Gipfel“, endlich: 
+    <form>pișc?</form>
+    , I vb. „zwicken“ = 
+    <form>pișc</form>
+     I vb. (
+    <source_ref>Conv. lit. XX, 1015</source_ref>
+    ), 
+    <form>pișcăiesc?</form>
+     IV vb. „nippen“. Näheres darüber und viele Beispiele aus ital. Dialekten in 
+    <reference type="bibliographic">Verfassers: Lat. Ti u. Ki, S. 111 bis 113</reference>
+    . Das Vorkommen der ganzen Wortsippe im Rum. schließt, trotz der ganz verblüffenden Ähnlichkeiten der Formen und Sinnesentwicklungen, von vornherein die Annahme aus, daß der Stamm 
+    <etymon lang="Lat">PICC-</etymon>
+     aus dem Germ. entlehnt sei, wie dies von E. Johansson: 
+    <reference type="bibliographic">Kuhns Zeitschr. XXXVI, 381—382</reference>
+     behauptet wird. 
+    <!-- Interpretation needed for ric(c)- -> PICC-, pteur -> picur, firăesc -> fîrăesc?, piciiș -> picluș?, piciii -> pitic?, pifigts -> pițigaț?, pige -> pișc?, pifig -> pișc?, pifigäesc -> pișcăiesc?, pro(c)- -> PICC- -->
+    
+  </etymology>
+  
+</entry>

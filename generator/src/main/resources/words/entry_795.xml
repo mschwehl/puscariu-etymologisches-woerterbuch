@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="795">
+   
+  <!-- Assuming 195 -> 795 -->
+  
+  <lemma>împung</lemma>
+  
+  <!-- Assuming impäng -> împung -->
+  
+  <principal_parts>-unsei?, -uns</principal_parts>
+  
+  <!-- Assuming -nsei -> -unsei? -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>stechen”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PUNGO, -ERE</etymon>
+    : 
+    <!-- Assuming püxgo -> PUNGO -->
+    
+    <cognates>
+      
+      <form lang="it">pungere, pugnere</form>
+      ,
+
+      <form lang="oc">ponher</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">poindre</form>
+      , 
+      <!-- Assuming fiz. -> fr -->
+      
+      <form lang="es">pungir</form>
+      , 
+      <!-- Assuming span. -> es -->
+      
+      <form lang="pt">pungir</form>
+      . 
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+     — Dazu: 
+    <form>străpung</form>
+     III vb. „durchstechen‘‘, 
+    <!-- Assuming sträpeng -> străpung -->
+     vgl. 
+    <form lang="it-TRIE">straponzer?</form>
+    , 
+    <form lang="it-ROV?">straponzer?</form>
+    , 
+    <form lang="it-MUG?">straponzer?</form>
+    , 
+    <form lang="fur">straponzi</form>
+    . 
+    <!-- Interpretation needed for trient, roveretto, muggia, frl. -->
+    
+  </etymology>
+  
+</entry>

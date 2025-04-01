@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1153">
+  
+  <lemma>nară</lemma>
+  
+  <lemma_variants>(náră)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <definition>
+    „Nasenloch, auch Nase (
+    <source_ref>Jb. III, 179, IV, 329, V, 78, Cod. Vor. 11%</source_ref>
+    )“
+  </definition>
+  
+  <variants>[ar. = „Nase“, mgl. nare? „Nasenloch‘“]</variants>
+  
+  <!-- Interpretation needed for m -> =, nari -> nare? -->
+  
+  <etymology source="Zauner: Körperteile 359">
+    
+    <etymon lang="Lat">NARIS, -EM</etymon>
+    : 
+    <!-- Assuming ans, -zm -> NARIS, -EM -->
+    
+    <cognates>
+      
+      <form lang="it">nare</form>
+      ,
+
+      <form lang="it-BEL?">snare?</form>
+      , 
+      <!-- Interpretation needed for bellun. snare -->
+      
+      <form lang="sc-L">nare</form>
+       „Nase“, 
+      <!-- Assuming sard. l. -> sc-L -->
+      
+      <form lang="oc">nar</form>
+       „Nase“, 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">nares</form>
+      .
+
+    </cognates>
+     Ableitungen von 
+    <etymon lang="Lat">NARIS</etymon>
+    , die „Nase“ bedeuten, führt Zauner: Körperteile 359 an. Ein Übergang in die I Deklination findet sich auch im 
+    <form lang="oc-N">narro, narra?</form>
+    . 
+    <!-- Interpretation needed for N.-Pry. -> oc-N -->
+    
+  </etymology>
+  
+</entry>

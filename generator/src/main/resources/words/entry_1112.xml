@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1112">
+  
+  <lemma>muci</lemma>
+  
+  <!-- Assuming mate -> muci -->
+  
+  <pos>sm. pl?</pos>
+   
+  <!-- Assuming sf? pl based on usage -->
+  
+  <variants>[ar. mgl. —]</variants>
+  
+  <definition>„Rotz (meist die Mehrzahl muci?), Lichtschnuppe, Zigarrenstumpf, etc.“</definition>
+   
+  <!-- Assuming mer -> muci? -->
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, S. 107-111">
+    
+    <etymon lang="Lat">MUCUS, -UM</etymon>
+     oder 
+    <etymon lang="Lat">MUCCUS, -UM</etymon>
+    : 
+    <!-- Assuming micus -> MUCUS, MÜccus -> MUCCUS -->
+    
+    <cognates>
+      
+      <form lang="sq">myk</form>
+       „Schimmel“, 
+      <!-- Interpretation needed for mük -->
+      
+      <form lang="it">moccolo</form>
+      ,
+
+      <form lang="it-SIC">muccu?</form>
+      , 
+      <form lang="sc">muccu?</form>
+      , 
+      <!-- Interpretation needed for sic. sard. mukku -->
+      
+      <form lang="roh-ENG">muc?</form>
+      , 
+      <!-- Interpretation needed for muok' -->
+      
+      <form lang="oc">mòc?</form>
+      , 
+      <!-- Interpretation needed for pr. nıoc -->
+      
+      <form lang="fro">moche</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="ca">moc</form>
+      , 
+      <!-- Interpretation needed for moch -->
+      
+      <form lang="es">moco</form>
+      ,
+
+      <form lang="pt">monco?</form>
+      . 
+      <!-- Interpretation needed for mionco -->
+      
+    </cognates>
+     Über die verschiedenen Bedeutungen u. Ableitungen dieses Wortes vgl. 
+    <reference type="bibliographic">Verfassers: Lat. Ti u. Ki, S. 107—111</reference>
+    , wo auch zahlreiche Formen aus ital. Dialekten angeführt werden.
+
+  </etymology>
+  
+</entry>

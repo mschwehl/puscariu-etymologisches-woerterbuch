@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="983">
+  
+  <lemma>lînos</lemma>
+  
+  <!-- Assuming Tinds -> lînos -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. lînos?, mgl. lînos?]</variants>
+  
+  <!-- Interpretation needed for linos, länos -->
+  
+  <definition>„wollig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LANOSUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming na-NOSUS -> LANOSUS -->
+    
+    <cognates>
+      
+      <form lang="it">lanoso</form>
+      , 
+      <form lang="es">lanoso</form>
+      , 
+      <form lang="pt">lanoso</form>
+      ,
+
+      <form lang="fr">laineux</form>
+      , 
+      <!-- Assuming laineur -> laineux -->
+      
+      <form lang="ca">llanós</form>
+      . 
+      <!-- Assuming cat. llanos -> llanós -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

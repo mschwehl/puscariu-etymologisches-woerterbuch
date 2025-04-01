@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1083">
+  
+  <lemma>mîne</lemma>
+   
+  <!-- Assuming mine -> mîne -->
+  
+  <lemma_variants>(mîine)</lemma_variants>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. mîne?, mgl. mîne?, ir. mîne?]</variants>
+  
+  <!-- Interpretation needed for mâne -> mîne?, moini -> mîne?, märe -> mîne? -->
+  
+  <definition>„morgen“</definition>
+  
+  <etymology source="Conv. lit. XXXVIII, 2014">
+    
+    <etymon lang="Lat">MANE</etymon>
+     (im Rom. „Morgen“:
+
+    <cognates>
+      
+      <form lang="it">mane</form>
+      ,
+
+      <form lang="oc">man</form>
+      , 
+      <!-- Assuming pv. mafn -> man -->
+      
+      <form lang="fr">main</form>
+      ,
+
+    </cognates>
+     dagegen entspricht dem 
+    <etymon lang="Lat">*DE MANE</etymon>
+     „morgen“:
+
+    <cognates>
+      
+      <form lang="it">dimani, domani</form>
+      ,
+
+      <form lang="oc">daman</form>
+      , 
+      <!-- Assuming pv. damafn) -> daman -->
+      
+      <form lang="fr">demain</form>
+      ,
+
+      <form lang="ca">demà</form>
+      , 
+      <!-- Assuming cat. dema -> demà -->
+      
+    </cognates>
+     im Rum. die Ableitung 
+    <form>dimineață</form>
+     sf. „Morgen“ [ar. 
+    <form lang="ro-AR">dimineață?</form>
+    , 
+    <form lang="ro-AR">dumineață?</form>
+    , mgl. 
+    <form lang="ro-MG">dimineață?</form>
+    , ir. 
+    <form lang="ro-IR">dimineață?</form>
+    , 
+    <form lang="ro-IR">dumineață?</form>
+    ] vgl. 
+    <source_ref>Conv. lit. XXXVIII, 2014</source_ref>
+    ). 
+    <!-- Interpretation needed for dim(i)neatsa -> dimineață?, dumneatsä -> dumineață?, dim(i)netsä -> dimineață?, demaretse -> dimineață?, domeretse -> dumineață? -->
+    
+  </etymology>
+  
+</entry>

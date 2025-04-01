@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="798">
+   
+  <!-- Assuming i 198 -> 798 -->
+  
+  <lemma>in</lemma>
+  
+  <!-- Assuming im -> in -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. ir. in]</variants>
+  
+  <!-- Assuming fin -> in -->
+  
+  <definition>„Lein“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LINUM</etymon>
+    : 
+    <!-- Assuming raxeu -> LINUM -->
+    
+    <cognates>
+      
+      <form lang="sq">li</form>
+      , 
+      <!-- Assuming A -> li -->
+      
+      <form lang="it">lino</form>
+      ,
+
+      <form lang="es">lino</form>
+      ,
+
+      <form lang="roh-ENG">lin</form>
+      , 
+      <!-- Assuming Fin -> lin -->
+      
+      <form lang="oc">lin</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">lin</form>
+      ,
+
+      <form lang="ca">lli</form>
+      , 
+      <!-- Assuming li -> lli -->
+      
+      <form lang="pt">linho</form>
+      . 
+      <!-- Assuming pe. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

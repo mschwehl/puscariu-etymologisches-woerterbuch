@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="993">
+  
+  <lemma>lume</lemma>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. ir. =, mgl. lume?]</variants>
+  
+  <!-- Interpretation needed for m, lumi -> lume? -->
+  
+  <definition>„Welt“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUMEN</etymon>
+     „Licht“:
+
+    <cognates>
+      
+      <form lang="it">lume</form>
+      , 
+      <form lang="oc">lume</form>
+      , 
+      <form lang="pt">lume</form>
+      , 
+      <!-- Assuming pv. pg. -> oc, pt -->
+      
+      <form lang="frp-DAUP?">lüm?</form>
+      , 
+      <form lang="frp-WALD">lüm?</form>
+      , 
+      <!-- Interpretation needed for dauph. wald. lüme -->
+      
+      <form lang="ca">llum?</form>
+      , 
+      <!-- Interpretation needed for dlui -->
+      
+      <form lang="es">lumbre</form>
+      .
+
+    </cognates>
+     — Für den Sinnesübergang vgl. 
+    <form>mândră?</form>
+    . 
+    <!-- Interpretation needed for mundä -> mândră? -->
+    
+  </etymology>
+  
+</entry>

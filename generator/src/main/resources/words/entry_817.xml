@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="817">
+  
+  <lemma>încheg</lemma>
+  
+  <!-- Assuming înehi€g -> încheg -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. încheg?, mgl. încheg?]</variants>
+  
+  <!-- Interpretation needed for neleg -> încheg?, angleg -> încheg? -->
+  
+  <definition>„gerinnen (machen)“</definition>
+   
+  <!-- Assuming geriunen -> gerinnen -->
+  
+  <etymology source="Dens. H. l. r. 90; C. I. L. XIV, 2605">
+    
+    <etymon lang="Lat">*CLAGO, -ARE</etymon>
+     (metathesiert aus 
+    <etymon lang="Lat">*CAGLARE</etymon>
+    : 
+    <!-- Assuming <FCLAGO -> *CLAGO -->
+    
+    <cognates>
+      
+      <form lang="it">cagliare</form>
+      ,
+
+      <form lang="sc-L">cagiare?</form>
+      , 
+      <!-- Interpretation needed for kadzare -->
+      
+      <form lang="sc-C">callai?</form>
+      , 
+      <!-- Interpretation needed for callăi -->
+      
+      <form lang="fr">cailler</form>
+      ,
+
+      <form lang="es">cuajar?</form>
+      , 
+      <!-- Interpretation needed for cajar -->
+      
+    </cognates>
+     statt 
+    <etymon lang="Lat">COAGULARE</etymon>
+     Dens. H. l. r. 90: 
+    <!-- Assuming QuAGLarE -> COAGULARE -->
+    
+    <cognates>
+      
+      <form lang="roh-ENG">encuajar?</form>
+      , 
+      <!-- Interpretation needed for enqualer -->
+      
+      <form lang="es">cuajar</form>
+      ,
+
+      <form lang="pt">coalhar</form>
+       = 
+      <etymon lang="Lat">COAGULARE</etymon>
+       C. I. L. XIV, 2605 = 
+      <etymon lang="Lat">COAGULARE?</etymon>
+      ): 
+      <!-- Assuming coaciranE -> COAGULARE? -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="sc-L">coagulare?</form>
+      . 
+      <!-- Interpretation needed for diagare -->
+      
+    </cognates>
+     Vgl. 
+    <form>chiag</form>
+    . 
+    <!-- Assuming Vel. -> Vgl. -->
+    
+  </etymology>
+  
+</entry>

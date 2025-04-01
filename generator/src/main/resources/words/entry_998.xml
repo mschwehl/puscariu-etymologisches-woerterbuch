@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="998">
+  
+  <lemma>lung</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. lungu, mgl. ir. =]</variants>
+  
+  <!-- Interpretation needed for > -> = -->
+  
+  <definition>„lang“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LONGUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming Croxaus -> LONGUS -->
+    
+    <cognates>
+      
+      <form lang="it">lungo</form>
+      , 
+      <!-- Assuming ltngo -> lungo -->
+      
+      <form lang="sc">longu</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="lmo-VALM?">ling?</form>
+      , 
+      <!-- Interpretation needed for valm. -->
+      
+      <form lang="lmo-OSS?">leng?</form>
+      , 
+      <!-- Interpretation needed for ossol. -->
+      
+      <form lang="fur">lung</form>
+      , 
+      <form lang="roh-ENG">lung</form>
+      ,
+
+      <form lang="oc">lonc</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">long</form>
+      ,
+
+      <form lang="es">luengo</form>
+      ,
+
+      <form lang="pt">longo</form>
+      . 
+      <!-- Assuming pa. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

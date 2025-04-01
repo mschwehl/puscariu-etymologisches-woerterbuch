@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1148">
+  
+  <lemma>muț</lemma>
+  
+  <scope>ar.</scope>
+  
+  <pos>sm.</pos>
+  
+  <feminine>muță</feminine>
+  
+  <!-- Assuming mittsä -> muță -->
+  
+  <reference type="see">
+    s. 
+    <targetLemma>muț (1146)</targetLemma>
+    .
+  </reference>
+  
+  <!-- Assuming mut -> muț -->
+  
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1115">
+  
+  <lemma>mucegai</lemma>
+  
+  <!-- Assuming mueigaiü -> mucegai -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Schimmel“</definition>
+  
+  <etymology source="Zeitschrift rom. Phil. XXVIII, 617">
+    
+    <etymon lang="Lat">*MUCILICARE?</etymon>
+     (
+    <etymon lang="Lat">MUCILAGUS?</etymon>
+     für 
+    <etymon lang="Lat">-AGUS?</etymon>
+     vgl. Zeitschrift rom. Phil. XXVIII, 617): 
+    <!-- Assuming *nuuelelicanıa -> *MUCILICARE?, nuc[elicus -> MUCILAGUS?, -ivus -> -AGUS? -->
+    
+    <cognates>
+      
+      <form lang="it">moccicaia?</form>
+       „schleimige Substanz” (vgl. 
+      <form lang="it">moccicaia</form>
+      , 
+      <form lang="it-NAP">ammoccekkire?</form>
+       neben 
+      <form lang="it-NAP">ammolsetire?</form>
+      ). 
+      <!-- Interpretation needed for mocetcaylia -> moccicaia?, ammotsekkire, ammolsetire -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

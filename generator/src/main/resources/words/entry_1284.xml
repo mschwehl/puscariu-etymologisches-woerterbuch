@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1284">
+  
+  <lemma>păstor</lemma>
+  
+  <variants>[ir. păstor?]</variants>
+  
+  <!-- Interpretation needed for pastör -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Hirt“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PASTORIUS, -UM</etymon>
+     (mit dem bekannten rum. Suffixwechsel für 
+    <etymon lang="Lat">PASTOR, -OREM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">pastore</form>
+      ,
+
+      <form lang="oc">pastre</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">pâtre</form>
+      , 
+      <!-- Assuming pätre -> pâtre -->
+      
+      <form lang="es">pastor</form>
+      , 
+      <form lang="pt">pastor</form>
+       
+      <!-- Assuming sp. pg. -> es, pt -->
+      
+    </cognates>
+    ).
+
+  </etymology>
+  
+  <variants>[ar. păcurar?, picular?].</variants>
+  
+  <!-- Interpretation needed for picuvâr -> păcurar?, piculăr -> picular? -->
+  
+</entry>

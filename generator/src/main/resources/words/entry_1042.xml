@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1042">
+  
+  <lemma>mesélar?</lemma>
+  
+  <!-- Assuming mesălâ» -> mesélar? -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„August“</definition>
+  
+  <etymology source="Murat. ant. it. VI, 711, 724, 747">
+    scheint eine Ableitung von 
+    <etymon lang="Lat">MESSIS, -EM</etymon>
+     „Ernte“ zu sein, 
+    <!-- Assuming Abteilung -> Ableitung, aössıs -> MESSIS -->
+     vgl. 
+    <form lang="it-LCC?">miessi?</form>
+     „luglio“; 
+    <example lang="it-NAP-OLD">julo messoro</example>
+     „Juli“ in einer a.-neap. Chronik, 
+    <source_ref>Murat. ant. it. VI, 711. 724. 747</source_ref>
+    . 
+    <!-- Interpretation needed for lcent. miessi -->
+    
+  </etymology>
+  
+  <variants>[ar. avgustu].</variants>
+  
+</entry>

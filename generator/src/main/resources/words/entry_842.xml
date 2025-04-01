@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="842">
+  
+  <lemma>înfloresc</lemma>
+  
+  <!-- Assuming inflorese -> înfloresc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. înflorescu?]</variants>
+  
+  <!-- Interpretation needed for mfloreseu -->
+  
+  <definition>„anfangen zu blühen“</definition>
+  
+  <etymology source="Dens. H. l. r. 147">
+    
+    <etymon lang="Lat">IN-FLORESCO, -ERE?</etymon>
+     (= 
+    <etymon lang="Lat">INFLORESCERE</etymon>
+    : 
+    <!-- Assuming C IN-PLORESCO, -\"IRE -> IN-FLORESCO, -ERE? -->
+    
+    <cognates>
+      
+      <form lang="es">florecer</form>
+      ,
+
+      <form lang="pt">florescer, chorrecer?</form>
+       
+      <!-- Interpretation needed for florecer, cho-recer -->
+      
+    </cognates>
+     + 
+    <etymon lang="Lat">FLORIRE</etymon>
+     Dens. H. l. r. 147:
+
+    <cognates>
+      
+      <form lang="it">fiorire</form>
+      ,
+
+      <form lang="roh-ENG">florir?</form>
+      , 
+      <!-- Interpretation needed for flurir -->
+      
+      <form lang="oc">florir</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">fleurir</form>
+      .
+
+    </cognates>
+    )
+
+  </etymology>
+  
+  <variants>[ar. P. unbekannt].</variants>
+  
+</entry>

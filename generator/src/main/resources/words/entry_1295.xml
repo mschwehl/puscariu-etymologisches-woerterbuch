@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1295">
+  
+  <lemma>peculiu</lemma>
+  
+  <!-- Assuming pieil'ü -> peculiu -->
+  
+  <scope>ar.</scope>
+  
+  <pos>sm.</pos>
+  
+  <definition>„für's Alter zurückgelegtes Geld“</definition>
+   
+  <!-- Assuming zurückgeleotes -> zurückgelegtes -->
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 685">
+    
+    <etymon lang="Lat">PECULIUM</etymon>
+     (vgl. span. 
+    <form lang="es">pegujal</form>
+     „Vermögen“). Aus dem Rum. und nicht aus kslav. 
+    <etymon lang="chu">peka</etymon>
+     „sorgen“, stammt alb. 
+    <form lang="sq">pekul?</form>
+     „Sorge“. 
+    <reference type="bibliographic">Zeitschr. rom. Phil. XXVIII, 685.</reference>
+    
+  </etymology>
+  
+</entry>

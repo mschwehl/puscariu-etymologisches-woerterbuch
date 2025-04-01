@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1031">
+  
+  <lemma>márgine</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. márgine?, márgine? W., mgl. margini?]</variants>
+  
+  <!-- Interpretation needed for mardzine -> márgine?, mardzină -> márgine?, mar(d)zini -> margini? -->
+  
+  <definition>„Rand“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MARGO, -INEM</etymon>
+    : 
+    <!-- Assuming -IxEM -> -INEM -->
+    
+    <cognates>
+      
+      <form lang="it">margine</form>
+      ,
+
+      <form lang="oc">marge</form>
+      , 
+      <form lang="fr">marge</form>
+      , 
+      <form lang="ca">marge</form>
+      , 
+      <!-- Assuming pv. frz. cat. -> oc, fr, ca -->
+      
+      <form lang="es">margen</form>
+      ,
+
+      <form lang="pt">margem</form>
+      . 
+      <!-- Assuming Pe. margent -> pt margem -->
+      
+    </cognates>
+     — Ar. 
+    <example lang="ro-AR">tu márgine?</example>
+     adv. „endlich“. 
+    <!-- Interpretation needed for tu mardzine -> tu márgine? -->
+    
+  </etymology>
+  
+</entry>

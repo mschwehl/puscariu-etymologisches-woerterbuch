@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="681">
+  
+  <lemma>furnic</lemma>
+   
+  <!-- Assuming furnic -> furnic (verb stem) -->
+  
+  <verb_class>I</verb_class>
+   
+  <!-- Assuming I from -ARE -->
+  
+  <pos>vb.</pos>
+  
+  <definition>„wimmeln“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FORMICO, -ARE</etymon>
+    : 
+    <!-- Assuming *roryico -> *FORMICO -->
+    
+    <cognates>
+      
+      <form lang="it">formicare</form>
+      ,
+
+      <form lang="fro">formier</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="fr">fourmiller</form>
+      , 
+      <!-- Assuming n.-frz. fowrmiller -> fourmiller -->
+      
+      <form lang="es">hormigar</form>
+      ,
+
+      <form lang="pt">formigar</form>
+      . 
+      <!-- Assuming po. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

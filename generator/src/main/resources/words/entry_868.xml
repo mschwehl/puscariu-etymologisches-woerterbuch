@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="868">
+  
+  <lemma>înot</lemma>
+  
+  <!-- Assuming indt -> înot -->
+  
+  <lemma_variants>(înnot)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (a)not]</variants>
+  
+  <definition>„schwimmen“</definition>
+  
+  <etymology source="Dens. H. l. r. 89">
+    
+    <etymon lang="Lat">*NO, -ARE</etymon>
+     (statt 
+    <etymon lang="Lat">NARE</etymon>
+    : 
+    <!-- Assuming *x010 -> *NO -->
+    
+    <cognates>
+      
+      <form lang="it-CER">natà</form>
+      , 
+      <!-- Interpretation needed for cerign. natä -->
+      
+      <form lang="it-ALA?">natà?</form>
+      , 
+      <!-- Interpretation needed for alatri natd -->
+      
+      <form lang="sc">nadare</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="fur">nadà</form>
+      , 
+      <!-- Interpretation needed for frl, nadä -->
+      
+      <form lang="es">nadar</form>
+      ,
+
+      <form lang="pt">nadar</form>
+      .
+
+    </cognates>
+     
+    <etymon lang="Lat">*NO</etymon>
+    , Belege bei Dens. H. l. r. 89, ist wohl durch eine Kreuzung von 
+    <etymon lang="Lat">NATO + NO</etymon>
+     entstanden):
+
+    <cognates>
+      
+      <form lang="sq">notoj</form>
+      , 
+      <!-- Interpretation needed for noton -->
+      
+      <form lang="it">nuotare</form>
+      ,
+
+      <form lang="roh-OBW">nudar</form>
+      , 
+      <!-- Interpretation needed for obw. nuda -->
+      
+      <form lang="oc">nodar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">noer</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. auch împlutescu?].</variants>
+  
+  <!-- Interpretation needed for mplätescu -->
+  
+</entry>

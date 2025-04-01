@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1053">
+  
+  <lemma>mătură</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mătură?, mătur? W., mgl. mătură?, mătură?, ir. mătură? auch: „Bürste“]</variants>
+  
+  <!-- Interpretation needed for meturd -> mătură?, metoru -> mătur?, meturd -> mătură?, mie-tură -> mătură?, meture -> mătură? -->
+  
+  <definition>„Besen</definition>
+  
+  <etymology source="Candrea-Hecht: Les éléments latins, S. 28; Miklosich Beiträge, Cons. I, 49">
+    
+    <etymon lang="Lat">*MATTULA, -AM?</etymon>
+    : 
+    <!-- Assuming (uRtürna, -au -> *MATTULA, -AM? -->
+    
+    <cognates>
+      
+      <form lang="pms-CAN?">meia?, meja?</form>
+      , 
+      <!-- Interpretation needed for canav, nelja, meja -->
+      vgl. 
+      <form lang="it-BRE?">mecol?</form>
+       „Garben“, 
+      <!-- Interpretation needed for brese. mecol -->
+       vgl. 
+      <reference type="bibliographic">Candrea-Hecht: Les éléments latins, S. 28.</reference>
+      
+    </cognates>
+     Die ursprüngliche Bedeutung mag „kleiner Büschel von Blumen, von Heu“ gewesen sein; noch heute dient ein solcher in vielen Orten als Besen. Ganz unhaltbar ist Miklosichs Etymologie aus k.-slav. 
+    <etymon lang="chu">metla</etymon>
+     (
+    <reference type="bibliographic">Beiträge, Cons. I, 49</reference>
+    ). — Davon 
+    <form>mătur</form>
+     I vb. [mgl. 
+    <form lang="ro-MG">(iz)mătur?</form>
+    ] „fegen“. 
+    <!-- Interpretation needed for mäter -> mătur, (iz)metur -> (iz)mătur?, tegen -> fegen -->
+    
+  </etymology>
+  
+</entry>

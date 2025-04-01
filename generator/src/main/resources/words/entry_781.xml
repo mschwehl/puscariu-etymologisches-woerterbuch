@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="781">
+  
+  <lemma>îmbuc</lemma>
+  
+  <!-- Assuming îmbăe -> îmbuc -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„mit dem Mund fassen“</definition>
+  
+  <variants>[ar. îmbuc? „hineinbeißen“ W.]</variants>
+  
+  <!-- Interpretation needed for zubuc -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IN-BUCCO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">BUCCA</etymon>
+    ): 
+    <!-- Assuming *ıu- -BVcco -> *IN-BUCCO -->
+    
+    <cognates>
+      
+      <form lang="it">imboccare</form>
+      ,
+
+      <form lang="roh-ENG">îmbucar?</form>
+      , 
+      <!-- Interpretation needed for ünbuk’er -->
+      
+      <form lang="fr">emboucher</form>
+      ,
+
+      <form lang="es">embocar</form>
+      ,
+
+      <form lang="pt">embocar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. P. unbekannt].</variants>
+  
+</entry>

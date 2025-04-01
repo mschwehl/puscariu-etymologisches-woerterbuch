@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1216">
+  
+  <lemma>oaste</lemma>
+  
+  <!-- Assuming odste -> oaste -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, mgl. oaste?, ir. oaste?]</variants>
+  
+  <!-- Interpretation needed for », osti, oste -->
+  
+  <definition>„Heer“</definition>
+  
+  <etymology source="Curtius 3, 1, 1; Meyer-Lübke: Rom. Gramm. III, § 20, II, § 377">
+    
+    <etymon lang="Lat">HOSTIS, -EM</etymon>
+     (zuerst als Kollektivbegriff in der Einzahl gebraucht, wie 
+    <etymon lang="Lat">MILES</etymon>
+     in: 
+    <example lang="la">ad conducendum ex Peloponneso militem Cleandro</example>
+    , Curtius 3, 1, 1., bedeutete 
+    <etymon lang="Lat">HOSTIS</etymon>
+     wohl „die Feinde“, dann „die feindlichen Heere“, endlich „den Feind“ und in dieser Verwendung ist das Wort im Mittelalter, wie noch heute im Rum., vorwiegend weiblich. 
+    <reference type="bibliographic">Meyer-Lübke: Rom. Gramm. III, § 20, II, § 377</reference>
+    ):
+
+    <cognates>
+      (
+      <form lang="sq">ushtëri?</form>
+       „Heerhaufe‘“), 
+      <!-- Interpretation needed for ust-eri -->
+      
+      <form lang="it">oste</form>
+      ,
+
+      <form lang="oc">ost</form>
+      , 
+      <form lang="fro">ost</form>
+      , 
+      <!-- Assuming pv. a.-frz. -> oc, fro -->
+      
+      <form lang="es">hueste</form>
+      ,
+
+      <form lang="pt">hoste</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

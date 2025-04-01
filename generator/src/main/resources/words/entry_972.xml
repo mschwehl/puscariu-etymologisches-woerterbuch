@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="972">
+  
+  <lemma>limpede</lemma>
+  
+  <pos>adj. adv.</pos>
+  
+  <variants>[ar. limped?, limpid?]</variants>
+  
+  <!-- Interpretation needed for limbit, limbid -->
+  
+  <definition>„klar“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LIMPIDUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming uYsıpiovs -> LIMPIDUS -->
+    
+    <cognates>
+      
+      <form lang="lmo-MIL">lamped?</form>
+      , 
+      <!-- Interpretation needed for lamped -->
+      
+      <form lang="vec">lampido?</form>
+      , 
+      <!-- Interpretation needed for lampido -->
+      
+      <form lang="fur">limpi?</form>
+      , 
+      <!-- Interpretation needed for limpi -->
+      
+      <form lang="sc">limpiu</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="es">limpio</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

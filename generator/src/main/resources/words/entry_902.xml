@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="902">
+  
+  <lemma>înviorez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <reference type="see">
+    s. 
+    <targetLemma>vioară</targetLemma>
+    .
+  </reference>
+  
+  <!-- Assuming vioară ll -> s. vioară -->
+  
+</entry>

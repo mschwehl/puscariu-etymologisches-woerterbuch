@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1182">
+  
+  <lemma>ninez?</lemma>
+  
+  <!-- Assuming miner -> ninez? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage_note>(in Bihor, Luceaf. III, 335)</usage_note>
+  
+  <definition>„verhätscheln“</definition>
+  
+  <etymology source="Conv. lit. XX, 1014">
+    
+    <etymon lang="Lat">*NINNINO, -ARE?</etymon>
+     (vgl. 
+    <form>ninenat</form>
+     „verhätschelt“ 
+    <source_ref>Conv. lit. XX, 1014</source_ref>
+    ) vom 
+    <etymon lang="Lat">*NINNO, -ARE</etymon>
+     „wiegen“ (vgl. 
+    <form>anin</form>
+    ) der Kinderstube. 
+    <!-- Assuming CE NINNINO -> *NINNINO? -->
+    
+  </etymology>
+  
+  <variants>[ar. diznerd?].</variants>
+  
+  <!-- Interpretation needed for diznerdu -->
+  
+</entry>

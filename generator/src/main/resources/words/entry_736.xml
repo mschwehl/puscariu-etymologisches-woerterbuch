@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="736">
+   
+  <!-- Assuming 736 -->
+  
+  <lemma>greutate</lemma>
+  
+  <!-- Assuming greutäte -> greutate -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Last“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*GREVITAS, -TATEM</etymon>
+     (
+    <etymon lang="Lat">GRAVITAS</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="fro">griété?</form>
+      . 
+      <!-- Interpretation needed for griet£ -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. greață?].</variants>
+  
+  <!-- Assuming greatsă -> greață? -->
+  
+</entry>

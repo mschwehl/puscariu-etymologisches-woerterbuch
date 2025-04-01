@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1239">
+  
+  <lemma>păducel</lemma>
+  
+  <!-- Assuming peducet -> păducel -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„kleine Laus; Hagedorn“</definition>
+  , 
+  <form>păduchei?</form>
+   Pl. tant. sm, „Frostbeule‘“ (so genannt wegen des Juckens der F.) 
+  <!-- Interpretation needed for păducâi -> păduchei? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PEDUCELLUS, -UM</etymon>
+     (für 
+    <etymon lang="Lat">PEDICULUS</etymon>
+    ). 
+    <!-- Assuming *pepVCELLUS -> *PEDUCELLUS, vepiciLus -> PEDICULUS -->
+    
+  </etymology>
+  
+  <variants>[ar. păduchel? „kleine Laus].</variants>
+  
+  <!-- Interpretation needed for piductus -> păduchel? -->
+  
+</entry>

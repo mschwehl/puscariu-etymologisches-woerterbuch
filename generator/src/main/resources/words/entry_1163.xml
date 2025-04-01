@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1163">
+  
+  <lemma>neghină</lemma>
+  
+  <!-- Assuming neghind -> neghină -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[mgl. nighilină?]</variants>
+  
+  <!-- Interpretation needed for miglină -->
+  
+  <definition>„Getreidebrand“</definition>
+  
+  <etymology source="Conv. lit. XXXIX, 71">
+    
+    <etymon lang="Lat">*NIGELLINA, -AM?</etymon>
+     (von 
+    <etymon lang="Lat">NIGELLA</etymon>
+     „schwarz“: 
+    <!-- Assuming *nte[x]u-LINA -> *NIGELLINA -->
+    
+    <cognates>
+      
+      <form lang="it">nigella</form>
+      , 
+      <form lang="pt">nigella</form>
+      , 
+      <!-- Assuming pg. -> pt -->
+      
+      <form lang="oc">niela</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">nielle</form>
+       „Getreidebrand“
+
+    </cognates>
+    ). 
+    <reference type="bibliographic">Conv. lit. XXXIX, 71.</reference>
+    
+  </etymology>
+  
+  <variants>[ar. Caneală?].</variants>
+  
+  <!-- Interpretation needed for Kaneol -> Caneală? -->
+  
+</entry>

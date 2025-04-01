@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1324">
+  
+  <lemma>pis</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. =, mgl. pis?, ir. pis?]</variants>
+  
+  <!-- Interpretation needed for mi Pisi -> =, pi8 -> pis? -->
+  
+  <definition>„pissen“</definition>
+  ,
+
+  <etymology source="Meyer-Lübke: Rom. Gramm. I, § 24, Einführung § 66">
+    gehört zu dem etymologisch ungeklärten, wahrscheinlich lautnachahmenden (vgl. Meyer-Lübke: Rom. Gramm. I, § 24, Einführung § 66) 
+    <etymon lang="Lat">*PISSIO, -ARE?</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">pisciare</form>
+      ,
+
+      <form lang="roh-ENG">pischar?</form>
+      , 
+      <!-- Interpretation needed for piser -->
+      
+      <form lang="oc">pissar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">pissier</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="fr">pisser</form>
+      (vgl. 
+      <form lang="es">pija</form>
+       „männliches Glied‘), auch 
+      <form lang="sr">pišati</form>
+      , 
+      <form lang="hr">pišati</form>
+      . 
+      <!-- Assuming srb. kroat. -> sr, hr -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

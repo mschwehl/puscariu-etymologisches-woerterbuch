@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1156">
+  
+  <lemma>nasture</lemma>
+  
+  <!-- Assuming nästur -> nasture -->
+  
+  <lemma_variants>(nasture)</lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Knopf“</definition>
+  
+  <variants>[ar. nastur, nasture, „Knoten, Spange, Schnalle, Festnadel, Knopf“, olympo-wal. nastur].</variants>
+  
+  <etymology source="Lork: Altbergam. Sprachdenkmäler 171; Meyer-Lübke: Rom. Gramm. II, § 430; Georges">
+    Etymologie ungewiß. Jedenfalls kann das Wort nicht germanischen Ursprungs sein (wie dies für 
+    <form lang="lmo-BER">nestola</form>
+    , 
+    <form lang="it-BRE?">nistola</form>
+     der Fall zu sein scheint, 
+    <!-- Interpretation needed for brese. -->
+     vgl. Lork: Altbergam. Spracbdenkmäler 171). Wenn es nicht als Kulturausdruck aus dem Ital. stammt, so kann es wie 
+    <form lang="it">nastro</form>
+    , 
+    <form lang="lmo-COM">nastola</form>
+    , 
+    <form lang="it-PAV?">nastol?</form>
+    , 
+    <form lang="wa">nâle?</form>
+     aus 
+    <etymon lang="Lat">*NASTULUM?</etymon>
+     stammen. 
+    <!-- Interpretation needed for pav. nastol -> nastol?, wall. nâle -> nâle?, *NASTÜLUN -> *NASTULUM? -->
+     Die Unregelmäßigkeiten würden sich dann folgendermaßen erklären: Ein Diminut. von 
+    <etymon lang="Lat">NASSA</etymon>
+     „Schlinge“ hätte 
+    <etymon lang="Lat">*NASSULA</etymon>
+     oder 
+    <etymon lang="Lat">*NASSULUM</etymon>
+     gelautet, woraus, wie die von Meyer-Lübke: Rom. Gramm. II, § 430 besprochenen Fälle, 
+    <etymon lang="Lat">*NASCLA?</etymon>
+     bzw. 
+    <etymon lang="Lat">*NASCULUM?</etymon>
+    . Nun konnte die Sprache der Schriftkundigen, für welche das vulgäre 
+    <etymon lang="Lat">*PUSTULA</etymon>
+     korrekt 
+    <etymon lang="Lat">PUSTULA</etymon>
+     lautete, auch 
+    <etymon lang="Lat">*NASCLA</etymon>
+     bzw. 
+    <etymon lang="Lat">*NASCULUM</etymon>
+     zu 
+    <etymon lang="Lat">*NASTULA</etymon>
+     bzw. 
+    <etymon lang="Lat">*NASTULUM</etymon>
+     umwandeln, woraus rum. 
+    <form>nasture</form>
+    . 
+    <!-- Assuming *nass[ül.a -> *NASSULA, *nass[ülLum -> *NASSULUM, *wasca -> *NASCLA?, *nascıv -> *NASCULUM?, *puscoLa -> *PUSTULA -->
+     Nimmt man aber an, daß das Wort als Kulturausdruck nur den höheren Klassen angehörte, so erklärt sich auch die ital. Unregelmäßigkeit. Als 
+    <etymon lang="Lat">*NASTULUM</etymon>
+     wieder in die Volkssprache drang, so wurde die diesem ungeläufige Gruppe tl zu tr verwandelt. Allerdings bleibt dabei noch der Bedeutungswandel zu erklären. Als „kleine Schlinge“ konnte speziell die Schlinge zum Anknöpfen eines Kleides bezeichnet werden, wie noch heute im Arom., woraus einerseits „Band“ (ital.), andererseits „Knopf“ (rum.). Fraglich bleibt aber, ob der Sinn „Schlinge“, den Georges für 
+    <etymon lang="Lat">NASSA</etymon>
+     angibt, wirklich neben der Grundbedeutung „Fischreuse“ im Lat. existiert hat.
+
+  </etymology>
+  
+</entry>

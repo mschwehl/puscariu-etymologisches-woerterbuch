@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1227">
+  
+  <lemma>osăminte</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Gebein‘‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">OSSAMENTA</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">ossamenta</form>
+      , 
+      <form lang="sc">ossamenta</form>
+      , 
+      <form lang="pt">ossamenta</form>
+      , 
+      <!-- Assuming sard. pg. -> sc, pt -->
+      
+      <form lang="pms">ossamenta</form>
+      , 
+      <form lang="es">osamenta</form>
+      , 
+      <!-- Assuming piem. sp. -> pms, es -->
+      
+      <form lang="fro">ossemente</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

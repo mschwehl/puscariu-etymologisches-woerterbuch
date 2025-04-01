@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="852">
+  
+  <lemma>îngheț</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. îngleț?, mgl. (a)ngleț?, ir. îngheț?]</variants>
+  
+  <!-- Interpretation needed for nglets(#) -> îngleț?, mal. -> mgl., (a)nglets -> (a)ngleț?, änglots -> îngheț? -->
+  
+  <definition>„zu Eis werden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GLACIO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">ghiacciare</form>
+      ,
+
+      <form lang="it-CAL">ghiacciare?</form>
+       „schneien“, 
+      <!-- Interpretation needed for jatssare -->
+      
+      <form lang="it-LAN?">ghiaccà?</form>
+      , 
+      <!-- Interpretation needed for lanc. zatssd -->
+      
+      <form lang="lij-GEA">ghiaccà?</form>
+      , 
+      <!-- Interpretation needed for a..gen. diagd -->
+      
+      <form lang="vec-TRI">giazzar?</form>
+      , 
+      <!-- Interpretation needed for jatsär -->
+      
+      <form lang="fr">glacer</form>
+      ,
+
+      <form lang="gl">gear?</form>
+      . 
+      <!-- Interpretation needed for galiz. lazar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1030">
+  
+  <lemma>mărginea?</lemma>
+  
+  <!-- Assuming märdzeu@ -> mărginea? -->
+  
+  <scope>mgl.</scope>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Rand des Auges“</definition>
+  
+  <etymology>
+    scheint ein 
+    <etymon lang="Lat">*MARGELLA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">MARGO</etymon>
+    ) zu sein.
+
+  </etymology>
+  
+</entry>

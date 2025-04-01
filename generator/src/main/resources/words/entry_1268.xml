@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1268">
+  
+  <lemma>perete</lemma>
+  
+  <!-- Assuming pärete -> perete -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. perete]</variants>
+  
+  <definition>„Wand“</definition>
+  
+  <etymology source="C. I. L. VI, 3714">
+    
+    <etymon lang="Lat">PARIETEM</etymon>
+     (
+    <source_ref>C. I. L. VI, 3714</source_ref>
+     = 
+    <etymon lang="Lat">PARIES, -IETEM</etymon>
+    ): 
+    <!-- Assuming rareren -> PARIETEM -->
+    
+    <cognates>
+      
+      <form lang="vec">pare?</form>
+      , 
+      <!-- Interpretation needed for pare -->
+      
+      <form lang="vec-TRI">paredo?</form>
+      , 
+      <!-- Interpretation needed for triest. paredo -->
+      
+      <form lang="it-CER?">parete?</form>
+       (männlich, sonst weiblich:) 
+      <!-- Interpretation needed for cerign. pareite -->
+      
+      <form lang="it">parete</form>
+      ,
+
+      <form lang="roh-ENG">paràid?</form>
+      , 
+      <!-- Interpretation needed for parait -->
+      
+      <form lang="oc">paret</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">paroi</form>
+      ,
+
+      <form lang="es">pared</form>
+      ,
+
+      <form lang="pt">parede</form>
+      . 
+      <!-- Assuming pz. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. mur, tih?, stizmă?].</variants>
+  
+  <!-- Interpretation needed for tih, stizmä -->
+  
+</entry>

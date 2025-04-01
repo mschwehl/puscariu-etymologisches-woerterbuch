@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="655">
+  
+  <lemma>frîu</lemma>
+   
+  <!-- Assuming friu -> frîu -->
+  
+  <lemma_variants>(frîn?)</lemma_variants>
+   
+  <!-- Assuming frin -> frîn -->
+  
+  <pos>sm.</pos>
+  
+  <plural>frîuri</plural>
+  
+  <collective>frîne</collective>
+  
+  <variants>[ar. frînu?, fărnu?, mgl. frîn?]</variants>
+  
+  <!-- Assuming frănu -> frînu?, färnu -> fărnu?, fron -> frîn? -->
+  
+  <definition>„Zügel, Zaum“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FRENUM</etymon>
+    : 
+    <!-- Assuming rrenun -> FRENUM -->
+    
+    <cognates>
+      
+      <form lang="sq">fre</form>
+      ,
+
+      <form lang="it">freno</form>
+      ,
+
+      <form lang="es">freno</form>
+      , 
+      <!-- Assuming /reno -> freno -->
+      
+      <form lang="roh-ENG">frain</form>
+      ,
+
+      <form lang="fr">frein</form>
+      ,
+
+      <form lang="oc">fre</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">fre</form>
+      ,
+
+      <form lang="pt">freio</form>
+      . 
+      <!-- Assuming freo -> freio -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. uzde Plur. tant.].</variants>
+  
+</entry>

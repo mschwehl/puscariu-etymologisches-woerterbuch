@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1065">
+  
+  <lemma>mezin</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <!-- Assuming -c -> -ă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„mittler“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MEDIANUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming UA -> UM -->
+    
+    <cognates>
+      
+      <form lang="it">mezzano</form>
+      ,
+
+      <form lang="pms">miana?</form>
+       „la correggia che unisce i due bastoni del correggiato“, 
+      <!-- Interpretation needed for miana -->
+      
+      <form lang="fr">moyen</form>
+      , (vgl. deutsch 
+      <form lang="de">median</form>
+      ). 
+      <!-- Assuming meiden -> median -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. melgean?].</variants>
+  
+  <!-- Interpretation needed for mildzicän -->
+  
+</entry>

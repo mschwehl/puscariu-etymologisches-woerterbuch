@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1159">
+  
+  <lemma>natură</lemma>
+  
+  <!-- Assuming natura -> natură -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <definition>„Temperament“</definition>
+  
+  <etymology source="Jb. III, 322; Zeitschr. rom. Phil. XXVII, 742">
+    
+    <etymon lang="Lat">NATURA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="roh-UEG">natüra?</form>
+       „cognome?“, 
+      <!-- Interpretation needed for u.-eng. nadüra, conno -->
+      
+    </cognates>
+     Das Wort ist volkstümlich in Banat (
+    <source_ref>Jb. III, 322</source_ref>
+    ), dagegen ist schriftrum. 
+    <form>natură</form>
+     sf., wie die meisten rom. Entsprechungen, gelehrt. Über die Tonverschiebung vgl. 
+    <reference type="bibliographic">Zeitschr. rom. Phil. XXVII, 742.</reference>
+    
+  </etymology>
+  
+</entry>

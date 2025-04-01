@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="919">
+   
+  <!-- Assuming une -> 919? Based on sequence -->
+  
+  <lemma>junc</lemma>
+  
+  <!-- Assuming junc -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. giungu? W., mgl. junc?, ir. junc?]</variants>
+  
+  <!-- Interpretation needed for d£ungu -> giungu?, Zunk -> junc?, Zungul -> junc? -->
+  
+  <definition>„junger Ochs, junger Bär‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IUVENCUS, -UM</etymon>
+    : 
+    <!-- Assuming süvexcus, -ust -> IUVENCUS, -UM -->
+    
+    <cognates>
+      
+      <form lang="it">giovenco</form>
+      ,
+
+      <form lang="it-SIC">iencu?</form>
+      , 
+      <form lang="it-NAP">iencu?</form>
+      , 
+      <!-- Interpretation needed for jenku -->
+      
+      <form lang="it-LEC">sencu?</form>
+      , 
+      <!-- Interpretation needed for senku -->
+      
+      <form lang="lmo-LEV?">juvenc?</form>
+       „vitello di due anni“. 
+      <!-- Interpretation needed for levent. Zwenk’ -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. P. kennt nur bou?, bucă?].</variants>
+  
+  <!-- Interpretation needed for bie -> bou?, bugă -> bucă? -->
+  
+</entry>

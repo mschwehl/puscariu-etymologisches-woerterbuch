@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1004">
+  
+  <lemma>lustru</lemma>
+  
+  <!-- Assuming tasta -> lustru -->
+  
+  <pos>sm.</pos>
+  
+  <variants>
+    [ar. = 
+    <source_ref>Cod. Dim.</source_ref>
+    ]
+  </variants>
+  
+  <definition>„Glanz“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUSTRUM</etymon>
+    : 
+    <!-- Assuming risraum -> LUSTRUM -->
+    
+    <cognates>
+      
+      <form lang="it">lustro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. P. gîlițu?].</variants>
+  
+  <!-- Interpretation needed for yilitsül -->
+  
+</entry>

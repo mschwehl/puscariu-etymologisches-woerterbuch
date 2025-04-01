@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1214">
+  
+  <lemma>orfán</lemma>
+  
+  <!-- Assuming odrfün -> orfán -->
+  
+  <scope>ar.</scope>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj. sb.</pos>
+  
+  <definition>„verwaist, Waise“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ORPHANUS, -A, -UM</etymon>
+     (= 
+    <etymon lang="el">ὀρφανός</etymon>
+    ): 
+    <!-- Assuming dogavos -> ὀρφανός -->
+    
+    <cognates>
+      
+      <form lang="sq">varfër?</form>
+      , 
+      <!-- Interpretation needed for varfere -->
+      
+      <form lang="it">orfano</form>
+      ,
+
+      <form lang="fur">uarfen?</form>
+      , 
+      <!-- Interpretation needed for warfen -->
+      
+      <form lang="roh-ENG">orfen</form>
+      ,
+(
+      <form lang="fro">orfene?</form>
+      ), 
+      <!-- Interpretation needed for orfe(ne) -->
+      
+      <form lang="es">huérfano</form>
+      , 
+      <!-- Interpretation needed for huerfano -->
+      
+      <form lang="pt">órfão</form>
+      . 
+      <!-- Interpretation needed for orfâo -->
+      
+    </cognates>
+     — D-rum. 
+    <form>orfan</form>
+     stammt aus n.-gr. 
+    <etymon lang="el">ὀρφανός</etymon>
+    . 
+    <!-- Assuming öogarös -> ὀρφανός -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1091">
+  
+  <lemma>mint?</lemma>
+  
+  <!-- Assuming mint -->
+  
+  <scope>ar.</scope>
+  
+  <note>W.</note>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„zerkleinern“</definition>
+   
+  <!-- Assuming zerkleinera -> zerkleinern -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MINUTO, -ARE</etymon>
+    .
+
+  </etymology>
+  
+  <usage_note>[ar. P. kennt nur minuțăsescu? „fein machen“].</usage_note>
+  
+  <!-- Interpretation needed for minutsäsen -> minuțăsescu? -->
+  
+</entry>

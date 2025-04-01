@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="979">
+  
+  <lemma>lîngă</lemma>
+  
+  <pos>präp.</pos>
+  
+  <definition>„neben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LONGUM + AD</etymon>
+    : 
+    <!-- Assuming Cuăxevu -> LONGUM -->
+    
+    <cognates>
+      vgl. 
+      <form lang="it">lungo</form>
+      , 
+      <form lang="it-TIR?">dlongia?</form>
+      , 
+      <form lang="oc">lonc</form>
+      . 
+      <!-- Interpretation needed for tir. dlongia, pv. -> oc -->
+      
+    </cognates>
+     Bemerkenswert sind die zusammengezogenen Formen: 
+    <form>pîngă</form>
+    , 
+    <form>pîngă</form>
+    , 
+    <form>păngă</form>
+     [mgl. 
+    <form lang="ro-MG">prîngă?</form>
+    , ir. 
+    <form lang="ro-IR">prînge?</form>
+    ] = 
+    <form>p(r)e lîngă</form>
+    ; 
+    <form>dîngă</form>
+     == 
+    <form>de lîngă</form>
+    , ar. 
+    <form lang="ro-AR">nîngă?</form>
+    , mgl. 
+    <form lang="ro-MG">îngă?</form>
+     = 
+    <form>în lîngă</form>
+    . 
+    <!-- Interpretation needed for pingä, pingă, păngă, pringä, pringe, ningă -> nîngă?, angă -> îngă? -->
+    
+  </etymology>
+  
+</entry>

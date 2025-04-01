@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1071">
+  
+  <lemma>miercuri</lemma>
+  
+  <!-- Assuming wierewrt -> miercuri -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. miercuri?, mgl. (m)iercuri?]</variants>
+  
+  <!-- Interpretation needed for nerewt -> miercuri?, (mIniereuri -> (m)iercuri? -->
+  
+  <definition>„Mittwoch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MERCURII [DIES]</etymon>
+    : 
+    <!-- Assuming märcurm (pres -> MERCURII [DIES] -->
+    
+    <cognates>
+      
+      <form lang="it">mercoledì</form>
+      ,
+
+      <form lang="oc">dimecre</form>
+      , 
+      <!-- Interpretation needed for pv. dimerere -->
+      
+      <form lang="fr">mercredi</form>
+      : 
+      <!-- Assuming Irz. -> fr -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="vec">mèrcore?</form>
+      , 
+      <!-- Interpretation needed for ven. mercore -->
+      
+      <form lang="sc">mercuris</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="oc">mercredi?</form>
+      , 
+      <!-- Interpretation needed for pv. mercres -->
+      
+      <form lang="es">miércoles</form>
+      . 
+      <!-- Interpretation needed for miercoles -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1073">
+  
+  <lemma>mierlă</lemma>
+  
+  <lemma_variants>(mîrlă)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. nierlă? W., nîrlă?, mgl. (m)nierlă?, ir. merlă?]</variants>
+  
+  <!-- Interpretation needed for nerlä -> nierlă?, nirlä -> nîrlă?, (m)nierla -> (m)nierlă?, merle -> merlă? -->
+  
+  <definition>„Schwarzamsel“</definition>
+   
+  <!-- Assuming Sehwarzamsel -> Schwarzamsel -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MERULA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">merla</form>
+      , 
+      <form lang="lmo-MIL">merla</form>
+      , 
+      <form lang="oc">merla</form>
+      , 
+      <form lang="ca">merla</form>
+      , 
+      <!-- Assuming mail. pv. cat. -> lmo-MIL, oc, ca -->
+      
+      <form lang="it-SIC">merru?</form>
+      , 
+      <!-- Interpretation needed for merru -->
+      
+      <form lang="fur">mierle?</form>
+      , 
+      <!-- Interpretation needed for în. mierli -->
+      
+      <form lang="fr">merle</form>
+      ,
+
+      <form lang="es">mierla</form>
+      ,
+
+      <form lang="pt">melro</form>
+      . 
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

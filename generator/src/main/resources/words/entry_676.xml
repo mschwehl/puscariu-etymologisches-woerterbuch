@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="676">
+  
+  <prefix>I</prefix>
+  
+  <lemma>fur</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. =]</variants>
+  
+  <!-- Assuming Jar. -> ar., CI -> = -->
+  
+  <definition>„Dieb“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FUR, -EM</etymon>
+    : 
+    <!-- Assuming Für -> FUR -->
+    
+    <cognates>
+      
+      <form lang="it">fur</form>
+      , 
+      <!-- Assuming ıt. -> it -->
+      
+      <form lang="es-ARAG">furo</form>
+      , 
+      <!-- Assuming sp. (aragon) fwro -> furo -->
+      
+      <form lang="rm-POSCH">fur</form>
+      , 
+      <!-- Assuming posch. -> rm-POSCH -->
+      
+      <form lang="vec-OLD">fur</form>
+      , 
+      <!-- Assuming a.-ven -> vec-OLD -->
+      
+      <form lang="fro">fur</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. hoț?].</variants>
+  
+  <!-- Interpretation needed for tot -->
+  
+</entry>

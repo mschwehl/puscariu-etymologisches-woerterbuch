@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="950">
+  
+  <lemma>lature</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Seite“</definition>
+  , neuer Singular aus dem Plur. 
+  <form>laturi</form>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LATERA</etymon>
+     (von 
+    <etymon lang="Lat">LATUS</etymon>
+    ): 
+    <!-- Assuming latwr -> LATUS? -->
+    
+    <cognates>
+      
+      <form lang="it">lato</form>
+      ,
+
+      <form lang="it-SIC">latu</form>
+      ,
+
+      <form lang="roh-ENG">lad</form>
+      ,
+
+      <form lang="fur">lai</form>
+      , 
+      <!-- Assuming frl. -> fur -->
+      
+      <form lang="oc">latz?</form>
+      , 
+      <!-- Interpretation needed for pv. latz -->
+      
+      <form lang="fr">-lais?</form>
+       (in Ortsnamen). 
+      <!-- Assuming fr, -les- -> -lais? -->
+      
+      <form lang="es">lado</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

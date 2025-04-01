@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="953">
+  
+  <lemma>laud</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. laud?]</variants>
+  
+  <!-- Interpretation needed for alavdu -->
+  
+  <definition>„loben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LAUDO, -ARE</etymon>
+    : 
+    <!-- Assuming Launpo -> LAUDO -->
+    
+    <cognates>
+      
+      <form lang="sq">lëvdoj</form>
+      , 
+      <!-- Interpretation needed for ferdon -->
+      
+      <form lang="it">lodare</form>
+      ,
+
+      <form lang="oc">lauzar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">louer</form>
+      , 
+      <!-- Assuming lower -> louer -->
+      
+      <form lang="ca">lloar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">loar</form>
+      ,
+
+      <form lang="pt">louvar</form>
+      . 
+      <!-- Assuming loutar -> louvar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

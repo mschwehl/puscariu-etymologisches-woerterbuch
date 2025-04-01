@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="658">
+  
+  <lemma>frunte</lemma>
+  
+  <!-- Assuming frânte -> frunte -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. frînte?, frîmte?, mgl. frunte?, ir. =]</variants>
+  
+  <!-- Assuming främte -> frînte?, frâmte -> frîmte?, frünti -> frunte? -->
+  
+  <definition>„Stirn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FRONS, -ONTEM</etymon>
+    : 
+    <!-- Assuming FROXS -> FRONS -->
+    
+    <cognates>
+      
+      <form lang="it">fronte</form>
+      ,
+
+      <form lang="lij-GEA">fronte</form>
+      , 
+      <!-- Assuming a.gen. -> lij-GEA -->
+      
+      <form lang="pt">fronte</form>
+      ,
+
+      <form lang="roh-ENG">frunt</form>
+      ,
+
+      <form lang="oc">front</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">front</form>
+      ,
+
+      <form lang="ca">front</form>
+      ,
+
+      <form lang="es">frente</form>
+      .
+
+    </cognates>
+     Auffallend (vgl. 
+    <form lang="fr">froncer</form>
+    ) ist ar. 
+    <form lang="ro-AR">frunge?</form>
+    , olymp.-wal. 
+    <form>frîmcă?</form>
+     „Stirnrunzel. Vertiefung in der Haut“, daher auch: „Grübchen in der Wange“.
+
+    <!-- Assuming Auftallena -> Auffallend, framk% -> frîmcă? -->
+    
+  </etymology>
+  
+</entry>

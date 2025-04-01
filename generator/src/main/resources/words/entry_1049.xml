@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1049">
+  
+  <lemma>mătrăgună</lemma>
+  
+  <!-- Assuming mätrdaund -> mătrăgună -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =? auch „männliches Glied“]</variants>
+  
+  <!-- Assuming © -> =? -->
+  
+  <definition>„Alraun‘“</definition>
+  
+  <etymology>
+    scheint auf eine früh dissimilierte Form 
+    <etymon lang="Lat">*MANDRAGONA, -AM</etymon>
+     (statt 
+    <etymon lang="Lat">MANDRAGORA, -AM</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="it">mandragola</form>
+      ,
+
+      <form lang="oc">mandragora</form>
+      , 
+      <form lang="es">mandragora</form>
+      , 
+      <form lang="pt">mandragora</form>
+       
+      <!-- Assuming pv. sp. pg. -> oc, es, pt -->
+      
+    </cognates>
+     zu beruhen: doch bleiben immerhin manche lautliche Schwierigkeiten bestehen.
+
+  </etymology>
+  
+</entry>

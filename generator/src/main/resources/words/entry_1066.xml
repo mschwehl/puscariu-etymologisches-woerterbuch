@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1066">
+  
+  <lemma>miel</lemma>
+  
+  <!-- Assuming mid -> miel -->
+  
+  <feminine_neuter>mioară?</feminine_neuter>
+  
+  <!-- Assuming -& -> -ă -->
+  
+  <pos>sm.</pos>
+   
+  <!-- Assuming si. -> sm. -->
+  
+  <variants>[ar. neáu?, ir. miel?]</variants>
+  
+  <!-- Interpretation needed for naud -> neáu?, mlo -> miel? -->
+  
+  <definition>„weibl. Lamm‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AGNELLA, -AM</etymon>
+    . 
+    <!-- (Etymology seems problematic as lemma is masc.) -->
+    
+  </etymology>
+  
+</entry>

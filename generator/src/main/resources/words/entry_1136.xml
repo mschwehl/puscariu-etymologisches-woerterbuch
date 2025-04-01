@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1136">
+  
+  <lemma>muț?</lemma>
+  
+  <!-- Assuming muse -> muț? -->
+  
+  <lemma_variants>
+    (+ mute? 
+    <source_ref>Cod. Vor. 15</source_ref>
+    )
+  </lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. muțesc?, muțesc?, mgl. ir. muțc?]</variants>
+  
+  <!-- Interpretation needed for musceu, miseu -> muțesc?, mutsku -> muțc? -->
+  
+  <definition/>
+   
+  <!-- Definition appears missing or integrated into 1146 -->
+  
+  <etymology source="Candrea-Hecht: Romania XXXIII, 314; Verfassers: Lat. Ti und Ki, S. 109, 130">
+    
+    <etymon lang="Lat">*MUCC[UL]O + -ICARE?</etymon>
+     (von 
+    <etymon lang="Lat">MUCCUS</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="it-LAN?">moccicare?</form>
+      , 
+      <form lang="it-TER?">moccicare?</form>
+      , 
+      <!-- Interpretation needed for lanc. teram. mutăteka -->
+      
+      <form lang="it-CAM?">mozzecà?</form>
+      , 
+      <form lang="it-ARPI?">mozzecà?</form>
+       „beiße“, 
+      <!-- Interpretation needed for campob. arpin. mutösecke -->
+      
+      <form lang="it-SIC">mussicari?</form>
+      , 
+      <!-- Interpretation needed for muissikari -->
+      
+      <form lang="it-NAP">mozzicare?</form>
+      , 
+      <!-- Interpretation needed for mutssikare -->
+      
+      <form lang="it-APU">mozzicare?</form>
+      , 
+      <!-- Interpretation needed for apul. motssikare -->
+      
+      <form lang="it-AQUI">mozzecà?</form>
+      , 
+      <!-- Interpretation needed for aquil. motssekă -->
+      
+      <form lang="it-TAR?">mozzecà?</form>
+      , 
+      <!-- Interpretation needed for tarent. mutsseka -->
+      
+      <form lang="it-ABR">mozzecà?</form>
+      , 
+      <!-- Interpretation needed for abruzz. mutSăekd -->
+      
+      <form lang="it-CER?">mozzecà?</form>
+       „morsico“, 
+      <!-- Interpretation needed for cerign. muetsseke -->
+      
+      <form lang="it-LEC">mozzecu?</form>
+      , 
+      <!-- Interpretation needed for lecce motsseku -->
+      
+      <form lang="rm?">mozzico?</form>
+       „beiße“ 
+      <!-- Interpretation needed for rom. motssiko -->
+      (
+      <form lang="it-CAL">mozzicune?</form>
+       „Biß“, 
+      <!-- Interpretation needed for cal. mutssikune -->
+      
+      <form lang="it-ALA?">mozzicato?</form>
+       „morsicato“, 
+      <!-- Interpretation needed for alatri multssekate -->
+      
+      <form lang="it-LAN?">mozzecore?</form>
+      , 
+      <form lang="it-LAN?">mozzecarie?</form>
+       „Jucken“). 
+      <!-- Interpretation needed for lance. muts$ekore, mut$Sekariie -->
+      
+    </cognates>
+    
+    <reference type="bibliographic">Candrea-Hecht: Romania XXXIII, 314, dazu Verfassers: Lat. Ti und Ki, S. 109, 130.</reference>
+    
+  </etymology>
+  
+</entry>

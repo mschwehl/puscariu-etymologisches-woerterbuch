@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1009">
+  
+  <lemma>macin</lemma>
+  
+  <!-- Assuming surein -> macin -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. mațin?, ir. măcin?]</variants>
+  
+  <!-- Interpretation needed for matsin -> mațin?, molSiru -> măcin? -->
+  
+  <definition>„mahlen“</definition>
+  
+  <etymology source="Dens. H. l. r. 192-193">
+    
+    <etymon lang="Lat">*MACHINO, -ARE</etymon>
+     (= 
+    <etymon lang="Lat">MACHINARI</etymon>
+    , Belege für die Bedeutung „mahlen“ bei Dens. H. l. r. 192—193):
+
+    <cognates>
+      
+      <form lang="it">macinare</form>
+      ,
+
+      <form lang="it-ERT?">mafenà?</form>
+      , 
+      <!-- Interpretation needed for erto mafene -->
+      (
+      <form lang="roh-UEG">mușnar?</form>
+       „häufen‘). 
+      <!-- Interpretation needed for u.-eng. musnar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

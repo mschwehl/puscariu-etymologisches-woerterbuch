@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="845">
+  
+  <lemma>înfrunzesc</lemma>
+  
+  <!-- Assuming infrunzese -> înfrunzesc -->
+  
+  <lemma_variants>
+    (înfrund? 
+    <source_ref>Hodoş: Cîntece băn. 42</source_ref>
+    )
+  </lemma_variants>
+   
+  <!-- Assuming infrund -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„anfangen Blätter zu bekommen'</definition>
+   
+  <!-- Assuming bekommien -> bekommen -->
+  
+  <etymology source="Dens. H. l. r. 147">
+    
+    <etymon lang="Lat">FRONDESCO, -ERE?</etymon>
+     (Dens. H. l. r. 147 statt 
+    <etymon lang="Lat">-ERE</etymon>
+    ): 
+    <!-- Assuming -InE -> -ERE?, -Ern -> -ERE -->
+    
+    <cognates>
+      
+      <form lang="it">frondire</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. da frunză?, deschid?].</variants>
+  
+  <!-- Interpretation needed for da frindza -> da frunză?, diselid -> deschid? -->
+  
+</entry>

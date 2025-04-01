@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1319">
+  
+  <lemma>pînă</lemma>
+  
+  <pos>präp.</pos>
+  
+  <variants>[ar. pîn(ă), păn(ă), mgl. pînă?, ir. pîn(ă)?]</variants>
+  
+  <!-- Interpretation needed for pin(ä), pon -> pînă?, pir(e) -> pîn(ă)? -->
+  
+  <definition>„bis“</definition>
+  
+  <etymology source="Jb. X, 439-440, 579-582">
+    soll 
+    <etymon lang="Lat">PAENE + AD</etymon>
+     „beinahe zu . . .” sein, vgl. Jb. X, 439—440, 579 bis 582, doch scheint die weitverbreitete Form 
+    <form>pără</form>
+    , sowie die ar.-mgl. Form mit r (bzw. ă, o) für ein 
+    <etymon lang="Lat">PORRO .. . AD</etymon>
+     „weiter zu...“ zu sprechen. Die n-Formen können assimiliert sein in der häufigen Verbindung 
+    <form>pînă în</form>
+    .
+
+  </etymology>
+  
+</entry>

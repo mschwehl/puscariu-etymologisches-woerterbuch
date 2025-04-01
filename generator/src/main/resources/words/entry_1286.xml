@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1286">
+  
+  <lemma>pat</lemma>
+  
+  <lemma_variants>(pățesc)</lemma_variants>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. pat? P., pățesc? W., mgl. pățesc?]</variants>
+  
+  <!-- Interpretation needed for pat, pätsäseu -> pățesc?, pätsos -> pățesc? -->
+  
+  <definition>„dulden, erleiden; sich einem etwas ereignen“</definition>
+  
+  <etymology source="Dens. H. l. r. 147">
+    
+    <etymon lang="Lat">PATIOR, -IRI?</etymon>
+     (für 
+    <etymon lang="Lat">PATIOR</etymon>
+    , Dens. H. l. r. 147): 
+    <!-- Assuming PATIO, -IRE -> PATIOR, -IRI? -->
+    
+    <cognates>
+      
+      <form lang="it">patire</form>
+       (vgl. 
+      <form lang="sq">pësoj?</form>
+      , 
+      <form lang="es">padecer</form>
+      , 
+      <form lang="pt">padecer</form>
+      ), 
+      <!-- Interpretation needed for alb. peson -> pësoj?, sp. pg. -> es, pt -->
+      
+    </cognates>
+     — Vgl. 
+    <form lang="bg">patam, patja</form>
+    , 
+    <form lang="sr">patati</form>
+     in derselben Bedeutung.
+
+  </etymology>
+  
+</entry>

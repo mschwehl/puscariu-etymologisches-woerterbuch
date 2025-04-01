@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="716">
+  
+  <lemma>ghindar?</lemma>
+  
+  <!-- Assuming ghindär -> ghindar? -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. glindor?]</variants>
+  
+  <!-- Interpretation needed for glindor -->
+  
+  <definition>„Eichel“</definition>
+   
+  <!-- Definition seems wrong, Eichel usually = ghindă. Maybe 'Eichelhäher'? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">GLANDARIUS, -UM</etymon>
+    .
+
+  </etymology>
+  
+  <variants>[ar. fag].</variants>
+   
+  <!-- Ar. fag = Buche -->
+  
+</entry>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="668">
+  
+  <prefix>I</prefix>
+  
+  <lemma>fum</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. =]</variants>
+  
+  <!-- Assuming | -> = -->
+  
+  <definition>„Rauch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FUMUS, -UM</etymon>
+    : 
+    <!-- Assuming rünus, -vm -> FUMUS, -UM -->
+    
+    <cognates>
+      
+      <form lang="it">fumo</form>
+      ,
+
+      <form lang="pt">fumo</form>
+      ,
+
+      <form lang="roh-ENG">füm</form>
+      ,
+
+      <form lang="oc">fum</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">fum</form>
+      , 
+      <!-- Assuming a-irz. fun -> fum -->
+      
+      <form lang="ca">fum</form>
+      ,
+
+      <form lang="es">humo</form>
+      .
+
+    </cognates>
+     — Der Plur. 
+    <form>fumuri?</form>
+     heißt „Eingebildheit“, dav. 
+    <form>înfumur(ez)?</form>
+     I vb. „werde eingebildet“.
+
+    <!-- Interpretation needed for fümur?, infümur(ez) -->
+    
+  </etymology>
+  
+  <variants>[ir. dim].</variants>
+   
+  <!-- Assuming fir. -> ir. -->
+  
+</entry>

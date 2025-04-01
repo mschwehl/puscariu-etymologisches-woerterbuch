@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="971">
+  
+  <lemma>limbūt</lemma>
+  
+  <!-- Assuming timbiit -> limbūt -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„gesprächig“</definition>
+   
+  <!-- Assuming xesprăchig -> gesprächig -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*LINGUTUS, -A, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it-CAL">lingutu?</form>
+      , 
+      <!-- Interpretation needed for linguto -->
+      
+      <form lang="oc-OLD">lengut</form>
+      , 
+      <!-- Assuming a.-pv. -> oc-OLD -->
+      
+      <form lang="oc-N">lengut?</form>
+      , 
+      <!-- Interpretation needed for n.-pv. lengu -->
+      
+      <form lang="ca">llengut?</form>
+      . 
+      <!-- Interpretation needed for cat. lengud -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. papagal?].</variants>
+  
+  <!-- Interpretation needed for fafalar -> papagal? -->
+  
+</entry>

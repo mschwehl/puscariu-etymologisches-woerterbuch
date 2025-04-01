@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="994">
+  
+  <lemma>lumină</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. lumină?]</variants>
+  
+  <!-- Interpretation needed for latină -> lumină? -->
+  
+  <definition>„Licht, Kerze“</definition>
+  
+  <etymology source="Zauner, Körperteile: 367; Lucifer von Cagliari">
+    
+    <etymon lang="Lat">*LUMINA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">LUMEN</etymon>
+    ), davon 
+    <form>luminez?</form>
+     I vb. (ar. 
+    <form lang="ro-AR">luminez?</form>
+    ) „leuchten“, 
+    <form>luminos, -oasă</form>
+     adj. „leuchtend“. — 
+    <example>Lumina ochilor</example>
+     „Pupille“, desgleichen 
+    <example lang="it">luce dell’occhio</example>
+     in Norditalien und Frl., 
+    <example lang="lmo-BER">lum del og</example>
+     im A.-berg., ähnlich in Mirandola und Arbedo, 
+    <example lang="pms">lumin di öi?</example>
+     in Piem., 
+    <form lang="it-PAR">lumen</form>
+     in Parma, 
+    <form lang="it-REG">luminell</form>
+     in Reggio, vgl. Zauner, Körperteile: 367. Auch bei Lucifer von Cagliari findet sich 
+    <form lang="la">lumina</form>
+     im Sinne von 
+    <form lang="la">oculi</form>
+    . 
+    <!-- Assuming lumintz -> luminez?, luninedzw -> luminez?, luminds -> luminos, -odsä -> -oasă, um del og -> lum del og, dT ei -> di öi? -->
+    
+  </etymology>
+  
+</entry>

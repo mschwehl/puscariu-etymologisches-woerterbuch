@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="945">
+  
+  <lemma>las</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (a)las, mgl. ?, ir. las?]</variants>
+  
+  <!-- Interpretation needed for mel. I -> mgl. ?, losı -> las? -->
+  
+  <definition>„lassen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LAXO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">lëshoj</form>
+      , 
+      <!-- Interpretation needed for le$o% -->
+      
+      <form lang="it">lasciare</form>
+      , 
+      <form lang="sc">lassare</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">lasciar?</form>
+      , 
+      <!-- Interpretation needed for laser -->
+      
+      <form lang="oc">laissar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">laisser</form>
+      ,
+
+      <form lang="es">dejar</form>
+      ,
+
+      <form lang="pt">deixar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="871">
+  
+  <lemma>înșel(ez)?</lemma>
+  
+  <!-- Assuming înșel(€2) -> înșel(ez)? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„satteln“</definition>
+  
+  <etymology source="Dos. Viaţa sf. 12b/,, ibid. 1/3; Cihac II, 148">
+    
+    <etymon lang="Lat">*[IN-]SELLO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">SELLA</etymon>
+    ); 
+    <!-- Assuming (*[in-]s&LLo, -anz -> *[IN-]SELLO, -ARE, s5LLA -> SELLA -->
+    
+    <cognates>
+      
+      <form lang="roh-ENG">sellar?</form>
+      , 
+      <!-- Interpretation needed for seller -->
+      
+      <form lang="oc">ensellar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">seller</form>
+      ,
+
+      <form lang="es">ensillar</form>
+      ,
+
+      <form lang="pt">selar</form>
+      . 
+      <!-- Assuming sellar -> selar -->
+      
+    </cognates>
+     Daneben von 
+    <form>șa</form>
+     abgeleitet: 
+    <form>înșeuez</form>
+     I vb. Diese Gleichung hat ein 
+    <form lang="ro-OLD">îngreuiat?</form>
+     
+    <source_ref>Dos. Viaţa sf. 12b/,,</source_ref>
+     = 
+    <form lang="ro-OLD">îngreuiat</form>
+     
+    <source_ref>ibid. 1/3</source_ref>
+     „beschwert“ (vgl. 
+    <form>îngreunez?</form>
+    ) nach sich gezogen. 
+    <!-- Assuming saud -> șa, in-grelat -> îngreuiat?, îngreuiez -> îngreunez? -->
+    
+  </etymology>
+  
+  <variants>[ar. pun Șaua?].</variants>
+   
+  <!-- Assuming bay Saua -> pun Șaua? -->
+   — 
+  <form>înșel</form>
+   I vb. „betrügen“ ist slav. Herkunft (
+  <source_ref>Cihac II, 148</source_ref>
+  ).
+
+</entry>

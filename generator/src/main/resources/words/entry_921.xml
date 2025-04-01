@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="921">
+  
+  <lemma>june</lemma>
+  
+  <!-- Assuming jtime -> june -->
+  
+  <pos>sm. adj.</pos>
+  
+  <variants>[ar. june?, mgl. june?, auch „Held, tapfer“, ir. june?]</variants>
+  
+  <!-- Interpretation needed for done -> june?, Zuni -> june?, Zure -> june? -->
+  
+  <definition>„jung“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IUVENIS</etymon>
+    : 
+    <!-- Assuming süvans -> IUVENIS -->
+    
+    <cognates>
+      
+      <form lang="it">giovine u. giovine</form>
+      , 
+      <!-- Assuming gigrine u. gigvine -> giovine u. giovine -->
+      
+      <form lang="roh-ENG">giuven?</form>
+      , 
+      <!-- Interpretation needed for Auen -->
+      
+      <form lang="fro">jovene?</form>
+      , 
+      <!-- Interpretation needed for a.-frz. juefne -->
+      
+      <form lang="fr">jeune</form>
+      , 
+      <!-- Assuming n.-frz. -> fr -->
+      
+      <form lang="oc">jove</form>
+      , 
+      <!-- Interpretation needed for pv. jovne -->
+      
+      <form lang="es">joven</form>
+      ,
+
+      <form lang="pt">jovem</form>
+      . 
+      <!-- Assuming Jovem -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

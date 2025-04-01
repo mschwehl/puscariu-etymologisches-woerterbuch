@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="648">
+  
+  <prefix>I</prefix>
+  
+  <lemma>frig</lemma>
+  
+  <principal_parts>fripsei (ban. frips), fript</principal_parts>
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. frigu, fripsu, friptu III, II, mgl. frig, friș?, fris?, friziri?]</variants>
+  
+  <!-- Interpretation needed for ris, fris, friziri -->
+  
+  <definition>„braten, rosten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FRIGO, FRIXI, FRICTUM, -GERE</etymon>
+    : 
+    <!-- Assuming < -> from -->
+    
+    <cognates>
+      
+      <form lang="sq">fërgoj</form>
+      , 
+      <!-- Assuming fergoj -> fërgoj -->
+      
+      <form lang="it">friggere</form>
+      ,
+
+      <form lang="oc">frire</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">frire</form>
+      , 
+      <!-- Assuming trz. -> fr -->
+      
+      <form lang="ca">fregir</form>
+      ,
+
+      <form lang="es">freír</form>
+      , 
+      <!-- Assuming freir -> freír -->
+      
+      <form lang="pt">frigir</form>
+      . 
+      <!-- Assuming po. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. (s)pec?, inf. (s)peți?].</variants>
+  
+  <!-- Interpretation needed for (s)pec, (s)petsi -->
+  
+</entry>

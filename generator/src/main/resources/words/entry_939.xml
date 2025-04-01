@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="939">
+  
+  <lemma>lapte</lemma>
+  
+  <!-- Assuming tâpte -> lapte -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =, mgl. lapte?, ir. lapte?]</variants>
+  
+  <!-- Interpretation needed for >, lapti -> lapte?, lopte -> lapte? -->
+  
+  <definition>„Milch“</definition>
+  
+  <etymology source="Ennius; Cassius; Petronius; W. Meyer: Lat. Neutrum S. 100; Dens. Hist. l. r. 132">
+    
+    <etymon lang="Lat">LACTE</etymon>
+     (für 
+    <etymon lang="Lat">lac</etymon>
+     bei Ennius, Cassius etc, auch masc., 
+    <etymon lang="Lat">LACTEM</etymon>
+     ist bei Petronius etc. belegt, vgl. W. Meyer: Lat. Neutrum S. 100; Dens. Hist. l. r. 132): 
+    <!-- Assuming Lacıkn -> LACTEM -->
+    
+    <cognates>
+      
+      <form lang="it">latte</form>
+      ,
+
+      <form lang="roh-ENG">lat</form>
+      ,
+
+      <form lang="roh-OBW">lat</form>
+      , 
+      <!-- Assuming obw. lat’ -> lat -->
+      
+      <form lang="oc">lach</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">lait</form>
+      ,
+
+      <form lang="pt">leite</form>
+       (sämtlich männlich),
+
+      <form lang="vec">late</form>
+      ,
+
+      <form lang="oc">lach</form>
+      , 
+      <!-- Assuming pr. -> oc -->
+      
+      <form lang="oc-BEAR?">leit?</form>
+      , 
+      <!-- Interpretation needed for b&arn. leyt -->
+      
+      <form lang="ca">llet</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">leche</form>
+       (sämtlich weiblich).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

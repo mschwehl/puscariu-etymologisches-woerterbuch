@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="925">
+   
+  <!-- Assuming 995 -> 925? -->
+  
+  <lemma>juriță?</lemma>
+  
+  <!-- Assuming Zuritse -> juriță? -->
+  
+  <scope>ir.</scope>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Färse“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IUNICIA, -AM</etymon>
+     ((*
+    <etymon lang="Lat">IUNIX</etymon>
+     vgl. 
+    <etymon lang="Lat">*GARRICIA</etymon>
+     &gt; 
+    <form lang="it-SIC">ginitssa?</form>
+    , 
+    <form lang="lij-GEN">genîza?</form>
+    , 
+    <form lang="fr">genisse</form>
+    )). 
+    <!-- Assuming *stxicra -> *IUNICIA, *yünıx -> *IUNIX, * gaxroka -> *GARRICIA, dZinilssa -> ginitssa?, a.-sen. -> lij-GEN, dZentdze -> genîza?, gânisse -> genisse -->
+     Doch kann das ir. Wort auch 
+    <etymon lang="hr">junica?</etymon>
+    , 
+    <etymon lang="sl">junica?</etymon>
+     (= 
+    <form lang="ro-IR">*junică?</form>
+    ) sein. 
+    <!-- Assuming kroat. slov. jürica -> junica?, *Zuried -> *junică? -->
+    
+  </etymology>
+  
+  <variants>[ar. bică].</variants>
+  
+</entry>

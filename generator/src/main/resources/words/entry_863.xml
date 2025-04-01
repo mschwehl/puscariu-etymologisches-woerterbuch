@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="863">
+  
+  <lemma>inimă</lemma>
+  
+  <lemma_variants>(irimă)</lemma_variants>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. inimă, mgl. inimă (in Huma, sonst buric), ir. inimă?]</variants>
+  
+  <!-- Interpretation needed for inimd -> inimă, inimä -> inimă, älrime -> inimă? -->
+  
+  <definition>„Herz“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ANIMA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">anima</form>
+      ,
+
+      <form lang="it-SIC">arma</form>
+       (vgl. 
+      <form lang="lmo-MIL">armella?</form>
+      , 
+      <form lang="it-MOD">armella?</form>
+      ), 
+      <!-- Assuming mail. -> lmo-MIL, rumela -> armella? -->
+      
+      <form lang="oc">alma</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">alme</form>
+      , 
+      <!-- Assuming a. frz. -> fro -->
+      
+      <form lang="fr">âme</form>
+      , 
+      <!-- Assuming n.-frz. -> fr -->
+      
+      <form lang="ca">alma</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">alma</form>
+      ,
+
+      <form lang="pt">alma</form>
+      . 
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+     — Im rum. findet sich auch die Bedeutung „Bauch“ in: 
+    <example>mă doare inima</example>
+     = 
+    <example lang="fr">j’ai mal au coeur</example>
+    .
+
+  </etymology>
+  
+</entry>

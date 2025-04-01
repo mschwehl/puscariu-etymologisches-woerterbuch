@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1111">
+  
+  <lemma>mortăciune</lemma>
+  
+  <!-- Assuming morticină -> mortăciune -->
+  
+  <lemma_variants>(mortăciune)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mortăciune?]</variants>
+  
+  <!-- Interpretation needed for murtutsinä -->
+  
+  <definition>„Aas“</definition>
+  
+  <etymology source="Kuhn’s Zeitschr. 1905, 604">
+    
+    <etymon lang="Lat">MORTICINA, -AM</etymon>
+     (scil. 
+    <etymon lang="Lat">CARO</etymon>
+    , vgl. Kuhn’s Zeitschr. 1905, 604, vgl.
+
+    <cognates>
+      
+      <form lang="it">morticino</form>
+      ,
+
+      <form lang="pt">mortezinho</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

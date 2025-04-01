@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1236">
+  
+  <lemma>păcuină</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Hornvieh, Schafe?“</definition>
+   
+  <!-- Assuming Sehopse -> Schafe? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PECORINA, -AM</etymon>
+     (vgl. 
+    <etymon lang="Lat">FARINA</etymon>
+     &gt; 
+    <form>făină</form>
+    ). Das Wort, welches Damé aus Siebenbürgen ohne Beleg angibt, ist mir unbekannt. 
+    <!-- Assuming welehes -> welches, Damâ -> Damé -->
+    
+  </etymology>
+  
+</entry>

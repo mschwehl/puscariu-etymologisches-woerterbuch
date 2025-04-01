@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="688">
+  
+  <lemma>fus</lemma>
+  
+  <pos>sm.</pos>
+  
+  <plural>fusuri „Spindel“, fuse „lange, dünne Beine“</plural>
+  
+  <variants>[ar. fus, pl. fuse „Nadel (zum Stricken), Zapfen der Spindel“, fus di vîntu? W. „Windhose“, mgl. fus „Spindel“, Pl. fusi „Stricknadel“, ir. fus „Spindel“]</variants>
+  
+  <!-- Assuming fisuri -> fusuri, Strieken -> Stricken, vimtu -> vîntu? -->
+  
+  <definition>„Spindel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FUSUS, -UM</etymon>
+    : 
+    <!-- Assuming rüsus, -un -> FUSUS, -UM -->
+    
+    <cognates>
+      
+      <form lang="it">fuso</form>
+      ,
+
+      <form lang="pt">fuso</form>
+      ,
+
+      <form lang="oc">fus</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">fus</form>
+      ,
+(
+      <form lang="fr">fuseau</form>
+      ),
+
+      <form lang="es">huso</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

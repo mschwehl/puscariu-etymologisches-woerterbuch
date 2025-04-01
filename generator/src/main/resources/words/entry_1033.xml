@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1033">
+  
+  <lemma>marmură</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. marmură? W., marmură P.]</variants>
+  
+  <!-- Interpretation needed for marmure -> marmură? -->
+  
+  <definition>„Marmor“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MARMOR, -OREM</etymon>
+    : 
+    <!-- Assuming CMARMOR, -FÖREM -> MARMOR, -OREM -->
+    
+    <cognates>
+      
+      <form lang="it">marmo</form>
+      , 
+      <!-- Assuming marıno -> marmo -->
+      
+      <form lang="oc">marbre?</form>
+      , 
+      <!-- Interpretation needed for pv. marime -> marbre? -->
+      
+      <form lang="fr">marbre</form>
+      , 
+      <!-- Assuming îrz. -> fr -->
+      
+      <form lang="es">mármol</form>
+      , 
+      <!-- Assuming marmol -> mármol -->
+      
+      <form lang="pt">mármore</form>
+      . 
+      <!-- Assuming niarmore -> mármore -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

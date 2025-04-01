@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="783">
+   
+  <!-- Assuming 183 -> 783 -->
+  
+  <lemma>împac</lemma>
+  
+  <!-- Assuming tmpde -> împac -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„versöhnen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PACO, -ARE</etymon>
+    : 
+    <!-- Assuming <paco -> PACO -->
+    
+    <cognates>
+      
+      <form lang="sq">pajtoj?</form>
+       (mit Einwirkung von 
+      <form lang="sq">pak?</form>
+      ) „versöhnen“, 
+      <!-- Interpretation needed for pak’on, pak’ -->
+      
+    </cognates>
+     sonst hat das Wort im Rom. die spezielle Bedeutung „einen Gläubiger befriedigen“ — „bezahlen“ angenommen:
+
+    <cognates>
+      
+      <form lang="it">pagare</form>
+      ,
+
+      <form lang="it-SIC">pagare?</form>
+      , 
+      <!-- Interpretation needed for pavari -->
+      
+      <form lang="roh-ENG">pagar?</form>
+      , 
+      <!-- Interpretation needed for eng. payer -->
+      
+      <form lang="fr">payer</form>
+      ,
+
+      <form lang="oc">pagar</form>
+      , 
+      <!-- Assuming Pv. -> oc -->
+      
+      <form lang="es">pagar</form>
+      ,
+
+      <form lang="pt">pagar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. îmbun?, îmbunez? I vb.].</variants>
+  
+  <!-- Interpretation needed for mbun, mbunedz -->
+  
+</entry>

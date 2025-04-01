@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="867">
+  
+  <lemma>înnod</lemma>
+  
+  <!-- Assuming îndd -> înnod -->
+  
+  <lemma_variants>(înnod)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. nod]</variants>
+  
+  <definition>„zusammenknoten‘</definition>
+  
+  <etymology source="Dens. H. l. r. 169">
+    
+    <etymon lang="Lat">[IN-]NODO, -ARE</etymon>
+     (Dens. H. l. r. 169): 
+    <!-- Assuming {ıs-|NODO -> [IN-]NODO -->
+    
+    <cognates>
+      
+      <form lang="it">innodare</form>
+      ,
+
+      <form lang="oc">nozar</form>
+      , 
+      <!-- Assuming py. -> oc -->
+      
+      <form lang="fr">nouer</form>
+      ,
+
+      <form lang="ca">nuar?</form>
+       
+      <!-- Interpretation needed for nxar -->
+       (vgl. 
+      <form lang="it">annodare</form>
+      , 
+      <form lang="es">anudar</form>
+      ).
+
+    </cognates>
+     — Dazu: 
+    <form>desnod?</form>
+     I vb. „einen Knoten aufmachen“ wie 
+    <form lang="it">disnodare</form>
+    , 
+    <form lang="oc">desnozar?</form>
+    , 
+    <form lang="fr">dénouer</form>
+    , 
+    <form lang="ca">desnuar</form>
+    . 
+    <!-- Assuming demöd -> desnod?, pv. desnozur -> oc desnozar?, denouer -> dénouer -->
+    
+  </etymology>
+  
+</entry>

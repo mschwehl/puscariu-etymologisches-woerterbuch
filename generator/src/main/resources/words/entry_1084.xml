@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1084">
+  
+  <lemma>mânec</lemma>
+  
+  <!-- Assuming mînec -> mânec -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. mânecat? adv. „in aller Frühe“)</variants>
+  
+  <!-- Interpretation needed for mänicat -> mânecat? -->
+  
+  <definition>„früh aufstehen“</definition>
+  
+  <etymology source="Arch. lat. Lex. IX, 590-591; Dens. H. l. r. 167">
+    
+    <etymon lang="Lat">MANICO, -ARE</etymon>
+     (= 
+    <etymon lang="grc">ὀρθρίζειν?</etymon>
+     Arch. lat. Lex. IX, 590— 591, Dens. H. l. r. 167): 
+    <!-- Assuming 600eiXeıw -> ὀρθρίζειν? -->
+    
+    <cognates>
+      
+      <form lang="sq">mëngoj</form>
+      . 
+      <!-- Interpretation needed for mengon -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

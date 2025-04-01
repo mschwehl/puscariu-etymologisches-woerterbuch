@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="936">
+  
+  <lemma>lapăd</lemma>
+  
+  <!-- Assuming Töptär -> lăpăd? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„werfen, wegwerfen"</definition>
+  
+  <etymology>
+    soll lat. 
+    <etymon lang="Lat">LAPIDO, -ARE</etymon>
+     „Steine werfen“ (vgl. 
+    <etymon lang="Lat">dilapido</etymon>
+    ) sein, doch spricht dagegen ar. 
+    <form lang="ro-AR">aleapidu?</form>
+     (
+    <example lang="ro-AR">mă aleapidu</example>
+     = ich eile).
+
+  </etymology>
+  
+</entry>

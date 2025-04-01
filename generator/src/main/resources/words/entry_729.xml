@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="729">
+  
+  <lemma>grăuncior</lemma>
+  
+  <!-- Assuming gräunciör -> grăuncior -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Körnchen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*GRANUNCIOLUM?</etymon>
+     (Dimin. von 
+    <etymon lang="Lat">GRANUM</etymon>
+    ). 
+    <!-- Assuming * GRANUNCIOLUA -> *GRANUNCIOLUM?, GRANUN -> GRANUM -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1035">
+  
+  <lemma>marți</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. marți?, mgl. marț?]</variants>
+  
+  <!-- Interpretation needed for martsi, marts -->
+  
+  <definition>„Dienstag“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MARTIS [DIES]</etymon>
+    : 
+    <!-- Assuming ARTIS [scil. pres -> MARTIS [DIES] -->
+    
+    <cognates>
+      
+      <form lang="it">martedì</form>
+      ,
+
+      <form lang="oc">dimartz</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">mardi</form>
+      ,
+
+      <form lang="ca">dimarts?</form>
+      ): 
+      <!-- Interpretation needed for cat. dimars -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="sq">martë</form>
+      , 
+      <!-- Assuming marte -->
+      
+      <form lang="vec">marti</form>
+      , 
+      <!-- Assuming ven. -> vec -->
+      
+      <form lang="rgn">mert?</form>
+      , 
+      <!-- Interpretation needed for romg. mert -->
+      
+      <form lang="fur">martis</form>
+      , 
+      <!-- Assuming irl. -> fur -->
+      
+      <form lang="es">martes</form>
+      . 
+      <!-- Assuming marles -> martes -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

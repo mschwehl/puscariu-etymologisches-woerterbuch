@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="726">
+  
+  <lemma>gras</lemma>
+  
+  <!-- Assuming gräs -> gras -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. =, greas W., mgl. =, ir. gros]</variants>
+  
+  <!-- Assuming © -> = -->
+  
+  <definition>„dick“</definition>
+  
+  <etymology source="C. Gl. l. II, 35, 36; 404, 25">
+    
+    <etymon lang="Lat">GRASSUS, -A, -UM</etymon>
+     (C. Gl. l. II, 35, 36; 404, 25 etc. = 
+    <etymon lang="Lat">CRASSUS</etymon>
+    , wahrscheinlich nach 
+    <etymon lang="Lat">GROSSUS?</etymon>
+    ): 
+    <!-- Assuming < -> from, yrossus -> GROSSUS? -->
+    
+    <cognates>
+      
+      <form lang="it">grasso</form>
+      ,
+
+      <form lang="roh-ENG">grass</form>
+      ,
+
+      <form lang="roh-OBW">gras</form>
+      , 
+      <!-- Assuming obw. -> roh-OBW -->
+      
+      <form lang="oc">gras</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">gras</form>
+      ,
+
+      <form lang="es">graso</form>
+      ,
+
+      <form lang="pt">graxo</form>
+      , (aber 
+      <form lang="pcd">cras</form>
+      ). 
+      <!-- Assuming pik. -> pcd -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

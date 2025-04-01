@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1158">
+   
+  <!-- Assuming 158 -> 1158 -->
+  
+  <lemma>nat</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =?]</variants>
+  
+  <definition>„Kind“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NATUS, -A, -UM</etymon>
+    . 
+    <example>Tot natul</example>
+     „Jedermann“, vgl. 
+    <form lang="es">nadie</form>
+     „Leute“ &lt; 
+    <etymon lang="Lat">NATI?</etymon>
+    . 
+    <!-- Assuming ari -> NATI? -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1074">
+  
+  <lemma>meu</lemma>
+  
+  <!-- Assuming mici -> meu -->
+  
+  <feminine_neuter>mea</feminine_neuter>
+  
+  <!-- Assuming med -> mea -->
+  
+  <pos>pron. poss.</pos>
+  
+  <variants>[ar. a meu?, a mei?, a mea? (Epir), mgl. meu, mea, ir. mei?, mea?]</variants>
+  
+  <!-- Interpretation needed for a neu -> a meu?, a mei, a mel -> a mea?, Eyir -> Epir, mei -> mei?, me -> mea? -->
+  
+  <definition>„mein, meine“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MEUS, MEA</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">mio, mia</form>
+      ,
+
+      <form lang="sc">meu?, mia?</form>
+      , 
+      <form lang="ca">meu?, mia?</form>
+      , 
+      <!-- Interpretation needed for sard. cat. mer -> meu? -->
+      
+      <form lang="roh-ENG">mieu?, mia?</form>
+      , 
+      <form lang="oc">mieu?, mia?</form>
+      , 
+      <!-- Interpretation needed for eng. pv. mie -> mieu? -->
+      
+      <form lang="es">mío, mía</form>
+      , 
+      <!-- Interpretation needed for sp. mio, Ania -> mía -->
+      
+      <form lang="pt">meu, minha</form>
+      . 
+      <!-- Interpretation needed for pg. meu, nıinha -> minha -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

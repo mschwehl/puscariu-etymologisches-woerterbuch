@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1215">
+  
+  <lemma>oaspete</lemma>
+  
+  <!-- Assuming odspe -> oaspete -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. = auch „Freund“, mgl. oaspete?, auch „Bekannter“]</variants>
+  
+  <!-- Interpretation needed for », oaspi -> oaspete? -->
+  
+  <definition>„Gast“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">HOSPES, -ITEM?</etymon>
+    : 
+    <!-- Assuming möspes -> HOSPES, -ITEM? -->
+    
+    <cognates>
+      
+      <form lang="it">oste</form>
+      , 
+      <form lang="oc">oste</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">ost</form>
+      , 
+      <form lang="fr">hôte</form>
+      . 
+      <!-- Assuming a.-frz. -> fro, n.-frz. -> fr -->
+      
+    </cognates>
+     Daneben kommt auch 
+    <form>oaspete</form>
+     sm. 
+    <source_ref>Sämän. II, 455</source_ref>
+     [ar. 
+    <form lang="ro-AR">oaspit?</form>
+    ] vor, welches entweder auf 
+    <etymon lang="Lat">HOSPITEM</etymon>
+    : 
+    <!-- Assuming nöspItzsm -> HOSPITEM -->
+    
+    <cognates>
+      
+      <form lang="es">huésped</form>
+      , 
+      <!-- Assuming huesped -->
+      
+      <form lang="pt">hóspede</form>
+       
+      <!-- Assuming hospede -->
+      
+    </cognates>
+     zurückgeht, oder vom Plural 
+    <form>oaspeți</form>
+     [ar. 
+    <form lang="ro-AR">oaspeți?</form>
+    , mgl. 
+    <form lang="ro-MG">oaspiți?</form>
+    , woraus mgl. auch ein Sing. 
+    <form lang="ro-MG">oaspiță?</form>
+     „Freund‘] neu gebildet ist. 
+    <!-- Interpretation needed for oäspefi -> oaspeți, oaspets -> oaspeți?, oaspitsi -> oaspiți?, oaspitsü -> oaspiță? -->
+    
+  </etymology>
+  
+</entry>

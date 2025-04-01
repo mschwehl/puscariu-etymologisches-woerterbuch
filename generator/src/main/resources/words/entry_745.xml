@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="745">
+   
+  <!-- Assuming 145 -> 745 -->
+  
+  <lemma>gură</lemma>
+  
+  <!-- Assuming gürä -> gură -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. —, ir. gură]</variants>
+   
+  <!-- Assuming gure -> gură -->
+  
+  <definition>
+    „Mund (übertr. auch „Lärm“: 
+    <example>fac gură</example>
+     = frz. „
+    <example lang="fr">engueuler</example>
+    “, 
+    <example>dau o gură</example>
+     „schreie” u. s. w.)“
+  </definition>
+   
+  <!-- Assuming îrz. -> frz. -->
+  
+  <etymology source="Zauner: Körperteile, 380-381">
+    
+    <etymon lang="Lat">GULA, -AM</etymon>
+    : 
+    <!-- Assuming < Gina -> GULA -->
+    
+    <cognates>
+      
+      <form lang="it">gola</form>
+      ,
+
+      <form lang="oc">gola</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">gola</form>
+      , 
+      <!-- Assuming eat. -> ca -->
+      
+      <form lang="es">gola</form>
+      ,
+
+      <form lang="it-SIC">gula</form>
+      , 
+      <!-- Assuming sic. -> it-SIC -->
+      
+      <form lang="roh-ENG">gula</form>
+      , 
+      <!-- Assuming eng. -> roh-ENG -->
+      
+      <form lang="lij-GEN">gura</form>
+      , 
+      <!-- Assuming gen. -> lij-GEN -->
+      
+      <form lang="frp-WALD">gure</form>
+      , 
+      <!-- Assuming wald. -> frp-WALD -->
+      
+      <form lang="fr">gueule</form>
+      . 
+      <!-- Assuming îrz. -> fr -->
+      
+    </cognates>
+     Die Bedeutung „Mund“ findet sich auch in Frankreich, vgl. Zauner: Körperteile, 380—381.
+
+  </etymology>
+  
+</entry>

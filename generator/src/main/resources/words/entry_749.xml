@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="749">
+   
+  <!-- Assuming 149 -> 749 -->
+  
+  <prefix>II</prefix>
+  
+  <lemma>gust</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. gustu. mgl. ir. =]</variants>
+  
+  <definition>„kosten, schmecken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GUSTO, -ARE</etymon>
+    : 
+    <!-- Assuming < GÜSTO -> GUSTO -->
+    
+    <cognates>
+      
+      <form lang="oc">gostar</form>
+      , 
+      <!-- Assuming PY. -> oc -->
+      
+      <form lang="ca">gustar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">gustar</form>
+      , 
+      <!-- Assuming sp. yostar -> gustar -->
+      
+      <form lang="pt">gostar</form>
+      , 
+      <!-- Assuming pg. yostar -> gostar -->
+      
+      <form lang="fr">goûter</form>
+      . 
+      <!-- Assuming goüter -> goûter -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

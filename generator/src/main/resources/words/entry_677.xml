@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="677">
+  
+  <prefix>II</prefix>
+  
+  <lemma>fur</lemma>
+  
+  <verb_class>I</verb_class>
+   
+  <!-- Assuming class I from -ARE -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+  
+  <definition>„stehlen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FURO, -ARE</etymon>
+    : 
+    <!-- Assuming rüro, -AnE -> FURO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="it">furare</form>
+      ,
+
+      <form lang="oc">furar</form>
+      . 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

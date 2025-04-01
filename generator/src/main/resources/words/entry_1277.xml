@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1277">
+  
+  <prefix>II</prefix>
+  
+  <lemma>*pas</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>
+    nur in 
+    <example>îmi pasă</example>
+     „es kümmert mich, es geht mich an“
+  </definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PENSO, -ARE?</etymon>
+    : 
+    <!-- Assuming rk[x]so, -ang -> PENSO, -ARE? -->
+    
+    <cognates>
+      
+      <form lang="sq">pesoj</form>
+       „wäge“, 
+      <form lang="sq">mësoj?</form>
+       „falle beschwerlich“, 
+      <!-- Interpretation needed for t. peson, g. mesoi -->
+      
+      <form lang="it">pesare</form>
+      ,
+
+      <form lang="it-CAM?">pesà?</form>
+      , 
+      <!-- Interpretation needed for campob. pesa -->
+      
+      <form lang="lmo-VALS?">pisà?</form>
+       „essere indeciso“, 
+      <!-- Interpretation needed for valses. piste -->
+      
+      <form lang="roh-OBW">pesar</form>
+      ,
+
+      <form lang="roh-ENG">pesar?</form>
+      , 
+      <!-- Interpretation needed for pser -->
+      
+      <form lang="oc">pezar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">peser</form>
+      ,
+
+      <form lang="es">pesar</form>
+      , 
+      <form lang="pt">pesar</form>
+      , 
+      <!-- Assuming sp. pg. -> es, pt -->
+      
+    </cognates>
+     überall „wägen“, aber 
+    <example lang="fro">me poise</example>
+    , 
+    <example lang="es">pesar</example>
+     „angehen“. — Auffallend ist das Partiz. 
+    <form>păsit</form>
+     (
+    <source_ref>Slavici, Vatra părăsită, 20</source_ref>
+    ) neben 
+    <form>păsat</form>
+    . — Vgl. 
+    <form>păsat</form>
+    .
+
+  </etymology>
+  
+</entry>

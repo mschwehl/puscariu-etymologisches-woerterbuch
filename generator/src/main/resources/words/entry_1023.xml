@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1023">
+  
+  <lemma>măr</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. ir. mer]</variants>
+  
+  <definition>„Apfel, Apfelbaum“</definition>
+  
+  <etymology source="D'Ovidio: Archivio glott. ital. XIII, 447 ff.">
+    
+    <etymon lang="Lat">MELUM</etymon>
+     (= 
+    <etymon lang="grc">μῆλον</etymon>
+     ion., statt 
+    <etymon lang="Lat">MALUM</etymon>
+     = 
+    <etymon lang="grc">μᾶλον</etymon>
+     dor., vgl. D'Ovidio: Archivio glott. ital. XIII, 447 ff.): 
+    <!-- Assuming whlor -> μῆλον, pâfor -> μᾶλον -->
+    
+    <cognates>
+      (
+      <form lang="sq">mollë</form>
+      ), 
+      <!-- Assuming mole -->
+      
+      <form lang="it">melo</form>
+      ,
+
+      <form lang="it-ARPI?">mile?</form>
+      , 
+      <!-- Interpretation needed for arpin. mile -->
+      
+      <form lang="it-LEC">milu?</form>
+      , 
+      <!-- Interpretation needed for lecce, »ilu -->
+      
+      <form lang="it-CAM?">mile?, mela?</form>
+      , 
+      <!-- Interpretation needed for campob. mile, mela -->
+      
+      <form lang="lij-GEA-OLD">mero?</form>
+      , 
+      <form lang="lij-GEN">mei?</form>
+      , 
+      <!-- Interpretation needed for a.-gen. mero, n.-gen. mei -->
+      
+      <form lang="pms">meil</form>
+      ,
+
+      <form lang="pms-MON">mei</form>
+      , 
+      <!-- Assuming monf. -> pms-MON -->
+      
+      <form lang="sc">mela</form>
+       (was gegen ein 
+      <etymon lang="Lat">*MELUM</etymon>
+       nach 
+      <etymon lang="Lat">PIRUM</etymon>
+       spricht), 
+      <!-- Assuming *nminum -> *MELUM? -->
+      
+      <form lang="roh-ENG">mail</form>
+      ,
+
+      <form lang="ca">mela</form>
+      . 
+      <!-- Assuming cat. -> ca -->
+      
+    </cognates>
+     — Mgl. 
+    <form lang="ro-MG">mer</form>
+     bedeutet nur „Apfelbaum“, für die Frucht hat sich die analogische Form (nach 
+    <form>pară</form>
+    , 
+    <form>prună</form>
+     etc.) 
+    <form lang="ro-MG">meră</form>
+     (bedeutet auch „Kniebein“) herausgebildet. Ar. 
+    <example lang="ro-AR">meru de față?</example>
+     (auch einfach 
+    <form lang="ro-AR">meare?</form>
+    ) „Wange“ desgleichen: 
+    <example lang="sq">mollë faqeje?</example>
+    , vgl. 
+    <example lang="fr">pommette</example>
+    , 
+    <example lang="pt">maçã do rosto?</example>
+    . 
+    <!-- Interpretation needed for meru de fatsu -> meru de față?, meare, mole fak'ese -> mollë faqeje?, macă do rosto -> maçã do rosto? -->
+     In Pavia heißt die „Wange“ nur 
+    <example lang="pms-PAV?">pomlin dla faccia?</example>
+    . 
+    <!-- Interpretation needed for pumlin dla fatsa -->
+    
+  </etymology>
+  
+</entry>

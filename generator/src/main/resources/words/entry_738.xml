@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="738">
+   
+  <!-- Assuming i 138 -> 738 -->
+  
+  <lemma>grindină</lemma>
+  
+  <lemma_variants>(grindine)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. grindină, grindine, mgl. grindină?]</variants>
+  
+  <!-- Assuming mel. grindini -> mgl. grindină? -->
+  
+  <definition>„Hagel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GRANDŌ, -INEM</etymon>
+    : 
+    <!-- Assuming <cranno, -ixeu -> GRANDŌ, -INEM -->
+    
+    <cognates>
+      
+      <form lang="it">grandine, grandina</form>
+      ,
+
+      <form lang="sc">grandine</form>
+      , 
+      <!-- Assuming sard. randine -> grandine -->
+      
+      <form lang="it-CAL">grandinu</form>
+      ,
+
+      <form lang="it-NAP">grannene</form>
+       (letztere drei männlich).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

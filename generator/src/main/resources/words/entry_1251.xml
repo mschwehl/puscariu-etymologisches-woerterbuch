@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1251">
+  
+  <lemma>pămînt</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. pămîntu?, ir. pămînt?]</variants>
+  
+  <!-- Interpretation needed for pimintu -> pămîntu?, pemint -> pămînt? -->
+  
+  <definition>„Erde“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PAVIMENTUM</etymon>
+     (== 
+    <etymon lang="Lat">*PAVIMENTUM</etymon>
+    , mit Suffixwechsel statt 
+    <etymon lang="Lat">PAVIMENTUM</etymon>
+    ): 
+    <!-- Assuming < FPAUMENTUM -> *PAVIMENTUM -->
+    
+    <cognates>
+      
+      <form lang="it">palmento</form>
+       „il pavimento sul quale gira la macina del molino“,
+vgl. 
+      <form lang="sc">pamentile</form>
+       „primo sternito dell’aja“.
+
+    </cognates>
+     Sonst im Rom. gelehrt.
+
+  </etymology>
+  
+</entry>

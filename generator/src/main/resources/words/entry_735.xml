@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="735">
+   
+  <!-- Assuming 135 -> 735 -->
+  
+  <lemma>greu</lemma>
+  
+  <!-- Assuming greü -> greu -->
+  
+  <feminine_neuter>grea</feminine_neuter>
+  
+  <!-- Assuming gred -> grea -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. greu, greao?, mgl. greu, greau?, ir. greu?, grea?]</variants>
+  
+  <!-- Interpretation needed for greao, mol. -> mgl., greo -> greau?, grew -> greu?, gre -> grea? -->
+  
+  <definition>„schwer“</definition>
+  
+  <etymology source="C. Gl. l. IV, 207, 87; Dens. H. l. r. 504">
+    
+    <etymon lang="Lat">*GREVIS, -EM?</etymon>
+     (C. Gl. l. IV, 207, 87, vgl. Dens. H. l. r. 504 für 
+    <etymon lang="Lat">GRAVIS</etymon>
+    : 
+    <!-- Assuming -zır -> -EM? -->
+    
+    <cognates>
+      
+      <form lang="sc-L">grae</form>
+      , 
+      <!-- Assuming sard. l. -> sc-L -->
+      
+      <form lang="es">grave</form>
+      ,
+
+      <form lang="pt">grave</form>
+       nach 
+      <etymon lang="Lat">LEVIS</etymon>
+      ?): 
+      <!-- Assuming Lävss -> LEVIS? -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="sq">rëndë?</form>
+      , 
+      <!-- Interpretation needed for re -->
+      
+      <form lang="it">greve</form>
+      ,
+
+      <form lang="lij-GEA">greve</form>
+      , 
+      <!-- Assuming a.-gen. -> lij-GEA -->
+      
+      <form lang="rgn">grîv?</form>
+      , 
+      <!-- Interpretation needed for griv -->
+      
+      <form lang="roh-ENG">greiv</form>
+      ,
+
+      <form lang="fr">grief</form>
+      ,
+
+      <form lang="oc">greu</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">greu</form>
+      ,
+
+      <form lang="es-OLD">grieve</form>
+      . 
+      <!-- Assuming a.-sp. -> es-OLD -->
+      
+    </cognates>
+     — Wie lat. 
+    <etymon lang="Lat">GRAVIDA</etymon>
+     und 
+    <form lang="sq">mbarës</form>
+     (von 
+    <form lang="sq">barrë</form>
+     „Last‘‘) bedeutet 
+    <form>grea</form>
+     adj. fem. [mgl. 
+    <form lang="ro-MG">greuă</form>
+    ] auch „schwanger“. 
+    <!-- Interpretation needed for mbarse, bare -->
+    
+  </etymology>
+  
+</entry>

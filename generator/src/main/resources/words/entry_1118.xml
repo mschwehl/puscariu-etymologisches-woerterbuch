@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1118">
+  
+  <lemma>mugesc</lemma>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mugescu?]</variants>
+  
+  <!-- Interpretation needed for mudzescu -->
+  
+  <definition>„brüllen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MUGIO, -IRE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="oc">mugir</form>
+      , 
+      <form lang="pt">mugir</form>
+      , 
+      <!-- Assuming pv. pg. -> oc, pt -->
+      
+      <form lang="fro">muire?</form>
+      , 
+      <!-- Interpretation needed for a.-frz. mire -> muire? -->
+      
+      <form lang="es">mugir?</form>
+      . 
+      <!-- Interpretation needed for sp. majir -> mugir? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

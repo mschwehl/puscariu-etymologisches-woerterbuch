@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1260">
+  
+  <prefix>I</prefix>
+  
+  <lemma>par</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. =?]</variants>
+  
+  <!-- Interpretation needed for > -> =? -->
+  
+  <definition>„Pfahl“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PALUS, -UM</etymon>
+    : 
+    <!-- Assuming rarvs -> PALUS -->
+    
+    <cognates>
+      
+      <form lang="it">palo</form>
+      , 
+      <form lang="es">palo</form>
+      ,
+
+      <form lang="fur">pal</form>
+      , 
+      <form lang="oc">pal</form>
+      , 
+      <!-- Assuming frl. pv. -> fur, oc -->
+      
+      <form lang="fr">pieu</form>
+      ,
+
+      <form lang="pt">pau</form>
+      . 
+      <!-- Assuming pao -> pau -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

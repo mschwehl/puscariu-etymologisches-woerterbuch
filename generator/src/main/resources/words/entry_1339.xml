@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1339">
+  
+  <lemma>plîng</lemma>
+  
+  <principal_parts>plînsei [+-?, ban. plîns?], plîns</principal_parts>
+  
+  <!-- Interpretation needed for +, plină -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. plîng?, -însu?, -întu? II, III, mgl. plîng?, -îns?, -îns? III, ir. plîng?, -îns? III]</variants>
+  
+  <!-- Interpretation needed for plinge -> plîng?, -mău -> -însu?, -mtu -> -întu?, plong -> plîng?, -n$ -> -îns?, pläng -> plîng?, -ns -> -îns?, LII -> III -->
+  
+  <definition>„weinen“</definition>
+   
+  <!-- Assuming einen -> weinen -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">PLANGO, -NXI, -NCTUM, -NGERE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">piangere</form>
+      , 
+      <!-- Assuming piungere -> piangere -->
+      
+      <form lang="it">piagnere</form>
+      ,
+
+      <form lang="roh-ENG">planger?</form>
+      , 
+      <!-- Interpretation needed for plaundzer -->
+      
+      <form lang="oc">plànher</form>
+      , 
+      <!-- Assuming pv. planher -> plànher -->
+      
+      <form lang="fr">plaindre</form>
+      ,
+
+      <form lang="es">plañir</form>
+      . 
+      <!-- Assuming plafir -> plañir -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="856">
+  
+  <lemma>îngraș</lemma>
+  
+  <!-- Assuming îngrâş -> îngraș -->
+  
+  <lemma_variants>(îngrăș)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. îngrașu?]</variants>
+  
+  <!-- Interpretation needed for ngrasü -->
+  
+  <definition>„mästen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IN-GRASSIO, -ARE</etymon>
+     (Von 
+    <etymon lang="Lat">GRASSUS</etymon>
+     = 
+    <etymon lang="Lat">CRASSUS</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="oc">engraissar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">engraisser</form>
+      ,
+
+      <form lang="pt">engraixar</form>
+      . 
+      <!-- Assuming engrazxar -> engraixar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

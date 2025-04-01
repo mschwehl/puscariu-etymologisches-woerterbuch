@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="741">
+   
+  <!-- Assuming 141 -> 741 -->
+  
+  <lemma>gros</lemma>
+  
+  <feminine_neuter>groasă</feminine_neuter>
+  
+  <!-- Assuming grodsä -> groasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+  
+  <definition>„dick“</definition>
+  
+  <etymology source="Conv. lit. XX, 1011">
+    
+    <etymon lang="Lat">GROSSUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming enăssUs -> GROSSUS -->
+    
+    <cognates>
+      
+      <form lang="it">grosso</form>
+      ,
+
+      <form lang="pt">grosso</form>
+      ,
+
+      <form lang="roh-ENG">groß?</form>
+      , 
+      <!-- Interpretation needed for groess -->
+      
+      <form lang="fr">gruess?</form>
+      , 
+      <!-- Interpretation needed for fr. gruess -->
+      
+      <form lang="oc">gros</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">gros</form>
+      ,
+
+      <form lang="ca">gros</form>
+      ,
+
+      <form lang="es">grueso</form>
+      .
+
+    </cognates>
+     — Dr. mgl. 
+    <example lang="ro-MG">glas gros</example>
+     = 
+    <example lang="it">voce grossa</example>
+     „tiefe Stimme“. — Substantivisch gebraucht bedeutet 
+    <form>gros</form>
+     „dicker Baum(stamm)“ 
+    <source_ref>Conv. lit. XX, 1011</source_ref>
+     (auch „ausgehöhlter Klotz, in den die Füße eines Gefangenen eingeschlossen werden‘) —= 
+    <form lang="it">grosso</form>
+    . 
+    <!-- Assuming ıngl. -> mgl. -->
+    
+  </etymology>
+  
+</entry>

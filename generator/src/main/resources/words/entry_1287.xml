@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1287">
+  
+  <lemma>pată</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Fleck“</definition>
+  
+  <variants>[mgl. pete? Plur. tant. „Flecken“]</variants>
+  
+  <!-- Interpretation needed for peti -->
+  
+  <etymology source="Candrea, Conv. lit. XXXVIII, 84ff; Verfassers: Lat. Ti u. Ki, S. 94; Byhan: Jb. V, 325">
+    soll, nach Candrea, Conv. lit. XXXVIII, 84ff, desgleichen wie alb. 
+    <form lang="sq">petë</form>
+     „Metallplatte, platter Hochzeitskuchen etc.“, 
+    <form lang="lmo-VALT?">peta</form>
+     „Fleck“, 
+    <form lang="pt">pata?</form>
+     aus einem 
+    <etymon lang="Lat">*PITTA, -AM?</etymon>
+     (
+    <etymon lang="el">πίττα</etymon>
+     „Wagenschmiere“, vgl. n.-gr. 
+    <etymon lang="el">πί(τ)τα</etymon>
+     „Kuchen‘“) stammen. 
+    <!-- Interpretation needed for pâta -> pata?, pitta -> πίττα, zi(7)ra -> πί(τ)τα -->
+     Einem Diminut. 
+    <etymon lang="Lat">*PITTULA?</etymon>
+     „Schichte“ würde 
+    <form>pătură</form>
+     sf. [ar. 
+    <form lang="ro-AR">petur?</form>
+     „Schicht, Teigblatt des Kuchens“, 
+    <form lang="ro-AR">pituroaie?</form>
+     „Kuchen aus Blätterteig‘] „Schicht“, 
+    <!-- Interpretation needed for *virriLa -> *PITTULA?, pituroaiie -> pituroaie? -->
+    
+    <cognates>
+      
+      <form lang="lmo-MIL">pettola</form>
+      , 
+      <form lang="it-NAP">pettola</form>
+      , 
+      <!-- Assuming mail. -> lmo-MIL -->
+      
+      <form lang="it-MAN">pàtola?</form>
+      , 
+      <!-- Interpretation needed for mant. pâtola -->
+      
+      <form lang="it-CAM?">pettula?</form>
+      , 
+      <!-- Interpretation needed for campob. pettula -->
+      
+      <form lang="it-ABR">pettele?</form>
+      , 
+      <!-- Interpretation needed for abruzz. pettele -->
+      
+      <form lang="roh-ENG">petla?</form>
+       
+      <!-- Interpretation needed for pettla -->
+      
+    </cognates>
+     entsprechen. Diese Etymologie hat mehr Wahrscheinlichkeit für sich, als diejenige Byhan’s &lt; kl.-russ. 
+    <etymon lang="uk">pjatno</etymon>
+     „Fleck“ (
+    <source_ref>Jb. V, 325</source_ref>
+    ), da bisher kein kl.-russ. Lehnwort im Südrum. nachgewiesen ist. Bedenken erregt dagegen ein von Candrea aufgestelltes 
+    <etymon lang="Lat">*PITTICUS, -A, -UM?</etymon>
+     aus dem rum. 
+    <form>petec</form>
+     sm. [ar. 
+    <form lang="ro-AR">peatic?</form>
+    , mgl. 
+    <form lang="ro-MG">petik?</form>
+    , vgl. mgl. 
+    <form lang="ro-MG">despețesc?</form>
+     „veiße“, 
+    <form lang="ro-MG">împețesc?</form>
+     „flicke“] „Fleck“ entstanden sein soll. 
+    <!-- Interpretation needed for *pirr-icus -> *PITTICUS?, peatic, petik, dispeatic -> despețesc?, mpeatic -> împețesc? -->
+     Das rum. Wort ist wahrscheinlich identisch mit 
+    <form lang="it">petaccia?</form>
+     „Kleinigkeit“, 
+    <form lang="oc">pedaç?</form>
+     „Flickwort“, 
+    <form lang="es">pedazo</form>
+    , 
+    <form lang="pt">pedaço</form>
+     „Stück“ (vgl. 
+    <form lang="oc">pedasar?</form>
+     „flicken“, 
+    <form lang="fr">rapetasser</form>
+     „zusammenflicken“), 
+    <!-- Interpretation needed for petazza -> petaccia?, pv. pedäs -> pedaç?, pr. pedazar -> pedasar?, repetasser -> rapetasser -->
+     und beruht auf ein 
+    <etymon lang="Lat">PITTACIUM</etymon>
+     (= 
+    <etymon lang="el">πιττάκιον</etymon>
+    ) mit Suffixwechsel. Für 
+    <form>peteci</form>
+     sm. plur. tant. „Fleckfieber‘ vgl. einerseits 
+    <form lang="it">petecchie</form>
+     „rote Flecken“, andererseits srb. 
+    <form lang="sr">pjega?</form>
+     „Fleckfieber“. 
+    <!-- Interpretation needed for urrdzuor -> πιττάκιον, nerusn -> pjega? -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="933">
+  
+  <lemma>lăcrimos</lemma>
+  
+  <!-- Assuming lderimos -> lăcrimos -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <lemma_variants>(lăcrămos, -oasă)</lemma_variants>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. lăcrimos?, lăcarmos?]</variants>
+  
+  <!-- Interpretation needed for läcrimos, läcärmos -->
+  
+  <definition>„voll Tränen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LACRIMOSUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming Lacrinösus -> LACRIMOSUS -->
+    
+    <cognates>
+      
+      <form lang="it">lagrimoso</form>
+      , 
+      <form lang="es">lagrimoso</form>
+      , 
+      <form lang="pt">lagrimoso</form>
+      ,
+
+      <form lang="oc">lagrimós?</form>
+      . 
+      <!-- Interpretation needed for pv. lagremos -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="899">
+  
+  <lemma>înveninez</lemma>
+  
+  <!-- Assuming inveninez -> înveninez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„vergiften“</definition>
+  
+  <variants>[mgl. (în)veninez? „betrüben“]</variants>
+  
+  <!-- Interpretation needed for (ajnvirin -> (în)veninez?, betriiben -> betrüben -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">[IN-]VENENO, -ARE</etymon>
+    : 
+    <!-- Assuming [Fın-|vEsENo -> [IN-]VENENO -->
+    
+    <cognates>
+      
+      <form lang="it">avvelenare?</form>
+      , 
+      <!-- Interpretation needed for velenare -->
+      
+      <form lang="oc">enverenar?</form>
+      , 
+      <form lang="ca">enverinar</form>
+      , 
+      <!-- Assuming pv. cat. -> oc, ca; enverinar -->
+      
+      <form lang="fr">envenimer</form>
+      ,
+
+      <form lang="es">envenenar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. farmăc?].</variants>
+  
+  <!-- Interpretation needed for fürmäc -->
+  
+</entry>

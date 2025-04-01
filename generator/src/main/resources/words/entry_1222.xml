@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1222">
+  
+  <lemma>opt</lemma>
+  
+  <pos>num.</pos>
+  
+  <variants>[ar. optu, mgl. opt?, ir. =?]</variants>
+  
+  <!-- Interpretation needed for «opt -> opt?, I -> =? -->
+  
+  <definition>„acht“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">OCTO</etymon>
+    : 
+    <!-- Assuming öcro -> OCTO -->
+    
+    <cognates>
+      
+      <form lang="it">otto</form>
+      ,
+
+      <form lang="lmo-MIL">ott?</form>
+      , 
+      <form lang="fur">ott?</form>
+      , 
+      <!-- Interpretation needed for mail. frl. vott -->
+      
+      <form lang="pms">uit?</form>
+      , 
+      <!-- Interpretation needed for Of -->
+      
+      <form lang="roh-ENG">otg?</form>
+      , 
+      <form lang="roh-OBW">otg?</form>
+      , 
+      <!-- Interpretation needed for ok’, ot’ -->
+      
+      <form lang="oc">ueit?</form>
+      , 
+      <!-- Interpretation needed for pv. ueit -->
+      
+      <form lang="fr">huit</form>
+      ,
+
+      <form lang="es">ocho</form>
+      ,
+
+      <form lang="pt">oito</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

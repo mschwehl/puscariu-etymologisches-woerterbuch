@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1303">
+  
+  <lemma>piatră</lemma>
+  
+  <!-- Assuming pidtră -> piatră -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. piatră?]</variants>
+  
+  <!-- Interpretation needed for Watră) -> piatră? -->
+  
+  <definition>„Stein“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PETRA, -AM</etymon>
+    : 
+    <!-- Assuming pfrra -> PETRA -->
+    
+    <cognates>
+      
+      <form lang="it">pietra</form>
+      ,
+
+      <form lang="it-SIC">petra</form>
+      , 
+      <!-- Assuming sic. -> it-SIC -->
+      
+      <form lang="sc">preta?</form>
+      , 
+      <!-- Interpretation needed for sani). preya -->
+      
+      <form lang="fur">piere?</form>
+      , 
+      <!-- Interpretation needed for frl. piere -->
+      
+      <form lang="roh-ENG">peidra</form>
+      , 
+      <form lang="es">piedra</form>
+      , 
+      <!-- Interpretation needed for sp. peidra -> piedra -->
+      
+      <form lang="oc">peira</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">pierre</form>
+      , 
+      <!-- Assuming trz. -> fr -->
+      
+      <form lang="pt">pedra</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

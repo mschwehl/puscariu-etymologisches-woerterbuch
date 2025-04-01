@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="980">
+  
+  <lemma>lîngoare</lemma>
+  
+  <!-- Assuming tingoäre -> lîngoare -->
+  
+  <lemma_variants>(lingoare?, lungoare)</lemma_variants>
+  
+  <!-- Interpretation needed for lingodre -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. lingoare, lăngoare, lungoare „Krankheit“, mgl. lăngoare? „Krankheit“]</variants>
+  
+  <!-- Interpretation needed for lăngoari -> lăngoare? -->
+  
+  <definition>„Typhus“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LANGUOR, -OREM</etymon>
+    : 
+    <!-- Assuming Langvon -> LANGUOR -->
+    
+    <cognates>
+      
+      <form lang="sq-G">lëngatë?</form>
+       „Seuche“. 
+      <!-- Interpretation needed for alb. g. fünhüre -> sq-G lëngatë? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

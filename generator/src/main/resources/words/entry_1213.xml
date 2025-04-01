@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1213">
+  
+  <lemma>oară</lemma>
+  
+  <!-- Assuming odră -> oară -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. = auch „Zeit, Stunde“, mgl. =]</variants>
+  
+  <definition>„Mal“ (dient zur Bildung der -multiplicat. Numeralien)</definition>
+  
+  <etymology source="Dens. H. l. r. 223">
+    
+    <etymon lang="Lat">HORA, -AM</etymon>
+    : 
+    <!-- Assuming mona -> HORA -->
+    
+    <cognates>
+      
+      <form lang="sq">herë?</form>
+       „Mal“, 
+      <!-- Interpretation needed for herg -->
+      
+      <form lang="it">ora</form>
+      , 
+      <form lang="oc">ora</form>
+      ,
+
+      <form lang="it-SIC">ura</form>
+      , 
+      <form lang="roh-ENG">ura</form>
+      ,
+
+      <form lang="fr">heure</form>
+      ,
+
+      <form lang="es">hora</form>
+      , 
+      <form lang="pt">hora</form>
+       (auch 
+      <form lang="hr">ura</form>
+      , 
+      <form lang="sl">ura</form>
+      , 
+      <form lang="el">ὥρα</form>
+      ). 
+      <!-- Assuming kroat. slov. ora -> ura, n.-gr. öge -> ὥρα -->
+      
+    </cognates>
+     In der Bedeutung „Mal“ belegt Dens. H. l. r. 223 ein 
+    <form lang="vec-OLD">ora</form>
+     auch im A.-ven. D-rum. 
+    <form>oară, oră</form>
+     „Stunde“ ist Latinismus. — Hierher gehört das Adv. 
+    <form>aurea</form>
+     „manchmal“ (
+    <source_ref>Pasat?: Viaţa sf. 359</source_ref>
+    ) &lt; 
+    <etymon lang="Lat">AD + HORAM</etymon>
+     (vgl. alb. 
+    <form lang="sq">atëherë?</form>
+     „alsdann“), 
+    <!-- Interpretation needed for ahere -->
+     
+    <form>odată?</form>
+     adv. „zum Beispiel, und zwar“ (vgl. 
+    <example lang="it">in buon’ora</example>
+    , 
+    <example lang="oc">en bona ora</example>
+    , 
+    <example lang="fr">à la bonne heure!</example>
+    ). 
+    <!-- Interpretation needed for unăoară -> odată? -->
+    
+  </etymology>
+  
+</entry>

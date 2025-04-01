@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="659">
+  
+  <lemma>frunză</lemma>
+  
+  <!-- Assuming frânză -> frunză -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. frăndză?, frîndză?, mgl. frunză, ir. frunze]</variants>
+  
+  <!-- Assuming frăndză -> frăndză?, frindzä -> frîndză? -->
+  
+  <definition>„Blatt vom Baum“</definition>
+  
+  <etymology source="Rhein. Mus. XXXIV, 658">
+    
+    <etymon lang="Lat">FRONDEA, -AM?</etymon>
+     (von 
+    <etymon lang="Lat">FRONS, -NDEM</etymon>
+     nach 
+    <etymon lang="Lat">FOLIA</etymon>
+    ): 
+    <!-- Assuming rröxpra, -au -> FRONDEA, -AM? -->
+    
+    <cognates>
+      
+      <form lang="it">fronzolo</form>
+       „galano, nastro etc.“,
+
+      <form lang="sc">frunza</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="it-APU">frunza</form>
+      , 
+      <!-- Assuming apul. -> it-APU -->
+      
+      <form lang="it-LEC">frunza</form>
+      ,
+
+      <form lang="lij-GEA">frunsa</form>
+      , 
+      <!-- Assuming a.-gen. -> lij-GEA -->
+      
+      <form lang="roh-ENG">fruonzla?</form>
+       „Zweig, Reis“. 
+      <!-- Interpretation needed for fruonzla -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

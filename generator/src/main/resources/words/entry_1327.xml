@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1327">
+  
+  <lemma>piuă</lemma>
+  
+  <!-- Assuming ptud -> piuă -->
+  
+  <lemma_variants>(pică?)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Mörser“</definition>
+  
+  <etymology>
+    setzt wie 
+    <form lang="lmo-GOMB?">pila?</form>
+    , ein lat. 
+    <etymon lang="Lat">*PILLA, -AM?</etymon>
+     voraus, 
+    <!-- Interpretation needed for gombit. pilla -> pila? -->
+     welches aus 
+    <etymon lang="Lat">*PILULA, -AM?</etymon>
+    , Diminutiv von 
+    <etymon lang="Lat">PILA, -AM</etymon>
+    : 
+    <!-- Assuming *rinüßa -> *PILULA? -->
+    
+    <cognates>
+      
+      <form lang="it">pila</form>
+      , 
+      <form lang="es">pila</form>
+      , 
+      <form lang="oc">pila</form>
+      , 
+      <!-- Assuming sp. pv. -> es, oc -->
+      
+      <form lang="fr">pile</form>
+      ,
+
+      <form lang="pt">pia</form>
+       
+      <!-- Assuming pe. -> pt -->
+      
+    </cognates>
+     entstanden zu sein scheint.
+
+  </etymology>
+  
+  <variants>[ar. hăvane?, chisător?; bălane?, bătale?].</variants>
+  
+  <!-- Interpretation needed for k'isätor, bälane, bätale -->
+  
+</entry>

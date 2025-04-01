@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="844">
+   
+  <!-- Assuming 841 -> 844 -->
+  
+  <lemma>înfrîng</lemma>
+  
+  <!-- Assuming infring -> înfrîng -->
+  
+  <principal_parts>-însei, -înt</principal_parts>
+  
+  <!-- Assuming -nsei, -nt -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„brechen”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IN-FRANGO, -ERE</etymon>
+     (statt 
+    <etymon lang="Lat">INFRINGO</etymon>
+    : 
+    <!-- Assuming CEIN-PRANGO -> IN-FRANGO, 1xenixco -> INFRINGO -->
+    
+    <cognates>
+      
+      <form lang="fr">enfreindre?</form>
+      ): 
+      <!-- Interpretation needed for frenzi -> enfreindre? -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="it">infrangere, infragnere</form>
+      ,
+
+      <form lang="fro">enfraindre</form>
+      . 
+      <!-- Assuming a.Irz. en-fraindre -> fro enfraindre -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. frîngu?].</variants>
+  
+  <!-- Interpretation needed for fringn -> frîngu? -->
+  
+</entry>

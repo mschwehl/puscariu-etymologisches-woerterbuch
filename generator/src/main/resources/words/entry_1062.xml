@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1062">
+  
+  <prefix>I</prefix>
+  
+  <lemma>mestec</lemma>
+  
+  <!-- Assuming mestee -> mestec -->
+  
+  <lemma_variants>(selten: amestec)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. mestec?]</variants>
+  
+  <!-- Interpretation needed for mastic -->
+  
+  <definition>„kauen (nur von Menschen)“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MASTICO, -ARE</etymon>
+    : 
+    <!-- Assuming masrico -> MASTICO -->
+    
+    <cognates>
+      
+      <form lang="it">masticare</form>
+      ,
+
+      <form lang="lmo-TES">mastià?</form>
+      , 
+      <!-- Interpretation needed for tess. mastije -->
+      
+      <form lang="roh-OBW">mastiar?</form>
+      , 
+      <!-- Interpretation needed for mastiär -->
+      
+      <form lang="roh-ENG">mascar?</form>
+      , 
+      <!-- Interpretation needed for masker -->
+      
+      <form lang="oc">mascar</form>
+      , 
+      <!-- Assuming pv. maschar -> mascar -->
+      
+      <form lang="fr">mâcher</form>
+      , 
+      <!-- Assuming mächer -->
+      
+      <form lang="es">mascar</form>
+      , 
+      <form lang="pt">masgar</form>
+      . 
+      <!-- Assuming sp. pg. -> es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. road?].</variants>
+  
+  <!-- Interpretation needed for aroamig -> road? -->
+  
+</entry>

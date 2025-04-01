@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="930">
+  
+  <lemma>lac</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„See“</definition>
+  
+  <variants>[ar. = „Lache“ P. u. „Grube“ W., ir. lac? „kleiner See, Lache“]</variants>
+  
+  <!-- Interpretation needed for loc -> lac? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">LACUS, -UM</etymon>
+     („See" u. „Grube“, vgl. 
+    <example lang="la">LACUS LEONUM</example>
+     „Löwengrube‘):
+
+    <cognates>
+      
+      <form lang="it">lago</form>
+      , 
+      <form lang="es">lago</form>
+      , 
+      <form lang="pt">lago</form>
+      ,
+
+      <form lang="it-SIC">lacu?</form>
+      , 
+      <!-- Interpretation needed for laku -->
+      
+      <form lang="lmo">lac?</form>
+      , 
+      <!-- Interpretation needed for lag -->
+      
+      <form lang="pms-CAN?">lai?</form>
+      , 
+      <!-- Interpretation needed for canav. le -->
+      
+      <form lang="lmo-TES">lai?, lej?</form>
+      , 
+      <!-- Interpretation needed for tess. laj, lej -->
+      
+      <form lang="fur">lac?</form>
+      , 
+      <!-- Interpretation needed for lag -->
+      
+      <form lang="oc">lac</form>
+      . 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

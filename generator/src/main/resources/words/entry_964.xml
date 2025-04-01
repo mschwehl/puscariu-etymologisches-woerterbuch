@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="964">
+  
+  <lemma>lemnar</lemma>
+  
+  <!-- Assuming temmnär -> lemnar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. lemnar?]</variants>
+  
+  <!-- Interpretation needed for limnar -> lemnar? -->
+  
+  <definition>„Holzhändler, Zimmermann“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LIGNARIUS, -UM</etymon>
+    : 
+    <!-- Assuming -Tu -> -UM -->
+    
+    <cognates>
+      
+      <form lang="it">legnajo</form>
+      ,
+
+      <form lang="es">leñero</form>
+      , 
+      <!-- Assuming lenero -> leñero -->
+      
+      <form lang="pt">lenheiro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. in Vlahoclisura?: dărvar?].</variants>
+  
+  <!-- Interpretation needed for dirvar -->
+  
+</entry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="946">
+  
+  <lemma>lat</lemma>
+  
+  <pos>adj.</pos>
+  
+  <definition>„breit“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LATUS, -A, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">lato</form>
+      ,
+
+      <form lang="roh-OBW">lad</form>
+      ,
+
+      <form lang="roh-ENG">led</form>
+      ,
+
+      <form lang="oc">lat</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">lado</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1326">
+  
+  <lemma>pîtă?</lemma>
+  
+  <!-- Assuming piră -> pîtă? -->
+  
+  <pos>sf.</pos>
+  
+  <usage_note>(Jb. III, 325)</usage_note>
+  
+  <definition>„Fleisch“</definition>
+  
+  <etymology source="Zauner: Rom. Forsch. XIV, 354; Verfassers: Lat. Ti u. Ki, S. 94">
+    geht nach Zauner: Rom. Forsch. XIV, 354. wie 
+    <form lang="sc-L">petta</form>
+     „Fleisch“, auf 
+    <etymon lang="Lat">PETTIA, -AM?</etymon>
+     „Stück“ zurück: 
+    <!-- Assuming sard. l. -> sc-L, pErIA -> PETTIA? -->
+    
+    <cognates>
+      
+      <form lang="sq">copë?</form>
+      , 
+      <!-- Interpretation needed for pese -->
+      
+      <form lang="it">pezza</form>
+       (Dialektformen in Verfassers: Lat. Ti u. Ki, S. 94),
+
+      <form lang="oc">pessa</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">pièce</form>
+      ,
+
+      <form lang="es">pieza</form>
+      ,
+
+      <form lang="pt">peça</form>
+      . 
+      <!-- Assuming peca -> peça -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

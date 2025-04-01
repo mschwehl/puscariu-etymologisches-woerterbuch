@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1039">
+  
+  <lemma>mas</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Schlafstelle*</definition>
+  
+  <variants>[ar. = „Schlafstelle der Schafe“, olymp.-wal. mas? „Schlaf“]</variants>
+  
+  <!-- Interpretation needed for » -> = -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MANSUM</etymon>
+     (von 
+    <etymon lang="Lat">MANERE</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="it">maso</form>
+      ,
+
+      <form lang="fur">mas</form>
+      , 
+      <form lang="oc">mas</form>
+      , 
+      <form lang="ca">mas</form>
+      , 
+      <!-- Assuming frl. pv. cat. -> fur, oc, ca -->
+      
+      <form lang="fro">mes</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+     Vgl. 
+    <form>mîn II</form>
+    .
+
+  </etymology>
+  
+</entry>

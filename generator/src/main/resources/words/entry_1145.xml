@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1145">
+  
+  <prefix>II</prefix>
+  
+  <lemma>mut</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. =?]</variants>
+  
+  <!-- Interpretation needed for > -> =? -->
+  
+  <definition>„wechseln, verändern‘</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. I, § 445, II, § 587">
+    
+    <etymon lang="Lat">MUTO, -ARE</etymon>
+    : 
+    <!-- Assuming -Ang -> -ARE -->
+    
+    <cognates>
+      
+      <form lang="it">mutare</form>
+      ,
+
+      <form lang="roh-ENG">mudar</form>
+      , 
+      <!-- Interpretation needed for müder -->
+      
+      <form lang="oc">mudar</form>
+      , 
+      <form lang="ca">mudar</form>
+      , 
+      <form lang="es">mudar</form>
+      , 
+      <form lang="pt">mudar</form>
+      , 
+      <!-- Assuming pv. cat. sp. pg. -> oc, ca, es, pt -->
+      
+      <form lang="fr">muer</form>
+      .
+
+    </cognates>
+     Davon: 
+    <form>strămut</form>
+     I vb. „versetzen“ = 
+    <form lang="lmo">stramuà?</form>
+    , 
+    <form lang="lij-GEN">stramuà?</form>
+    , 
+    <form lang="roh-UEG">stramüdar?</form>
+    , 
+    <form lang="fur">stramudà?</form>
+    . 
+    <!-- Interpretation needed for stramuar, stramiidar, stramuda -->
+    
+    <reference type="bibliographic">Meyer-Lübke: Rom. Gramm. I, § 445, Il, § 587</reference>
+     sieht im rum. Verbum ein Homoeotrop? und schlägt für die Bedeutung „bewegen“ (+ „schiften“) ein 
+    <etymon lang="Lat">*MOVITO, -ARE</etymon>
+     vor: 
+    <form lang="lij-GEN">moà?</form>
+    , 
+    <form lang="it-TAR?">emodà?</form>
+    , 
+    <form lang="frp-MORV?">emudà?</form>
+     „bewegen“. 
+    <!-- Interpretation needed for Homoeotrop, schiffen -> schiften, genf. modă -> moà?, tarant. eîmodă -> emodà?, morv. cmud& -> emudà? -->
+    
+  </etymology>
+  
+</entry>

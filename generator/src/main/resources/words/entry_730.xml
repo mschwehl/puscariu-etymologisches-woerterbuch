@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="730">
+  
+  <lemma>grăunte</lemma>
+  
+  <!-- Assuming gräünt -> grăunte -->
+  
+  <lemma_variants>(grăunte?)</lemma_variants>
+  
+  <!-- Assuming gräünte -> grăunte? -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. grănuț? auch „Pustel“, mgl. gărnuț? „Pustel“]</variants>
+  
+  <!-- Assuming gränuts -> grănuț?, ıngl. -> mgl., gărnuts -> gărnuț? -->
+  
+  <definition>„Körnchen“</definition>
+  
+  <etymology source="Verfassers: Lat. Ti und Ki, S. 129">
+    
+    <etymon lang="Lat">*GRANUCULUM?</etymon>
+    , vgl. Verfassers: Lat. Ti und Ki, S. 129. 
+    <!-- Assuming *craxuscöLen -> *GRANUCULUM? -->
+    
+  </etymology>
+  
+</entry>

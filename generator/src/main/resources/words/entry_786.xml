@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="786">
+  
+  <lemma>împart</lemma>
+  
+  <!-- Assuming împârt -> împart -->
+  
+  <lemma_variants>(+ împart?, împărțesc?)</lemma_variants>
+   
+  <!-- Assuming imparf -> împart?, impärfesc -> împărțesc? -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. împartu?, împărțăscu?, mgl. împărțesc?]</variants>
+  
+  <!-- Interpretation needed for mpartu, mpär-tsăscu, mel. ampărtsos -> mgl. împărțesc? -->
+  
+  <definition>„einteilen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IMPARTIO, -IRE</etymon>
+    : 
+    <!-- Assuming “ -> from -->
+    
+    <cognates>
+      
+      <form lang="it">impartire</form>
+      ,
+
+      <form lang="es">impartir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

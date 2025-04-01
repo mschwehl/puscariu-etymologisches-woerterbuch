@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1131">
+  
+  <prefix>I</prefix>
+  
+  <lemma>mur</lemma>
+  
+  <scope>ar.</scope>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Mauer“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MURUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">muro</form>
+      , 
+      <form lang="es">muro</form>
+      , 
+      <form lang="pt">muro</form>
+      ,
+
+      <form lang="roh-ENG">mir?</form>
+      , 
+      <!-- Interpretation needed for mär -->
+      
+      <form lang="oc">mur</form>
+      , 
+      <form lang="fr">mur</form>
+      . 
+      <!-- Assuming pv. frz. -> oc, fr -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

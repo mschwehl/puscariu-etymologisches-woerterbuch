@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1141">
+  
+  <lemma>mustață</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. auch mustacă, mgl. = Pl. dazu ein Sg. mustac]</variants>
+  
+  <definition>„Schnurrbart“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MUSTACIA</etymon>
+    
+    <cognates>
+      
+      <form lang="it">mostaccio</form>
+      (
+      <form lang="fr">moustache</form>
+      ),
+
+      <form lang="it-LEC">mustazzu</form>
+      
+      <form lang="it-CAL">mustazzu</form>
+      
+      <form lang="sc-C">mustazzu</form>
+      
+      <form lang="it-NAP">mostazzo</form>
+      
+      <form lang="roh-ENG">mustaț?</form>
+      
+      <form lang="roh-ENG">mustaki?</form>
+      
+      <form lang="es">mostacho</form>
+      
+    </cognates>
+    
+    <note>
+      Ar. 
+      <form lang="ro-AR">mustaki?</form>
+      , wie alb.
+
+      <form lang="sq">mustaqe?</form>
+       &lt; ngr. 
+      <etymon lang="el">μουστάκι</etymon>
+      .
+
+    </note>
+    
+  </etymology>
+  
+</entry>

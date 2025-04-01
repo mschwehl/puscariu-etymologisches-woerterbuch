@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="701">
+  
+  <lemma>gaură</lemma>
+  
+  <!-- Assuming gâmă -> gaură -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. gavră, Thess. Aspropotamos?, mgl. =, Pl. găuri „Honigzellen“]</variants>
+  
+  <!-- Interpretation needed for 'Lhess. Aspropstamus', > -> = -->
+  
+  <definition>„Loch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*CAVULA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">CAVUS, -A, -UM</etymon>
+    ), 
+    <!-- Assuming *cavöua -> *CAVULA -->
+    oder 
+    <etymon lang="Lat">CAULEA, -ARUM?</etymon>
+    , vgl. 
+    <!-- Assuming CAULE -> CAULEA -->
+    
+    <form lang="sq">gavrë, goverë?</form>
+    . 
+    <!-- Interpretation needed for govere -->
+    
+  </etymology>
+  
+  <variants>[ar. meist guvă].</variants>
+  
+</entry>

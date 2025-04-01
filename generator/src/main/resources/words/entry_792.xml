@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="792">
+   
+  <!-- Assuming 192 -> 792 -->
+  
+  <lemma>împresur</lemma>
+  
+  <!-- Assuming Tmpresur -> împresur -->
+  
+  <lemma_variants>(împresor?)</lemma_variants>
+  
+  <!-- Assuming impresör -> împresor? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„umzingeln, bedrängen“</definition>
+  
+  <etymology source="Conv. lit. XXXIX, 326">
+    
+    <etymon lang="Lat">*PRESSURO, -ARE</etymon>
+     (Von 
+    <etymon lang="Lat">PRESSURA</etymon>
+    ). 
+    <!-- Assuming <FPRESSURO -> *PRESSURO -->
+    
+  </etymology>
+  
+  <variants>[ar. înțerclu?, înțerculez?].</variants>
+  
+  <!-- Interpretation needed for ntserclu, ntsireledz -->
+  
+</entry>

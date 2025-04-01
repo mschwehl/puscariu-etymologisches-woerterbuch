@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="761">
+  
+  <lemma>iet?</lemma>
+  
+  <!-- Assuming tet -> iet?, meaning 'here' -->
+  
+  <lemma_variants>(aici)</lemma_variants>
+  
+  <pos>adv.</pos>
+  
+  <definition>„hier“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ECCUM HIC?</etymon>
+     
+    <!-- Assuming <nicor -> < ECCUM HIC? -->
+    
+  </etymology>
+  
+  <reference type="see">
+    Vgl. 
+    <targetLemma>aci</targetLemma>
+    .
+  </reference>
+  
+</entry>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="821">
+   
+  <!-- Assuming 321 -> 821 -->
+  
+  <lemma>încing</lemma>
+  
+  <!-- Assuming înciug -> încing -->
+  
+  <principal_parts>-insei (+, ban. -ins), -ins</principal_parts>
+  
+  <!-- Assuming -nsei, -ns -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. țingu?, ținsu?, țintu?, III, II, mgl. (a)nțing?]</variants>
+  
+  <!-- Interpretation needed for tsingu, mu, -mta, LI, (a)ntsing -->
+  
+  <definition>„umgürten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CINGO, -NXI, -NCTUM, -NGERE</etymon>
+    : 
+    <!-- Assuming <[ıy)ciseo. -Nxt -> CINGO, -NXI -->
+    
+    <cognates>
+      
+      <form lang="it">(in)cingere, (in)cignere</form>
+      , 
+      <!-- Assuming (Ün)cignere -> (in)cignere -->
+      
+      <form lang="oc">(en)cenher</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">(en)ceindre</form>
+      ,
+
+      <form lang="es">ceñir</form>
+      , 
+      <!-- Assuming cefiir -> ceñir -->
+      
+      <form lang="pt">cingir</form>
+      .
+
+    </cognates>
+     Das einfache 
+    <etymon lang="Lat">*CINGERE?</etymon>
+     liegt in 
+    <form>cingătoare</form>
+     sf. „Gurt“ (vgl. 
+    <form lang="es">ceñidor</form>
+    , 
+    <form lang="pt">cingidouro</form>
+    ) vor. 
+    <!-- Assuming *eing -> *CINGERE?, eingätodre -> cingătoare, cenidor -> ceñidor -->
+    
+  </etymology>
+  
+</entry>

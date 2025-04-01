@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="822">
+  
+  <lemma>încînt</lemma>
+  
+  <!-- Assuming ineint -> încînt -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„bezaubern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">INCANTO, -ARE</etymon>
+    : 
+    <!-- Assuming CINCANTO -> INCANTO -->
+    
+    <cognates>
+      
+      <form lang="it">incantare</form>
+      ,
+
+      <form lang="roh-ENG">incantar?</form>
+      , 
+      <!-- Interpretation needed for enk’anter -->
+      
+      <form lang="oc">encantar</form>
+      , 
+      <!-- Assuming py. -> oc -->
+      
+      <form lang="ca">encantar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">encantar</form>
+      ,
+
+      <form lang="pt">encantar</form>
+      ,
+
+      <form lang="fr">enchanter</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. fac amăli?].</variants>
+  
+  <!-- Interpretation needed for amäl -->
+  
+</entry>

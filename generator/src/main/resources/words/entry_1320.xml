@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1320">
+  
+  <lemma>pîine</lemma>
+  
+  <!-- Assuming pine -> pîine -->
+  
+  <lemma_variants>(pîine)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. —, mgl. pîine?, ir. pîine?]</variants>
+  
+  <!-- Interpretation needed for poini -> pîine?, päre -> pîine? -->
+  
+  <definition>„Brot“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PANIS, -EM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">pane</form>
+      ,
+
+      <form lang="roh-ENG">pan</form>
+      , 
+      <!-- Interpretation needed for patit -> pan? -->
+      
+      <form lang="fur">pan</form>
+      , 
+      <form lang="es">pan</form>
+      , 
+      <!-- Assuming frl. sp. -> fur, es -->
+      
+      <form lang="fr">pain</form>
+      ,
+
+      <form lang="oc">pan</form>
+      , 
+      <form lang="ca">pa</form>
+      , 
+      <!-- Assuming pv. cat. pa -> pan?, pa -->
+      
+      <form lang="oc-GAS">pan?</form>
+      , 
+      <!-- Interpretation needed for gask. pad -->
+      
+      <form lang="pt">pão</form>
+      . 
+      <!-- Assuming pâo -> pão -->
+      
+    </cognates>
+     — Dialektisch 
+    <form>pîine</form>
+     und mgl. 
+    <form lang="ro-MG">pîine?</form>
+     plur. bedeutet auch „Getreide“. 
+    <!-- Assuming pine -> pîine, point -> pîine? -->
+    
+  </etymology>
+  
+</entry>

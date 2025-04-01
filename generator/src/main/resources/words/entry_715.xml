@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="715">
+  
+  <lemma>ghindură</lemma>
+  
+  <!-- Assuming ghindurä -> ghindură -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. glindură?]</variants>
+  
+  <!-- Assuming mol. -> mgl., glinderă -> glindură? -->
+  
+  <definition>„Mumps, Drüse im Halse“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GLANDULA, -AM</etymon>
+    : (vgl. 
+    <form lang="sq">gjendër?</form>
+    ), 
+    <!-- Interpretation needed for jendere -->
+    
+    <cognates>
+      
+      <form lang="it">ghiandola</form>
+      ,
+
+      <form lang="sc-L">randula, landula</form>
+       
+      <!-- Assuming sard. l. -> sc-L -->
+       (sonst gelehrt).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

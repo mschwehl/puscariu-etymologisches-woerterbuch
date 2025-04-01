@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1186">
+  
+  <lemma>noatin</lemma>
+  
+  <!-- Assuming ndatiu -> noatin -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>sm.</pos>
+  
+  <definition>„einjähriges Lamm. einjähriges Pferd“</definition>
+  
+  <variants>[ar. noaten, mgl. =, ir. notin?]</variants>
+  
+  <!-- Interpretation needed for I, notir -->
+  
+  <definition>„einjähriges Lamm“</definition>
+  
+  <etymology source="W. Meyer: Lat. Neutr. 101; Conv. lit. XXXVIII, 464-465">
+    
+    <etymon lang="Lat">ANNOTINUS, -A, -UM</etymon>
+     „ein Jahr alt“: 
+    <!-- Assuming C.ANSOTINUS -> ANNOTINUS -->
+    
+    <cognates>
+      vgl. 
+      <form lang="fr">antenois</form>
+       „einjähriges Lamm“.
+
+    </cognates>
+    Andere von 
+    <etymon lang="Lat">ANNUS</etymon>
+     abgeleitete Haustiernamen im Rom. sind: 
+    <etymon lang="Lat">ANNICULUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sc-L">annigu?</form>
+       „Fohlen von einem Jahr“, 
+      <!-- Interpretation needed for sard. l. anniju -->
+      
+      <form lang="co">anneccu?</form>
+       „Bock, Lamm von einem Jahr“,
+
+      <form lang="sc-SAS">annigiu?</form>
+       „Fohlen von einem Jahr“, 
+      <!-- Interpretation needed for sass. anidizu -->
+      
+      <form lang="it-NAP">annicchio?</form>
+      , 
+      <!-- Interpretation needed for annekkie -->
+      
+      <form lang="lmo-TES">neč?</form>
+       „einjähriges Kalb“, 
+      <!-- Interpretation needed for tessin. netă -->
+      
+      <form lang="it-ABR">annicchio?</form>
+       „einjähr. Ziege“, 
+      <!-- Interpretation needed for nnekie -->
+      
+      <form lang="es">añejo</form>
+      . 
+      <!-- Assuming afejo -> añejo -->
+      
+    </cognates>
+    — 
+    <etymon lang="Lat">*ANNUCULUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="roh-OBW">anugl?</form>
+       „Widder“, 
+      <!-- Interpretation needed for anu? -->
+      
+      <form lang="es">añojo</form>
+       „einjähr. Rind“. 
+      <!-- Assuming afiojo -> añojo -->
+      
+    </cognates>
+    — 
+    <etymon lang="Lat">*ANNICELLA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="lmo-TES">nesela?</form>
+       „Junge Ziege“, 
+      <!-- Interpretation needed for tessin. nezela -->
+      
+    </cognates>
+    — 
+    <etymon lang="Lat">*ANNIO, -ONEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sc-LOG">andzone</form>
+       „einjähr. Lamm“. 
+      <!-- Interpretation needed for log. -->
+      
+    </cognates>
+    — 
+    <etymon lang="Lat">*ANNOTICUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it-SIC">annòticu?</form>
+      , 
+      <!-- Interpretation needed for sie. annoticu -->
+      
+      <form lang="fr">(dial.) annoge</form>
+       „einjähr. Rind“, 
+      <form lang="fr">noge</form>
+       (
+      <form lang="fr">l'anoge</form>
+      ) „genisse d'un an“, 
+      <!-- Interpretation needed for Vanoge = la noge -->
+      
+      <form lang="oc">anoge?</form>
+      . 
+      <!-- Interpretation needed for pv. anouge -->
+      
+    </cognates>
+    — Auf rum. Boden entstand von slav. 
+    <etymon lang="chu">godŭ</etymon>
+     „Jahr“ die Ableitung 
+    <form>godac</form>
+     sm. „einjähr. Schwein, einjähr. Bär (
+    <source_ref>Săm. II, 98</source_ref>
+    )“, 
+    <form>godăin?</form>
+     sm. „einjähr. Wildschwein“ (
+    <source_ref>Jb. III, 316</source_ref>
+    ), ferner 
+    <form>dănac</form>
+     sm. [mgl. 
+    <form lang="ro-MG">dănac</form>
+    ] „einjähr. Kalb“ = 
+    <form>dan</form>
+     (= de an „vorjährig“) + 
+    <suffix>ac</suffix>
+    , und ar. 
+    <form lang="ro-AR">demuă?</form>
+     „einjähr. Kalb‘ — 
+    <example lang="ro-AR">de mă</example>
+     (= von jetzt, heurig) + 
+    <suffix>uă?</suffix>
+    . 
+    <reference type="bibliographic">Conv. lit. XXXVIII, 464—465.</reference>
+     
+    <!-- Interpretation needed for godâc -> godac, goddâin -> godăin?, demuă -->
+    
+  </etymology>
+  
+</entry>

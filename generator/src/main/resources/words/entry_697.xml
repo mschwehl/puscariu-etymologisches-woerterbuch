@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="697">
+  
+  <lemma>găleată</lemma>
+  
+  <!-- Assuming gäledtä -> găleată -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, mgl. găletă]</variants>
+   
+  <!-- Assuming Jar. -> ar. -->
+  
+  <definition>„Holzeimer“</definition>
+  
+  <etymology source="C. Gl. l. V, 564, 48; Cihac II 113; G. Meyer: Etymol. Wörtb. alb, Spr. 118; Byhan: Jb. VI. 227; Candrea-Hecht: Romania XXXI, 311-312; Dens. H. l. r. 197; Meyer-Lübke: Wiener Studien XXV, 103; Lork: Altbergamaskische Sprachdenkmäler, 193">
+    
+    <etymon lang="Lat">GALLETA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">galetë</form>
+      ,
+
+      <form lang="it">galletta</form>
+       „tazza o vaso da vino“,
+
+      <form lang="it-TIR">gale(d)a</form>
+      , 
+      <!-- Assuming tir. -> it-TIR -->
+      
+      <form lang="istro-ROV?">galido?</form>
+      , 
+      <!-- Interpretation needed for rovigno -->
+      
+      <form lang="lmo-COM">galeda</form>
+      , 
+      <!-- Assuming com. -> lmo-COM -->
+      
+      <form lang="lmo-BER">galeda</form>
+      , 
+      <!-- Assuming a.-berg. -> lmo-BER -->
+      
+      <form lang="lmo-VALT?">galeda</form>
+      , 
+      <!-- Interpretation needed for valtel. -->
+      
+      <form lang="it-ABR">galetta</form>
+      , 
+      <!-- Assuming galelta -> galetta -->
+      
+      <form lang="it-CAL">gaddetta</form>
+      ,
+
+      <form lang="it-SIC">gaddetta</form>
+      , 
+      <!-- Assuming sie. -> it-SIC -->
+      
+      <form lang="roh-ENG">galaida?</form>
+      , 
+      <!-- Interpretation needed for Zalaida -->
+      
+      <form lang="fro">jaloie</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="es">galleta?</form>
+      . 
+      <!-- Assuming galleia -> galleta? -->
+      
+    </cognates>
+     Ein auch sonst verbreitetes Wort: 
+    <form lang="gmh">Gelte</form>
+    , 
+    <form lang="de">Gelte</form>
+    , 
+    <form lang="hu">galeta</form>
+    , 
+    <form lang="sl">galeta</form>
+    , 
+    <form lang="cs">galeta</form>
+    , 
+    <form lang="uk">гелетя?</form>
+    , 
+    <form lang="pl">gieleta</form>
+    , 
+    <form lang="hr">golida</form>
+    , 
+    <form lang="sl">golida</form>
+     (daher ir. 
+    <form lang="ro-IR">golide?</form>
+    ). Über dieses Wort dunklen Ursprungs ist viel geschrieben worden: Vgl. Cihac II 113; G. Meyer: Etymol. Wörtb. alb, Spr. 118; Byhan: Jb. VI. 227; Candrea-Hecht: Romania XXXI, 311—312; Dens. H. l. r. 197; Meyer-Lübke: Wiener Studien XXV, 103; Lork: Altbergamaskische Sprachdenkmäler, 193 (wo auch eine Form 
+    <form>galera</form>
+     in n.-it. Mundarten zitiert und ein mißglückter Versuch die Etymologie von 
+    <etymon lang="Lat">GALLINA?</etymon>
+     zu erklären gemacht wird). 
+    <!-- Interpretation needed for yeletja, golide, GaLıErA -> GALLINA? -->
+    
+  </etymology>
+  
+</entry>

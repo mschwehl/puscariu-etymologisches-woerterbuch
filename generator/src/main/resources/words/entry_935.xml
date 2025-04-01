@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="935">
+  
+  <lemma>rămuială?</lemma>
+  
+  <!-- Assuming teimuvă -> rămuială? (based on REMOLERE?) -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <definition>„feinstes Mehl“</definition>
+  ,
+
+  <etymology source="Mussafia: Beitrag 93; Zeitschr. rom. Phil. XXVIII, 681-682">
+    setzt, wie 
+    <form lang="it-EMIL">remul</form>
+    , 
+    <form lang="it-FER">remul</form>
+    , 
+    <form lang="rgn">remul</form>
+    , 
+    <form lang="it-MOD">rémel?</form>
+    , 
+    <form lang="it-REG">rémel?</form>
+    , 
+    <form lang="it-BOL">imol?</form>
+    , 
+    <form lang="it-IMO?">remel?</form>
+    , 
+    <form lang="lmo">ramol?</form>
+    , 
+    <form lang="it-MAN">ramol?</form>
+    , 
+    <form lang="it-CREM">rèmula?</form>
+    , 
+    <form lang="it-PAR">ròmol?</form>
+    , 
+    <form lang="it-REG">romel?</form>
+    , 
+    <form lang="it-PIA?">romla?</form>
+    , („Kleie“ vgl. 
+    <form lang="it">semola</form>
+     „Kleie" (
+    <etymon lang="Lat">SIMILA</etymon>
+    , aber 
+    <form lang="lmo-BER">sömola</form>
+    , 
+    <form lang="lmo-COM">sömola</form>
+    , 
+    <form lang="lmo-MIL">sömola</form>
+    , 
+    <form lang="it-CREM">sömola</form>
+     „feinstes Mehl”) 
+    <!-- Interpretation needed for regg. bol. imol. remel, lomb. mant. r&mol, crem. remula, parm. römol, regg. romel, piac. romla, simiva -->
+     ein 
+    <etymon lang="Lat">*REMOLA, -AM?</etymon>
+    , postverbales Subst. von 
+    <etymon lang="Lat">RE-MOLERE</etymon>
+     „wieder mahlen“ voraus.
+
+    <reference type="bibliographic">Mussafia: Beitrag 93: Zeitschr. rom. Phil. XXVIII, 681—682.</reference>
+    
+  </etymology>
+  
+  <variants>[ar. floriță? W. sf. ros Fars?].</variants>
+  
+  <!-- Interpretation needed for fluritsä, ros Fans -->
+  
+</entry>

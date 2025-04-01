@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="834">
+  
+  <lemma>înduplec</lemma>
+  
+  <!-- Assuming tudüplce -> înduplec -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. înduplec? auch „harte Gegenstände biegen“)</variants>
+  
+  <!-- Interpretation needed for nduplie, Gegeustände -> Gegenstände -->
+  
+  <definition>„überreden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">DUPLICO, -ARE</etymon>
+    : 
+    <!-- Assuming < püruico -> DUPLICO -->
+    
+    <cognates>
+      
+      <form lang="lmo-TES">dubigà?</form>
+       „biegen“, 
+      <!-- Interpretation needed for tess. dubigă -->
+      
+      <form lang="it-LCC?">dobli?</form>
+      , 
+      <!-- Interpretation needed for Icent. dobli -->
+      
+      <form lang="roh-ENG">dublegiàr?</form>
+       „falten“. 
+      <!-- Interpretation needed for dubaldZer -->
+      
+    </cognates>
+     Der Sinn „falten, beugen“ (
+    <form lang="it">duplicare</form>
+    , 
+    <form lang="roh-ENG">duplicar?</form>
+     etc. „verdoppeln“ sind gelehrt), 
+    <!-- Interpretation needed for duplik’er -->
+     aus dem sich dann rum. „den Sinn beugen“ — „dazu bewegen“ — „überreden“ entwickelte, kann allenfalls auch so erklärt werden, daß 
+    <etymon lang="Lat">DUPLICO</etymon>
+     zunächst „zweifach (
+    <etymon lang="Lat">DUPLUS</etymon>
+    ) machen“. d. h. „in zwei Teilen falten‘ bedeutete; 
+    <!-- Assuming puvrico -> DUPLICO, purLus -> DUPLUS -->
+     wahrscheinlicher scheint mir indessen, da alle angeführten rom. Vertreter jenen Gebieten gehören, die den Übergang von 
+    <prefix>PER-</prefix>
+     zu 
+    <prefix>DUP-</prefix>
+    , 
+    <prefix>DUPL-</prefix>
+    ? auch sonst zeigen, anzunehmen, daß 
+    <etymon lang="Lat">DUPLICO</etymon>
+     durch Volksetymologie in verstärkendes 
+    <prefix>PER-</prefix>
+     — 
+    <etymon lang="Lat">PLICO</etymon>
+     „falten, biegen“ getrennt wurde. 
+    <!-- Assuming pur- -> DUPL-?, puprico -> DUPLICO, pe -> PER-, rLico -> PLICO -->
+    
+  </etymology>
+  
+</entry>

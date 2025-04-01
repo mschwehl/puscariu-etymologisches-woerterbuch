@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1093">
+  
+  <lemma>mioară</lemma>
+  
+  <!-- Assuming miodra -> mioară -->
+  
+  <lemma_variants>(mirioară Banat)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mioară?]</variants>
+  
+  <!-- Interpretation needed for mloară -->
+  
+  <definition>„Schaf nach dem ersten Wurf“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*AGNELLIOLA, -AM</etymon>
+     (Dimin. von 
+    <etymon lang="Lat">AGNELLA</etymon>
+    ). Das Männchen dazu heißt ar. 
+    <form lang="ro-AR">mior?</form>
+    , mgl. 
+    <form lang="ro-MG">m(i)ior?</form>
+    , letzteres auch „Bock von einem Jahr“. Aus dem Rum. stammt 
+    <form lang="sq">ilorë?</form>
+     „Junger Widder, junges Schaf von ein bis zwei Jahren“, ngr. 
+    <form lang="el">μ(π)λιόρι?</form>
+    , 
+    <form lang="el">μ(π)λιόρα?</form>
+     „junges Lamm“, ung. 
+    <form lang="hu">millóra?</form>
+     „zweijähriges Lamm“. 
+    <!-- Interpretation needed for mor -> mior?, m(i)lor -> m(i)ior?, ilore, un)joge -> μ(π)λιόρι?, ur)jooe -> μ(π)λιόρα?, millöra -> millóra?, aweijähriges -> zweijähriges -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="862">
+  
+  <lemma>îngurdesc?</lemma>
+  
+  <!-- Assuming îngurzesc -> îngurdesc? -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„einschrumpfen“</definition>
+   
+  <!-- Assuming einschrumpten -> einschrumpfen -->
+  
+  <etymology source="Dens. H. l. r. 166">
+    
+    <etymon lang="Lat">*IN-GURDIO, -IRE</etymon>
+     (von 
+    <etymon lang="Lat">GURDUS</etymon>
+    ): 
+    <!-- Assuming < *\"In]-GÜRDIO -> *IN-GURDIO, sürnus -> GURDUS -->
+    
+    <cognates>
+      
+      <form lang="fr">(en)gourdir</form>
+      ,
+
+      <form lang="it-VOL?">ngurdà?</form>
+      . 
+      <!-- Interpretation needed for vol. abruzz. ngurda -->
+      
+    </cognates>
+    
+    <reference type="bibliographic">Dens. H. l. r. 166.</reference>
+    
+  </etymology>
+  
+</entry>

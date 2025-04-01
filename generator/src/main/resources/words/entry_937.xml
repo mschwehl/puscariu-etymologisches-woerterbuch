@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="937">
+   
+  <!-- Assuming Töptär -> 937? -->
+  
+  <lemma>lăptar</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„Milchhändler“</definition>
+   
+  <!-- Assuming Milehhändler -> Milchhändler -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">LACTARIUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="es">lechero</form>
+      ,
+
+      <form lang="pt">leiteiro</form>
+       (
+      <form lang="fr">laitier</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

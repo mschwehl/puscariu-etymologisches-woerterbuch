@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="656">
+  
+  <lemma>frumos</lemma>
+  
+  <!-- Assuming frumös -> frumos -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <!-- POS missing, assuming adj. based on definition -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„schön</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FORMOSUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming < -> from -->
+    
+    <cognates>
+      
+      <form lang="it">formoso</form>
+      ,
+
+      <form lang="vec-OLD">formoso</form>
+      , 
+      <!-- Assuming a.-ven. -> vec-OLD -->
+      
+      <form lang="pt">formoso</form>
+      , 
+      <!-- Assuming pe. -> pt -->
+      
+      <form lang="oc">formós</form>
+      , 
+      <!-- Assuming pv. formos -> formós -->
+      
+      <form lang="es">hermoso</form>
+      . 
+      <!-- Assuming kermoso -> hermoso -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. mușat?, ar. mușat?, mgl. übav?].</variants>
+  
+  <!-- Interpretation needed for mu$ot, muSat, übav -->
+  
+</entry>

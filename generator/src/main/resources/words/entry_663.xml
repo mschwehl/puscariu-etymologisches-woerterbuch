@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="663">
+  
+  <lemma>fugă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. =, ir. fugă]</variants>
+   
+  <!-- Assuming fuge -> fugă -->
+  
+  <definition>„Flucht“</definition>
+  
+  <etymology source="Virg. A. 12, 367">
+    
+    <etymon lang="Lat">FUGA, -AM</etymon>
+    : 
+    <!-- Assuming rÜca, -an -> FUGA, -AM -->
+    
+    <cognates>
+      
+      <form lang="it">foga</form>
+      ,
+
+      <form lang="sc">fua</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="fr">fuie</form>
+      ,
+
+      <form lang="ca">fuga</form>
+      ,
+
+      <form lang="es">fuga</form>
+      ,
+
+      <form lang="pt">fuga</form>
+      .
+
+    </cognates>
+     — 
+    <example>Dau o fugă</example>
+     „laufe“ = 
+    <example lang="la">fugam dare</example>
+     Virg. A. 12, 367.
+
+  </etymology>
+  
+</entry>

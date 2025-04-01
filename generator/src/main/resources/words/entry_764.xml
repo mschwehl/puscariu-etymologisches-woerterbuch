@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="764">
+  
+  <lemma>el</lemma>
+  
+  <!-- Assuming iel -> el -->
+  
+  <feminine>ea</feminine>
+  
+  <pos>pron.</pos>
+  
+  <variants>[ar. el, ea?, mgl. el?, ea, ir. el?, ea?]</variants>
+  
+  <!-- Interpretation needed for ga -> ea?, iel -> el?, ie -> el?, io -> ea? -->
+  
+  <definition>„er, sie“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. II, § 76">
+    „Dem lat. 
+    <etymon lang="Lat">ILLI</etymon>
+     entspricht 
+    <form lang="es-OLD">elle</form>
+    , wozu 
+    <form lang="es">el</form>
+     Kurzform ist, 
+    <form lang="pt">ele</form>
+    , 
+    <form lang="oc">el</form>
+    , 
+    <form lang="rm">el</form>
+    , 
+    <!-- Assuming iur -> ILLI?, elle -> ele, pv. -> oc, rtr. -> rm -->
+    während rum. 
+    <form>el</form>
+    , früher 
+    <form>ielu</form>
+    , 
+    <form lang="it-N">elo, el</form>
+    , 
+    <form lang="it-S">ellu</form>
+     entweder ein aus 
+    <etymon lang="Lat">ILLE</etymon>
+     umgebogenes 
+    <etymon lang="Lat">*ILLUS</etymon>
+    , od. den Akk. 
+    <etymon lang="Lat">ILLUM</etymon>
+     in Nominativfunktion zeigen.“ 
+    <!-- Assuming iel -> el, *iLrus -> *ILLUS?, tru -> ILLUM? -->
+    
+    <reference type="bibliographic">Meyer-Lübke: Rom. Gramm. II, § 76.</reference>
+    
+  </etymology>
+  
+</entry>

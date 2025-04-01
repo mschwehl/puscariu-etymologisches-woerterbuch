@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="713">
+   
+  <!-- Assuming number based on context '703. gem — 713. ghiärä.' -->
+  
+  <lemma>gheară</lemma>
+  
+  <!-- Assuming ghidră -> gheară, based on meaning and cognates; st. -> sf. -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Kralle“</definition>
+  
+  <etymology source="Zeitschrift rom. Phil. XXVIII, 687">
+    scheint auf 
+    <etymon lang="Lat">*GARRA, -AM</etymon>
+     für 
+    <etymon lang="Lat">*GARRITA</etymon>
+    , Dimin. von 
+    <etymon lang="cel">*GARRA, -AM?</etymon>
+     (einem wohl früh ins Lat. gedrungene kelt. Wort, vgl. 
+    <form lang="cy">garr</form>
+     „Bein“) zu beruhen, 
+    <!-- Assuming *auARRA -> *GARRA, *Garr[Ü]ta -> *GARRITA, *GARRA, -au -> *GARRA, -AM?, gar» -> garr -->
+     vgl.
+
+    <cognates>
+      
+      <form lang="it">garretto</form>
+      ,
+
+      <form lang="fr">jarret</form>
+       „Kniekette“,
+
+      <form lang="oc-N">garro</form>
+       „Kniekette, Bein“, 
+      <!-- Assuming n.-pv. -> oc-N -->
+      
+      <form lang="es">garra</form>
+       „Kralle“,
+
+      <form lang="pt">garra</form>
+       „Kralle“.
+
+    </cognates>
+     Mit dem rum. Wort ist auch 
+    <form lang="lmo-MIL">desgiară?</form>
+     „svanare, col raspojo o con altro stromento levar via il pelo vano dai cappelli“ zu vergleichen. 
+    <!-- Assuming mail. desdzară -> desgiară? -->
+    
+    <reference type="bibliographic">Zeitschrift rom. Phil. XXVIII, 687.</reference>
+    
+  </etymology>
+  
+  <variants>[ar. unghie].</variants>
+   
+  <!-- Assuming ungle -> unghie -->
+  
+</entry>

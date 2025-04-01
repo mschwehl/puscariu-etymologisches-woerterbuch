@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1170">
+  
+  <lemma>nepoată</lemma>
+  
+  <!-- Assuming nepotii -> nepoată -->
+  
+  <pos>sf.</pos>
+  
+  <reference type="see">
+    s. 
+    <targetLemma>nepot</targetLemma>
+    .
+  </reference>
+  
+</entry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="885">
+  
+  <lemma>întineresc</lemma>
+  
+  <!-- Assuming intinerese -> întineresc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. întinerescu?]</variants>
+  
+  <!-- Interpretation needed for ntinirescu -->
+  
+  <definition>„jung werden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[*IN-]TENERESCO, -ERE?</etymon>
+     (= 
+    <etymon lang="Lat">-ESCERE</etymon>
+    : 
+    <!-- Assuming <[* 1x-]TENERESCO, -*iRE -> [*IN-]TENERESCO, -ERE? -->
+    
+    <cognates>
+      
+      <form lang="es">enternecer</form>
+      ,
+
+      <form lang="pt">enternecer</form>
+       
+      <!-- Assuming po. -> pt -->
+      
+    </cognates>
+    ):
+
+    <cognates>
+      
+      <form lang="it">intenerire</form>
+      ,
+
+      <form lang="roh-ENG">entenerir?</form>
+      , 
+      <!-- Interpretation needed for cntenerir -->
+      vgl. 
+      <form lang="fr">attendrir</form>
+      . 
+      <!-- Interpretation needed for attendriv -->
+      
+    </cognates>
+     Das rum. Verb lehnt sich in der Bedeutung an 
+    <form>tînăr</form>
+     an. 
+    <!-- Assuming tinär -> tînăr -->
+    
+  </etymology>
+  
+</entry>

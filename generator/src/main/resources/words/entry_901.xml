@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="901">
+  
+  <lemma>înving</lemma>
+  
+  <lemma_variants>
+    (+ învinge? 
+    <source_ref>Cur. d. b. I, 285</source_ref>
+    )
+  </lemma_variants>
+  
+  <!-- Assuming ineine -> învinge? -->
+  
+  <principal_parts>
+    -insei (ban. -ins?, 
+    <source_ref>Jb. III, 242</source_ref>
+    ), -ins
+  </principal_parts>
+  
+  <!-- Assuming -nsei -> -insei, -7$ -> -ins? -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. azvingu?, -insu?, -intu? III, II „kämpfen“, mgl. (an)ving?, -ins?, III]</variants>
+  
+  <!-- Interpretation needed for az-vingu, -msu, -mtu, INI, LI, (an)eing -> (an)ving? -->
+  
+  <definition>„siegen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">VINCO, VICI, VICTUM, VINCERE</etymon>
+    : 
+    <!-- Assuming vixco -> VINCO -->
+    
+    <cognates>
+      
+      <form lang="it">vincere</form>
+      ,
+
+      <form lang="roh-ENG">vinger?</form>
+      , 
+      <!-- Interpretation needed for vaindier -->
+      
+      <form lang="fr">vaincre</form>
+      , 
+      <!-- Assuming trz. vaincere -> fr vaincre -->
+      
+      <form lang="oc">venzer</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">vençre?</form>
+      , 
+      <!-- Interpretation needed for eat. vencer -->
+      
+      <form lang="es">vencer</form>
+      ,
+
+      <form lang="pt">vencer</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1305">
+  
+  <lemma>picior</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. cicior?, mgl. =, ir. picior?]</variants>
+  
+  <!-- Interpretation needed for (t$i)t$or -> cicior?, > -> =, pitSoru -> picior? -->
+  
+  <definition>„Fuß, Bein“</definition>
+  
+  <etymology source="G. Paris: Rom. XXII, 147">
+    
+    <etymon lang="Lat">*PECCIOLUS, -UM</etymon>
+     (dies ist die korrekte Form, nicht 
+    <etymon lang="Lat">PETIOLUS</etymon>
+    , das allerdings im Rum. dasselbe Resultat ergeben hätte, vgl. G. Paris: Rom. XXII, 147. Ob es statt 
+    <etymon lang="Lat">*PEDICIOLUS?</etymon>
+     steht ist nicht sicher, vgl. 
+    <etymon lang="Lat">*PEDICULUS</etymon>
+     
+    <form lang="lmo-MIL-OLD">pedegollo?</form>
+    , 
+    <form lang="lij-GEN">peigulu?</form>
+    , 
+    <form lang="it-SIC">pidicuddu?</form>
+    , 
+    <form lang="vec">pecollo?</form>
+    , 
+    <form lang="it-EMIL">picol?</form>
+    , 
+    <form lang="fur">pecol?</form>
+     mit der Bedeutung „Stiel“: 
+    <form lang="it">picciuolo</form>
+    ). 
+    <!-- Assuming *PROIOLUS -> *PECCIOLUS?, prrıöLus -> PETIOLUS, *pepIc-ıöLus -> *PEDICIOLUS?, *pepiciLuus -> *PEDICULUS, Ja.-mail. pedegollo -> pedegollo?, gen. peigulu -> peigulu?, sic. pidikuddu -> pidicuddu?, ven. pekollo -> pecollo?, emil. pikol -> picol?, îrl. pekol -> pecol? -->
+    
+  </etymology>
+  
+</entry>

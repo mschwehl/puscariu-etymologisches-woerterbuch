@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="846">
+  
+  <lemma>înfolesc?</lemma>
+  
+  <!-- Assuming îufilec -> înfolesc? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„gierig verschlingen”</definition>
+  
+  <etymology source="Georges; Noua rev. rom. I, 225">
+    
+    <etymon lang="Lat">FOLLICO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="es">holgar</form>
+      ,
+
+      <form lang="pt">folgar</form>
+       „ausschnauben“. 
+      <!-- Assuming ausschnauien -> ausschnauben -->
+      
+    </cognates>
+     Die zwei verschiedenen Bedeutungen erklären sich aus der lat.: „sich wie ein Blasebalg bald zusammenziehen, bald auseinanderdehnen, beim Essen (rum.), Atemholen (sp.-pg.) etc.““ (Georges). — Daneben auch 
+    <form>înfolosesc?</form>
+     IV vb. (
+    <source_ref>Noua rev. rom. I, 225</source_ref>
+    ). 
+    <!-- Assuming infulöse -> înfolosesc? -->
+    
+  </etymology>
+  
+</entry>

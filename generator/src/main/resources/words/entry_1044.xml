@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1044">
+  
+  <lemma>mascur</lemma>
+  
+  <!-- Assuming mäseur -> mascur -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mascur adj. „männlich“, mgl. mascur(î) sb. u. adj. „Mann; männlich“]</variants>
+  
+  <definition>„Eber“ (in der Bukowina: „verschnittenes männliches Schwein“)</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MASCULUS, -A, -UM?</etymon>
+    : 
+    <!-- Assuming mascünus -> MASCULUS? -->
+    
+    <cognates>
+      
+      <form lang="sq">mashkull</form>
+      , 
+      <!-- Interpretation needed for maske, maskul -->
+      
+      <form lang="it">maschio</form>
+       sb. u. adj.,
+
+      <form lang="it-CER?">mascule?</form>
+      , 
+      <!-- Interpretation needed for cerign. maskule -->
+      
+      <form lang="roh-ENG">maskel?</form>
+      , 
+      <!-- Interpretation needed for mask’el -->
+      
+      <form lang="oc">mascle</form>
+      , 
+      <form lang="fro">masle</form>
+      , 
+      <!-- Assuming pv. a,-frz. mas(c)le -> oc, fro mascle, masle -->
+      
+      <form lang="fr">mâle</form>
+      , 
+      <!-- Assuming n.-frz. -> fr -->
+      
+      <form lang="ca">mascle?</form>
+      , 
+      <!-- Interpretation needed for masele -->
+      
+      <form lang="es">macho</form>
+      .
+
+    </cognates>
+     — Für die Bedeutung vgl. 
+    <form lang="it-VIC?">maschio?</form>
+     „verro“, 
+    <!-- Interpretation needed for vieent. masi$o -> maschio? -->
+    
+    <form lang="sc-C">mascu</form>
+    , 
+    <form lang="sc-L">mastsu?</form>
+     „ariete 
+    <!-- Interpretation needed for sard. ce. mascu, l. mastsu -->
+     (dagegen 
+    <form lang="pms">berro?</form>
+     (
+    <etymon lang="Lat">VERRES</etymon>
+    ) = „ariete“, auch in frz. Dial. 
+    <form lang="fr-DIAL">beron?</form>
+    ). 
+    <!-- Interpretation needed for piem. bero, Cvinnes -> VERRES, beron -->
+    
+  </etymology>
+  
+</entry>

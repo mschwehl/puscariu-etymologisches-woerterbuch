@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1266">
+  
+  <lemma>pereche</lemma>
+  
+  <!-- Assuming päreche -> pereche -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. pereaclă?, pereclă? sf. auch pereclu? sm., mgl. perectă?]</variants>
+  
+  <!-- Interpretation needed for p(ăyreacte -> pereaclă?, părecle -> pereclă?, päreclu -> pereclu?, părectă -> perectă? -->
+  
+  <definition>„Paar“</definition>
+  
+  <etymology source="Arch. lat. Lex. VIII, 382">
+    
+    <etymon lang="Lat">PARICULUS, -A, -UM?</etymon>
+     (
+    <etymon lang="Lat">PARICULUM</etymon>
+     Arch. lat. Lex. VIII, 382): 
+    <!-- Assuming rariclülLus -> PARICULUS, PareeLum -> PARICULUM -->
+    
+    <cognates>
+      
+      <form lang="it">parecchio</form>
+      ,
+(
+      <form lang="roh-ENG">a para?</form>
+       „paarweise‘‘), 
+      <!-- Interpretation needed for eng. a para -->
+      
+      <form lang="oc">parelh</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">pareil</form>
+      ,
+
+      <form lang="es">parejo</form>
+      ,
+
+      <form lang="pt">parelho</form>
+      .
+
+    </cognates>
+     — Im Rum. ist das Adj. nicht mehr bewahrt, sondern zum Sb. geworden; ebenso: 
+    <form lang="it-OLD">pariglia</form>
+    , „coppia di cavalli simili“, 
+    <form lang="it-CAL">paricchiu?</form>
+     „paio, coppia (e dicesi propriamente de’ buoi aggiogati, i quali importa che sieno eguali di altezza e di forza)“, 
+    <form lang="it-CER?">parecchie?</form>
+     „pariglia di buoi“, 
+    <form lang="it-CER?">pariggie?</form>
+     „quella di cavalli da carrozza“. 
+    <!-- Interpretation needed for a.-it. -> it-OLD, simih -> simili, parikkiu -> paricchiu?, parekkie -> parecchie?, pariggie -->
+    
+  </etymology>
+  
+</entry>

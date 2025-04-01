@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="891">
+  
+  <lemma>întreb</lemma>
+  
+  <!-- Assuming tutreb -> întreb -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. întreb?, mgl. întreb?, ir. întreb?]</variants>
+  
+  <!-- Interpretation needed for ntreb -> întreb?, antreb -> întreb?, äntreb -> întreb? -->
+  
+  <definition>„fragen“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. I, § 439">
+    
+    <etymon lang="Lat">INTERROGO, -ARE</etymon>
+    : 
+    <!-- Assuming "ARE -> -ARE -->
+    
+    <cognates>
+      
+      <form lang="fro">enterver</form>
+       (&gt; 
+      <form lang="oc">entervar?</form>
+      ), 
+      <!-- Assuming a.frz. -> fro, pv. eniervar -> entervar? -->
+      sonst gelehrt.
+
+    </cognates>
+     Die lautliche Unregelmäßigkeit im Rum. erklärt Meyer-Lübke: Rom. Gramm. I, § 439 durch eine Mittelstufe 
+    <etymon lang="Lat">*interguare</etymon>
+    .
+
+  </etymology>
+  
+</entry>

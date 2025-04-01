@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="694">
+  
+  <lemma>găină</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. găină?, ir. găină?]</variants>
+  
+  <!-- Assuming găfină -> găină?, gafire -> găină? -->
+  
+  <definition>„Huhn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GALLINA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">gallina</form>
+      ,
+
+      <form lang="ca">gallina</form>
+      ,
+
+      <form lang="es">gallina</form>
+      ,
+
+      <form lang="roh-ENG">gallina</form>
+      , 
+      <!-- Assuming Zalina -> gallina -->
+      
+      <form lang="oc">galina</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">géline</form>
+      , 
+      <!-- Assuming geline -> géline -->
+      
+      <form lang="oc-GAS">garia?</form>
+      , 
+      <!-- Interpretation needed for garie -->
+      
+      <form lang="pt">galinha</form>
+      .
+
+    </cognates>
+     — 
+    <form>Găinar</form>
+     sm. „Hühnerdieb“ = 
+    <form lang="fur">galinar</form>
+     „ladro di galline“. 
+    <form>Găinușă?</form>
+     sf. [mgl. 
+    <form lang="ro-MG">puliță</form>
+    ] „Rebhuhn“ und „ein Sternbild“, das auch im 
+    <form lang="sq">pulë</form>
+     (= Huhn) heißt.
+
+    <!-- Assuming Găinâr -> Găinar, Gäindse -> Găinușă?, pule -> pulë -->
+    
+  </etymology>
+  
+</entry>

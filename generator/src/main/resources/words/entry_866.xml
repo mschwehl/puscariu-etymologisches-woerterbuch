@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="866">
+  
+  <lemma>înjur</lemma>
+  
+  <!-- Assuming jur -> înjur -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. înjur?, mgl. înjur?]</variants>
+  
+  <!-- Interpretation needed for ndăur -> înjur?, anf -> înjur? -->
+  
+  <definition>„schimpfen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IN-IURIO, -ARE</etymon>
+     (= 
+    <etymon lang="Lat">INIURIOR, -ARI</etymon>
+    ): 
+    <!-- Assuming (*ıy-ITRIO -> *IN-IURIO -->
+    
+    <cognates>
+      
+      <form lang="sc">indzurdzare?</form>
+      , 
+      <!-- Interpretation needed for sard. indzurdzare -->
+      (
+      <form lang="it">ingiuriare</form>
+      , 
+      <!-- Assuming injuriare -> ingiuriare -->
+      
+      <form lang="oc">enjuriar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">enjurier</form>
+      , 
+      <!-- Assuming enjurier -> enjurier -->
+      
+      <form lang="ca">enjuriar</form>
+      , 
+      <!-- Assuming cat. înjatriar -> enjuriar -->
+      
+      <form lang="es">injuriar?</form>
+      , 
+      <!-- Assuming sp. înjatriar -> injuriar? -->
+      
+      <form lang="pt">injuriar?</form>
+       
+      <!-- Assuming pu. înjatriar -> injuriar? -->
+       tragen buchwörtliches Gepräge).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

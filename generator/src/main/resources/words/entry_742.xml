@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="742">
+   
+  <!-- Assuming 742 -->
+  
+  <lemma>gruie?</lemma>
+  
+  <!-- Assuming gritie -> gruie? -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Kranich“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GRUS, -UEM?</etymon>
+    : 
+    <!-- Assuming anus, -teu -> GRUS, -UEM? -->
+    
+    <cognates>
+      
+      <form lang="it">grua</form>
+      ,
+
+      <form lang="oc">grua</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">grua</form>
+      ,
+
+      <form lang="lmo">gruga</form>
+      ,
+
+      <form lang="sc">gru</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="fr">grue</form>
+      ,
+
+      <form lang="es">grúa?</form>
+      , 
+      <!-- Assuming gru(a) -> grúa? -->
+      
+      <form lang="pt">grou</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

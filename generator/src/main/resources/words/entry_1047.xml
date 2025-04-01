@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1047">
+  
+  <lemma>măsură</lemma>
+  
+  <!-- Assuming mästră -> măsură -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. misură auch „Teller“, mgl. misur „Teller“, ir. misură?]</variants>
+  
+  <!-- Interpretation needed for mesire -> misură? -->
+  
+  <definition>„Maß“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MENSURA, -AM</etymon>
+    : 
+    <!-- Assuming me[n]sura -> MENSURA -->
+    
+    <cognates>
+      
+      <form lang="it">misura</form>
+      ,
+
+      <form lang="roh-ENG">masüra?</form>
+      , 
+      <!-- Interpretation needed for mazüra -->
+      
+      <form lang="fr">mesure</form>
+      ,
+
+      <form lang="es">mesura</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="928">
+  
+  <lemma>jurămînt</lemma>
+  
+  <!-- Assuming juerdanint -> jurămînt -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. jurămînt?]</variants>
+  
+  <!-- Interpretation needed for Xurămint -> jurămînt? -->
+  
+  <definition>„Schwur“</definition>
+   
+  <!-- Assuming Sehwur -> Schwur -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">IURAMENTUM</etymon>
+    : 
+    <!-- Assuming JCRAMENTUN -> IURAMENTUM -->
+    
+    <cognates>
+      
+      <form lang="hr">jurament?</form>
+      , 
+      <!-- Interpretation needed for hr a -->
+      
+      <form lang="oc">jurament</form>
+      , 
+      <!-- Assuming pv. jerament -> jurament -->
+      
+      <form lang="fr">jurement</form>
+      ,
+
+      <form lang="pt">juramento</form>
+      . 
+      <!-- Assuming Juramento -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. jurat?].</variants>
+  
+  <!-- Interpretation needed for dZurat -> jurat? -->
+  
+</entry>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1293">
+  
+  <lemma>pe</lemma>
+  
+  <lemma_variants>(pre, pa)</lemma_variants>
+  
+  <pos>präp.</pos>
+  
+  <variants>[ar. p(r)i, pre, mgl. pri, ir. pre]</variants>
+  
+  <etymology source="Kurth: Jb. X, 537-547; Meyer-Lübke: Rom. Gramm. III, § 351, § 221; Stinghe: Jb. III, 153 ff, IV, 228">
+    
+    <etymon lang="Lat">PER</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">për</form>
+      , 
+      <!-- Assuming per -> për -->
+      
+      <form lang="it">per</form>
+      , 
+      <form lang="roh-ENG">per</form>
+      , 
+      <form lang="es-OLD">per</form>
+      , 
+      <!-- Assuming eng. a.-sp. -> roh-ENG, es-OLD -->
+      
+      <form lang="fr">par</form>
+      ,
+
+      <form lang="pt">por</form>
+      .
+
+    </cognates>
+    
+    <usage_note>
+      I. Urtlich: a) „durch” (
+      <example>sufletul dat pe gură = per os anima exhalata</example>
+      ); b) „auf, in, an“ (Bewegung oder Lage an der Oberfläche: 
+      <example>întinseră trupurile pe iarbă = per herbas prostraverunt corpora</example>
+      ); c) bei Ausdrücken des Schwörens „auf (
+      <example>jur pe Dumnezeu</example>
+      ); d) „nach, gemäß“ (
+      <example>îmi este pe plac</example>
+      ). — II. Zeitlich: „während, bei, zu” (
+      <example>sînt chemat pe mîne sara = it. sono invitato per domani sera</example>
+      ). — III. Unbestimmtheit vor Zeit- und Ortsangaben (
+      <example>pe-nserat</example>
+       „gegen Abend“; 
+      <example>bine ați venit pe la noi</example>
+       „willkommen (auch) bei uns“). — IV. „Für, als Entgelt von“ (
+      <example>am dat-o pe o mie de lire = it. ho venduto per mille lire</example>
+      ). — V. Zur Bildung von Adverbia der Art u. Weise, oder des Grades (
+      <example>plîngea pe ascuns</example>
+       „sie weinte verstohlen“, 
+      <example>plăteşte pe jumătate</example>
+       „zahlt zur Hälfte“), — VI. 
+      <example>spune-mi pe rusește</example>
+      , vgl. russ. 
+      <example lang="ru">govorit' po-russki</example>
+      , — Vgl. Kurth: Jb. X, 537 bis 547. — VII. Wird vor dem Akkus. vor Personennamen bei transit. Verben gesetzt (nicht im Ar. Mgl. Ir. und in den ältesten Texten, vgl. jedoch die Beispiele bei Meyer-Lübke: Rom. Gramm. III, § 351): 
+      <example>chem pe mama</example>
+       „ich rufe die Mutter“, vgl. Stinghe: Jb. III, 153 ff. IV, 228.
+    </usage_note>
+     
+    <!-- Assuming Urtsangaben -> Ortsangaben, Wesennamen -> Personennamen -->
+    
+  </etymology>
+  
+</entry>

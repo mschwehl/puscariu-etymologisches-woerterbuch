@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="831">
+  
+  <lemma>îndes</lemma>
+  
+  <!-- Assuming indes -> îndes -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. îndes?]</variants>
+  
+  <!-- Interpretation needed for ndes -->
+  
+  <definition>„stopfen“</definition>
+  
+  <etymology source="Dens. H. l. r. 150; Noua rev. rom. I, Supl. II, 188">
+    
+    <etymon lang="Lat">*INDENSO, -ARE</etymon>
+     (mit Präfixwechsel aus 
+    <etymon lang="Lat">CONDENSO</etymon>
+    : 
+    <!-- Assuming <*ıxne[n]so -> *INDENSO -->
+    
+    <cognates>
+      
+      <form lang="es">condesar</form>
+       „aufhäufen“
+
+    </cognates>
+    ). Dagegen ist 
+    <form>îndesesc?</form>
+     IV vb. „oft wiederholen“ rum. Ableitung von 
+    <form>des</form>
+     und geht nicht auf 
+    <etymon lang="Lat">*PENSESCO?</etymon>
+     (Dens. H. l. r. 150) zurück, 
+    <!-- Assuming indesöse -> îndesesc?, pensesco -> *PENSESCO? -->
+     welchem ein 
+    <form>îndesesc?</form>
+     IV vb. (
+    <source_ref>Noua rev. rom. I, Supl. II, 188</source_ref>
+    ) eher entsprechen würde; 
+    <!-- Assuming indesese -> îndesesc? -->
+     doch scheint mir auch letzteres rum. Bildung zu sein. Mit 
+    <form>des</form>
+     steht endlich 
+    <form>înghesuiesc?</form>
+     IV vb. „drängen“ nur in volksetymologischer Verbindung (daher auch 
+    <form>îndesuesc?</form>
+     IV vb.); es gehört zu 
+    <form>ghies</form>
+     „Drang“. 
+    <!-- Assuming inghesuese -> înghesuiesc?, indesuese -> îndesuesc? -->
+    
+  </etymology>
+  
+</entry>

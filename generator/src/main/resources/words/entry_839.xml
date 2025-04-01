@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="839">
+  
+  <lemma>înfaș</lemma>
+  
+  <!-- Assuming tufas -> înfaș -->
+  
+  <lemma_variants>(înfăș)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. înfașă?, mgl. anfaș? beide auch „einwickeln“]</variants>
+  
+  <!-- Interpretation needed for nfasă -> înfașă?, anfa$ -> anfaș? -->
+  
+  <definition>„einwindeln“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[IN-]FASCIO, -ARE</etymon>
+    : 
+    <!-- Assuming [Fın-]rascıo, -arn -> [IN-]FASCIO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="sq">fashoj?</form>
+      , 
+      <!-- Interpretation needed for fask’on -->
+      
+      <form lang="it">(in)fasciare</form>
+      ,
+
+      <form lang="sc">fașare?</form>
+      , 
+      <!-- Interpretation needed for sard. faSare -->
+      
+      <form lang="roh-ENG">(în)fașar?</form>
+      , 
+      <!-- Interpretation needed for (în)faser -->
+      
+      <form lang="oc">faissar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">faisser</form>
+      ,
+(
+      <form lang="es">fajar</form>
+      ),
+
+      <form lang="pt">(en)faixar</form>
+      . 
+      <!-- Assuming (en)faxar -> (en)faixar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

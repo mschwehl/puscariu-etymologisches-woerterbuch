@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1003">
+  
+  <lemma>luptă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Kampf“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUCTA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">luftë</form>
+      , (? ar. 
+      <form lang="ro-AR">luftă</form>
+      ) 
+      <!-- Assuming Zufte -> luftë -->
+      
+      <form lang="it">lotta</form>
+      ,
+
+      <form lang="roh-OBW">lucta?</form>
+      , 
+      <!-- Interpretation needed for luk'a -->
+      
+      <form lang="oc-OLD">lucha</form>
+      , 
+      <form lang="es">lucha</form>
+      , 
+      <!-- Assuming a.-pv. -> oc-OLD -->
+      
+      <form lang="fr">lutte</form>
+      ,
+
+      <form lang="pt">luta</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. aluptare?].</variants>
+  
+  <!-- Interpretation needed for alumtare -->
+  
+</entry>

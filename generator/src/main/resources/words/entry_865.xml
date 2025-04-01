@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="865">
+  
+  <lemma>înjunghii</lemma>
+  
+  <!-- Assuming Tnjünghii -> înjunghii -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. junghiu?]</variants>
+  
+  <!-- Interpretation needed for Zungbu -> junghiu? -->
+  
+  <definition>„schlachten, erstechen”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">JUGULO, -ARE?</etymon>
+    . 
+    <!-- Assuming < gia[i]o, -ang -> JUGULO, -ARE? -->
+     Mă înjunghe [ar. 
+    <form lang="ro-AR">mă înțep?</form>
+    ] „ich habe (Seiten)stechen“. Ein postverbales Subst. davon ist 
+    <form>junghiet?</form>
+     sm. 1. „Dolch“, 2. „Seitenstechen“. 
+    <!-- Interpretation needed for mi nZwitele -> mă înțep?, jünghit -> junghiet? -->
+    
+  </etymology>
+  
+</entry>

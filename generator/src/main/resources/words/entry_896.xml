@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="896">
+  
+  <lemma>întunerec</lemma>
+  
+  <!-- Assuming întuncvec -> întunerec -->
+  
+  <lemma_variants>(+ tunerecă?)</lemma_variants>
+  
+  <!-- Interpretation needed for tunedrecă -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. întunerec?, mgl. întuneric? sin.]</variants>
+  
+  <!-- Interpretation needed for intunearie -> întunerec?, antuneric -> întuneric? -->
+  
+  <definition>„Finsternis“</definition>
+  , substantiviertes Adjekt.
+
+  <etymology source="Dosofteiu: Viaţa sfint. 246b">
+    
+    <etymon lang="Lat">TENEBRICUS, -A, -UM</etymon>
+     „finster“: 
+    <!-- Assuming „fnster“ -> „finster“ -->
+    
+    <cognates>
+      
+      <form lang="oc">(en)tenebre?</form>
+      . 
+      <!-- Interpretation needed for pv. (en)tenere -->
+      
+    </cognates>
+     Im Präfix und im Vokalismus ist das Wort an 
+    <form>întunec</form>
+     angeglichen. — Nach slav. Muster (
+    <etymon lang="chu">tĭma</etymon>
+     = „Finsternis“ und „große Menge‘), wird in alten Schriften 
+    <form>întunerec</form>
+     auch für „große Menge“ gebraucht (so 
+    <source_ref>Dosofteiu: Viaţa sfint. 246b</source_ref>
+    , etc.). 
+    <!-- Assuming ima -> tĭma -->
+    
+  </etymology>
+  
+</entry>

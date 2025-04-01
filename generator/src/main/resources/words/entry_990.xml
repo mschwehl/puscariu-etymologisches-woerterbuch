@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="990">
+  
+  <prefix>I</prefix>
+  
+  <lemma>lucru</lemma>
+  
+  <!-- Assuming Tiere -> lucru -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. lucru, lucrare?, mgl. ir. =]</variants>
+  
+  <!-- Interpretation needed for ligurie -> lucrare? -->
+  
+  <definition>„Sache, Arbeit, Ding"</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUCRUM</etymon>
+     „Gewinn“: 
+    <!-- Assuming CLicauu -> LUCRUM -->
+    
+    <cognates>
+      
+      <form lang="oc">logre</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">logro</form>
+      , 
+      <form lang="pt">logro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

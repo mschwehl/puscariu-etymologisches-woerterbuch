@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="951">
+  
+  <lemma>lătură</lemma>
+  
+  <!-- Assuming Tätürt -> lătură -->
+  
+  <pos>sf.</pos>
+  
+  <number>Plur.</number>
+  
+  <variants>[ar. lătură? sf.]</variants>
+  
+  <!-- Interpretation needed for lăfură se. -> lătură? sf. -->
+  
+  <definition>„Spülwasser“</definition>
+   
+  <!-- Assuming Spühlwasser -> Spülwasser -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*LAVATURA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">LAVO</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="sq">laturë?</form>
+       „Spülicht“, 
+      <!-- Interpretation needed for Zatire -> laturë?, Spühlicht -> Spülicht -->
+      
+      <form lang="it">lavatura</form>
+      ,
+
+      <form lang="oc">lavadura</form>
+      , 
+      <form lang="es">lavadura</form>
+      , 
+      <form lang="pt">lavadura</form>
+      , 
+      <!-- Assuming pr. sp. pg. -> oc, es, pt -->
+      
+      <form lang="fr">lavure</form>
+      . 
+      <!-- Assuming îrz. -> fr -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="661">
+  
+  <prefix>I</prefix>
+  
+  <lemma>fug</lemma>
+  
+  <pos>vb.</pos>
+  
+  <verb_class>I</verb_class>
+  
+  <scope>ar.</scope>
+   
+  <!-- Explicitly marked as Ar. in text -->
+  
+  <definition>„vertreiben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FUGO, -ARE</etymon>
+    . 
+    <!-- Assuming rÜco -> FUGO -->
+    Spuren dieses Verbums sind auch im mgl. 
+    <form lang="ro-MG">fugat?</form>
+     und d-rum. 
+    <form>fugind</form>
+     neben 
+    <form>fugind</form>
+     vorhanden. 
+    <!-- Interpretation needed for fugat -->
+    
+  </etymology>
+  
+</entry>

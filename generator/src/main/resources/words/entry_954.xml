@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="954">
+  
+  <lemma>lăudăciune?</lemma>
+  
+  <!-- Assuming läudaetäne -> lăudăciune? -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. lăudăciune?]</variants>
+  
+  <!-- Interpretation needed for alardätsune -> lăudăciune? -->
+  
+  <definition>„Lob“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LAUDATIO, -ONEM</etymon>
+    .
+
+  </etymology>
+  
+</entry>

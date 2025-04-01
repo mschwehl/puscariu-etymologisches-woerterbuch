@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="664">
+  
+  <lemma>fuior</lemma>
+  
+  <!-- Assuming fuide -> fuior -->
+  
+  <pos>sm.</pos>
+  
+  <variants>(ban. =, ar. mgl. fuior?)</variants>
+  
+  <!-- Assuming © -> =, fulor -> fuior? -->
+  
+  <definition>„Hanfbüschel“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVII, 742">
+    
+    <etymon lang="Lat">*FOLLIOLUS, -UM</etymon>
+     (Dim. von 
+    <etymon lang="Lat">FOLLIS</etymon>
+    ). 
+    <!-- Assuming * POLDOLUS -> *FOLLIOLUS -->
+    „Die ballonartige Form des an einem Stocke angebundenen Hanfbüschels, welchen die spinnenden Rumäninen mit sich tragen, wird als tertium comparationis zwischen 
+    <form lang="la">follis</form>
+     und 
+    <form>fuior</form>
+     gedient haben“.
+
+  </etymology>
+  
+</entry>

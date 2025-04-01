@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="691">
+  
+  <lemma>fuștel</lemma>
+  
+  <!-- Assuming fustel -> fuștel -->
+  
+  <lemma_variants>(fușteie?)</lemma_variants>
+  
+  <!-- Assuming fuşteiă -> fușteie? -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Sprosse an der Leiter“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FUSTELLUS, -UM</etymon>
+     (von 
+    <etymon lang="Lat">FUSTIS</etymon>
+    ).
+
+    <!-- Assuming * pUsrELLUS -> *FUSTELLUS -->
+    
+  </etymology>
+  
+</entry>

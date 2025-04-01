@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="800">
+  
+  <lemma>înăcresc</lemma>
+  
+  <!-- Assuming înăcrese -> înăcresc -->
+  
+  <lemma_variants>(acresc)</lemma_variants>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„mache sauer"</definition>
+  
+  <etymology source="Dens. H. l. r. 150">
+    
+    <etymon lang="Lat">INACRESCO, -ERE?</etymon>
+     (für 
+    <etymon lang="Lat">-ESCERE</etymon>
+     Dens. H. l. r. 150): 
+    <!-- Assuming -* ÎRE -> -ERE?, -zsckre -> -ESCERE -->
+    
+    <cognates>
+      
+      <form lang="it">inagrire</form>
+      .
+
+    </cognates>
+     Das Ar. hat 
+    <form lang="ro-AR">acredz?</form>
+    , 
+    <form lang="ro-AR">-ii?</form>
+    , 
+    <form lang="ro-AR">-it?</form>
+     u. 
+    <form lang="ro-AR">acru?</form>
+    , 
+    <form lang="ro-AR">-ire?</form>
+     n. 
+    <form lang="ro-AR">-are?</form>
+    , also eine Mischform, wie sie in diesem Dial. oft zu treffen sind. 
+    <!-- Interpretation needed for acredz, -ii, -it, «at, -ire, n. -are -->
+    
+  </etymology>
+  
+</entry>

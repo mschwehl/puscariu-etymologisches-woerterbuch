@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="671">
+  
+  <lemma>fumuriu?</lemma>
+  
+  <!-- Assuming fümur -> fumuriu (based on Weiterbildung) -->
+  
+  <feminine_neuter>-ie?</feminine_neuter>
+  
+  <!-- Assuming -ă -> -ie? (based on Weiterbildung fumuriu, -e) -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„braun“</definition>
+  
+  <reference type="bibliographic">(Jb. V, 189)</reference>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FUMURIUS, -A, -UM?</etymon>
+     (mit Suffixwechsel statt 
+    <etymon lang="Lat">FUMIDUS?</etymon>
+    ): 
+    <!-- Assuming *ruutnus -> *FUMURIUS?, ruminus -> FUMIDUS? -->
+    
+    <cognates>
+      
+      <form lang="fur">fumul</form>
+      . 
+      <!-- Assuming frl. -> fur -->
+      
+    </cognates>
+     Die Schriftsprache kennt nur die Weiterbildung 
+    <form>fumuriu, -ie</form>
+     „grau (wie der Rauch)‘.
+
+    <!-- Assuming -e -> -ie -->
+    
+  </etymology>
+  
+</entry>

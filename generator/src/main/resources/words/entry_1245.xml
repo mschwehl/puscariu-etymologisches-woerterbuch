@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1245">
+  
+  <lemma>păgînătate</lemma>
+  
+  <!-- Assuming pägindtäte -> păgînătate -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. pîngînătate? auch „Schmutz“]</variants>
+  
+  <!-- Interpretation needed for pinginätate -> pîngînătate? -->
+  
+  <definition>„Heidentum‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PAGANITAS, -ATEM</etymon>
+    .
+
+  </etymology>
+  
+</entry>

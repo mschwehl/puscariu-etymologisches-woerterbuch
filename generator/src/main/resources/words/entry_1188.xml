@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1188">
+  
+  <lemma>noi</lemma>
+  
+  <pos>pron.</pos>
+  
+  <variants>[ar. mgl. =?]</variants>
+  
+  <!-- Interpretation needed for > -> =? -->
+  
+  <definition>„wir“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NOS</etymon>
+    : 
+    <!-- Assuming sos -> NOS -->
+    
+    <cognates>
+      
+      <form lang="it">noi</form>
+      ,
+
+      <form lang="oc">nos</form>
+      , 
+      <form lang="es">nos</form>
+      , 
+      <form lang="pt">nos</form>
+      , 
+      <form lang="ca">nos</form>
+      , 
+      <form lang="fro">nos</form>
+      , 
+      <!-- Assuming pv. sp. pg. cat. a.-frz. -> oc, es, pt, ca, fro -->
+      
+      <form lang="fr">nous</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

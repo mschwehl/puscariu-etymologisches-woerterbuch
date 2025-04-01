@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="967">
+  
+  <lemma>leșie</lemma>
+  
+  <!-- Assuming Tesie -> leșie -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Lauge“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LIXIVA, -AM</etymon>
+     (= 
+    <etymon lang="Lat">LIXIVUM?</etymon>
+    ): 
+    <!-- Assuming rixivuar -> LIXIVUM? -->
+    
+    <cognates>
+      
+      <form lang="it">lessiva</form>
+      ,
+
+      <form lang="lmo-MIL">lesìa?</form>
+      , 
+      <!-- Interpretation needed for lesia -->
+      
+      <form lang="pms">lessìa?</form>
+      , 
+      <!-- Interpretation needed for lessia -->
+      
+      <form lang="lij-GEN">lescia?</form>
+      , 
+      <!-- Interpretation needed for lesia -->
+      
+      <form lang="roh-OBW">lisiva</form>
+      ,
+
+      <form lang="roh-ENG">alșiva?</form>
+      , 
+      <!-- Interpretation needed for alsiva -->
+      
+      <form lang="fr">lessive</form>
+      ,
+
+      <form lang="es">lejía</form>
+      , 
+      <!-- Assuming lejia -> lejía -->
+      
+      <form lang="pt">lixívia</form>
+      . 
+      <!-- Assuming lixia -> lixívia -->
+      
+    </cognates>
+     — Ar. 
+    <form lang="ro-AR">lișivă?</form>
+    , wie alb. 
+    <form lang="sq">alishivë?</form>
+    , stammen aus n.-gr. 
+    <form lang="el">ἁλισίβα?</form>
+    ; ir. 
+    <form lang="ro-IR">lușiie?</form>
+     aus kroat. 
+    <form lang="hr">lušija?</form>
+    . 
+    <!-- Interpretation needed for alli)sivä -> lișivă?, alsive -> alishivë?, foile -> ἁλισίβα?, lusiie -> lușiie?, lusija -> lušija? -->
+    
+  </etymology>
+  
+</entry>

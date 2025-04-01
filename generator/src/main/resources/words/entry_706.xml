@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="706">
+  
+  <lemma>genunchi</lemma>
+  
+  <!-- Assuming geniinche -> genunchi -->
+  
+  <lemma_variants>(genuchi?, ghenunche)</lemma_variants>
+  
+  <!-- Assuming genti(n)ehiit -> genuchi? -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. dzenuchi?, mgl. zenuchi?, ir. genunchiu?]</variants>
+  
+  <!-- Interpretation needed for dzemucht, zenucht, Zerunclu -->
+  
+  <definition>„Knie“</definition>
+  
+  <etymology source="C. Gl. l. VI, 485; Zauner: Körperteile, 461-462">
+    
+    <etymon lang="Lat">GENUCULUM</etymon>
+     (C. Gl. l. VI, 485 = 
+    <etymon lang="Lat">GENICULUM</etymon>
+    ): 
+    <!-- Assuming cexüclöülLun -> GENUCULUM -->
+    
+    <cognates>
+      
+      <form lang="it">ginocchio</form>
+      ,
+
+      <form lang="lmo-MIL">genöcc?</form>
+      , 
+      <!-- Interpretation needed for dăenoetsă -->
+      
+      <form lang="vec">zenóchio?</form>
+      , 
+      <!-- Interpretation needed for dzenod£o -->
+      
+      <form lang="it-SIC">ginocchiu?</form>
+      , 
+      <!-- Interpretation needed for yinokiw -->
+      
+      <form lang="roh-ENG">genuol?</form>
+      , 
+      <!-- Interpretation needed for dZanuol -->
+      
+      <form lang="oc">genolh</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">genou</form>
+      , 
+      <!-- Assuming genorr -> genou -->
+      
+      <form lang="ca">genoll</form>
+      ,
+
+      <form lang="oc-GAS">jolh?</form>
+      , 
+      <!-- Interpretation needed for Zol -->
+      
+      <form lang="es">hinojo</form>
+      ,
+
+      <form lang="pt">joelho</form>
+      . 
+      <!-- Assuming g. -> pt -->
+      
+    </cognates>
+     Zum eingeschobenen Nasal vgl. 
+    <form lang="gl">gionllo?</form>
+    , 
+    <form lang="frp-MON">genouye?</form>
+    , 
+    <form lang="fr-AUBE">genon</form>
+    ; der Kollektivplural wurde zum Fem. Sing. auch in einigen rtr. Mundarten am Vorder- u. Mittelrhein; zur Dissimilation des g &gt; g wegen des folgenden k? vgl. 
+    <form lang="it-GIR?">gunokkiu?</form>
+    , 
+    <form lang="it-CAST?">gunokkiu?</form>
+    , 
+    <form lang="it-CATAL?">ghinochiu?</form>
+    , 
+    <form lang="it-LAN?">gunokkie?</form>
+    , 
+    <form lang="co-AJA?">ghjinochiu?</form>
+    , 
+    <form lang="fr-SAIN?">ghenouil?</form>
+    , vgl. Zauner: Körperteile, 461—462.
+
+    <!-- Interpretation needed for galliz. gionllo, montb&-iard dgenonlye, aube genon, J ) g, c?, girgenti, castel reale gunokkiu, s. cataldo ghinochiu, lanc. gunokkie, ajaccio ghjinoechin, saintonge gheneuil, vg]. -> vgl. -->
+    
+  </etymology>
+  
+</entry>

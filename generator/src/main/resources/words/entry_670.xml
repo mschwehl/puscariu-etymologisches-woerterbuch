@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="670">
+  
+  <lemma>fumeg</lemma>
+  
+  <!-- Assuming fămeg -> fumeg -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„rauchen, dampfen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FUMIGO, -ARE</etymon>
+    : 
+    <!-- Assuming pUMIGO -> FUMIGO -->
+    
+    <cognates>
+      
+      <form lang="it-LCC?">sfomie?</form>
+      , 
+      <!-- Interpretation needed for lcent. sfomie -->
+      
+      <form lang="es">humear</form>
+      ,
+
+      <form lang="wa-MON?">fönkye?</form>
+      , 
+      <!-- Interpretation needed for mons. fönkye -->
+      
+      <form lang="fr-LOR">fohe?</form>
+      , 
+      <!-- Interpretation needed for lothr. foZe -->
+      
+      <form lang="it">fumicare</form>
+       (
+      <etymon lang="Lat">*FUMICO</etymon>
+      , wie 
+      <form lang="it">navicare</form>
+      , 
+      <form lang="it">rumicare</form>
+      ).
+
+      <!-- Assuming * pimico -> *FUMICO -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

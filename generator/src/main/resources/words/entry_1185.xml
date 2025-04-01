@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1185">
+  
+  <lemma>noapte</lemma>
+  
+  <!-- Assuming nodpte -> noapte -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. =, mgl. noapte?, ir. noapte?]</variants>
+  
+  <!-- Interpretation needed for », noapti, nopte -->
+  
+  <definition>„Nacht“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NOX, NOCTEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">notte</form>
+      ,
+
+      <form lang="lmo">nòcc?</form>
+      , 
+      <!-- Interpretation needed for lomb. notss -->
+      
+      <form lang="fur">not</form>
+      , 
+      <!-- Assuming frl. -> fur -->
+      
+      <form lang="roh-ENG">notg?</form>
+      , 
+      <form lang="roh-OBW">notg?</form>
+      , 
+      <!-- Interpretation needed for eng. not, obw. not -->
+      
+      <form lang="oc">nuèit?</form>
+      , 
+      <!-- Interpretation needed for pr. nueit -->
+      
+      <form lang="fr">nuit</form>
+      ,
+
+      <form lang="es">noche</form>
+      ,
+
+      <form lang="pt">noite</form>
+      . 
+      <!-- Assuming pă. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

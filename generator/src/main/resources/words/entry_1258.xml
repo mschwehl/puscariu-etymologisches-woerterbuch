@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1258">
+  
+  <lemma>papă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Speise (in der Kindersprache)*</definition>
+  
+  <variants>[ar. — „Mehlspeise‘‘)</variants>
+  
+  <etymology source="Archiv lat. Lex. XIII, 163">
+    
+    <etymon lang="Lat">PAPPA, -AM</etymon>
+     (Archiv lat. Lex. XIII, 163): 
+    <!-- Assuming Cpappa -> PAPPA -->
+    
+    <cognates>
+      
+      <form lang="it">pappa</form>
+      ,
+
+      <form lang="roh-ENG">papa</form>
+      , 
+      <form lang="es">papa</form>
+      , 
+      <form lang="pt">papa</form>
+      , 
+      <!-- Assuming eng. sp. pa. -> roh-ENG, es, pt -->
+      (vgl. 
+      <form lang="sr">papa</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

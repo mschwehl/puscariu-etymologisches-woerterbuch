@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1037">
+  
+  <lemma>mărunt</lemma>
+  
+  <!-- Assuming märint -> mărunt -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <lemma_variants>(mănunt, -ă)</lemma_variants>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mărunt? auch „dünn“, mgl. minut]</variants>
+  
+  <!-- Interpretation needed for mindt -> mărunt? -->
+  
+  <definition>„klein“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MINUTUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming CuINUTUS -> MINUTUS, -ua -> -UM -->
+    
+    <cognates>
+      
+      <form lang="it">minuto</form>
+      ,
+
+      <form lang="vec">menùo?</form>
+      , 
+      <!-- Interpretation needed for "menuo -->
+      
+      <form lang="lij-GEN">menìo?</form>
+      , 
+      <!-- Interpretation needed for meniio -->
+      
+      <form lang="rm-POSCH">minüda?</form>
+       „bestiame minuto“, 
+      <!-- Interpretation needed for munüda -->
+      
+      <form lang="pms-MON?">amminü?</form>
+       „minuto d’ossa“, 
+      <!-- Interpretation needed for mont. amm? -->
+      
+      <form lang="sc">minudu</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">minüt?</form>
+      , 
+      <!-- Interpretation needed for mnüt -->
+      
+      <form lang="oc">menut</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">menu</form>
+      ,
+
+      <form lang="es">menudo</form>
+      ,
+
+      <form lang="pt">miúdo?</form>
+      . 
+      <!-- Interpretation needed for "mindo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

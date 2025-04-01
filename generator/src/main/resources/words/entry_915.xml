@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="915">
+  
+  <lemma>județ</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. giudeț?, mgl. județ?]</variants>
+  
+  <!-- Interpretation needed for dZudets -> giudeț?, Xudets -> județ? -->
+  
+  <definition>
+    „Urteil, Gerichtsort, Richter“ (vgl. 
+    <example lang="es">justicia</example>
+     „Richter“, 
+    <example lang="it">podestà</example>
+    )
+  </definition>
+   
+  <!-- Assuming zi podestă -> podestà -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">IUDICIUM</etymon>
+    . 
+    <!-- Assuming sünIcıun -> IUDICIUM -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1110">
+  
+  <lemma>mort</lemma>
+  
+  <feminine_neuter>moartă</feminine_neuter>
+  
+  <!-- Assuming modrtă -> moartă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mortu, mgl. ir. =?]</variants>
+  
+  <!-- Interpretation needed for mol. -> mgl., > -> =? -->
+  
+  <definition/>
+   
+  <!-- Definition missing, likely "dead" -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MORTUUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming CMĂRTUUS -> MORTUUS -->
+    
+    <cognates>
+      
+      <form lang="it">morto</form>
+      , 
+      <form lang="pt">morto</form>
+      , 
+      <!-- Assuming pg. miorto -> morto -->
+      
+      <form lang="roh-OBW">mort?</form>
+      , 
+      <!-- Interpretation needed for miert -->
+      
+      <form lang="oc">mort</form>
+      , 
+      <form lang="fr">mort</form>
+      , 
+      <form lang="ca">mort</form>
+      , 
+      <!-- Assuming pv. frz. cat. -> oc, fr, ca -->
+      
+      <form lang="es">muerto</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

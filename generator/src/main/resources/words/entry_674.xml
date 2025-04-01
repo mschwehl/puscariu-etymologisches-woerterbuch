@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="674">
+  
+  <lemma>funigei</lemma>
+   
+  <!-- Assuming funigei -> funigei -->
+  
+  <pos>sm.</pos>
+  
+  <number>Plur.</number>
+  
+  <definition>„Herbstfäden“</definition>
+  
+  <etymology source="Conv. lit. XXXIX, 57">
+    
+    <etymon lang="Lat">*FULIGELLA, -AM</etymon>
+     (Dim. von 
+    <etymon lang="Lat">FULIGO</etymon>
+    ), wahrscheinlich durch Einmischung von 
+    <form>funie</form>
+    . 
+    <!-- Assuming finie -> funie, Uonv. -> Conv. -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="743">
+   
+  <!-- Assuming 143 -> 743 -->
+  
+  <lemma>grumaz</lemma>
+  
+  <!-- Assuming grumdz -> grumaz -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. grumadz, gurmadz]</variants>
+  
+  <definition>„Kehle“</definition>
+  
+  <etymology source="Varl. Caz. 1643 f. 272b; Meyer-Lübke: Literaturblatt, XII, 240">
+    ist mit 
+    <form lang="sq">grumas, gurmaz?</form>
+     identisch, doch nicht ohne weiteres als alb. Lehnwort zu betrachten. 
+    <!-- Interpretation needed for gurmas -->
+     Wohl ist das Sufi[x] albanesisch, doch der Stamm 
+    <form>grum-</form>
+     dort in keiner Ableitung mehr vorhanden, während er im rum. 
+    <form>sugrum</form>
+     I vb. (auch 
+    <form>zugrum</form>
+     
+    <source_ref>Varl. Caz. 1643 f. 272b.</source_ref>
+    , ar. 
+    <form lang="ro-AR">zgrum</form>
+    ) „würgen“ vorkommt, welches sich zu 
+    <form>grumaz</form>
+     wie 
+    <form>sugrum?</form>
+     „würge“ zu 
+    <form>gușă</form>
+     „Hals, Kropf“ verhält. 
+    <!-- Assuming sugrim -> sugrum, sugug -> sugrum?, gușe -> gușă -->
+     Auch 
+    <form lang="it">tragugiare</form>
+     und 
+    <form lang="it">digrumare</form>
+     haben den Sinn von „gierig verschlingen“. Diese Bedeutung, wozu auch 
+    <form lang="fr">gourmand</form>
+     „Schlemmer“ paßt, muß die ursprüngliche, und (
+    <form>grumaz</form>
+    ) „Kehle“ die abgeleitete sein, und erklärt sich wie 
+    <form lang="it">pappo</form>
+     „Kropf der Vögel“ aus 
+    <form lang="it">pappare</form>
+     „essen“. (Vgl. 
+    <form lang="it">digruma</form>
+     „Doppelmagen“, 
+    <example lang="it">aver la digruma in corpo</example>
+     „im Essen unglaublich viel leisten“, 
+    <form lang="it">digrumale</form>
+     „erster Magen der Wiederkäuer; Pansen od. Panzen‘“). Vgl. Meyer-Lübke: Literaturblatt, XII, 240.
+
+  </etymology>
+  
+</entry>

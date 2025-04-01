@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="759">
+  
+  <lemma>iască</lemma>
+  
+  <!-- Assuming idscă -> iască -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. iască?]</variants>
+  
+  <!-- Assuming jască -> iască? -->
+  
+  <definition>„Zunder, Feuerschwamm"</definition>
+  
+  <etymology source="Isidor Orig. XVII, 10, 18">
+    
+    <etymon lang="Lat">ESCA, -AM</etymon>
+     (vgl. bei Isidor Orig. XVII, 10, 18: „
+    <example lang="la">esca vulgo dicitur (fungus) quod sit fomes ignis</example>
+    ‘) 
+    <!-- Assuming -ay -> -AM, esea -> esca -->
+    
+    <cognates>
+      
+      <form lang="sq">eshkë</form>
+       „Zunder, Niere“, 
+      <!-- Assuming eshe -> eshkë -->
+      
+      <form lang="it">esca</form>
+       „Speise, Köder, Zunder“,
+
+      <form lang="it-SIC">isca?</form>
+      , 
+      <!-- Interpretation needed for iska -->
+      
+      <form lang="pt">isca?</form>
+      , 
+      <!-- Interpretation needed for iska -->
+      
+      <form lang="vec">lesca</form>
+      ,
+
+      <form lang="it-ERT?">lesca</form>
+      , 
+      <!-- Interpretation needed for erto -->
+      
+      <form lang="roh-UEG">escla?</form>
+       „Zunder, Speise, Lockung“, 
+      <!-- Interpretation needed for u.eng. esk'a -->
+      
+      <form lang="oc">esca</form>
+       „Zunder“, 
+      <!-- Assuming pr. -> oc -->
+      
+      <form lang="fro">esche</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="fr">èche?</form>
+      , 
+      <!-- Interpretation needed for che -->
+      
+      <form lang="pcd">aissière?</form>
+      , 
+      <!-- Interpretation needed for pie. ae(s)ier -->
+      (vgl. 
+      <form lang="fr">haque</form>
+       „Lockhering"), 
+      <!-- Assuming trz. -> fr -->
+      
+      <form lang="es">yesca</form>
+       „Vogelleim“ (daneben 
+      <form lang="es">yesca</form>
+       „Feuerschwamm“). 
+      <!-- Assuming hisca -> yesca -->
+      
+    </cognates>
+     Auch
+
+    <form lang="el-MED">ἴσκα?</form>
+    , 
+    <!-- Interpretation needed for ioza -->
+    
+    <form lang="sr">jeska</form>
+     „Lockung“.
+
+  </etymology>
+  
+  <!-- Footer text "Puscariu, Etymologisches Wörterbuch. 2" omitted -->
+  
+</entry>

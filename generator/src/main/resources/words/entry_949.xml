@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="949">
+  
+  <lemma>latru</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. latru?, mgl. =, ir. latru?]</variants>
+  
+  <!-- Interpretation needed for alatru, >, lofru -> latru? -->
+  
+  <definition>„bellen”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LATRO, -ARE</etymon>
+    : 
+    <!-- Assuming Larro -> LATRO -->
+    
+    <cognates>
+      
+      <form lang="it">latrare</form>
+      ,
+
+      <form lang="it-LCC?">ladrà?</form>
+      , 
+      <!-- Interpretation needed for lcent. ladre -->
+      
+      <form lang="roh-UEG">ladrar</form>
+      , 
+      <form lang="es-OLD">ladrar</form>
+      , 
+      <form lang="pt">ladrar</form>
+      , 
+      <!-- Assuming u.-eng. a.-sp. pg. -> roh-UEG, es-OLD, pt -->
+      
+      <form lang="oc">lairar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">lladrar</form>
+      . 
+      <!-- Interpretation needed for Hadrar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

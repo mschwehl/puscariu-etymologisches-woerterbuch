@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="857">
+  
+  <lemma>îngreu</lemma>
+  
+  <!-- Assuming ingree -> îngreu -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. îngreu?]</variants>
+  
+  <!-- Interpretation needed for angree -->
+  
+  <definition>„beschweren, schwanger machen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*INGRAVICO, -ARE</etymon>
+     (VON 
+    <etymon lang="Lat">*GREVIS</etymon>
+     = 
+    <etymon lang="Lat">GRAVIS</etymon>
+    ): 
+    <!-- Assuming *INGREVICO -> *INGRAVICO, EGREVIS -> *GREVIS -->
+    
+    <cognates>
+      vgl. 
+      <form lang="fro">engregier?</form>
+      . 
+      <!-- Interpretation needed for a.-frz. en-gregier -->
+      
+    </cognates>
+     Letztere Bedeutung erklärt sich aus dem Sinn „schwanger“ des adj. 
+    <form>greu</form>
+     und hat wohl mit alb. 
+    <form lang="sq">ngreh(em)?</form>
+     „blähe mich“ nichts zu tun. 
+    <!-- Interpretation needed for aib. ngreh(em) -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="900">
+  
+  <lemma>înverzesc</lemma>
+  
+  <!-- Assuming înverzese -> înverzesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. înverzesc?]</variants>
+  
+  <!-- Interpretation needed for nvirdzäscu -->
+  
+  <definition>„grünen“</definition>
+  
+  <etymology source="Dens. H. l. r. 150">
+    
+    <etymon lang="Lat">[*IN-]VIR(I)DESCO, -ERE?</etymon>
+     (Dens. H. l. r. 150 — 
+    <etymon lang="Lat">*-ESCERE</etymon>
+    : 
+    <!-- Assuming [*1x-]|vir[l)-pEsco, -*irs -> [*IN-]VIR(I)DESCO, -ERE? -->
+    
+    <cognates>
+      
+      <form lang="es">enverdecer</form>
+      ,
+
+      <form lang="pt">enverdecer</form>
+      
+    </cognates>
+    ):
+
+    <cognates>
+      
+      <form lang="it">inverdire</form>
+      ,
+
+      <form lang="roh-ENG">inverdir</form>
+      ,
+
+      <form lang="fr">verdir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

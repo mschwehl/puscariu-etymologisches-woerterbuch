@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="942">
+  
+  <lemma>lard</lemma>
+  
+  <!-- Assuming Tara -> lard -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. lard?]</variants>
+  
+  <!-- Interpretation needed for lord -->
+  
+  <definition>„Speck“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LARDUM</etymon>
+    : 
+    <!-- Assuming arpun -> LARDUM -->
+    
+    <cognates>
+      
+      <form lang="sq">lardh?</form>
+      , 
+      <!-- Interpretation needed for larO -->
+      
+      <form lang="it">lardo</form>
+      , 
+      <form lang="es">lardo</form>
+      , 
+      <form lang="pt">lardo</form>
+      ,
+
+      <form lang="sc">lardu</form>
+      , 
+      <!-- Assuming sard -> sc -->
+      
+      <form lang="oc">lard</form>
+      , 
+      <!-- Assuming pv. lart -> lard -->
+      
+      <form lang="fr">lard</form>
+      , 
+      <!-- Assuming ir. -> fr -->
+      
+      <form lang="ca">llard</form>
+      . 
+      <!-- Assuming cat. Ilard -> llard -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>[Im Wörterbuch von St. Michăileanu ist ein ar. lardu verzeichnet, das P. unbekannt ist].</usage_note>
+  
+</entry>

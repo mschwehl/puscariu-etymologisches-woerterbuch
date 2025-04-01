@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1008">
+  
+  <lemma>măcelar</lemma>
+  
+  <!-- Assuming măceld -> măcelar -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Fleischhändler“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MACELLARIUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">macellajo</form>
+      ,
+
+      <form lang="it-ABR">macellare?</form>
+      , 
+      <!-- Interpretation needed for matăellare -->
+      
+      <form lang="lij-GEN">macellar?</form>
+      , 
+      <!-- Interpretation needed for mazwxellä -->
+      
+      <form lang="pms">maslé?</form>
+      , 
+      <!-- Interpretation needed for masle -->
+      
+      <form lang="fro-OEST?">maiselier?</form>
+      , 
+      <!-- Interpretation needed for a.-ostfrz. maiselier -->
+      
+      <form lang="wa">maçlar?</form>
+       „boucher“, 
+      <!-- Interpretation needed for waatl. mazalei -->
+      
+      <form lang="ca">maseler</form>
+      . 
+      <!-- Assuming cat. -> ca -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. hasap?].</variants>
+  
+  <!-- Interpretation needed for häsap -->
+  
+</entry>

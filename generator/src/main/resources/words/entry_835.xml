@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="835">
+  
+  <lemma>îndur</lemma>
+  
+  <!-- Assuming îndiir -> îndur -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„dulden, aushalten, ertragen‘</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. II, § 595">
+    
+    <etymon lang="Lat">INDURO, -ARE</etymon>
+     (vgl. 
+    <etymon lang="Lat">*OBDURO?</etymon>
+     = „verhärten — aushalten“): 
+    <!-- Assuming <INDURO -> INDURO, [or]puro -> *OBDURO? -->
+    
+    <cognates>
+      
+      <form lang="sq">duroj</form>
+      , 
+      <form lang="sq">nduris?</form>
+       „dasselbe“, 
+      <!-- Interpretation needed for duron, nduris -->
+      vgl. 
+      <form lang="oc">abdurar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">adurer</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <reference type="bibliographic">Meyer-Lübke: Rom. Gramm. II, § 595</reference>
+      .
+
+    </cognates>
+     — Im Grunde genommen hat also 
+    <form>îndur</form>
+     und 
+    <form>durez</form>
+     dieselbe Etymologie.
+
+  </etymology>
+  
+  <variants>[ar. trag, aravdu?].</variants>
+  
+  <!-- Interpretation needed for aravdu -->
+  
+</entry>

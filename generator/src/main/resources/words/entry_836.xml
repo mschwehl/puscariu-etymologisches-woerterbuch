@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="836">
+  
+  <lemma>înec</lemma>
+  
+  <!-- Assuming înce -> înec -->
+  
+  <lemma_variants>(înnec)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. nec, mgl. nec, auch „würge, töte‘]</variants>
+   
+  <!-- Assuming far. -> ar. -->
+  
+  <definition>„ertränken“</definition>
+  , 
+  <form>mă înec</form>
+   „ertrinke”
+
+  <etymology source="Bonnet: Le latin de Greg. de T. p. 286; Wölfflin: Archiv lat. Lex. VII, 278">
+    
+    <etymon lang="Lat">NECO, -ARE</etymon>
+     („Die Grundbedeutung war offenbar: einen ohne Anwendung einer Waffe zum Tode bringen: 
+    <example lang="la">fame necare aliquem</example>
+     Cic. Caes. und dies bestätigt den etym. Zusammenhang des Wortes mit 
+    <etymon lang="Lat">nocere</etymon>
+    . Bei Gregor von Tours ist das Wort regelmäßig für „ertränken” gebraucht, vgl. Bonnet: Le latin de Greg. de T. p. 286... . Daß der Gebrauch von Gregor kein individueller war, beweist frz. 
+    <form lang="fr">noyer</form>
+    “. Wölfflin: Archiv lat. Lex. VII, 278): 
+    <!-- Assuming X xico -> NECO -->
+    
+    <cognates>
+      
+      <form lang="vec">negar</form>
+      , 
+      <!-- Assuming ven. -> vec -->
+      
+      <form lang="oc">negar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="it-MUG?">innejar?</form>
+      , 
+      <!-- Interpretation needed for mugpia -->
+      
+      <form lang="rm">negar?</form>
+      , 
+      <!-- Interpretation needed for rtr. nagar -->
+      
+      <form lang="fr">noyer</form>
+      ; vgl.
+
+      <form lang="it">annegare</form>
+      ,
+
+      <form lang="it-CER">annegà?</form>
+      , 
+      <!-- Interpretation needed for amiehă -->
+      
+      <form lang="ca">anegar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">anegar</form>
+      , 
+      <!-- Assuming sp. anegar? -->
+      
+      <form lang="pt">anegar</form>
+      . 
+      <!-- Assuming pg. anegar? -->
+      
+    </cognates>
+     Überall „ertränken“, daher um so auffallender die Bewahrung des ursprünglichen Sinnes im Megl. 
+    <!-- Assuming erträuken -> ertränken -->
+    
+  </etymology>
+  
+</entry>

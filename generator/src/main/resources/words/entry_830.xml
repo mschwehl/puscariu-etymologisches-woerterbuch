@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="830">
+  
+  <lemma>îndemn</lemma>
+  
+  <!-- Assuming indemn -> îndemn -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. =?]</variants>
+  
+  <!-- Assuming | -> =? -->
+  
+  <definition>„zu etwas bewegen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*INDE-MINO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="fr">emmener</form>
+      .
+
+    </cognates>
+     Die ursprüngliche Bedeutung „von der Stelle (
+    <etymon lang="Lat">INDE</etymon>
+    ) durch Drohung wegtreiben (
+    <etymon lang="Lat">MINO?</etymon>
+    )“ tritt noch deutlich hervor in 
+    <example>îndemn boii, caii</example>
+     „treibe die Ochsen, die Pferde an“. Vgl. 
+    <form>mîn</form>
+    . 
+    <!-- Assuming (ixpe) -> (INDE), (nixo) -> (MINO?), min -> mîn -->
+    
+  </etymology>
+  
+</entry>

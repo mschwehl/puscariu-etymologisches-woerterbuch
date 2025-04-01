@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="791">
+   
+  <!-- Assuming 791 -->
+  
+  <lemma>împrejurez?</lemma>
+  
+  <!-- Assuming împrejuvez -> împrejurez? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„umringen“</definition>
+  
+  <etymology source="Mulomed. Chir. 77, 29; 129, 10; Dens. H. l. r. 170">
+    
+    <etymon lang="Lat">PER-</etymon>
+     oder 
+    <etymon lang="Lat">PRAE-GYRO, -ARE</etymon>
+    .
+
+  </etymology>
+  
+  <variants>[ar. amvîrlig?, amvîrligedz? I vb.].</variants>
+  
+  <!-- Interpretation needed for amvirlig, amwvirligedz -->
+  
+</entry>

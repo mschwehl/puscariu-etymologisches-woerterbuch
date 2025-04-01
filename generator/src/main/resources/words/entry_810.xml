@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="810">
+  
+  <lemma>încarc</lemma>
+  
+  <!-- Assuming ineäre -> încarc -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (în)carcu, mgl. (a)ncarc?, ir. (în)carc?]</variants>
+  
+  <!-- Interpretation needed for (a)ncare -> (a)ncarc?, (än)cargescu -> (în)carc? -->
+  
+  <definition>„beladen, (auf)laden“</definition>
+  
+  <etymology source="Arch. lat. Lex. IV, 425-26, IX, 358">
+    
+    <etymon lang="Lat">[*IN-]CARRICO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">carrum</etymon>
+    ): 
+    <!-- Assuming ([*ın-Jcarrico, -ang -> [*IN-]CARRICO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="sq">ngarkoj</form>
+      ,
+
+      <form lang="it">(in)carricare</form>
+      , 
+      <!-- Assuming (in)earr(i)care -> (in)carricare -->
+      
+      <form lang="roh-ENG">(în)cărcar?</form>
+      , 
+      <!-- Interpretation needed for (in)k’arger -->
+      
+      <form lang="oc">(en)cargar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">(en)cargar</form>
+      ,
+
+      <form lang="fr">charger</form>
+      ,
+
+      <form lang="ca">(en)carregar</form>
+      , 
+      <!-- Assuming cat. (en)carvregar -> (en)carregar -->
+      
+      <form lang="pt">(en)carregar</form>
+      . 
+      <!-- Assuming pe. (en)carvregar -> (en)carregar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="859">
+  
+  <lemma>îngreunez?</lemma>
+  
+  <!-- Assuming ingreundez) -> îngreunez? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„beschweren“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IN-GRAVINO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">*GREVIS</etymon>
+     = 
+    <etymon lang="Lat">GRAVIS</etymon>
+    ). 
+    <!-- Assuming C*EIN-GREVINO -> *IN-GRAVINO, EGREVIS -> *GREVIS -->
+    
+  </etymology>
+  
+  <variants>[ar. mgl. îngreu?].</variants>
+  
+  <!-- Interpretation needed for angree -->
+  
+</entry>

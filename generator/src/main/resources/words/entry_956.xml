@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="956">
+  
+  <lemma>lăuruscă</lemma>
+  
+  <!-- Assuming Täurised -> lăuruscă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Wilde Rebe“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LABRUSCA, -AM</etymon>
+    : 
+    <!-- Assuming Laprüsca -> LABRUSCA -->
+    
+    <cognates>
+      
+      <form lang="sq">rrushk?</form>
+      , 
+      <!-- Interpretation needed for ferusk -->
+      
+      <form lang="it">labrusca?</form>
+      , 
+      <form lang="it">labrusco?</form>
+      , 
+      <!-- Interpretation needed for abrostolo, abrosco -->
+      
+      <form lang="it-BRE?">lambruche?</form>
+      . 
+      <!-- Interpretation needed for bress. lambroche -->
+      
+    </cognates>
+     — Daneben 
+    <form>rouruscă?</form>
+     durch Volksetymologie nach 
+    <form>rouă</form>
+    . 
+    <!-- Interpretation needed for rowriișcă -> rouruscă? -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1241">
+  
+  <lemma>păduchez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. împăduchez?]</variants>
+  
+  <!-- Interpretation needed for mptductedzü -->
+  
+  <definition>„lausen“</definition>
+  
+  <etymology source="Corp. Gloss. II, 471, 3; Dens. H. l. r. 165">
+    
+    <etymon lang="Lat">PEDUC[U]LO, -ARE?</etymon>
+     (Corp. Gloss. II, 471, 3. Dens. H. l. r. 165): 
+    <!-- Assuming repüclü]ro -> PEDUC[U]LO? -->
+    
+    <cognates>
+      
+      <form lang="fr">pouiller</form>
+       (vgl. 
+      <form lang="it">spidocchiare</form>
+      , 
+      <form lang="fr">épouiller</form>
+      , 
+      <!-- Assuming îrz. epowiller -> épouiller -->
+      
+      <form lang="es">despiojar</form>
+      , 
+      <form lang="pt">espiolhar</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

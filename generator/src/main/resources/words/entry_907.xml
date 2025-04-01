@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="907">
+  
+  <prefix>+</prefix>
+  
+  <lemma>iu</lemma>
+  
+  <lemma_variants>
+    (vb?, dial. iu, ib? 
+    <source_ref>Jb. VI, 77</source_ref>
+    )
+  </lemma_variants>
+  
+  <!-- Interpretation needed for 66 -> vb?, id -> ib? -->
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. iu?, „wo“, iu-ți-dò? „wo auch immer“, iu-va „irgendwo", mgl. undè? „wo“, undevà? „wohin“, ir. únde? „wo“]</variants>
+  
+  <!-- Interpretation needed for it -> iu?, iu-tsi-dö -> iu-ți-dò?, xd -> undè?, io-vir -> undevà?, äu-we -> únde? -->
+  
+  <definition>„wo“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">UBI</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">ove</form>
+      ,
+
+      <form lang="roh-OBW">nu(v)a?</form>
+      , 
+      <!-- Interpretation needed for nua -->
+      
+      <form lang="fr">où</form>
+      . 
+      <!-- Assuming ok -> où -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="884">
+  
+  <lemma>întîmplu</lemma>
+  
+  <!-- Assuming întîmptu -> întîmplu -->
+  
+  <lemma_variants>(— timplu)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„geschehen, sich ereignen“</definition>
+  ,
+
+  <etymology source="P. Kretschmer: Kuhn’s Zeitschr. XXXVI, 267">
+    setzt ein 
+    <etymon lang="Lat">*TEMPLO, -ARE</etymon>
+     voraus von 
+    <etymon lang="Lat">TEMPLUM</etymon>
+    , das von P. Kretschmer (Kuhn’s Zeitschr. XXXVI, 267) als Konkurrenzform von 
+    <etymon lang="Lat">TEMPUS</etymon>
+     nachgewiesen ist (vgl. 
+    <example lang="la">EXTEMPLO</example>
+     „alsbald“), mit der Grundbedeutung „in der Zeit sein“ (vgl. 
+    <etymon lang="Lat">CON-TEMPORO, -ARE</etymon>
+     == in der gleichen Zeit sein), daher „geschehen“. 
+    <!-- Assuming zxreupto -> EXTEMPLO -->
+    
+  </etymology>
+  
+  <variants>[ar. tifisescu?, se-agudeaște?].</variants>
+  
+  <!-- Interpretation needed for tifisesen, se-agudeaăte -->
+  
+</entry>

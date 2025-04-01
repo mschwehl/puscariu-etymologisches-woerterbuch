@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1040">
+  
+  <lemma>masă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. measă, mgl. mesă auch „Tischtuch‘“]</variants>
+  
+  <definition>„Tisch“</definition>
+  
+  <etymology source="Varro: Ling. lat. V, 118">
+    
+    <etymon lang="Lat">MENSA, -AM</etymon>
+     (Varro: Ling. lat. V, 118 = 
+    <etymon lang="Lat">MENSA</etymon>
+    ): 
+    <!-- Assuming m£sa -> MENSA -->
+    
+    <cognates>
+      
+      <form lang="isv">maissa</form>
+      , 
+      <!-- Assuming veyl. -> isv -->
+      
+      <form lang="it">mesa</form>
+      , 
+      <form lang="sc">mesa</form>
+      , 
+      <form lang="es">mesa</form>
+      , 
+      <form lang="pt">mesa</form>
+      , 
+      <!-- Assuming sard. sp. pg. -> sc, es, pt -->
+      
+      <form lang="it-ABR">mese</form>
+      ,
+
+      <form lang="roh-ENG">maisa</form>
+      ,
+
+      <form lang="roh-OBW">meisa?</form>
+      , 
+      <!-- Interpretation needed for meiza -->
+      
+      <form lang="fro">meise?</form>
+      , 
+      <form lang="fr">moise</form>
+       „(Zimmertisch?)*“. 
+      <!-- Interpretation needed for a.-Îrz. meise, n.-frz. moise, eometertisch -> Zimmertisch? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

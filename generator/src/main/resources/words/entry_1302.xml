@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1302">
+  
+  <lemma>pețesc</lemma>
+  
+  <!-- Assuming petese -> pețesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„werben“</definition>
+  
+  <etymology source="Dens. H. l. r. 149, 150">
+    
+    <etymon lang="Lat">PETESCO, -ERE?</etymon>
+     (Dens. H. l. r. 149, 150 = 
+    <etymon lang="Lat">PETO, -ERE</etymon>
+    ): 
+    <!-- Assuming rer&sco, -iRE -> PETESCO, -ERE? -->
+    
+    <cognates>
+      
+      <form lang="es">pedir</form>
+      , 
+      <form lang="pt">pedir</form>
+       (
+      <form lang="pt">p. em matrimonio</form>
+       „um ein Mädchen anhalten“).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

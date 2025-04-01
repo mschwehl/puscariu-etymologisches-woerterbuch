@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="943">
+  
+  <lemma>larg</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <!-- Assuming -d -> -ă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. largu, mgl. =, ir. larg? „breit, entfernt“]</variants>
+  
+  <!-- Interpretation needed for mel. n -> mgl. =, lorg -> larg? -->
+  
+  <definition>„breit, weit“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LARGUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming anus -> LARGUS -->
+    
+    <cognates>
+      
+      <form lang="sq">larg</form>
+      ,
+
+      <form lang="it">largo</form>
+      , 
+      <form lang="es">largo</form>
+      , 
+      <form lang="pt">largo</form>
+      ,
+
+      <form lang="oc">larc?</form>
+      , 
+      <!-- Interpretation needed for pv. lare -->
+      
+      <form lang="fr">large</form>
+      ,
+
+      <form lang="ca">larg</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

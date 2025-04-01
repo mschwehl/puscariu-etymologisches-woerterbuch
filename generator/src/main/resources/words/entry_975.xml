@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="975">
+  
+  <lemma>lînar?</lemma>
+  
+  <!-- Assuming tînd» -> lînar? -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. = „aparatul cu care se trage lîna“)</variants>
+  
+  <definition>„Wollhändler“</definition>
+   
+  <!-- Assuming wollhändler -> Wollhändler -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">LANARIUS, -UM</etymon>
+    : 
+    <!-- Assuming Laxarıvs -> LANARIUS -->
+    
+    <cognates>
+      
+      <form lang="it">lanaiuolo</form>
+      , 
+      <!-- Assuming lanajuolo -> lanaiuolo -->
+      
+      <form lang="fr">lainier</form>
+      ,
+
+      <form lang="es">lanero</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

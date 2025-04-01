@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="692">
+  
+  <lemma>fut</lemma>
+  
+  <principal_parts>-ui?, -ut</principal_parts>
+  
+  <!-- Assuming -wi -> -ui?, -üt -> -ut -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„ficken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FUTUO, -UI?, -UTUM, -ERE</etymon>
+    : 
+    <!-- Assuming eimuo, -ur -> FUTUO, -UI? -->
+    
+    <cognates>
+      
+      <form lang="sq">fut</form>
+       „stecke hinein“ (vgl. 
+      <form lang="fr">ficher</form>
+       = „ficken‘), 
+      <!-- Assuming fez. -> fr -->
+      
+      <form lang="it">fottere</form>
+      ,
+
+      <form lang="oc">fotre</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">foutre</form>
+      ,
+
+      <form lang="es">joder</form>
+      , 
+      <!-- Assuming hoder -> joder -->
+      
+      <form lang="pt">foder</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

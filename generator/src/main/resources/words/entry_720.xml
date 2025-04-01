@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="720">
+  
+  <lemma>ginere</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. dzinere, mgl. ginere?, ir. ginere?]</variants>
+  
+  <!-- Interpretation needed for ziniri, Ziner -->
+  
+  <definition>„Schwiegersohn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GENER, -ERUM</etymon>
+    : 
+    <!-- Assuming GEXER -> GENER -->
+    
+    <cognates>
+      
+      <form lang="it">genero</form>
+      ,
+
+      <form lang="it-SIC">jennaru</form>
+      , 
+      <!-- Assuming yennaru -> jennaru -->
+      
+      <form lang="lmo-MIL">gener?</form>
+      , 
+      <!-- Interpretation needed for dăener -->
+      
+      <form lang="vec">genero?</form>
+      , 
+      <!-- Interpretation needed for dzenero -->
+      
+      <form lang="roh-ENG">gender?</form>
+      , 
+      <!-- Interpretation needed for d£ender -->
+      
+      <form lang="fur">ginar?</form>
+      , 
+      <!-- Interpretation needed for dzinar -->
+      
+      <form lang="oc">genre</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">gendre</form>
+      ,
+
+      <form lang="es">yerno</form>
+      ,
+
+      <form lang="pt">genro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="952">
+  
+  <lemma>lai</lemma>
+  
+  <lemma_variants>(laic?)</lemma_variants>
+  
+  <!-- Interpretation needed for laik -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. =?]</variants>
+  
+  <!-- Interpretation needed for | -->
+  
+  <definition>„waschen“</definition>
+  
+  <etymology source="Jb. III, 320">
+    
+    <etymon lang="Lat">LAVO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">laj?</form>
+      , 
+      <!-- Interpretation needed for karl -->
+      
+      <form lang="it">lavare</form>
+      ,
+
+      <form lang="roh-ENG">lavar?</form>
+      , 
+      <form lang="fr">laver</form>
+       
+      <!-- Assuming eng. frz. -> roh-ENG, fr -->
+      
+      <form lang="oc">lavar</form>
+      , 
+      <form lang="es">lavar</form>
+      , 
+      <form lang="pt">lavar</form>
+      . 
+      <!-- Assuming pv. sp. pg. -> oc, es, pt -->
+      
+    </cognates>
+     — Als Partizip (im adjektivischen Sinne u. meist mit ne- verbunden) kommt 
+    <form>lăt?</form>
+     (
+    <etymon lang="Lat">LAVATUS</etymon>
+    ) und 
+    <form>lăt?</form>
+     (
+    <etymon lang="Lat">LAUTUS</etymon>
+    ) vor; 
+    <!-- Assuming lat -> lăt?, Lavarus -> LAVATUS, lädt -> lăt?, uauzus -> LAUTUS -->
+     endlich findet man auch ein Partizip 
+    <form>lăit?</form>
+     (
+    <source_ref>Jb. III, 320</source_ref>
+    ), das eine Neubildung vom Präs. 
+    <form>lăit?</form>
+     ist. 
+    <!-- Interpretation needed for läidt -> lăit?, laiit -> lăit? -->
+    
+  </etymology>
+  
+</entry>

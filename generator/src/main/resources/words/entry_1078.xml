@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1078">
+  
+  <prefix>II</prefix>
+  
+  <lemma>mîn</lemma>
+  
+  <!-- Assuming min in) -> mîn -->
+  
+  <principal_parts>mâsei, mas</principal_parts>
+  
+  <verb_class>II</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. amîn?, -as?, -as? II]</variants>
+  
+  <!-- Interpretation needed for amin, -as -->
+  
+  <definition>„(über die Nacht) bleiben</definition>
+  
+  <etymology source="Archiv lat. Lex. VIII, 196">
+    
+    <etymon lang="Lat">MANEO, MANSI, MANSUM, MANERE</etymon>
+     „bleiben“ („übernachten“ Archiv lat. Lex. VIII, 196):
+
+    <cognates>
+      
+      <form lang="it">manere</form>
+      ,
+
+      <form lang="rm-POSCH">manir?</form>
+       „dormire‘ (vgl. olymp.-wal. 
+      <form>mas</form>
+       „Schlaf“),
+
+      <form lang="roh-ENG">maner?</form>
+      , 
+      <!-- Interpretation needed for manair -->
+      
+      <form lang="oc">maner</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">manoir</form>
+      , 
+      <!-- Assuming a.frz. -> fro -->
+      
+      <form lang="es">mañir?</form>
+      , 
+      <!-- Interpretation needed for manir -->
+      
+      <form lang="pt">maer?</form>
+      . 
+      <!-- Interpretation needed for maer -->
+      
+    </cognates>
+     Vgl. 
+    <form>mas</form>
+    .
+
+  </etymology>
+  
+</entry>

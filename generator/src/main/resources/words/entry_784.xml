@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="784">
+  
+  <lemma>împăl?</lemma>
+  
+  <!-- Assuming impär -> împăl? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„pfählen, einzäunen“</definition>
+  
+  <etymology source="O. Densusianu, Rom. XXXIII, 79">
+    
+    <etymon lang="Lat">*IN-PALO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">palus</etymon>
+    ). O. Densusianu, Rom. XXXIII, 79 zieht hierher auch ar. 
+    <form lang="ro-AR">ampăru?</form>
+     I vb. „mit den Hörnern stoßen“, vgl. 
+    <form lang="fr">empaler</form>
+     „mit einem Pfahl durchstoßen‘“; man vergleiche damit mgl. 
+    <form lang="ro-MG">despăr?</form>
+     IV „auseinanderreißen“. 
+    <!-- Assuming parts -> palus, Kom. -> Rom., ampâru -> ampăru?, durehstoßen -> durchstoßen, mel. dispăros -> mgl. despăr? -->
+    
+  </etymology>
+  
+</entry>

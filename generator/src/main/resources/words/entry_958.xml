@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="958">
+  
+  <lemma>leg</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. =, ir. legu?]</variants>
+  
+  <!-- Interpretation needed for legu -->
+  
+  <definition>„binde“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LIGO, -ARE</etymon>
+    : 
+    <!-- Assuming Ciao -> LIGO -->
+    
+    <cognates>
+      
+      <form lang="it">legare</form>
+      ,
+
+      <form lang="roh-ENG">liar?</form>
+      , 
+      <form lang="fr">lier</form>
+      , 
+      <!-- Assuming eng. frz. -> roh-ENG, fr -->
+      
+      <form lang="oc">liar</form>
+      , 
+      <form lang="es">liar</form>
+      . 
+      <!-- Assuming pv. sp. -> oc, es -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

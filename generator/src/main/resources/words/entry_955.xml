@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="955">
+  
+  <lemma>laur</lemma>
+  
+  <!-- Assuming Liur -> laur -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Lorbeer“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LAURUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">lar?</form>
+      , 
+      <!-- Interpretation needed for far -->
+      
+      <form lang="it">alloro</form>
+      ,
+
+      <form lang="oc">laur</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="pt">louro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. dafin?].</variants>
+  
+  <!-- Interpretation needed for dafuul -->
+  
+</entry>

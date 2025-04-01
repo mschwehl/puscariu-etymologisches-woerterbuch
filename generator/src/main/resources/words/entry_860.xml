@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="860">
+  
+  <prefix>I</prefix>
+  
+  <lemma>îngust</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. îngustu?, ir. îngust?]</variants>
+  
+  <!-- Interpretation needed for zagustu -> îngustu?, ăngust -> îngust? -->
+  
+  <definition>„eng</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ANGUSTUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming <Ax-GÜstus -> ANGUSTUS -->
+    
+    <cognates>
+      
+      <form lang="sq">ngushtë?</form>
+      , 
+      <!-- Interpretation needed for guste -->
+      
+      <form lang="es">angosto</form>
+      ,
+
+      <form lang="pt">angosto</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>
+    [ir. gust (
+    <form lang="hr">gust</form>
+    )].
+  </variants>
+   
+  <!-- Assuming fir. -> ir., gustl -> gust -->
+  
+</entry>

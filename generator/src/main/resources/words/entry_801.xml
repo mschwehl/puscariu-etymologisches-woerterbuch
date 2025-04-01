@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="801">
+  
+  <lemma>înălbesc</lemma>
+  
+  <!-- Assuming înălbese -> înălbesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. albescu?, mgl. înălbesc?]</variants>
+  
+  <!-- Interpretation needed for far. algescu -> ar. albescu?, mel. nälbes -> mgl. înălbesc? -->
+  
+  <definition>‚weiß machen, weiß werden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">INALBESCO, -ERE?</etymon>
+     (für 
+    <etymon lang="Lat">-ESCERE</etymon>
+    ), vgl. 
+    <form>albesc</form>
+    . 
+    <!-- Assuming -iRE -> -ERE?, -zscErs -> -ESCERE -->
+    
+  </etymology>
+  
+  <variants>[ar. bilească? von der Leinwand].</variants>
+  
+  <!-- Interpretation needed for bilescar -->
+  
+</entry>

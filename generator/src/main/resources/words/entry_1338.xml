@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1338">
+  
+  <lemma>plinătate</lemma>
+  
+  <!-- Assuming plinätäte -> plinătate -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Fülle“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PLENITAS, -ATEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="fro">plenté</form>
+      . 
+      <!-- Assuming a.-frz. plente -> plenté -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

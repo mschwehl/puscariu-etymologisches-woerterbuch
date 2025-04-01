@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1036">
+  
+  <lemma>martur</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Zeuge</definition>
+  
+  <etymology source="Dens. Hist. dr. 58, 201">
+    
+    <etymon lang="Lat">MARTYR, -EM?</etymon>
+     (= 
+    <etymon lang="Lat">MARTYR</etymon>
+     „testis“, belegt bei Dens. Hist. l. r. 58, 201): 
+    <!-- Assuming X MARTUR, -REM -> MARTYR, -EM?, testes -> testis -->
+    
+    <cognates>
+      
+      <form lang="it-OLD">martore</form>
+      , 
+      <!-- Assuming a.-it. -> it-OLD -->
+      
+      <form lang="lmo">martor?</form>
+       „ganzo'“ (vgl. 
+      <form lang="it-LEC">marturis?</form>
+       (
+      <etymon lang="el">μαρτυρίζω?</etymon>
+      )). 
+      <!-- Interpretation needed for martol, marturisu, E MARTURI20 -> μαρτυρίζω? -->
+      
+    </cognates>
+     — Dagegen stammt ar. mgl. alb. 
+    <form>martir</form>
+     „Zeuge“ aus n.-gr. 
+    <etymon lang="el">μάρτυρας</etymon>
+    . 
+    <!-- Assuming wdorveas -> μάρτυρας -->
+    
+  </etymology>
+  
+</entry>

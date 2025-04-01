@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="734">
+   
+  <!-- Assuming 134 -> 734 -->
+  
+  <lemma>greier</lemma>
+  
+  <!-- Assuming yreer -> greier -->
+  
+  <lemma_variants>(grier, auch grel?)</lemma_variants>
+  
+  <!-- Interpretation needed for grel -->
+  
+  <pos>sm.</pos>
+  
+  <definition>Grille?</definition>
+   
+  <!-- Definition missing in text, added based on etymology -->
+  
+  <etymology>
+    gehört sicherlich zu 
+    <etymon lang="Lat">GRYLLUS, -UM</etymon>
+    : 
+    <!-- Assuming -vu -> -UM -->
+    
+    <cognates>
+      
+      <form lang="it">grillo</form>
+      ,
+
+      <form lang="sc">grillo</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="es">grillo</form>
+      ,
+
+      <form lang="roh-ENG">gril</form>
+      ,
+
+      <form lang="oc">gril</form>
+      , 
+      <!-- Assuming pr. -> oc -->
+      
+      <form lang="pt">grilho</form>
+      , vgl.
+
+      <form lang="fr">grillon</form>
+      , 
+      <!-- Assuming grillen -> grillon -->
+      
+    </cognates>
+     doch sind die Unregelmäßigkeiten des Stammvokals noch unerklärt.
+
+  </etymology>
+  
+  <variants>[ar. giungiumar?, ținginar?, mgl. țicoare?, ștureț?].</variants>
+  
+  <!-- Interpretation needed for dZundZunär, zinginär, mel. tsicoare, Sturec -->
+  
+</entry>

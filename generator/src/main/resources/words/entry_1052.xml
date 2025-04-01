@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1052">
+  
+  <lemma>matur</lemma>
+  
+  <!-- Assuming mata -> matur -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <usage_note>(Conv. lit. AX, 1013)</usage_note>
+   
+  <!-- Assuming AX -> XX? -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. matur?]</variants>
+  
+  <!-- Interpretation needed for matir -->
+  
+  <definition>„reif“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MATURUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming ÖMATERUS -> MATURUS, Ui -> UM -->
+    
+    <cognates>
+      
+      <form lang="it">maturo</form>
+      ,
+
+      <form lang="roh-ENG">madür</form>
+      ,
+
+      <form lang="oc">madur</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">meür</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="fr">mûr</form>
+      , 
+      <!-- Assuming n.-irz, mür -> fr mûr -->
+      
+      <form lang="es">maduro</form>
+      , 
+      <form lang="pt">maduro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="777">
+  
+  <prefix>+</prefix>
+  
+  <lemma>ambi, ambe</lemma>
+  
+  <!-- Assuming imbi, Îmbe -> ambi, ambe -->
+  
+  <pos>num.</pos>
+  
+  <definition>„beide“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AMBO, -AE</etymon>
+    : 
+    <!-- Assuming ano, = -> AMBO, -AE -->
+    
+    <cognates>
+      
+      <form lang="it-OLD">ambi, -e</form>
+      , 
+      <!-- Assuming a.-it. -> it-OLD -->
+      
+      <form lang="roh-ENG">ambas</form>
+      , 
+      <!-- Assuming eng. -> roh-ENG -->
+      
+      <form lang="oc">am(s), ambas</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">ans, ambes</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="es">ambos, -as</form>
+      ,
+
+      <form lang="pt">ambos, -as</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. amîndoi?].</variants>
+  
+  <!-- Interpretation needed for Samisdoili -->
+  
+</entry>

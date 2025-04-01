@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1254">
+  
+  <lemma>pănucľă?</lemma>
+  
+  <!-- Assuming pänücte -> pănucľă? -->
+  
+  <scope>ar.</scope>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Pest</definition>
+  
+  <etymology source="G. Meyer: Neugr. Studien I, 51-52">
+    
+    <etymon lang="Lat">PANUCULA, -AM</etymon>
+     (statt 
+    <etymon lang="Lat">PANICULA</etymon>
+     „Art Geschwulst“: von 
+    <etymon lang="Lat">PANUS</etymon>
+    ), auch n.-gr. 
+    <etymon lang="el">πανοῦκλα</etymon>
+     „Pest“ (vgl. G. Meyer: Neugr. Studien I, 51—52). 
+    <!-- Assuming * paxte[i ua -> PANUCULA, Pant-CULA -> PANICULA, pinos -> PANUS, zaotzia -> πανοῦκλα -->
+    
+  </etymology>
+  
+  <usage_note>
+    Vgl. 
+    <form>ciumă</form>
+    . Das ar. Wort kommt in Thessal. vor, in Epir dafür 
+    <form lang="ro-AR">púșclă?</form>
+    .
+  </usage_note>
+  
+  <!-- Interpretation needed for pushle -> púșclă? -->
+  
+</entry>

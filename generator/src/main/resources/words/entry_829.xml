@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="829">
+  
+  <lemma>îndărătnic, -ă</lemma>
+  
+  <!-- Assuming îudărătnic -> îndărătnic -->
+  
+  <lemma_variants>(îndărăptnic?)</lemma_variants>
+  
+  <!-- Assuming indäräptnie -> îndărăptnic? -->
+  
+  <reference type="see">
+    s. 
+    <targetLemma>îndărăt</targetLemma>
+    .
+  </reference>
+  
+</entry>

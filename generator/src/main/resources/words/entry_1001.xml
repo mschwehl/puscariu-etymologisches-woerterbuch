@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1001">
+  
+  <lemma>lup</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+  
+  <definition>„Wolf“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUPUS, -UM</etymon>
+    : 
+    <!-- Assuming rüpus -> LUPUS -->
+    
+    <cognates>
+      (
+      <form lang="it">lupo</form>
+      ) 
+      <!-- Assuming Japo -> lupo -->
+      
+      <form lang="it-SIC">lupu?</form>
+      , 
+      <!-- Interpretation needed for ltpa -->
+      
+      <form lang="roh-ENG">luf</form>
+      ,
+
+      <form lang="oc">lop</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">loup</form>
+      ,
+
+      <form lang="ca">llop</form>
+      , 
+      <!-- Interpretation needed for llob -->
+      
+      <form lang="es">lobo</form>
+      , 
+      <form lang="pt">lobo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

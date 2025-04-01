@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="780">
+  
+  <lemma>îmbrac</lemma>
+  
+  <!-- Assuming imbräe -> îmbrac -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„anziehen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IN-BRACO, -ARE</etymon>
+     (VON 
+    <etymon lang="Lat">BRACA</etymon>
+    : 
+    <!-- Assuming BRACA! -> BRACA -->
+    
+    <cognates>
+      
+      <form lang="sq">brekë?</form>
+      , 
+      <!-- Interpretation needed for breke -->
+      
+      <form lang="it">brache</form>
+      ,
+
+      <form lang="roh-ENG">braca?</form>
+      , 
+      <!-- Interpretation needed for braya -->
+      
+      <form lang="fr">braies</form>
+      ,
+
+      <form lang="es">bragas</form>
+      ,
+
+      <form lang="pt">bragas</form>
+      , vgl.
+
+      <form>brăcinar?</form>
+      ): 
+      <!-- Interpretation needed for brăcire -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="it">imbracare</form>
+       „die Windeln einem Kinde umlegen, es einwickeln“.
+
+    </cognates>
+     Die Bedeutung des it. Wortes muß auch dem rum. eigen gewesen sein; vom Kinde dann, bei dem das „Einwickeln“ dem „Anziehen“ gleich kommt, ist das Wort auch auf Erwachsene übertragen worden.
+
+  </etymology>
+  
+  <variants>[ar. îmbrăcu?].</variants>
+  
+  <!-- Interpretation needed for mvescn -->
+  
+</entry>

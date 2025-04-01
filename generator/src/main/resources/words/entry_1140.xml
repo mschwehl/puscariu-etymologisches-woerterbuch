@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1140">
+  
+  <lemma>must</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mustu]</variants>
+  
+  <definition>„Most“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MUSTUM</etymon>
+    : 
+    <!-- Assuming Cuiisrum -> MUSTUM -->
+    
+    <cognates>
+      
+      <form lang="sq">musht?</form>
+      , 
+      <!-- Interpretation needed for must -->
+      
+      <form lang="it">mosto</form>
+      , 
+      <form lang="es">mosto</form>
+      , 
+      <form lang="pt">mosto</form>
+      , 
+      <!-- Assuming pe. -> pt -->
+      
+      <form lang="roh-ENG">most</form>
+      ,
+
+      <form lang="oc">most</form>
+      , 
+      <form lang="ca">most</form>
+      , 
+      <!-- Assuming pv. cat. -> oc, ca -->
+      
+      <form lang="fr">moût</form>
+      . 
+      <!-- Assuming mot -> moût -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

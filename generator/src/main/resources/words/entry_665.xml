@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="665">
+  
+  <lemma>fulg</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Schneeflocke, Flaum'</definition>
+  
+  <etymology source="Conv. lit. XXXIX, 65-67">
+    ist ein postverbales Adjektivum in substantivischer Verwendung: 
+    <etymon lang="Lat">*FULGUS, -A, -UM</etymon>
+     „glänzend, schimmernd“ (vgl. 
+    <example>spălat fulg</example>
+     = „blank gewaschen‘) von 
+    <etymon lang="Lat">FULGERE</etymon>
+    .
+
+    <!-- Assuming * FELGUS -> *FULGUS -->
+    — Ar. 
+    <form lang="ro-AR">sfulgu</form>
+     „Blitz“ ist wohl von 
+    <form lang="ro-AR">sfuldzir?</form>
+     beeinflußt.
+
+    <!-- Interpretation needed for sfuldzir -->
+    
+  </etymology>
+  
+</entry>

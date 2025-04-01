@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1208">
+  
+  <lemma>nuntă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. nuntă?, nuntă?, mgl. =, ir. nuntă?]</variants>
+  
+  <!-- Interpretation needed for numtă, humtä, nuntse -> nuntă? -->
+  
+  <definition>„Hochzeit“.</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. II, § 50; Densusianu: H. l. r. 127">
+    Das Wort ist nach Meyer-Lübke: Rom. Gramm. II, § 50, aus einem Plural 
+    <form>nunți?</form>
+     (vgl. ir. 
+    <form lang="ro-IR">nunțișe?</form>
+    ) rückgebildet, 
+    <!-- Interpretation needed for muwfl -> nunți?, nunise -> nunțișe? -->
+     und dieses weist auf 
+    <etymon lang="Lat">NUPTIAE, -AS</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sc">nuntas</form>
+       
+      <!-- Assuming sard. -> sc -->
+      
+    </cognates>
+     (die übrigen rom. Sprachen fordern ein 
+    <etymon lang="Lat">*NOPTIAE?</etymon>
+    : 
+    <form lang="it">nozze</form>
+    , 
+    <form lang="it-LAN?">nozze?</form>
+    , 
+    <form lang="it-SIC">nozzi?</form>
+    , 
+    <form lang="it-BOL?">nòz?</form>
+    , 
+    <form lang="it-TRIE">nóse?</form>
+    , 
+    <form lang="roh-ENG">nozze?</form>
+    , 
+    <form lang="oc">nòças?</form>
+    , 
+    <form lang="fr">noce(s)</form>
+    ). 
+    <!-- Interpretation needed for *xövtiz -> *NOPTIAE?, lanc. notsse -> nozze?, sie. notssi -> nozzi?, bolen. nots -> nòz?, trient. nose -> nóse?, eng. noatsa -> nozze?, pv. nossas -> nòças? -->
+     Alb. 
+    <form lang="sq">nuse</form>
+     „Neuvermählte‘“ gehört nicht hierher. Das eingeschobene n im Rum. und Sard. will Densusianu: H. l. r. 127 durch eine Kontamination mit 
+    <etymon lang="Lat">NUNTIARE</etymon>
+     erklären.
+
+  </etymology>
+  
+</entry>

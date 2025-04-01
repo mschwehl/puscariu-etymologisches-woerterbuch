@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="651">
+  
+  <lemma>friguros</lemma>
+  
+  <!-- Assuming frigurös -> friguros -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsä -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„frostig“</definition>
+  
+  <etymology source="Archiv lat. Lex. V, 212">
+    
+    <etymon lang="Lat">FRIGOROSUS, -A, -UM</etymon>
+     (belegt):
+
+    <!-- Assuming PRIGOROSUS -> FRIGOROSUS -->
+    
+    <cognates>
+      
+      <form lang="sc">friorosu</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="fr">frileux</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. arțuros?].</variants>
+  
+  <!-- Interpretation needed for arcuros -->
+  
+</entry>

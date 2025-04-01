@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="699">
+  
+  <lemma>grănos?</lemma>
+  
+  <!-- Assuming gärndäts -> grănos? -->
+  
+  <scope>ar.</scope>
+  
+  <feminine_neuter>-oasă?</feminine_neuter>
+  
+  <!-- Assuming -ă -> -oasă? -->
+  
+  <pos>adj.</pos>
+   
+  <!-- Assuming ad). -> adj. -->
+  
+  <definition>„aus Korn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*GRANACEUS, -A, -UM</etymon>
+     (von 
+    <etymon lang="Lat">GRANUM</etymon>
+    ) 
+    <!-- Assuming *GRANACKUS -> *GRANACEUS, sranum -> GRANUM -->
+    
+  </etymology>
+  
+  <variants>[ar. P. unbekannt; dafür grânat?, -ă? u. gărneață?].</variants>
+  
+  <!-- Interpretation needed for gärnät, -&, gărneatsă -->
+  
+</entry>

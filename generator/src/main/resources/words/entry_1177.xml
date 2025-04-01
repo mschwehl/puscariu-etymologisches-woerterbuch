@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1177">
+  
+  <lemma>neted</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„glatt“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NITIDUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming nirinus -> NITIDUS -->
+    
+    <cognates>
+      
+      <form lang="it">netto</form>
+      ,
+
+      <form lang="it-SIC">nitidu</form>
+      ,
+
+      <form lang="it-EMIL">nett</form>
+      , 
+      <form lang="fur">nett</form>
+      , 
+      <!-- Assuming emil. frl. -> it-EMIL, fur -->
+      
+      <form lang="lmo-MIL">net</form>
+      , 
+      <form lang="oc">net</form>
+      , 
+      <form lang="fr">net</form>
+      , 
+      <!-- Assuming mail. pv. frz. -> lmo-MIL, oc, fr -->
+      
+      <form lang="lmo-VALB?">nid?</form>
+       „liscio“, 
+      <!-- Interpretation needed for valbremb. nide -->
+      
+      <form lang="lmo-BERG">nöd?</form>
+      , 
+      <!-- Interpretation needed for berg. nöde -->
+      
+      <form lang="lmo-BLE?">nid?</form>
+       „grassetto“, 
+      <!-- Interpretation needed for blen. nidie -->
+      
+      <form lang="it-VIC?">snìo?</form>
+       „di pelo morbido e liscio“, 
+      <!-- Interpretation needed for vie. snio -->
+      
+      <form lang="roh-ENG">net?</form>
+      , 
+      <!-- Interpretation needed for neidi -->
+      
+      <form lang="es">neto</form>
+      ,
+
+      <form lang="pt">nídeo?</form>
+      . 
+      <!-- Interpretation needed for nedeo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. gîlițos?].</variants>
+  
+  <!-- Interpretation needed for nyilitsos -->
+  
+</entry>

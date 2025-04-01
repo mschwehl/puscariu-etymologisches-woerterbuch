@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1011">
+  
+  <lemma>măciucă</lemma>
+  
+  <!-- Assuming măcidecă -> măciucă -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. măciucă u. mățucă? (in Epir.)]</variants>
+  
+  <!-- Interpretation needed for mätsuca, mătsucă -->
+  
+  <definition>„Knüttel, Keule“</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, 153">
+    
+    <etymon lang="Lat">*MATTEA + UCEA?</etymon>
+     (
+    <reference type="bibliographic">Verfassers: Lat. Ti u. Ki, 153</reference>
+    ): 
+    <!-- Assuming (*yarıecca, -aaı -> *MATTEA + UCEA? -->
+    
+    <cognates>
+      
+      <form lang="sc">mazzocca?</form>
+      , 
+      <!-- Interpretation needed for matssukka -->
+      
+      <form lang="roh-ENG">mazzöch?</form>
+      , 
+      <!-- Interpretation needed for malssüh' -->
+      
+      <form lang="fr">massue</form>
+      . 
+      <!-- Assuming trz. -> fr -->
+      
+    </cognates>
+     Mit anderem Suffix 
+    <form>măciulie</form>
+     sf. „Knopf, Kopf“. — Mgl. 
+    <example lang="ro-MG">a măciucă?</example>
+     „ein Kinderspiel“ gehört vielleicht auch hierher. 
+    <!-- Interpretation needed for mätsueä -> măciucă? -->
+    
+  </etymology>
+  
+</entry>

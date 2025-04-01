@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="850">
+  
+  <lemma>îngenunchez</lemma>
+  
+  <!-- Assuming îngenunehez -> îngenunchez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. îngenuchez?, mgl. angenuclu?]</variants>
+  
+  <!-- Interpretation needed for ndzinueledz -> îngenuchez?, anzintklu -> angenuclu? -->
+  
+  <definition>„knien“</definition>
+  
+  <etymology source="Dens. H. l. r. 165">
+    
+    <etymon lang="Lat">[IN-]GENUCULO, -ARE?</etymon>
+     (Dens. H. l. r. 165): 
+    <!-- Assuming [in-|sexVe[i]Lo, -ang -> [IN-]GENUCULO, -ARE? -->
+    
+    <cognates>
+      
+      <form lang="it">inginocchiare</form>
+      , vgl.
+
+      <form lang="fr">agenouiller</form>
+      . 
+      <!-- Assuming agenoniller -> agenouiller -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

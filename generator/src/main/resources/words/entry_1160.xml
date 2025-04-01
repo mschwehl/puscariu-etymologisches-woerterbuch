@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1160">
+  
+  <lemma>nea</lemma>
+  
+  <!-- Assuming ned -> nea -->
+  
+  <lemma_variants>(neauă?)</lemma_variants>
+  
+  <!-- Assuming neduä -> neauă? -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. neao, mgl. nea?, ir. neauă?]</variants>
+  
+  <!-- Interpretation needed for nend -> nea?, ne-wu -> neauă? -->
+  
+  <definition>„Schnee“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NIX, NIVEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">neve</form>
+      , 
+      <form lang="pt">neve</form>
+      , 
+      <!-- Assuming pg. -> pt -->
+      
+      <form lang="it-LEC">neve?</form>
+      , 
+      <!-- Interpretation needed for nie -->
+      
+      <form lang="lmo-BERG">né?</form>
+      , 
+      <!-- Interpretation needed for berg. ne -->
+      
+      <form lang="it-SIC">nivi</form>
+      , 
+      <!-- Assuming sic. -> it-SIC -->
+      
+      <form lang="sc">nie</form>
+       (masc. nach 
+      <form>die</form>
+      ), 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">naiv</form>
+      ,
+
+      <form lang="oc">neu</form>
+      , 
+      <form lang="ca">neu</form>
+      , 
+      <!-- Assuming pv. cat. -> oc, ca -->
+      
+      <form lang="fro">neif</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="oc-GAS">nèu?</form>
+      , 
+      <!-- Interpretation needed for gasc. heu -->
+      
+      <form lang="es">nieve</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

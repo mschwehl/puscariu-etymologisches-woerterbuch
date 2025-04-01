@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="750">
+  
+  <lemma>gută</lemma>
+  
+  <!-- Assuming güta -> gută -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <definition>„Gicht, Schlaganfall“</definition>
+  
+  <etymology>
+    (vgl. ar. 
+    <form lang="ro-AR">înc'icutare?</form>
+     „Schlaganfall“ ar. 
+    <form lang="ro-AR">pic?</form>
+     „tröpfle“ —&gt; 
+    <!-- Interpretation needed for ic, ank'ikutare -->
+    alb. 
+    <form lang="sq">pikë</form>
+     „Tropfen, Schlagfluß“, dr. 
+    <form>strop</form>
+     „Tropfen" — 
+    <form>stropsală</form>
+     „Epilepsie“, vgl. deutsch „Schlagfluß“)
+
+    <etymon lang="Lat">GUTTA, -AM</etymon>
+     „Tropfen“ (im Rom. „Gicht“): 
+    <!-- Assuming <strra -> GUTTA -->
+    
+    <cognates>
+      
+      <form lang="sq">gutë</form>
+      , 
+      <!-- Assuming gute -> gutë -->
+      
+      <form lang="it">gotta</form>
+      , 
+      <!-- Assuming gofta -> gotta -->
+      
+      <form lang="pt">gota</form>
+      , 
+      <!-- Assuming gofta -> gota -->
+      
+      <form lang="sc">gutta</form>
+      , 
+      <!-- Assuming sard, guita -> gutta -->
+      
+      <form lang="it-SIC">gutta</form>
+      , 
+      <!-- Assuming sic. guita -> gutta -->
+      
+      <form lang="roh-ENG">gut?</form>
+      , 
+      <!-- Interpretation needed for guot -->
+      
+      <form lang="oc">gota</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">gota</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">gota</form>
+      ,
+
+      <form lang="fr">goutte</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="989">
+  
+  <lemma>lucoare</lemma>
+  
+  <usage_note>(Dosoftei Acatist. a. 1673 f. 120)</usage_note>
+   
+  <!-- Assuming Dosclt. -> Dosoftei -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Glanz“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*LUCOR, -OREM</etymon>
+    : 
+    <!-- Assuming <* icon -> *LUCOR -->
+    
+    <cognates>
+      
+      <form lang="it-OLD">lucore</form>
+      , 
+      <!-- Assuming a.-it. -> it-OLD -->
+      
+      <form lang="sc">lugore</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="oc">lugor</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">lueur</form>
+      ,
+
+      <form lang="ca">llugor</form>
+      . 
+      <!-- Assuming cat. -> ca -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

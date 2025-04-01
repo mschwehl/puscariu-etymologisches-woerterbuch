@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1090">
+  
+  <lemma>minte</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, mgl. minte?]</variants>
+  
+  <!-- Interpretation needed for , -> =, minti -> minte? -->
+  
+  <definition>„Sinn, Verstand, Gehirn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MENS, MENTEM</etymon>
+    : 
+    <!-- Assuming mine -> MENTEM -->
+    
+    <cognates>
+      
+      <form lang="sq">mend?</form>
+      , 
+      <!-- Interpretation needed for ment -->
+      
+      <form lang="it">mente</form>
+      , 
+      <form lang="sc">mente</form>
+      , 
+      <form lang="pt">mente</form>
+      , 
+      <!-- Assuming sard, pg. -> sc, pt -->
+      
+      <form lang="it-SIC">menti</form>
+      , 
+      <!-- Assuming sic. -> it-SIC -->
+      
+      <form lang="roh-ENG">imaint?</form>
+      , 
+      <!-- Interpretation needed for imaint -->
+      
+      <form lang="oc">ment</form>
+      , 
+      <form lang="ca">ment</form>
+      , 
+      <form lang="fr">ment</form>
+      , 
+      <!-- Assuming pv. cat. frz. -> oc, ca, fr -->
+      
+      <form lang="es">miente</form>
+      .
+
+    </cognates>
+     — Ar. 
+    <form lang="ro-AR">mință?</form>
+     Plur. „Schläfe“. 
+    <!-- Interpretation needed for mintsă -->
+     — Zum Sinn „Gehirn“, vgl. sp. 
+    <form lang="es">sesos</form>
+     „Gehirn“. 
+    <!-- Assuming Siun -> Sinn, vel. -> vgl. -->
+    
+  </etymology>
+  
+</entry>

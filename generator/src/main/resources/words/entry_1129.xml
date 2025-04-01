@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1129">
+  
+  <lemma>muntos</lemma>
+  
+  <!-- Assuming mumtös -> muntos -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. =?]</variants>
+  
+  <!-- Assuming > -> =? -->
+  
+  <definition>„bergig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MONTUOSUS, -A, -UM</etymon>
+    . 
+    <!-- Assuming moxtuösus -> MONTUOSUS -->
+    
+  </etymology>
+  
+</entry>

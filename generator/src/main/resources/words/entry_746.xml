@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="746">
+  
+  <lemma>gurgui?</lemma>
+  
+  <!-- Assuming gurgitü -> gurgui? -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Traufrohr“</definition>
+   
+  <!-- Assuming Traufrohre -> Traufrohr -->
+  
+  <related_forms>
+    
+    <form>gurguiul țițeiului?</form>
+     „Brustwarze“, 
+    <!-- Assuming gurguiul țiței -> gurguiul țițeiului? -->
+    
+    <form lang="ro-AR">gurgulu</form>
+     „Ball, Klumpen“,
+
+    <prefix>+</prefix>
+     
+    <form>gîrgîială?</form>
+     sf. (
+    <source_ref>Cuv. d. b. I, 284</source_ref>
+    ) „Schwulst auf der Hand“, 
+    <!-- Assuming -H garguiâlă -> + gîrgîială? -->
+    
+    <form>gurguià?</form>
+     I vb. „schwellen“, 
+    <!-- Assuming gurguiă -> gurguià?, schweilen -> schwellen -->
+    
+    <form>gurguiat, -ă</form>
+     adj. [ar. 
+    <form lang="ro-AR">gurgulat</form>
+    ] „rund“,
+
+    <form lang="ro-AR">gîrgîi?</form>
+     vb. I „plätschern‘“, 
+    <!-- Assuming giirgur -> gîrgîi? -->
+    
+    <form lang="ro-MG">garguliță?</form>
+     „Krug mit engem Halse“, 
+    <!-- Interpretation needed for gar-gulc« -->
+    
+  </related_forms>
+  
+  <etymology source="Körting? Nr. 4169">
+    gehören wahrscheinlich zu den von Körting? Nr. 4169 besprochenen onomatopeischen Lautverbindungen GARG-, GURG- mit der Grundbedeutung „sprudeln“. 
+    <!-- Assuming hârting? -> Körting? -->
+    
+  </etymology>
+  
+</entry>

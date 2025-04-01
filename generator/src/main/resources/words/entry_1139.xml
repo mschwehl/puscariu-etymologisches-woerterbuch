@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1139">
+  
+  <prefix>II</prefix>
+  
+  <lemma>mușchi</lemma>
+  
+  <!-- Assuming müschtit -> mușchi -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mușclu?]</variants>
+  
+  <!-- Interpretation needed for muăclu -->
+  
+  <definition>„Moos“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*MUSCULUS, -UM</etymon>
+     (Dimin. v. 
+    <etymon lang="Lat">MUSCUS</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="it">muschio</form>
+      ,
+
+      <form lang="fr">moule?</form>
+      . 
+      <!-- Interpretation needed for îrz. moule -> mousse? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

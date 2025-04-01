@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1337">
+  
+  <lemma>plin</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. (îm)plin?, mgl. = ir. plin?]</variants>
+  
+  <!-- Interpretation needed for (m)plin -> (îm)plin?, plir -> plin? -->
+  
+  <definition>„voll“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PLENUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming ÄPLENUS -> PLENUS -->
+    
+    <cognates>
+      
+      <form lang="it">pieno</form>
+      ,
+
+      <form lang="it-SIC">chinu?</form>
+      , 
+      <!-- Interpretation needed for pinu -->
+      
+      <form lang="roh-ENG">plain</form>
+      ,
+
+      <form lang="oc">ple</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">plein</form>
+      ,
+
+      <form lang="es">lleno</form>
+      ,
+
+      <form lang="pt">cheio</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

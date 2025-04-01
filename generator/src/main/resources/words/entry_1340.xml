@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1340">
+  
+  <lemma>ploaie</lemma>
+  
+  <!-- Assuming plodie -> ploaie -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. ploaie?, mgl. ploaie?, ir. ploaie?]</variants>
+  
+  <!-- Interpretation needed for ploae, ploaiă, ploie -->
+  
+  <definition>„Regen“</definition>
+  
+  <etymology source="Grundriß I², 468">
+    
+    <etymon lang="Lat">PLOVIA, -AM?</etymon>
+     (für 
+    <etymon lang="Lat">PLUVIA</etymon>
+    : 
+    <!-- Assuming $ Proza -AN -> PLOVIA, -AM? -->
+    
+    <cognates>
+      
+      <form lang="es">lluvia</form>
+      , 
+      <!-- Assuming lhwia -> lluvia -->
+      
+      <form lang="pt">chuva</form>
+      , vgl. Grundriß I², 468):
+
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="it">pioggia</form>
+      ,
+
+      <form lang="sc">pioa?</form>
+      , 
+      <!-- Interpretation needed for sard. pioza -->
+      
+      <form lang="roh-OBW">plövia?</form>
+      , 
+      <!-- Interpretation needed for plierdza -->
+      
+      <form lang="oc">ploja</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">pluie</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

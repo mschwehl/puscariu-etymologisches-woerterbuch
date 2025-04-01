@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1152">
+  
+  <lemma>nap</lemma>
+  
+  <variants>[ir. nap?]</variants>
+  
+  <!-- Assuming nop -> nap? -->
+  
+  <definition>„Steckrübe“*</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NAPUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">napo</form>
+      , (
+      <form lang="it">navone</form>
+      , 
+      <form lang="lmo-MIL">navon</form>
+      , 
+      <form lang="vec">naon</form>
+      , 
+      <form lang="oc">nabet</form>
+      , 
+      <form lang="fr">navet</form>
+      ), 
+      <!-- Assuming mail. -> lmo-MIL, ven. -> vec, pv. -> oc -->
+      
+      <form lang="ca">nap</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">nabo</form>
+      , 
+      <form lang="pt">nabo</form>
+      . 
+      <!-- Assuming sp. pg. -> es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

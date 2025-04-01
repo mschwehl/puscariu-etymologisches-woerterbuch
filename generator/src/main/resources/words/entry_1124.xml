@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1124">
+  
+  <lemma>mult</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mult, mgl. =, ir. mult?]</variants>
+  
+  <!-- Assuming multa -> mult, => -> =, mat -> mult? -->
+  
+  <definition>„viel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MULTUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming CMELTUS -> MULTUS -->
+    
+    <cognates>
+      
+      <form lang="isv">mult</form>
+      , 
+      <!-- Assuming vegl. -> isv -->
+      
+      <form lang="it">molto</form>
+      ,
+
+      <form lang="it-SIC">multu</form>
+      ,
+
+      <form lang="roh-ENG">mult?</form>
+      , 
+      <!-- Interpretation needed for mmolt -->
+      
+      <form lang="oc">mout?</form>
+      , 
+      <!-- Interpretation needed for pv. mount -->
+      
+      <form lang="fro">molt, mont</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="ca">molt</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">mucho, mut?</form>
+      , 
+      <!-- Interpretation needed for muti -->
+      
+      <form lang="pt">muito, mui?</form>
+      . 
+      <!-- Interpretation needed for muy -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

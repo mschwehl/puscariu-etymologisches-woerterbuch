@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="982">
+  
+  <lemma>lîncezesc?</lemma>
+  
+  <!-- Assuming tînjese -> lîncezesc? -->
+  
+  <verb_class>IV?</verb_class>
+   
+  <!-- Assuming I -> IV based on LANGUESCO? -->
+  
+  <pos>vb.</pos>
+  
+  <definition>„siechen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LANGUESCO, -ERE</etymon>
+     (= 
+    <etymon lang="Lat">-ERE</etymon>
+    ): 
+    <!-- Assuming CraxGuEsco, F-IRE -> LANGUESCO, -ERE -->
+    
+    <cognates>
+      
+      <form lang="sq">lëngoj</form>
+      . 
+      <!-- Interpretation needed for lengon -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. lînzidescu?].</variants>
+  
+  <!-- Interpretation needed for lindzidzăscul -->
+  
+</entry>

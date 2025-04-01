@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="675">
+  
+  <lemma>funingine</lemma>
+   
+  <!-- Assuming funingine -> funingine -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. furíngine?, furídzină?]</variants>
+  
+  <!-- Assuming furi(n)dzine -> furíngine?, furidzind -> furídzină? -->
+  
+  <definition>„Ruß“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FULIGO, *-IGINEM</etymon>
+    : 
+    <!-- Assuming Funico -> FULIGO -->
+    
+    <cognates>
+      
+      <form lang="it">fuliggine</form>
+      ,
+
+      <form lang="rm">fulin</form>
+      , 
+      <!-- Assuming rtr. -> rm -->
+      (
+      <form lang="es">hollín</form>
+      , 
+      <!-- Assuming hollin -> hollín -->
+      
+      <form lang="pt">fuligem</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1178">
+  
+  <lemma>nicăiri</lemma>
+  
+  <!-- Assuming nicăivi -> nicăiri -->
+  
+  <lemma_variants>
+    (nicăirea?, nicătu?, nicări? 
+    <source_ref>Jb. III, 322</source_ref>
+    )
+  </lemma_variants>
+  
+  <!-- Interpretation needed for nicăire(a), nicătu, nieauf -> nicări? -->
+  
+  <pos>adv.</pos>
+  
+  <variants>[mgl. nicăierea?, wahrscheinlich fehlerhaft für nicăierea? vgl. Papahagi: Megl.-Rom. 234]</variants>
+  
+  <!-- Interpretation needed for nicäiurea -> nicăierea?, nicalurea -> nicăierea? -->
+  
+  <definition>„nirgends“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NEC + ALICUBI?</etymon>
+    . 
+    <!-- Assuming arıöeı -> ALICUBI? -->
+    
+  </etymology>
+  
+  <variants>[ar. jură?, duvasuva?].</variants>
+  
+  <!-- Interpretation needed for jură, duvasuva -->
+  
+</entry>

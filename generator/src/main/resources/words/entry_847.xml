@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="847">
+  
+  <lemma>înfurc</lemma>
+  
+  <!-- Assuming infüre -> înfurc -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„aufgabeln“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IN-FURCO, -ARE</etymon>
+    : 
+    <!-- Assuming *ın-rünco -> *IN-FURCO -->
+    
+    <cognates>
+      
+      <form lang="it">inforcare</form>
+      ,
+
+      <form lang="roh-ENG">infurcar?</form>
+      , 
+      <!-- Interpretation needed for infurk'er -->
+      
+      <form lang="oc">enforcar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca-OLD">enforcar</form>
+      , 
+      <!-- Assuming a.-cat. -> ca-OLD -->
+      
+      <form lang="pt">enforcar</form>
+      ,
+
+      <form lang="fr">enfourcher</form>
+      ,
+
+      <form lang="es">enhorcar</form>
+      . 
+      <!-- Assuming enhorear -> enhorcar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1264">
+  
+  <lemma>pară</lemma>
+  
+  <lemma_variants>(peară)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[mgl. peră, ir. pere]</variants>
+  
+  <definition>„Birne“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PIRA, -AM</etymon>
+     (= 
+    <etymon lang="Lat">PIRUM</etymon>
+    : 
+    <!-- Assuming rlrun -> PIRUM -->
+    
+    <cognates>
+      
+      <form lang="roh-ENG">pair</form>
+       „Birne‘‘ 
+      <!-- Assuming eng. -> roh-ENG -->
+      
+    </cognates>
+    ):
+
+    <cognates>
+      
+      <form lang="it">pera</form>
+      , 
+      <form lang="oc">pera</form>
+      , 
+      <form lang="es">pera</form>
+      , 
+      <form lang="pt">pera</form>
+      , 
+      <!-- Assuming pv. sp. pa. -> oc, es, pt -->
+      
+      <form lang="lij-GEN">pea</form>
+      , 
+      <!-- Assuming gen. -> lij-GEN -->
+      
+      <form lang="it-SIC">pira</form>
+      , 
+      <!-- Assuming sie. -> it-SIC -->
+      
+      <form lang="roh-ENG">paira</form>
+       (Koll. „Birnen“),
+
+      <form lang="fr">poire</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

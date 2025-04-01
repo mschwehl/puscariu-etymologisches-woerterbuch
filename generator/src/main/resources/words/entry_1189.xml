@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1189">
+  
+  <lemma>nor</lemma>
+  
+  <lemma_variants>(nour?, + nufăr?)</lemma_variants>
+  
+  <!-- Interpretation needed for nöur, nüär -> nufăr? -->
+  
+  <pos>sm.</pos>
+  
+  <variants>
+    [ar. nor, năur?, neor?, for? W., nior?, năur?, niur? P. vgl. 
+    <source_ref>Zeitschr. rom. Phil. XXVIII, 617</source_ref>
+    , mgl. =, ir. nor, nuor]
+  </variants>
+  
+  <!-- Interpretation needed for näör, neor, for, niör, näür, niür, > -> = -->
+  
+  <definition>„Wolke“</definition>
+  
+  <etymology source="Mussafia, Beitr. 82">
+    
+    <etymon lang="Lat">NUBILUM</etymon>
+    : 
+    <!-- Assuming  nüsiLum -> NUBILUM -->
+    
+    <cognates>
+      
+      <form lang="it">nuvolo</form>
+      ,
+
+      <form lang="it-PAV?">nìvol?</form>
+      , 
+      <!-- Interpretation needed for pav. nivol -->
+      
+      <form lang="pms">nìvol?</form>
+      , 
+      <!-- Interpretation needed for piem. nivu -->
+      
+      <form lang="fur">nìul?</form>
+      , 
+      <!-- Interpretation needed for tri. niul -->
+      
+      <form lang="oc">nívol?</form>
+      , 
+      <!-- Interpretation needed for pv. nivul -->
+      
+      <form lang="es">nublo</form>
+      
+    </cognates>
+     (
+    <etymon lang="Lat">NUBILA</etymon>
+    : 
+    <form lang="it">nuvola</form>
+    , 
+    <form lang="vec">niola</form>
+    , 
+    <form lang="lmo">nivola</form>
+    , 
+    <form lang="oc-N">nívol?</form>
+    , 
+    <form lang="pt">nuvia?</form>
+    ), 
+    <!-- Interpretation needed for n.-pv. nivulo -> nívol?, pg. dial. uubia -> nuvia? -->
+     vgl. Mussafia, Beitr. 82.
+
+  </etymology>
+  
+</entry>

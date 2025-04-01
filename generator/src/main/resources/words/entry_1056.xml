@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1056">
+  
+  <lemma>mei</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. mei?, ir. mei?]</variants>
+  
+  <!-- Interpretation needed for melit -> mei?, mef -> mei? -->
+  
+  <definition>„Hirse“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MILIUM</etymon>
+    : 
+    <!-- Assuming uirium -> MILIUM -->
+    
+    <cognates>
+      
+      <form lang="sq">mel</form>
+      ,
+
+      <form lang="it">miglio</form>
+      ,
+
+      <form lang="lij-GEN-OLD">miliu?</form>
+      , 
+      <!-- Interpretation needed for a.-gen. midăzu -->
+      
+      <form lang="it-SIC">migghiu?</form>
+      , 
+      <!-- Interpretation needed for sic. miggyu -->
+      
+      <form lang="sc">mizu?</form>
+      , 
+      <!-- Interpretation needed for sard. mizu -->
+      
+      <form lang="roh-ENG">mail</form>
+      ,
+
+      <form lang="oc">melh</form>
+      , 
+      <!-- Interpretation needed for pv. meilh -->
+      
+      <form lang="fr">mil</form>
+      , 
+      <!-- Assuming trz. -> fr -->
+      
+      <form lang="ca">mill</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">mijo</form>
+      ,
+
+      <form lang="pt">milho</form>
+      . 
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

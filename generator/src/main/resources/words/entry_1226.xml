@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1226">
+  
+  <lemma>os</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =, mgl. os?, ir. =?]</variants>
+  
+  <!-- Interpretation needed for X -> =, xos -> os?, > -> =? -->
+  
+  <definition>„Knochen.. Bein“</definition>
+  
+  <etymology source="Dens. H. I. r. 134; Arch. lat. Lex. X, 421">
+    
+    <etymon lang="Lat">OSSUM</etymon>
+     (statt 
+    <etymon lang="Lat">OS</etymon>
+    , vgl. Dens. H. I. r. 134, Arch. lat. Lex. X, 421): 
+    <!-- Assuming össux -> OSSUM -->
+    
+    <cognates>
+      
+      <form lang="isv">uasse?</form>
+      , 
+      <!-- Interpretation needed for vegl. wasse -->
+      
+      <form lang="it">osso</form>
+      , 
+      <form lang="pt">osso</form>
+      , 
+      <!-- Assuming pg. -> pt -->
+      
+      <form lang="fur">ues?</form>
+      , 
+      <!-- Interpretation needed for frl. uess -->
+      
+      <form lang="roh-ENG">oss</form>
+      , 
+      <!-- Assuming eng. öss -> oss -->
+      
+      <form lang="oc">os</form>
+      , 
+      <form lang="fr">os</form>
+      , 
+      <form lang="ca">os</form>
+      , 
+      <!-- Assuming pv. frz. cat. -> oc, fr, ca -->
+      
+      <form lang="es">hueso</form>
+      .
+
+    </cognates>
+     Zur Mehrzahl 
+    <form>oase</form>
+     „Gebein“ vgl. 
+    <form lang="it">le ossa</form>
+    , 
+    <form lang="oc-N">os?</form>
+     „ossature“. 
+    <!-- Interpretation needed for n.-pv. 0850 -> os? -->
+    
+  </etymology>
+  
+</entry>

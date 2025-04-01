@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="695">
+  
+  <lemma>găinaț</lemma>
+  
+  <!-- Assuming gäinät -> găinaț -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[vgl. ar. g(ă)linaț?]</variants>
+  
+  <!-- Assuming g(â)tinat -> g(ă)linaț? -->
+  
+  <definition>„Hühnermist“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GALLINACEUS, -UM</etymon>
+     (scil. 
+    <etymon lang="Lat">fimus</etymon>
+    ): 
+    <!-- Assuming ganrina-cEUS -> GALLINACEUS -->
+    
+    <cognates>
+      
+      <form lang="es">gallinaza</form>
+      ,
+
+      <form lang="pt">galinhaca</form>
+      . 
+      <!-- Assuming gallinhaca -> galinhaca -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

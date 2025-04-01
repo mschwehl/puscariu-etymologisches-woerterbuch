@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="708">
+   
+  <!-- Assuming 705 -> 708 -->
+  
+  <lemma>gheabă?</lemma>
+  
+  <!-- Assuming ghedvă -> gheabă? -->
+  
+  <pos>sf.</pos>
+  
+  <lemma_variants>gheb sm.</lemma_variants>
+  
+  <definition>„Höcker‘</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, S. 171-172">
+    
+    <etymon lang="Lat">*GIBBA, -AM?</etymon>
+    , 
+    <etymon lang="Lat">GIBBUS, -UM</etymon>
+     (für 
+    <etymon lang="Lat">*GIBBULUS, -A</etymon>
+    , Dim. von 
+    <etymon lang="Lat">GIBBUS, GIBBA</etymon>
+    : 
+    <!-- Assuming *aLisBa, -AN -> *GIBBA, -AM?, "GLIBBUS -> GIBBUS, *ciBBlijLus -> *GIBBULUS, GIspa -> GIBBA -->
+    
+    <cognates>
+      
+      <form lang="it-NAP">gimmu?</form>
+      , 
+      <!-- Interpretation needed for dfimmu -->
+      
+      <form lang="it-CAL">gimbu?</form>
+      , 
+      <!-- Interpretation needed for Jimbu -->
+      
+      <form lang="it-SIC">gimmu?</form>
+      , 
+      <!-- Interpretation needed for jinunu -->
+      
+      <form lang="lij-GEN">gemmu?</form>
+      , 
+      <!-- Interpretation needed for Sembuw -->
+      
+      <form lang="co">gembu?</form>
+      , 
+      <!-- Interpretation needed for Zembu -->
+      
+      <form lang="ca">gep</form>
+      ,
+
+      <form lang="pt">geba</form>
+      
+    </cognates>
+    ):
+
+    <cognates>
+      
+      <form lang="rgn">gèbb?</form>
+      . 
+      <!-- Interpretation needed for dZebb -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

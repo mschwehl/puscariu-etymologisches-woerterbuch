@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1013">
+  
+  <lemma>măduvă</lemma>
+  
+  <lemma_variants>(măduie?)</lemma_variants>
+  
+  <!-- Interpretation needed for mădiă -> măduie? -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. măduă, mgl. măduă?]</variants>
+  
+  <!-- Interpretation needed for miduă -> măduă? -->
+  
+  <definition>„Mark“</definition>
+  
+  <etymology source="Zauner: Körperteile, 350">
+    
+    <etymon lang="Lat">MEDULLA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">midolla</form>
+      ,
+
+      <form lang="lmo">miola</form>
+      , 
+      <!-- Assuming lomb. -> lmo -->
+      
+      <form lang="lmo-TES">medolla?</form>
+      , 
+      <form lang="lmo-SOLA?">medolla?</form>
+      , 
+      <!-- Interpretation needed for nivöla, sola -->
+      
+      <form lang="pms">mióla?</form>
+      , 
+      <!-- Interpretation needed for nola -->
+      
+      <form lang="it-EMIL">mróla?</form>
+      , 
+      <!-- Interpretation needed for mrolla -->
+      
+      <form lang="sc">meudda?</form>
+      , 
+      <!-- Interpretation needed for sard. meuddu -->
+      
+      <form lang="roh-OBW">maduol?</form>
+      , 
+      <!-- Interpretation needed for maquoll -->
+      
+      <form lang="roh-ENG">meduol?</form>
+      , 
+      <!-- Interpretation needed for miguöl -->
+      
+      <form lang="oc">meola</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="oc-BEAR?">medulha?</form>
+      , 
+      <!-- Interpretation needed for b&arn. medoure -->
+      
+      <form lang="fr-LOR">môle?</form>
+      , 
+      <!-- Interpretation needed for lothr. mul -->
+      
+      <form lang="fr">moelle</form>
+      ,
+
+      <form lang="ca">medul·la?</form>
+      , 
+      <!-- Interpretation needed for madulla -->
+      
+      <form lang="es">meollo</form>
+      ,
+
+      <form lang="pt">miolo?</form>
+      . 
+      <!-- Interpretation needed for miola -->
+      
+    </cognates>
+     — Akzentverschiebung zeigt außer Rum. noch 
+    <form lang="frp-DAUP?">mèolo?</form>
+    , 
+    <form lang="vec">méola?</form>
+    , 
+    <form lang="it-GIU?">miula?</form>
+    , 
+    <form lang="fur">muele?</form>
+    , vgl. Zauner: Körperteile, 350. 
+    <!-- Interpretation needed for dauph. menlo -> mèolo?, me£ola -> méola?, judikar. miula -> miula?, meule -> muele? -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1281">
+  
+  <lemma>păsat</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. păsat?]</variants>
+  
+  <!-- Interpretation needed for psot -->
+  
+  <definition>„Hirse, Hirsenbrei“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PENSATUM?</etymon>
+     (von 
+    <etymon lang="Lat">PENSO?</etymon>
+    , eigtl. „das Zerdrückte“). 
+    <!-- Assuming pr[v]sarum -> *PENSATUM?, Pe|x]so -> PENSO? -->
+    
+  </etymology>
+  
+</entry>

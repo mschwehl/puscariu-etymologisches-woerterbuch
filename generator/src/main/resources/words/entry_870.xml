@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="870">
+  
+  <lemma>îns</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>pron. dem.</pos>
+  
+  <variants>[ar. îns?, însă?, mgl. îns?, ir. îns?]</variants>
+  
+  <definition>„dieser, e, es“</definition>
+  
+  <etymology source="App. Prob. 156; C. I. L. IX, 1164; Sueton Augustus 88; Archiv lat. Lex. X, 450-51; IX, 412-13; Schuchardt: Vok. I, 148; Frohner: Rh. Mus. XIII, 148; Georges: Lex. lat. Wortf.; Conv. lit. XXXVIII, 254; Archivio glott. ital. III, 442#; X, 154; Zeitschr. rom. Phil. XXII, 473; Mussafia, Beitrag, 26; Meyer-Lübke: Rom. Gramm. III, § 69; II, § 566; III, § 551">
+    
+    <etymon lang="Lat">IPSUS, -A, -UM</etymon>
+     (App. Prob. 156, C. I. L. IX, 1164 = 
+    <etymon lang="Lat">IPSE</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="es-OLD">esso?</form>
+      , 
+      <form lang="es">ese</form>
+      ,
+
+      <form lang="it">esso</form>
+      ,
+
+      <form lang="sc">(în)su</form>
+      ,
+
+      <form lang="roh-ENG">su?</form>
+      ,
+
+      <form lang="oc">eis</form>
+      ,
+
+      <form lang="pt-OLD">eiso</form>
+      .
+
+    </cognates>
+    Die Form 
+    <form lang="la">ipse, ipsu</form>
+     ist oft belegt, (so bei Sueton Augustus 88; auf pomp. Inschriften; bei Martial I, 109; Archiv lat. Lex. X, 450—51; IX, 412—13; Schuchardt: Vok. I, 148; Frohner: Rh. Mus. XIII, 148; Georges: Lex. lat. Wortf. etc.);
+auf sie geht zurück 
+    <form>dîns</form>
+     (in 
+    <example>dîns (de) dimineață</example>
+     &lt; 
+    <etymon lang="Lat">DE IPSO *DE-MANE</etymon>
+    , neben alt-rum. 
+    <example lang="ro-OLD">dîns de dimineață</example>
+    , 
+    <source_ref>Conv. lit. XXXVIII, 254</source_ref>
+    ),
+ar. 
+    <form lang="ro-AR">năsu</form>
+     (= alt-rum. 
+    <form lang="ro-OLD">mînsu?</form>
+    ), ar. 
+    <form lang="ro-AR">dîns?</form>
+     (= dr. 
+    <form>dîns</form>
+    ).
+
+Daneben muß eine Form 
+    <etymon lang="Lat">*INSUS?</etymon>
+     bestanden haben, wie aus den anderen rum. Formen ersichtlich,
+ferner aus 
+    <form lang="sc-S">insoru?</form>
+     (
+    <etymon lang="Lat">IPSORUM</etymon>
+    ),
+
+    <form lang="sc-L-OLD">nensunu?</form>
+     (
+    <etymon lang="Lat">NE-IPSE-UNUS</etymon>
+    ),
+
+    <form lang="lmo-VALT">inziss?</form>
+     (
+    <etymon lang="Lat">IPSE + IPSE</etymon>
+    ),
+
+    <form lang="fro">ensement</form>
+     (
+    <etymon lang="Lat">*IPSAMENTE</etymon>
+    ).
+
+Der Einschub des n ist Archivio glott. ital. III, 442# von Ascoli erklärt, weitere Beispiele daselbst X, 154:
+Zeitschr. rom. Phil. XXII, 473; Mussafia, Beitrag, 26.
+
+Zur Syntax von 
+    <form>îns</form>
+     siehe Meyer-Lübke: Rom. Gramm. III, § 69, wo trefflich bemerkt wird,
+daß man 
+    <etymon lang="Lat">IPSE</etymon>
+     „als eine zunächst bei einzelnen Präp. eingetretene Verstärkung von
+
+    <form>el</form>
+     oder genauer von lat. 
+    <etymon lang="Lat">ILLE</etymon>
+     anzusehen hat.
+
+
+    <example lang="la">cum illo</example>
+     wurde also schon früh durch 
+    <example lang="la">cum ipso illo</example>
+     ersetzt.
+In einer Sprache, die 
+    <etymon lang="Lat">ille</etymon>
+     als Artikel anhängte, musste der Ton fast zwangsläufig auf das zweite Glied rücken.“
+
+Meyer-Lübke: Rom. Gramm. III, § 69 erklärt 
+    <form>dîns</form>
+     (neben 
+    <form>îns</form>
+    ), zunächst aus
+
+    <form>a-d-îns</form>
+    , 
+    <form>la-d-îns</form>
+     (
+    <etymon lang="Lat">AD-IPSUM</etymon>
+    , 
+    <etymon lang="Lat">ILLAC AD IPSUM</etymon>
+    ),
+alt-rum. 
+    <example lang="ro-OLD">cu mînsu?</example>
+     (auch ar. 
+    <example lang="ro-AR">cu năsu?</example>
+    ) als
+
+    <etymon lang="Lat">CUM-IPSO</etymon>
+     mit falscher Trennung.
+
+Heute findet man auch 
+    <example>cu dînsul</example>
+    , ar. 
+    <example lang="ro-AR">la însu?</example>
+    .
+
+
+    <form>Îns</form>
+     wird, meist in der Mehrzahl 
+    <form>înși</form>
+    , auch substantivisch gebraucht
+[in diesem Falle auch ar. 
+    <form lang="ro-AR">însu</form>
+    ] und bedeutet „Individuum“.
+
+    <form>adins</form>
+     ist adv. „absichtlich“, im alt-rum. war es noch pron. (vgl. die Beispiele bei Tiktin: Wörterbuch, 22).
+
+    <form>însă</form>
+     &lt; 
+    <etymon lang="Lat">IPSA</etymon>
+     ist Konjunktion „aber“ und erklärt sich
+(Meyer-Lübke: Rom. Gramm. III, § 551) aus dem pronominalen Gebrauch.
+
+  </etymology>
+  
+</entry>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="977">
+  
+  <lemma>lindină</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, ir. lindină?]</variants>
+  
+  <!-- Interpretation needed for >, lindire -> lindină? -->
+  
+  <definition>„Niss“</definition>
+  
+  <etymology source="Dens. Hist. 139; Meyer-Lübke Rom. Gramm. I, § 150; W. Meyer: Lat. Neutr. 67; Thomas">
+    
+    <etymon lang="Lat">LENDINEM</etymon>
+     (Belege bei Dens. Hist. 139, statt 
+    <etymon lang="Lat">LENS, LENDEM</etymon>
+    : 
+    <!-- Assuming vinoisem -> LENDINEM -->
+    
+    <cognates>
+      
+      <form lang="wa">lé?</form>
+      , 
+      <form lang="frp-SAV?">lé?</form>
+      . 
+      <!-- Interpretation needed for wall. l#, savoy. le -->
+       Über die Qualität des e vgl. Meyer-Lübke Rom. Gramm. I, § 150):
+
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="it-SIC">lenninu?</form>
+      , 
+      <!-- Interpretation needed for lenninu -->
+      
+      <form lang="it-CAM?">linnene?</form>
+      , 
+      <!-- Interpretation needed for campob. linnene -->
+      
+      <form lang="it-TAR?">lininu?</form>
+      , 
+      <!-- Interpretation needed for tarent. lininu -->
+      
+      <form lang="it-BOL">lèndena?</form>
+      , 
+      <!-- Interpretation needed for yendena -->
+      
+      <form lang="rgn">gènden?</form>
+      , 
+      <form lang="it-TIR">gènden?</form>
+      , 
+      <!-- Interpretation needed for dfendem -->
+      
+      <form lang="vec">zèndena?</form>
+      , 
+      <!-- Interpretation needed for dZendena -->
+      
+      <form lang="sc">lendine</form>
+       (sämtlich männlich), 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="it">lendine</form>
+       (männlich u. weiblich, sonst weiblich):
+
+      <form lang="lmo-BER">lèndena?</form>
+      , 
+      <!-- Interpretation needed for a.-berg. lendena -->
+      
+      <form lang="lmo-MIL">lèna?</form>
+      , 
+      <!-- Interpretation needed for mal. llena -->
+      
+      <form lang="ca">llémena?</form>
+      , 
+      <!-- Interpretation needed for cat. llemena -->
+      
+      <form lang="es">liendre</form>
+      ,
+
+      <form lang="pt">lêndea</form>
+      . 
+      <!-- Interpretation needed for lendea -->
+      
+      <reference type="bibliographic">W. Meyer: Lat. Neutr. 67</reference>
+       (vgl. 
+      <form lang="fr">lente</form>
+       nach Thomas &lt; 
+      <etymon lang="Lat">*LENDITEM?</etymon>
+      ). 
+      <!-- Assuming * LEXDITEN -> *LENDITEM? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

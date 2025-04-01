@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1278">
+  
+  <prefix>III</prefix>
+  
+  <prefix_note>+</prefix_note>
+  
+  <lemma>pas</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„gehen“</definition>
+  
+  <usage_note>
+    (Dos. Viaţa sf. °%,, etc.; heute nur noch der Imper. pasă! „geh!“: auch ir. 
+    <example lang="ro-IR">pas!</example>
+     „geh!“ 
+    <source_ref>Jb. LT, 128</source_ref>
+    )
+  </usage_note>
+  
+  <!-- Interpretation needed for °%, -> ?; pos! -> pas! -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PASSO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">PASSUS</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="it">passare</form>
+      ,
+
+      <form lang="roh-ENG">passar?</form>
+      , 
+      <form lang="fr">passer</form>
+      , 
+      <!-- Assuming eng. frz. -> roh-ENG, fr -->
+      
+      <form lang="oc">passar</form>
+      , 
+      <form lang="pt">passar</form>
+      , 
+      <!-- Assuming pv. pg. -> oc, pt -->
+      
+      <form lang="es">pasar</form>
+      .
+
+    </cognates>
+     Im Rom. meist „vorbeigehen“.
+
+  </etymology>
+  
+  <variants>[ar. merg?].</variants>
+  
+  <!-- Interpretation needed for erg -->
+  
+</entry>

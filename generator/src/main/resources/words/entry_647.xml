@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="647">
+  
+  <lemma>frec</lemma>
+  
+  <!-- Assuming free -> frec -->
+  
+  <verb_class>I</verb_class>
+   
+  <!-- Assuming verb class I based on -ARE -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. =]</variants>
+   
+  <!-- Assuming far. -> ar. -->
+  
+  <definition>„reiben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FRICO, -CUI, -CTUM</etymon>
+     u. 
+    <etymon lang="Lat">-CATUM, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">fërkoj</form>
+      , 
+      <!-- Assuming ferkon -> fërkoj -->
+      
+      <form lang="it">fregare</form>
+      ,
+
+      <form lang="oc">fregar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">fregar</form>
+      ,
+
+      <form lang="es">fregar</form>
+      ,
+
+      <form lang="pt">fregar</form>
+      ,
+
+      <form lang="fro">froyer</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+     —
+
+    <form>Frecuș?</form>
+     sm. „Prügel“ (vgl. 
+    <example lang="it">far le freghe a uno</example>
+     „Jem. tüchtig durchprügeln“).
+
+    <!-- Interpretation needed for Frecüg -->
+    
+  </etymology>
+  
+  <variants>[ir. frec?].</variants>
+  
+  <!-- Interpretation needed for faresc -> frec? -->
+  
+</entry>

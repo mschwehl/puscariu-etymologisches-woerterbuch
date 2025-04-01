@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="875">
+  
+  <prefix>II</prefix>
+  
+  <lemma>însol?</lemma>
+  
+  <!-- Assuming îns» -> însol? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„vorschuhen“</definition>
+  
+  <etymology source="Tiktin: Zeitschr. rom. Phil. XXIV, 320">
+    
+    <etymon lang="Lat">*IN-SOLO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">SOLA</etymon>
+    , neutr. plur. von 
+    <etymon lang="Lat">SOLUM</etymon>
+    , welches im Rom. die Bedeutung „Sohle“ angenommen hat: 
+    <!-- Assuming *1x-sÖöLo -> *IN-SOLO, SÖLA -> SOLA, söLun -> SOLUM -->
+    
+    <cognates>
+      
+      <form lang="sq">shollë?</form>
+       „Sandale“, 
+      <!-- Interpretation needed for Sole -->
+      
+      <form lang="it">suola</form>
+      ,
+
+      <form lang="oc">sola</form>
+      , 
+      <form lang="pt">sola</form>
+      , 
+      <!-- Assuming pv. pg. -> oc, pt -->
+      
+      <form lang="fro">suele</form>
+      , 
+      <form lang="fr">sole</form>
+      , 
+      <!-- Assuming a.-Irz. -> fro, {rz. -> fr -->
+      
+      <form lang="es">suela</form>
+      , 
+      <!-- Assuming sucla -> suela -->
+      auch 
+      <form lang="goh">sola</form>
+      , 
+      <form lang="ang">sole</form>
+      , 
+      <!-- Assuming and. -> goh -->
+      
+    </cognates>
+     während 
+    <etymon lang="Lat">SOLEA</etymon>
+     den Sinn „Schwelle“:
+
+    <cognates>
+      
+      <form lang="it">soglia</form>
+      ,
+
+      <form lang="oc">solh?</form>
+      , 
+      <form lang="fr">seuil</form>
+      , 
+      <!-- Assuming pv. suelh -> solh? -->
+      
+    </cognates>
+     oder „Holzschuh“:
+
+    <cognates>
+      
+      <form lang="lmo-BEL?">söla?</form>
+      , 
+      <form lang="lmo-VALT?">söla?</form>
+      , 
+      <!-- Interpretation needed for bellinz. valeoll. săja -->
+      
+    </cognates>
+     oder endlich „Plattfisch, Scholle":
+
+    <cognates>
+      
+      <form lang="pt">solha</form>
+       
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+     angenommen hat). Vgl. Tiktin: Zeitschr. rom. Phil. XXIV, 320.
+
+  </etymology>
+  
+</entry>

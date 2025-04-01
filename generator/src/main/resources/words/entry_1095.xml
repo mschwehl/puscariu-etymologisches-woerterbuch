@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1095">
+  
+  <lemma>mîrced</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„faul, welk“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MARCIDUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming marcious -> MARCIDUS -->
+    
+    <cognates>
+      
+      <form lang="it">marcio</form>
+      , 
+      <!-- Assuming marei(d)o -> marcio -->
+      
+      <form lang="it-SIC">marzu?</form>
+      , 
+      <!-- Interpretation needed for martsu -->
+      
+      <form lang="it-NAP">marzo?</form>
+      , 
+      <!-- Interpretation needed for martăo -->
+      
+      <form lang="lmo-MIL">mars</form>
+      , 
+      <form lang="roh-ENG">mars</form>
+      ,
+
+      <form lang="it-EMIL">marț?</form>
+      , 
+      <form lang="fur">marț?</form>
+      , 
+      <!-- Interpretation needed for emil. frl. marts -->
+      
+      <form lang="es">marchito</form>
+      . 
+      <!-- Assuming mareh-ito -> marchito -->
+      
+    </cognates>
+     Im Vokalismus ist das rum. Wort entweder von 
+    <form>rînced</form>
+     „ranzig“ oder von 
+    <form>mîrșav?</form>
+     „schmutzig“ beeinflußt. 
+    <!-- Interpretation needed for mirgav -> mîrșav? -->
+    
+  </etymology>
+  
+</entry>

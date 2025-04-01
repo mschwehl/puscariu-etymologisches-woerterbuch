@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1169">
+  
+  <lemma>neluptate?</lemma>
+  
+  <!-- Assuming »elutätee -> neluptate? -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„unüberwindlich“</definition>
+  
+  <usage_note>(Dosoft. Viaţa sf. 130b/,)</usage_note>
+  
+  <etymology>
+    besteht aus der Negation 
+    <prefix>ne-</prefix>
+     und aus 
+    <etymon lang="Lat">*LUCTATICUS, -A, -UM?</etymon>
+     (von 
+    <etymon lang="Lat">LUCTA</etymon>
+    ). 
+    <!-- Assuming *lutätee -> *LUCTATICUS?, F LUCTATICUS -> *LUCTATICUS? -->
+    
+  </etymology>
+  
+</entry>

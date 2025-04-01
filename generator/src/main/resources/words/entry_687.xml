@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="687">
+  
+  <lemma>furunțel</lemma>
+  
+  <scope>ar.</scope>
+  
+  <pos>sm.</pos>
+  
+  <lemma_variants>(auch frințel?, sfrinuțel?, sufrințel?, sfirnuțel?)</lemma_variants>
+  
+  <!-- Interpretation needed for fwruntsel, frintsel, sfrinutsel, sufrintsel, sfirnutsel -->
+  
+  <definition>„Geschwür“</definition>
+  
+  <etymology source="Densusianu: Romania XXXIII, 71-78">
+    
+    <etymon lang="Lat">*FURUNCULUS, -UM</etymon>
+     (für 
+    <etymon lang="Lat">FURUNCULUS</etymon>
+    ).
+
+    <!-- Assuming * ruruxckuuus, -un -> *FURUNCULUS, -UM -->
+    
+  </etymology>
+  
+</entry>

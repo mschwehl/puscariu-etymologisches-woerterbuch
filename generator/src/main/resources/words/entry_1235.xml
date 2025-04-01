@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1235">
+  
+  <lemma>pace</lemma>
+  
+  <!-- Assuming price -> pace -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Friede, Ruhe“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PAX, PACEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">paqe</form>
+      , 
+      <!-- Interpretation needed for pak’(e) -->
+      
+      <form lang="it">pace</form>
+      ,
+
+      <form lang="sc">page</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">pêsch?</form>
+      , 
+      <!-- Interpretation needed for pes -->
+      
+      <form lang="fur">pâs?</form>
+      , 
+      <!-- Interpretation needed for fr]. pas -->
+      
+      <form lang="oc">patz</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">paix</form>
+      ,
+
+      <form lang="ca">pau</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">paz</form>
+      , 
+      <form lang="pt">paz</form>
+      . 
+      <!-- Assuming sp. pg. -> es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. bărișe?].</variants>
+  
+  <!-- Interpretation needed for bärise -->
+  
+</entry>

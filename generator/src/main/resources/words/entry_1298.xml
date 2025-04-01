@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1298">
+  
+  <lemma>pepene</lemma>
+  
+  <!-- Assuming pepine -> pepene -->
+  
+  <lemma_variants>(pepene)</lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. pepine?, olympo-wal. pepine? „Gurke‘]</variants>
+  
+  <!-- Interpretation needed for peapine -> pepine?, pedpine -> pepine? -->
+  
+  <definition>„Melone“.</definition>
+  
+  <etymology source="C. Gl. III, 592; Dens. H. l. r. 139; Meyer-Lübke: Rom. Gramm. II, § 17">
+    Man leitet das Wort aus 
+    <etymon lang="Lat">PEPO, -INEM?</etymon>
+     (statt 
+    <etymon lang="Lat">PEPONEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">pepone</form>
+      , vgl. 
+      <example lang="la">melonis i. e. pepenus</example>
+       
+      <source_ref>C. Gl. III, 592</source_ref>
+      , ap. Dens. H. l. r. 139, vgl. auch Meyer-Lübke: Rom. Gramm. II, § 17)
+
+    </cognates>
+     ab, welches regelrecht im Alb. als 
+    <form lang="sq">pjepër</form>
+     t., 
+    <form lang="sq">pjepën</form>
+     g. „Zuckermelone‘“ erscheint, 
+    <!-- Assuming pieper, piepen -->
+     Dagegen spricht aber das rum. e, welches ein e voraussetzt, so daß eine Kreuzung mit einem anderen Worte, welches auch 
+    <form lang="es">pepino</form>
+    , 
+    <form lang="pt">pepino</form>
+     „Gurke“ zugrunde liegt, wahrscheinlich ist. Dagegen stammt ar. mgl. 
+    <form lang="ro-AR ro-MG">pipon?</form>
+     „Melone“, mgl. 
+    <form lang="ro-MG">pipoană?</form>
+     „Zuckermelone“, sowie srb. slov. 
+    <form lang="sr sl">pipun</form>
+    , bg. 
+    <form lang="bg">pipon, pepun</form>
+     aus n.-gr. 
+    <etymon lang="el">πεπόνι</etymon>
+    . 
+    <!-- Interpretation needed for pipönü -> pipon?, pipoanä -> pipoană?, MTEITTTL -> πεπόνι -->
+    
+  </etymology>
+  
+</entry>

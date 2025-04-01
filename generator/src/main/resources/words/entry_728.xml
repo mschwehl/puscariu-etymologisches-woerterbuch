@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="728">
+  
+  <lemma>gratie</lemma>
+  
+  <pos>sf?</pos>
+   
+  <!-- Assuming sf from ending -->
+  
+  <definition>„Gitter“</definition>
+  
+  <etymology source="Dens. H. l. r. 505; Arch. lat. Lex. III, 137; Mussafia: Beitrag 65">
+    
+    <etymon lang="Lat">CRATIS, -EM</etymon>
+     (Dens. H. l. r. 505, für 
+    <etymon lang="Lat">CRATIS</etymon>
+    : 
+    <!-- Assuming aranıs, -zm -> CRATIS, -EM -->
+    
+    <cognates>
+      
+      <form lang="sq-TOSK">katër?</form>
+      , 
+      <!-- Interpretation needed for tose, catro -->
+      
+    </cognates>
+     im Anlaut vielleicht von 
+    <etymon lang="Lat">GRADUS?</etymon>
+     „Stufe“ beeinflußt, 
+    <!-- Assuming aranus -> GRADUS? -->
+     vgl. 
+    <etymon lang="Lat">CRATICULA</etymon>
+     belegt im Arch. lat. Lex. III, 137, in 
+    <source_ref>Mulomed. Chironis</source_ref>
+     etc.:
+
+    <cognates>
+      
+      <form lang="it">gratiglia</form>
+      , 
+      <!-- Assuming grafiglia -> gratiglia -->
+      
+      <form lang="sc-G">graila</form>
+      , 
+      <!-- Assuming sard. g. -> sc-G -->
+      
+      <form lang="fro">graille</form>
+       
+      <!-- Assuming a.-frz. -> fro -->
+       etc. == 
+      <etymon lang="Lat">CRATICULA</etymon>
+      !
+
+      <form lang="it">graticchio?</form>
+      , 
+      <!-- Assuming scatricchio -> graticchio? -->
+       vgl. Mussafia: Beitrag 65):
+
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="it">grata</form>
+      ,
+
+      <form lang="es">grada</form>
+      ,
+
+      <form lang="pt">grade</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

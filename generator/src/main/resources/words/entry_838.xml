@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="838">
+  
+  <lemma>inel</lemma>
+  
+  <!-- Assuming inet -> inel -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. nel, inel? W., mgl. inel?, ir. inel?]</variants>
+  
+  <!-- Interpretation needed for ninel W., mel. ninel -> mgl. inel?, arel -> inel? -->
+  
+  <definition>„Ring“</definition>
+  
+  <etymology source="Jb. XI, 191">
+    
+    <etymon lang="Lat">ANELLUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">anello</form>
+      ,
+
+      <form lang="roh-ENG">anel?</form>
+      , 
+      <!-- Interpretation needed for ant -->
+      
+      <form lang="pt">anel</form>
+      , 
+      <!-- Assuming pt. -> pt -->
+      
+      <form lang="ca">anel</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="fr">anneau</form>
+      , 
+      <!-- Assuming îrz. -> fr -->
+      
+      <form lang="es">anillo</form>
+      ,
+
+      <form lang="pt">elo</form>
+      . 
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+     — Die ar.-mgl. Form erklärt sich durch falsche Trennung aus 
+    <form>un-inel</form>
+    . 
+    <reference type="bibliographic">Jb. XI, 191</reference>
+    .
+
+  </etymology>
+  
+</entry>

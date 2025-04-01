@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="721">
+  
+  <lemma>gingie</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. dzindzie]</variants>
+  
+  <definition>„Zahnfleisch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GINGIVA, -AM</etymon>
+    : 
+    <!-- Assuming emwaiva -> GINGIVA -->
+    
+    <cognates>
+      
+      <form lang="it">gengiva</form>
+      , 
+      <!-- Assuming yengiva -> gengiva -->
+      
+      <form lang="pt">gengiva</form>
+      , 
+      <!-- Assuming yengiva -> gengiva -->
+      
+      <form lang="sc">zinzia</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">gingiva?</form>
+      , 
+      <!-- Interpretation needed for dZandfiva -->
+      
+      <form lang="oc">gengiva</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">gencive</form>
+      , 
+      <!-- Assuming îrz. -> fr -->
+      
+      <form lang="gl">enjibas</form>
+      , 
+      <!-- Assuming gallego -> gl -->
+      
+      <form lang="es">encia</form>
+      .
+
+    </cognates>
+     Auffallend ist die Nebenform 
+    <form>gingină</form>
+     sf. = ir. 
+    <form lang="ro-IR">gingină?</form>
+    .
+
+    <!-- Interpretation needed for Zinfire -> gingină? -->
+    
+  </etymology>
+  
+</entry>

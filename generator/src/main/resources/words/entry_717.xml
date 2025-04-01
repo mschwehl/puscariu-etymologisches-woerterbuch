@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="717">
+  
+  <lemma>ghinduros</lemma>
+  
+  <!-- Assuming ghindurds -> ghinduros -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsä -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„voll von Drüsen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GLANDULOSUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming Gr.ANDULOSUS -> GLANDULOSUS, -un -> -UM -->
+    
+    <cognates>
+      
+      <form lang="it">ghiandoloso</form>
+       (sonst gelehrt).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1116">
+  
+  <lemma>mucoare</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Rotzkrankheit“</definition>
+  
+  <variants>[ar. mucoare? Pl. „Unreinigkeit“)</variants>
+  
+  <!-- Interpretation needed for mucori -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MUCOR, -OREM</etymon>
+    : 
+    <!-- Assuming mÜcor, -OREN! -> MUCOR, -OREM -->
+    
+    <cognates>
+      
+      <form lang="sc">mugore</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="ast">mugor</form>
+       (viell. 
+      <form lang="es">mugre</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

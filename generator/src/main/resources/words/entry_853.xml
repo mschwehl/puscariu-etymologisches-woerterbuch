@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="853">
+  
+  <lemma>înghit</lemma>
+  
+  <lemma_variants>(înghiț?)</lemma_variants>
+  
+  <!-- Assuming inghif -> înghiț? -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>
+    [ar. înghit? IV, mgl. (a)nghiț? I nach 
+    <form lang="ro-MG">sughiț?</form>
+    ]
+  </variants>
+  
+  <!-- Interpretation needed for nglit -> înghit?, (a)ngtit -> (a)nghiț?, sugfits -> sughiț? -->
+  
+  <definition>„verschlucken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[*IN-]GLUTTIO, -IRE</etymon>
+    : 
+    <!-- Assuming |*ın-|[sLörrıo -> [*IN-]GLUTTIO -->
+    
+    <cognates>
+      
+      <form lang="it">inghiottire</form>
+      , 
+      <!-- Assuming inghrottire -> inghiottire -->
+      
+      <form lang="oc">englutir?</form>
+      , 
+      <!-- Interpretation needed for pv. englotin -->
+      
+      <form lang="fr">engloutir</form>
+      , 
+      <!-- Assuming tz. -> fr -->
+      
+      <form lang="ca">englutir</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es-OLD">englutir</form>
+      . 
+      <!-- Assuming a.-sp. -> es-OLD -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

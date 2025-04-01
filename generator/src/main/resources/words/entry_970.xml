@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="970">
+  
+  <lemma>lîmbric</lemma>
+  
+  <!-- Assuming Timbrie -> lîmbric -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. lîmbric?]</variants>
+  
+  <!-- Interpretation needed for lâmbric -->
+  
+  <definition>„Eingeweidewurm“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUMBRICUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">lombrico</form>
+      ,
+
+      <form lang="lij-GEN">ombrigu?</form>
+      , 
+      <!-- Interpretation needed for ombrigo -->
+      
+      <form lang="oc">lombric</form>
+      , 
+      <form lang="fr">lombric</form>
+      , 
+      <!-- Assuming pv. frz. -> oc, fr -->
+      vgl. 
+      <form lang="es">lombriz</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

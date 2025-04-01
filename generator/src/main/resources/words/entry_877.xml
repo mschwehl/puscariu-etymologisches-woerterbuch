@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="877">
+  
+  <lemma>înspic?</lemma>
+  
+  <!-- Assuming inspie -> înspic? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„Ähren bekommen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">SPICO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">spigare</form>
+      ,
+
+      <form lang="oc">espigar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">espigar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">espigar</form>
+      ,
+
+      <form lang="pt">espigar</form>
+      ,
+
+      <form lang="fr">épier</form>
+      . 
+      <!-- Assuming Epier -> épier -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

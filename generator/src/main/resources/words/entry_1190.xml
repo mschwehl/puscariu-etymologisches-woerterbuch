@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1190">
+  
+  <lemma>noră</lemma>
+  
+  <!-- Assuming ndră -> noră -->
+  
+  <pos>sf.</pos>
+  
+  <variants>
+    [ar. mgl. = auch „Schwägerin“ 
+    <source_ref>Arom. II, 168</source_ref>
+    ]
+  </variants>
+  
+  <definition>„Schwiegertochter“</definition>
+  
+  <etymology source="Dens. H. l. r. 78; Meyer-Lübke: Rom. Gramm. II, § 39">
+    beruht auf älterem 
+    <form>noru</form>
+     [ar. 
+    <form lang="ro-AR">noru?</form>
+    ] sf., 
+    <!-- Interpretation needed for nor -> noru? -->
+     erhalten noch in den Verbindungen 
+    <example>noru-mea, noru-ta, noru-sa</example>
+     [ar. 
+    <form lang="ro-AR">nor(u)-sa?</form>
+    ] (
+    <etymon lang="Lat">NURUS</etymon>
+     (Dens. H. l. r. 78 statt 
+    <etymon lang="Lat">NURUS</etymon>
+    , nach 
+    <etymon lang="Lat">SOCRUS</etymon>
+    , Meyer-Lübke: Rom. Gramm. II, § 39). 
+    <!-- Assuming sörus -> NURUS, săcaus -> SOCRUS -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="873">
+  
+  <lemma>însăn</lemma>
+  
+  <!-- Assuming (dusin -> însăn -->
+  
+  <scope>ar.</scope>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„heilen“</definition>
+  
+  <etymology source="O. Densusianu: Rom. XXXIII, 80; Zeitschr. rom. Phil. XXVI, 666">
+    
+    <etymon lang="Lat">SANO, -ARE</etymon>
+    : 
+    <!-- Assuming (sano, -Arnı -> SANO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="sq">shëroj</form>
+      , 
+      <!-- Interpretation needed for Sero -->
+      
+      <form lang="it">sanare</form>
+      ,
+
+      <form lang="lmo">sanà?</form>
+      , 
+      <!-- Interpretation needed for sand -->
+      
+      <form lang="fr">sener</form>
+      , 
+      <!-- Interpretation needed for fız. sener -->
+      
+      <form lang="oc-N">sanar?</form>
+      , 
+      <!-- Interpretation needed for n.-pv. sana -->
+      
+      <form lang="es">sanar</form>
+      ,
+
+      <form lang="pt">sarar</form>
+      . 
+      <!-- Interpretation needed for Saar -->
+      
+    </cognates>
+    
+    <reference type="bibliographic">O. Densusianu: Rom. XXXIII, 80.</reference>
+     Im Rom. meist „kastrieren‘ (vgl. Zeitschr. rom. Phil. XXVI, 666).
+
+  </etymology>
+  
+</entry>

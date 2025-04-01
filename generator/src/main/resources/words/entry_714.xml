@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="714">
+  
+  <lemma>ghindă</lemma>
+  
+  <!-- Assuming ghindä -> ghindă -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. mgl. ghindă?, ir. ghindă?]</variants>
+  
+  <!-- Assuming gtindă -> ghindă? -->
+  
+  <definition>„Eichel“</definition>
+  
+  <etymology source="Cuv. d. b. I, 282">
+    
+    <etymon lang="Lat">*GLANDIA, -AM</etymon>
+    : 
+    <!-- Assuming X *aranna -> *GLANDIA -->
+    
+    <cognates>
+      
+      <form lang="it">ghianda</form>
+      ,
+
+      <form lang="lmo-MIL">ghianda?</form>
+      , 
+      <!-- Assuming mail. dianda -> ghianda? -->
+      
+      <form lang="it-MAN">ghianda?</form>
+      , 
+      <!-- Assuming mant. dianda -> ghianda? -->
+      
+      <form lang="vec">ghianda?</form>
+      , 
+      <!-- Assuming ven. dianda -> ghianda? -->
+      
+      <form lang="it-BOL">ghinda?</form>
+      , 
+      <!-- Assuming bolg. janda -> ghinda? -->
+      
+      <form lang="sc-L">landa</form>
+      , 
+      <!-- Assuming sard. l. -> sc-L -->
+      
+      <form lang="roh-ENG">glanda</form>
+      ,
+
+      <form lang="fro">glande</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+     mit Deklinationswechsel aus 
+    <etymon lang="Lat">GLANS, -ANDEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="ro-OLD">ghinde</form>
+       
+      <source_ref>Cuv. d. b. I, 282</source_ref>
+      ,
+
+      <form lang="sq">lende?</form>
+      , 
+      <!-- Assuming Zende -> lende? -->
+      
+      <form lang="it">ghiande</form>
+      ,
+
+      <form lang="oc">aglan</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr-LOR">eglant?</form>
+      , 
+      <!-- Interpretation needed for egyăâ -->
+      
+      <form lang="frp-LYO">aglà?</form>
+      , 
+      <!-- Interpretation needed for află -->
+      
+      <form lang="fr">gland</form>
+      , 
+      <!-- Assuming îrz. -> fr -->
+      
+      <form lang="ca">aglà</form>
+      , 
+      <!-- Assuming aglă -> aglà -->
+      
+      <form lang="es">lande</form>
+      , 
+      <!-- Assuming land(r)e -> lande -->
+      
+      <form lang="pt">lande</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

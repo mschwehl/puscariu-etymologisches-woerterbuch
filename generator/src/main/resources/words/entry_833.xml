@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="833">
+  
+  <lemma>îndulcesc</lemma>
+  
+  <!-- Assuming îndulcese -> îndulcesc -->
+  
+  <verb_class>IV</verb_class>
+   
+  <!-- LV -> IV -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. îndulțescu?]</variants>
+  
+  <!-- Interpretation needed for ndultsescu -->
+  
+  <definition>„versüßen“</definition>
+  
+  <etymology source="Dens. H. l. r. 169">
+    
+    <etymon lang="Lat">*INDULCESCO, -IRE</etymon>
+     (== 
+    <etymon lang="Lat">DULCESCO, -ESCERE</etymon>
+     + 
+    <etymon lang="Lat">INDULCIO, -IRE</etymon>
+     Dens. H. l. r. 169: 
+    <!-- Assuming <*ınDüL-CESCO -> *INDULCESCO -->
+    
+    <cognates>
+      
+      <form lang="it">indolcire?</form>
+      , 
+      <!-- Interpretation needed for indoleire -->
+      
+      <form lang="roh-ENG">îndulcire?</form>
+      , 
+      <!-- Interpretation needed for induischir -->
+      
+      <form lang="es">endulcir</form>
+      .
+
+    </cognates>
+     Von diesem und ähnlichen Fällen wird dann die Konjug. -esco, -ire im Rum. verallgemeinert).
+
+  </etymology>
+  
+</entry>

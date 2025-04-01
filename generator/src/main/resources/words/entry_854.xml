@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="854">
+  
+  <lemma>îngîn</lemma>
+  
+  <!-- Assuming ingin -> îngîn -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„nachahmen“, dabei „Fratzen schneiden“ und „murmeln“</definition>
+  
+  <etymology source="Arch. glott. ital. XV, 227; Dens. H. l. r. 191-132; Archiv lat. Lex. X, 515; Dens. H. l. r 192, 506">
+    
+    <etymon lang="Lat">GANNIO, -IRE?</etymon>
+     (für 
+    <etymon lang="Lat">GANNIO, -IRE</etymon>
+    : ar. 
+    <form lang="ro-AR">(a)nghinescu?</form>
+     „stöhnen‘ ‘): 
+    <!-- Assuming GANNO, -ARR -> GANNIO, -IRE? -->
+    
+    <cognates>
+      
+      <form lang="it">ingannare</form>
+      , 
+      <!-- Assuming 56. -> it -->
+      
+      <form lang="oc">enganar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">enjaner?</form>
+      , 
+      <!-- Interpretation needed for a.- -frz. enjanner -->
+      
+      <form lang="es">engañar</form>
+      , 
+      <!-- Assuming engaiiar -> engañar -->
+      
+      <form lang="pt">enganar</form>
+      .
+
+    </cognates>
+     Überall „betrügen“. Die ursprüngliche Bedeutung scheint diejenige zu sein, die sich vorfindet in Rum., in 
+    <form lang="it-CER">ngannarse?</form>
+     „zornig werden“ (kaum zu 
+    <etymon lang="Lat">canis</etymon>
+     gehörig, wie Arch. glott. ital. XV, 227 angenommen wird), 
+    <!-- Interpretation needed for nganarse -->
+    
+    <form lang="fr-BOUR?">njenne?</form>
+     „nachahmen“ und in vielen Glossen, die bei Dens. H. l. r. 191—132 angeführt werden, (auch 
+    <etymon lang="Lat">GANNIRE</etymon>
+     = 
+    <etymon lang="goh">grinan</etymon>
+    , vgl. 
+    <form lang="non">grina</form>
+     „dentes nudare ridente“, Archiv lat. Lex. X, 515). 
+    <!-- Interpretation needed for bourberain njene, ahd. -> goh -->
+     Aus „Gesichter schneiden, necken (vgl. 
+    <example>ziua se îngînă cu noaptea</example>
+     = „der Tag bricht an“, eigtl. „der Tag neckt sich mit der Nacht“), „spotten“, soll nach Dens. H. l. r 192, 506 (wo alb. 
+    <form lang="sq">ngas?</form>
+     = „spotten“ und „betrügen“ verglichen wird) die Bedeutung „täuschen“ entstanden sein. 
+    <!-- Interpretation needed for Kis -> ngas? -->
+     Wahrscheinlich haben wir einen Jagdausdruck vor uns und dann wird es verständlich, daß aus „die Stimme nachahmen” — „locken“ — „durch Lockung ein Tier täuschen“ ein: „täuschen“ entstehen konnte.
+
+  </etymology>
+  
+</entry>

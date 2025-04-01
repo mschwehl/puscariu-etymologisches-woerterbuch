@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1233">
+  
+  <prefix>II</prefix>
+  
+  <lemma>oă</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage_note>(auch mă oi, Sămăn. II, 133)</usage_note>
+  
+  <definition>„Eier legen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*OVO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="fur">ovà?</form>
+      , 
+      <!-- Interpretation needed for frl. ova -->
+      
+      <form lang="roh-OBW">ovàr?</form>
+      , 
+      <!-- Interpretation needed for obw. wär -->
+      
+      <form lang="oc">ovar</form>
+      , 
+      <form lang="pt">ovar</form>
+      , 
+      <!-- Assuming pv. pg. -> oc, pt -->
+      
+      <form lang="es">huevar?</form>
+      . 
+      <!-- Interpretation needed for Inevar -> huevar? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

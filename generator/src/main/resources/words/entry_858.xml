@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="858">
+  
+  <lemma>îngreunez</lemma>
+  
+  <!-- Assuming ingreniez -> îngreunez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„beschweren®</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[*IN]GRAVO, -ARE</etymon>
+     (= 
+    <etymon lang="Lat">GRAVO</etymon>
+    : 
+    <!-- Assuming *[In|anivo -> [*IN]GRAVO, [I]eravo -> GRAVO -->
+    
+    <cognates>
+      
+      <form lang="it">gravare</form>
+      ,
+
+      <form lang="es">gravar</form>
+      ,
+
+      <form lang="pt">gravar</form>
+      
+    </cognates>
+    ):
+
+    <cognates>
+      
+      <form lang="oc">grevar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">grever</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. mgl. îngreu?].</variants>
+  
+  <!-- Interpretation needed for angree -->
+  
+</entry>

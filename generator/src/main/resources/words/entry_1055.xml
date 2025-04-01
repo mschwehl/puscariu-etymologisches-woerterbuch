@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1055">
+  
+  <prefix>+</prefix>
+  
+  <lemma>meser?</lemma>
+  
+  <!-- Assuming medser -> meser? -->
+  
+  <feminine_neuter>-ă?</feminine_neuter>
+  
+  <!-- Assuming -& -> -ă? -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„arm“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MISER, -A, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="lmo-MIL-OLD">meser</form>
+      , 
+      <!-- Assuming a.-mil. -> lmo-MIL-OLD -->
+      
+      <form lang="fro">mezre</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. orfan?, mărât?].</variants>
+  
+  <!-- Interpretation needed for oärfan, märat -->
+  
+</entry>

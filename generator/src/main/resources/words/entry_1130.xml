@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1130">
+  
+  <lemma>mutul?</lemma>
+  
+  <!-- Assuming munter -> mutul? -->
+  
+  <scope>mgl.</scope>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„schweigsam (im verächtlichen Sinn)“</definition>
+  
+  <etymology source="Conv. lit. XXXIX, 70">
+    
+    <etymon lang="Lat">*MUTULUS, -A, -UM</etymon>
+     (von 
+    <etymon lang="Lat">MUTUS</etymon>
+    ). Früher (
+    <source_ref>Conv. lit. XXXIX, 70</source_ref>
+    ) hatte ich die Etymologie 
+    <etymon lang="Lat">*MUTURSUS, -A, -UM</etymon>
+     (= 
+    <etymon lang="Lat">MUTUS + TACITURNUS?</etymon>
+    ) vorgeschlagen. 
+    <!-- Assuming EMUTURSUS -> *MUTURSUS?, TACITURXUS -> TACITURNUS? -->
+     Dem widerspricht aber der Ton, der nach einer schriftlichen Mitteilung von P. Papahagi auf der ersten Silbe ruht.
+
+  </etymology>
+  
+</entry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1034">
+  
+  <lemma>mart</lemma>
+  
+  <usage_note>(Marian: Sărbăt. I, 96)</usage_note>
+   
+  <!-- Assuming Särbät. -> Sărbători -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. marțu?] „März“</variants>
+  
+  <!-- Interpretation needed for martsu -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MARTIUS, -UM</etymon>
+    : 
+    <!-- Assuming <MARTIUS, -TM -> MARTIUS, -UM -->
+    
+    <cognates>
+      
+      <form lang="sq">mars</form>
+      , 
+      <form lang="fr">mars</form>
+      , 
+      <form lang="ca">mars</form>
+      , 
+      <!-- Assuming alb. frz. eat. -> sq, fr, ca -->
+      
+      <form lang="it">marzo</form>
+      , 
+      <form lang="es">marzo</form>
+      , 
+      <form lang="pt">marzo</form>
+      ,
+
+      <form lang="it-NAP">marzo?</form>
+      , 
+      <!-- Interpretation needed for martso -->
+      
+      <form lang="it-AQUI">marțu?</form>
+      , 
+      <form lang="co">marțu?</form>
+      , 
+      <!-- Interpretation needed for aquil. cors. martsu -->
+      
+      <form lang="rgn">merț?</form>
+      , 
+      <!-- Interpretation needed for romagn. merts -->
+      
+      <form lang="it-TRIE">marso?</form>
+      , 
+      <!-- Interpretation needed for trient. marso -->
+      
+      <form lang="sc-L">marțu?</form>
+      , 
+      <form lang="sc-C">marțu?</form>
+      , 
+      <!-- Interpretation needed for sard. l. martı, ce. martsu -->
+      
+      <form lang="roh-ENG">marț?</form>
+      , 
+      <!-- Interpretation needed for marts -->
+      
+      <form lang="oc">marț?</form>
+      . 
+      <!-- Interpretation needed for pv. martz -->
+      
+    </cognates>
+     — Gewöhnlich durch das Dimin. 
+    <form>mărțișor</form>
+     „März, Geschenk am 1. März“ verdrängt. 
+    <!-- Assuming märfisör -> mărțișor -->
+    
+  </etymology>
+  
+</entry>

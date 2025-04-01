@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1122">
+  
+  <lemma>mulg</lemma>
+  
+  <principal_parts>mulsei, muls</principal_parts>
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mulgu?, mulsu?, mulsu? III, II, mgl. =]</variants>
+  
+  <!-- Interpretation needed for mulge -> mulgu?, -ISu -> -lsu?, -lsu -> -lsu? -->
+  
+  <definition>„melken®</definition>
+  
+  <etymology source="Dens. Hist. I. r. 147">
+    
+    <etymon lang="Lat">MULGEO, MULSI, MULSUM, MULGERE</etymon>
+     (= 
+    <etymon lang="Lat">ERE</etymon>
+    , Dens. Hist. I. r. 147): 
+    <!-- Assuming <MmÖnGEo -> MULGEO, MÜLGERE -> MULGERE -->
+    
+    <cognates>
+      
+      <form lang="it">mungere u. mugnere</form>
+      , 
+      <!-- Assuming mumngere -> mungere -->
+      
+      <form lang="it-VERS?">mölgere</form>
+      . 
+      <!-- Interpretation needed for versiglia -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

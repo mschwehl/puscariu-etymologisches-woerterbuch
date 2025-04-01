@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1032">
+  
+  <lemma>mărit</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. =, ir. mărit?]</variants>
+  
+  <!-- Interpretation needed for S -> =, mar it -> mărit? -->
+  
+  <definition>„heiraten (vom Mädchen)“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MARITO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">martoj</form>
+       „heirate (auch vom Manne)“,
+
+      <form lang="it">maritare</form>
+      ,
+
+      <form lang="oc">maridar</form>
+      , 
+      <form lang="ca">maridar</form>
+      , 
+      <form lang="es">maridar</form>
+      , 
+      <form lang="pt">maridar</form>
+      , 
+      <!-- Assuming pv. cat. sp. pr. -> oc, ca, es, pt -->
+      
+      <form lang="fr">marier</form>
+      .
+
+    </cognates>
+     — Mgl. 
+    <form lang="ro-MG">primărit?</form>
+     vb. I „wiederheiraten“. 
+    <!-- Interpretation needed for primärit -->
+    
+  </etymology>
+  
+</entry>

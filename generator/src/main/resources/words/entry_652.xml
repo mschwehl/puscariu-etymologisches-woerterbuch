@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="652">
+  
+  <lemma>frîng</lemma>
+  
+  <principal_parts>frînsei (ban. + frîns?), frînt</principal_parts>
+  
+  <!-- Assuming frins -> frîns, frint -> frînt -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. frîngu, fredzîi? u. frîmău?, frimtu? II, mgl. frîng?, frîns?, frînt? III]</variants>
+  
+  <!-- Interpretation needed for fringu, fredzii, frâmău, frimtu, frong, frons, front -->
+  
+  <definition>„brechen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FRANGO, FREGI, FRACTUM, FRANGERE</etymon>
+    : 
+    <!-- Assuming co -> FRANGO -->
+    
+    <cognates>
+      
+      <form lang="it">frangere</form>
+      ,
+
+      <form lang="it">fragnere</form>
+      ,
+
+      <form lang="oc">franher</form>
+      , 
+      <!-- Assuming pv. ranher -> franher -->
+      
+      <form lang="fro">fraindre</form>
+      , 
+      <!-- Assuming a.-Irz. -> fro -->
+      
+      <form lang="es-OLD">frangir</form>
+      , 
+      <!-- Assuming a.-sp. -> es-OLD -->
+      
+      <form lang="pt">franger</form>
+      .
+
+    </cognates>
+     — Ar.
+
+    <example lang="ro-AR">apă frîmtă</example>
+     „warmes Wasser“. 
+    <!-- Assuming frimtä -> frîmtă -->
+    
+  </etymology>
+  
+  <variants>[ir. lomez?].</variants>
+  
+  <!-- Interpretation needed for lomese -> lomez? -->
+  
+</entry>

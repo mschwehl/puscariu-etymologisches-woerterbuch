@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1157">
+  
+  <lemma>năsut</lemma>
+  
+  <!-- Assuming năsit -> năsut -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„großnasig?, naseweis (Marian: Ornit. I, 81?)“</definition>
+   
+  <!-- Assuming großartig -> großnasig? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">NASUTUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming Cnastrus -> NASUTUS -->
+    
+    <cognates>
+      
+      <form lang="it">nasuto</form>
+      ,
+
+      <form lang="sc">nasudu</form>
+       „großnasig“, 
+      <!-- Assuming sard. -> sc -->
+      (vgl. 
+      <form lang="es">narigudo</form>
+      , 
+      <form lang="pt">narigudo</form>
+      ). 
+      <!-- Assuming sp. pg. -> es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

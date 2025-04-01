@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="703">
+  
+  <lemma>gem</lemma>
+  
+  <principal_parts>gemui?, gemut?</principal_parts>
+  
+  <!-- Assuming -üt -> -ut -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. dzem, dzimui?, dzimut? II, III]</variants>
+  
+  <!-- Interpretation needed for dzimüi, dzimwi -->
+  
+  <definition>„seufzen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GEMO, -UI?, -ITUM, -ERE</etymon>
+    : 
+    <!-- Assuming -Ur -> -UI? -->
+    
+    <cognates>
+      
+      <form lang="sq">gjëm?</form>
+      , 
+      <!-- Interpretation needed for emo -->
+      
+      <form lang="it">gemere</form>
+      ,
+
+      <form lang="roh-ENG">gemer?</form>
+      , 
+      <!-- Interpretation needed for diemer -->
+      
+      <form lang="oc">gemir</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">gemir</form>
+      ,
+
+      <form lang="es">gemir</form>
+      ,
+
+      <form lang="fro">geindre</form>
+      , 
+      <!-- Assuming a.-trz. -> fro -->
+      
+      <form lang="fr">gémir</form>
+      , 
+      <!-- Assuming trz. -> fr -->
+      
+      <form lang="pt">gemer</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

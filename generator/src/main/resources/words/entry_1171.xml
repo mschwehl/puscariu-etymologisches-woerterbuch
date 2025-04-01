@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1171">
+  
+  <lemma>nepot</lemma>
+  
+  <!-- Assuming nepdt -> nepot -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. nepot?, ir. =]</variants>
+  
+  <!-- Assuming nipot -> nepot? -->
+  
+  <definition>„Neffe“</definition>
+  ,
+
+  <related_forms>
+    <form>nepoată</form>
+     sf. [ar. mgl. 
+    <form lang="ro-AR ro-MG">nepoată?</form>
+    ] „Nichte“
+  </related_forms>
+  
+  <!-- Interpretation needed for nipoată -->
+  
+  <etymology source="Dens. H. l. r. 135; C. I. L. III, 2599, 2690; Körting² Nr. 6515, 6517; Liuba Jana: Mäidan 25; Tappolet: Die rom. Verwandtschaftsnamen, 109-111">
+    
+    <etymon lang="Lat">*NEPOTUS, -UM?</etymon>
+    : 
+    <!-- Assuming <*xezrörus -> *NEPOTUS? -->
+    
+    <cognates>
+      
+      <form lang="vec">nevodo?</form>
+      , 
+      <!-- Interpretation needed for nelv)odo -->
+      
+      <form lang="ca">nebot?</form>
+      , 
+      <!-- Interpretation needed for nebodo -->
+      
+    </cognates>
+     
+    <etymon lang="Lat">NEPOTA, -AM</etymon>
+     (Dens. H. l. r. 135):
+
+    <cognates>
+      
+      <form lang="vec">nevoda</form>
+      , 
+      <form lang="lmo">nevoda</form>
+      , 
+      <!-- Interpretation needed for lomb. -->
+      
+      <form lang="it-ERT?">neoda?</form>
+      , 
+      <!-- Interpretation needed for erto -->
+      
+      <form lang="oc">neboda</form>
+      , 
+      <form lang="ca">neboda</form>
+      , 
+      <!-- Interpretation needed for pv. eat. neboda -->
+      
+      <form lang="oc-N">neboda?</form>
+      , 
+      <!-- Interpretation needed for n.-pv. (ne)budo -->
+      vgl. 
+      <form lang="pt">neveda?</form>
+      , 
+      <form lang="pt">nevedinha?</form>
+      . 
+      <!-- Interpretation needed for pg. nebeda, neveda, nevedinha -->
+      
+    </cognates>
+     Diese stehen für 
+    <etymon lang="Lat">NEPOS</etymon>
+     (: 
+    <form lang="sq">nip</form>
+    , 
+    <form lang="it">nevo</form>
+    , 
+    <form lang="vec">nevo</form>
+    , 
+    <!-- Interpretation needed for nievo -->
+     
+    <form lang="lij-GEN">neo?</form>
+    , 
+    <!-- Interpretation needed for nero -->
+     
+    <form lang="pms-MON?">né?</form>
+     (fem. 
+    <form>nera</form>
+    ), 
+    <form lang="it-MAR?">nebbo?</form>
+     (fem. 
+    <form>nebba?</form>
+    ), 
+    <form lang="roh-ENG">neif</form>
+    , 
+    <form lang="fro">nies</form>
+    , 
+    <form lang="oc">nebs?</form>
+    ), 
+    <!-- Interpretation needed for nee, nebbo, nebba, nies, neps -->
+     
+    <etymon lang="Lat">NEPOTEM</etymon>
+     (: 
+    <form lang="it">nipote</form>
+    , 
+    <!-- Assuming nipole -> nipote -->
+     
+    <form lang="it-SIC">niputi</form>
+    , 
+    <form lang="sc">nebide?</form>
+    , 
+    <!-- Interpretation needed for ne-vide -->
+     
+    <form lang="fur">nevòd?</form>
+    , 
+    <!-- Interpretation needed for nevod -->
+     
+    <form lang="fr">neveu</form>
+    , 
+    <form lang="ca">nebot?</form>
+    , 
+    <form lang="es">nebodo?</form>
+    ) des klassischen Lateins. 
+    <!-- Interpretation needed for !eat. nabod -> nebot?, nebod -> nebodo? -->
+     Daneben finden sich noch folgende Bildungen: 
+    <etymon lang="Lat">NEPTIA, -AM</etymon>
+     (auf Inschriften, aus 
+    <etymon lang="Lat">NEPTIS</etymon>
+     mit dem Motionssuffix -ia): 
+    <form lang="it">nezza</form>
+    , 
+    <form lang="lij-GEN">nessa</form>
+    , 
+    <form lang="vec">neissa?</form>
+     (dazu masc. 
+    <form lang="vec?">nezzo?</form>
+    ), 
+    <form lang="it-TRIE">nesa?</form>
+    , 
+    <form lang="fr">nièce</form>
+     
+    <!-- Interpretation needed for neissa, netsso, nesa, nice -->
+     (über 
+    <etymon lang="Lat">*NEPTA</etymon>
+    , 
+    <etymon lang="Lat">*NEPTUS</etymon>
+     siehe Körting² Nr. 6515, 6517), 
+    <etymon lang="Lat">NEPOTIA, -AM</etymon>
+     (
+    <source_ref>C. I. L. III, 2599, 2690 etc.</source_ref>
+     mit demselben Suffix -ia, aus 
+    <etymon lang="Lat">NEPOTEM</etymon>
+    ): rum. 
+    <form>nepoțîie?</form>
+     „Nichte“ (
+    <source_ref>Liuba Jana: Mäidan 25</source_ref>
+    , „wohl 
+    <form>nepoțîie?</form>
+     zu lesen“). 
+    <!-- Interpretation needed for nepöfä -> nepoțîie? -->
+     Wie mir M. Bartoli mitteilt, hat letzteres auch im Dalmatischen Spuren hinterlassen und Meyer-Lübke zieht auch alb. 
+    <form lang="sq">mbesë?</form>
+     „Nichte“ mit Recht hierher. 
+    <!-- Interpretation needed for mbese -->
+     Näheres über diese Wortgruppe bei 
+    <reference type="bibliographic">Tappolet: Die rom. Verwandtschaftsnamen, 109 bis 111.</reference>
+     — „Urenkel” heißt 
+    <form>strănepot</form>
+     sm. [ar. =?] „Urenkelin“ 
+    <form>strănepoată</form>
+    , wie 
+    <form lang="sq">stërnip</form>
+    . 
+    <!-- Interpretation needed for > -> =? -->
+    
+  </etymology>
+  
+</entry>

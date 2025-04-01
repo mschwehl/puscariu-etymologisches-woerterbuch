@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1276">
+  
+  <prefix>I</prefix>
+  
+  <lemma>pas</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Schritt“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PASSUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">pas</form>
+       „Klafter“,
+
+      <form lang="it">passo</form>
+      , 
+      <form lang="pt">passo</form>
+      ,
+
+      <form lang="fur">pas</form>
+      , 
+      <form lang="roh-ENG">pas</form>
+      , 
+      <!-- Assuming frl. eng. -> fur, roh-ENG -->
+      
+      <form lang="oc">pas</form>
+      , 
+      <form lang="fr">pas</form>
+      , 
+      <!-- Assuming pv. frz. -> oc, fr -->
+      
+      <form lang="es">paso</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. (ci)țor?, fsapă?; drăselauă? „großer Schritt“].</variants>
+  
+  <!-- Interpretation needed for (t$i)tSor, dräseläuä -->
+  
+</entry>

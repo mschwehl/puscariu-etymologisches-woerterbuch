@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="957">
+  
+  <lemma>leagăn</lemma>
+  
+  <!-- Assuming ledgin -> leagăn -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. =, mgl. leagăn]</variants>
+  
+  <definition>„wiegen“</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, 172-175">
+    bedeutet ursprünglich „anbinden“ (wie noch aus der Redensart: 
+    <example>nu știe să spună două vorbe legănate</example>
+     „er kann keine zwei zusammenhängenden Worte sprechen“ ersichtlich). Da aber die Wiege der Rumänen ursprünglich und z. T. noch heute (Belege in Verfassers: Lat. Ti u. Ki, 172—175, wo auch die richtige Etymologie gegeben wird) aus einem an die Decke zu befestigenden Korb besteht, so konnte „wiegen“ mit „(den Korb) anbinden“ gleiche Bedeutung haben. In der Tat, hat auch 
+    <etymon lang="Lat">*LIGINO, -ARE?</etymon>
+     (eine Ableitung von 
+    <etymon lang="Lat">LIGO</etymon>
+    ) 
+    <!-- Assuming *LIcIno, Ape -> *LIGINO, -ARE?, 1160 -> LIGO -->
+    
+    <form>legănare</form>
+     den Sinn „wiegen“ übernommen, während 
+    <etymon lang="Lat">*AD-NINNO, -ARE</etymon>
+     (vom 
+    <etymon lang="Lat">*NINNA</etymon>
+     der Kinderstube) 
+    <form>anin</form>
+     I vb. (
+    <form lang="it">ninnare</form>
+     „einwiegen” 
+    <form lang="lmo-BER">anina</form>
+     „wiegen“, 
+    <form lang="it-SIC">ninnare</form>
+    , 
+    <form lang="roh-ENG">ninar?</form>
+     „einwiegen“, 
+    <form lang="oc-N">ninnà?</form>
+     „faire dodo“, vgl. 
+    <form lang="sq">ninulë?</form>
+     „Wiege“, 
+    <form lang="rm-VAL?">niner?</form>
+    ). dem dieser Sinn ursprünglich zukommt, „anhängen“ heißt. 
+    <!-- Assuming Janin -> anin, niner -> ninar?, nind -> ninnà?, ninule -> ninulë?, val. niner -> rm-VAL? niner? -->
+     Von 
+    <form>legănare</form>
+     ist 
+    <form>leagăn</form>
+     sm. [ar. 
+    <form lang="ro-AR">leagăn</form>
+    , mgl. leagăn, ir. leagăr] „Wiege“ ein postverbales Substantivum. 
+    <!-- Assuming leagänd -> leagăn -->
+    
+  </etymology>
+  
+</entry>

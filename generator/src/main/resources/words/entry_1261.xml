@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1261">
+  
+  <prefix>II</prefix>
+  
+  <lemma>par</lemma>
+  
+  <lemma_variants>(pară?)</lemma_variants>
+  
+  <!-- Interpretation needed for paiă -->
+  
+  <principal_parts>părui?, părut?</principal_parts>
+  
+  <!-- Interpretation needed for -i, -üt -->
+  
+  <verb_class>II</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. par?, împăr?, -ăi?, -at? II]</variants>
+  
+  <!-- Interpretation needed for (am)pâr, ambär, -ăi, -at -->
+  
+  <definition>„scheinen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PAREO, -UI, -ERE</etymon>
+    : 
+    <!-- Assuming -UL, -ERE -> -UI, -ERE -->
+    
+    <cognates>
+      
+      <form lang="it">parere</form>
+      ,
+
+      <form lang="roh-ENG">parer?</form>
+      , 
+      <!-- Interpretation needed for parair -->
+      
+      <form lang="oc">parer</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">paroir</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      (
+      <form lang="fr">paraître</form>
+      , 
+      <form lang="es">parecer</form>
+      , 
+      <form lang="pt">parecer</form>
+      ). 
+      <!-- Assuming n.-frz. -> fr, sp. pg. -> es, pt -->
+      
+    </cognates>
+     — Aus 
+    <example>pare că</example>
+     „es scheint, daß“ ist das Adv. 
+    <form>parcă</form>
+     „als ob“ entstanden.
+
+  </etymology>
+  
+</entry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="815">
+  
+  <lemma>închei</lemma>
+  
+  <!-- Assuming încheiii. -> închei -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„schließen, verbinden“</definition>
+  
+  <variants>[ar. înclez? „mit dem Schlüssel sperren]</variants>
+  
+  <!-- Interpretation needed for neledz -> înclez? -->
+  
+  <etymology source="Dens. H. l. r. 226">
+    
+    <etymon lang="Lat">*IN-CLAVO, -ARE</etymon>
+    : 
+    <!-- Assuming [Fın-Jenavo -> *IN-CLAVO -->
+    
+    <cognates>
+      
+      <form lang="it">chiavare</form>
+      ,
+
+      <form lang="it-OLD">inchiavare</form>
+      , 
+      <!-- Assuming a.-it. -> it-OLD -->
+      
+      <form lang="oc">enclavar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">enclaver</form>
+      .
+
+    </cognates>
+     Davon: 
+    <form>încheietură</form>
+     sf. „Glied“ = 
+    <form lang="it-ABR">nghiavatură?</form>
+     (Dens. H. l. r. 226). 
+    <!-- Assuming încheietiri st. -> încheietură sf., abruzz. nghiavature -> nghiavatură? -->
+    
+  </etymology>
+  
+</entry>

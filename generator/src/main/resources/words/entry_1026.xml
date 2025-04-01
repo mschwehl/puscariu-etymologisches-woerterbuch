@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1026">
+  
+  <prefix>I</prefix>
+  
+  <lemma>mare</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. amare?, mgl. mare?, ir. mare?]</variants>
+  
+  <!-- Interpretation needed for amare, mari, more -->
+  
+  <definition>„Meer“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">mare</form>
+      ,
+
+      <form lang="roh-ENG">mar?</form>
+      , 
+      <form lang="fr">mer</form>
+      , 
+      <!-- Interpretation needed for eng. mer -> mar? -->
+      
+      <form lang="oc">mar</form>
+      , 
+      <form lang="ca">mar</form>
+      , 
+      <form lang="es">mar</form>
+      , 
+      <form lang="pt">mar</form>
+      . 
+      <!-- Assuming pv, cat. sp. pg. -> oc, ca, es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

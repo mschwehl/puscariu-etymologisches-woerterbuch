@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1018">
+  
+  <prefix>II</prefix>
+  
+  <lemma>mai</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. =, ir. mai]</variants>
+  
+  <!-- Interpretation needed for > -> = -->
+  
+  <definition>„Mai“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MAIUS, -UM</etymon>
+    : 
+    <!-- Assuming masus -> MAIUS -->
+    
+    <cognates>
+      
+      <form lang="sq">maj</form>
+      ,
+
+      <form lang="it">maggio</form>
+      ,
+
+      <form lang="it-SIC">maiu</form>
+      , 
+      <!-- Interpretation needed for mayu -->
+      
+      <form lang="roh-ENG">matg?</form>
+      , 
+      <!-- Interpretation needed for medă -->
+      
+      <form lang="oc">mai</form>
+      , 
+      <form lang="fr">mai</form>
+      , 
+      <form lang="ca">mai</form>
+      , 
+      <!-- Assuming pv. frz. cat. -> oc, fr, ca -->
+      
+      <form lang="es">mayo</form>
+      ,
+
+      <form lang="pt">maio</form>
+      , vgl. auch 
+      <form lang="chu">majь?</form>
+      , 
+      <form lang="hr">maj</form>
+      . 
+      <!-- Assuming g. -> pt, a.-ksl. kroat. maj -> chu majь?, hr maj -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

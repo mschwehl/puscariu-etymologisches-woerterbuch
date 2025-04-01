@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="872">
+  
+  <lemma>însăninez?</lemma>
+  
+  <!-- Assuming insenindz -> însăninez? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. însirin?]</variants>
+  
+  <!-- Interpretation needed for nsirin -->
+  
+  <definition>„aufheitern”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[IN-]SERENO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">inserenare</form>
+      ,
+
+      <form lang="oc">serenar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">serenar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">serenar</form>
+      ,
+(vgl. 
+      <form lang="it">asserenare</form>
+      , 
+      <form lang="oc">aserenar</form>
+      , 
+      <form lang="fr">rasséréner</form>
+      , 
+      <form lang="ca">asserenar</form>
+      ). 
+      <!-- Assuming pv. -> oc, rasserener -> rasséréner -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

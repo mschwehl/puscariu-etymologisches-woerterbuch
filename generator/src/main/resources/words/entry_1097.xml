@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1097">
+  
+  <lemma>misel</lemma>
+  
+  <!-- Assuming miset -> misel -->
+  
+  <feminine_neuter>-ea?</feminine_neuter>
+  
+  <!-- Assuming -sd -> -ea? -->
+  
+  <pos>adj.</pos>
+  
+  <definition>
+    „schlimm (+ „elend“ 
+    <source_ref>Dosoft. Viaţa sfint. 3/4, 1%. etc.</source_ref>
+    )
+  </definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MISCELLUS, -A, -UM?</etymon>
+     (als Subst. im Mittelalter = „Aussätziger"): 
+    <!-- Assuming (miskLrus -> MISCELLUS -->
+    
+    <cognates>
+      
+      <form lang="it-OLD">misello</form>
+      , 
+      <!-- Assuming a.-it. nrisello -> misello -->
+      
+      <form lang="oc">mesel</form>
+      , 
+      <form lang="fro">mesel</form>
+       „aussätzig“, 
+      <!-- Assuming pv. a.-frz. -> oc, fro -->
+      
+      <form lang="ca">mesell</form>
+       „krank, 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es-OLD">mesiello?</form>
+      . 
+      <!-- Interpretation needed for a.-sp. niesillo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="882">
+  
+  <lemma>înțesesc?</lemma>
+  
+  <!-- Assuming Intetese -> înțesesc? -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„drängen“</definition>
+  .
+
+  <etymology source="Verfasser lat. Ti u. Ki, 42">
+    Etymol. unbekannt. Verfasser (lat. Ti u. Ki, 42) dachte daran, daß es aus älterem 
+    <form>*înțesesc</form>
+     dissimiliert sei (vgl. 
+    <form>retez</form>
+    ) und dann würde es zu 
+    <etymon lang="Lat">INCITUS?</etymon>
+     „in rasche Bewegung gesetzt“ passen 
+    <!-- Assuming *inisetsesc -> *înțesesc, ixcltus -> INCITUS? -->
+     (vgl. 
+    <example>„calul cu picioarele din pinteni înțesîndu-l?, asupra lui să repezi“</example>
+     == „indem er das Pferd mit den Sporen in rasche Bewegung setzte [= drängte], warf er sich auf ihn“). 
+    <!-- Interpretation needed for înfețindu-l -> înțesîndu-l?, ihm -> ihn -->
+    
+  </etymology>
+  
+</entry>

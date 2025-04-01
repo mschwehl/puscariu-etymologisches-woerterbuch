@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1125">
+  
+  <lemma>*mulzăre?</lemma>
+  
+  <!-- Assuming *mulzdâve -> *mulzăre? -->
+  
+  <pos>sf.</pos>
+  
+  <usage_note>belegt nur in Plur. des ban. Dialektes mulzări? „Milchschafe, die unter den Hammeln weiden und den Hirten jener die nötige Milch gewähren."</usage_note>
+  
+  <!-- Assuming muldzi -> mulzări?, Milehsehate -> Milchschafe -->
+  
+  <reference type="bibliographic">Jb. LI, 321</reference>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, 63">
+    
+    <etymon lang="Lat">*MULCTRIA, -AM?</etymon>
+     (von 
+    <etymon lang="Lat">MULGEO</etymon>
+    ). 
+    <!-- Assuming <*müncearıa -> *MULCTRIA? -->
+    
+    <reference type="bibliographic">Verfassers: Lat. Ti u. Ki, 63.</reference>
+    
+  </etymology>
+  
+  <variants>[ar. mătrică, mitrică].</variants>
+  
+</entry>

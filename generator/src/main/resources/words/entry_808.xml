@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="808">
+  
+  <lemma>încălzesc</lemma>
+  
+  <!-- Assuming incälzese -> încălzesc -->
+  
+  <verb_class>IV</verb_class>
+   
+  <!-- LV -> IV -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. încăldzăscu?, mgl. încălzesc?]</variants>
+  
+  <!-- Interpretation needed for ancăldzăscu, ancălzos -> încălzesc? -->
+  
+  <definition>„wärmen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">INCALDESCO, -IRE?</etymon>
+     (== 
+    <etymon lang="Lat">IN-CALESCO</etymon>
+     + 
+    <etymon lang="Lat">CALDUS</etymon>
+    , vgl. dr. 
+    <form>căldură</form>
+    , ar. 
+    <form lang="ro-AR">căldură?</form>
+    ). 
+    <!-- Assuming CE INCALDESCO, -IRE -> INCALDESCO, -IRE?, căroare -> căldură? -->
+    
+  </etymology>
+  
+</entry>

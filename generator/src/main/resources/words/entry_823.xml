@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="823">
+  
+  <lemma>încord</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„spannen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IN-CHORDO, -ARE</etymon>
+     (Von 
+    <etymon lang="Lat">CHORDA</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="sq">ngordh?</form>
+       „verrecken“, 
+      <!-- Interpretation needed for ngord -->
+      
+      <form lang="it">incordare</form>
+      ,
+
+      <form lang="es">encordar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

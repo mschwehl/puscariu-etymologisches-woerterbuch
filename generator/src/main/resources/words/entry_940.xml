@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="940">
+  
+  <lemma>lapți</lemma>
+  
+  <!-- Assuming lapti -> lapți -->
+  
+  <pos>sm.</pos>
+  
+  <number>Plur.</number>
+  
+  <definition>„Milchen“</definition>
+  
+  <etymology source="Plinius H. N. 37, 79">
+    
+    <etymon lang="Lat">LACTES</etymon>
+     „Eingeweide“ (Plinius H. N. 37, 79 u. a.) vgl. 
+    <!-- Assuming vacres -> LACTES -->
+    
+    <cognates>
+      
+      <form lang="lmo-BER">lațet?</form>
+      , 
+      <form lang="lmo-CREM">lațet?</form>
+      , 
+      <form lang="lmo-COM">lațet?</form>
+      , 
+      <!-- Interpretation needed for berg. crem. com. lat$et -->
+      
+      <form lang="it-BRE?">latizi?</form>
+      , 
+      <form lang="it-BRE?">lateseda?</form>
+      , 
+      <!-- Interpretation needed for bres. latizi, latăedă -->
+      
+      <form lang="vec-VER">lattesini?</form>
+       „Gekröse“. 
+      <!-- Interpretation needed for ver. lattesini -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

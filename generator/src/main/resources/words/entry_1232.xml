@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1232">
+  
+  <prefix>I</prefix>
+  
+  <lemma>ou</lemma>
+  
+  <!-- Assuming ot -> ou -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. ou, mgl. ou?, ir. ou?]</variants>
+  
+  <!-- Interpretation needed for wow -> ou?, omul -> ou? -->
+  
+  <definition>„Ei</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">OVUM</etymon>
+     (das Rum. läßt nicht über die Qualität des o entscheiden):
+
+    <cognates>
+      
+      <form lang="sq">ve, vo</form>
+      ,
+
+      <form lang="it">uovo</form>
+      , 
+      <!-- Assuming 2000 -> uovo -->
+      
+      <form lang="it-LEC">eu?</form>
+      , 
+      <!-- Interpretation needed for eu -->
+      
+      <form lang="sc">ou</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">öv?</form>
+      , 
+      <!-- Interpretation needed for Of -->
+      
+      <form lang="oc">ou</form>
+      , 
+      <!-- Assuming pv. ov -> ou -->
+      
+      <form lang="fr">œuf</form>
+      , 
+      <!-- Assuming auf -> œuf -->
+      
+      <form lang="es">huevo</form>
+      , 
+      <!-- Assuming hievo -> huevo -->
+      
+      <form lang="pt">ovo</form>
+      . 
+      <!-- Assuming 000 -> ovo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

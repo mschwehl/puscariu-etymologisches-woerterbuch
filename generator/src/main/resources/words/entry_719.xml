@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="719">
+  
+  <lemma>ghioagă</lemma>
+  
+  <!-- Assuming ghiodgä -> ghioagă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Keule“</definition>
+  
+  <variants>[ar. cloagă, ghioagă? W.]</variants>
+  
+  <!-- Interpretation needed for gldagă -> ghioagă? -->
+  
+  <etymology source="Miklosich: Consonantismus II, 57; Hasdeu: Columna III; G. Meyer: Etym. Wörtb. der alban. Spr. 192">
+    ist etymologisch dunkel. Es paßt weder zu Miklosichs (...) slav. 
+    <etymon lang="chu">glogŭ?</etymon>
+    , noch zu Hasdeus (...): 
+    <etymon lang="Lat">*CLOVA</etymon>
+     = 
+    <etymon lang="Lat">CLAVA</etymon>
+    , sondern es ist wohl dasselbe Wort wie 
+    <form lang="sq">kllogë?</form>
+     „Stab mit gebogener Spitze, Keule“ (vgl. 
+    <form lang="sq">godita?</form>
+     „ich schlug‘), welches indessen kaum zu 
+    <form lang="it">croccia, gruccia</form>
+    , 
+    <form lang="fr">crosse</form>
+     etc. gehört (G. Meyer: Etym. Wörtb. der alban. Spr. 192).
+
+    <!-- Interpretation needed for glogi -> glogŭ?, klokg -> kllogë?, ngoku -> godita?, gruceia -> gruccia -->
+    
+  </etymology>
+  
+</entry>

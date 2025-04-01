@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="976">
+  
+  <lemma>lînced</lemma>
+  
+  <!-- Assuming Tinced -> lînced -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <!-- Assuming -@ -> -ă -->
+  
+  <lemma_variants>(linged?)</lemma_variants>
+  
+  <!-- Interpretation needed for linged -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. lînzit?, lînzid? (Crugova)]</variants>
+  
+  <!-- Interpretation needed for lindzit, lindzid -->
+  
+  <definition>„matt, krank“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LANGUIDUS, -A, -UM</etymon>
+    .
+
+  </etymology>
+  
+</entry>

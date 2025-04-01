@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="828">
+  
+  <lemma>îndărăt</lemma>
+  
+  <!-- Assuming indärät -> îndărăt -->
+  
+  <lemma_variants>(îndărăpt)</lemma_variants>
+  
+  <pos>adv.</pos>
+  
+  <definition>„rückwärts“</definition>
+  
+  <etymology source="Jb. II, 222; Dens. H. l. r. 299; Verfassers: Lat. Ti u. Ki, 9-10">
+    
+    <etymon lang="Lat">IN + DE-RETRO</etymon>
+    : 
+    <!-- Assuming < [ty +Dr-Rerro -> IN + DE-RETRO -->
+    
+    <cognates>
+      
+      <form lang="it">(in)dietro</form>
+      ,
+
+      <form lang="it-NAP">(n)dereto</form>
+      ,
+
+      <form lang="it-ALA?">derete</form>
+      , 
+      <!-- Interpretation needed for alatri -->
+      
+      <form lang="it-LEC">ndrètu?</form>
+      , 
+      <!-- Interpretation needed for devetu -->
+      
+      <form lang="lmo-BER">de dré?</form>
+      , 
+      <!-- Interpretation needed for a.-berg. de dred -->
+      
+      <form lang="rgn">drî?</form>
+      , 
+      <!-- Interpretation needed for romen. dri -->
+      
+      <form lang="sc-G">a dareddu?</form>
+      , 
+      <!-- Interpretation needed for sard. g. -->
+      
+      <form lang="oc">(de)reire</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">derrière</form>
+      . 
+      <!-- Assuming derriöre -> derrière -->
+      
+    </cognates>
+     Die Nebenform 
+    <form>îndărăpt</form>
+     hat Weigand veranlaßt (Jb. II, 222) 
+    <etymon lang="Lat">IN-DIRECTUS, -A, -UM</etymon>
+    , vorzuschlagen. 
+    <!-- Assuming m-DIRECTUS -> IN-DIRECTUS -->
+     Vielleicht liegt letzteres in der Ableitung 
+    <form>îndărătnic, -ă</form>
+     adj. „widerspenstig“ 
+    <!-- Assuming indäräpinic -> îndărătnic, widerspânstig -> widerspenstig -->
+     (eigtl. „ungerad(er Mensch)“) vor, vgl. alt-rum. 
+    <form lang="ro-OLD">întort</form>
+     „starrsinnig“ (eigtl. „gedreht“). Da man aber das Wort an 
+    <form>îndărăt</form>
+     „rückwärts“ (
+    <etymon lang="Lat">IN + DERETRO</etymon>
+    ) anlehnte (vielleicht unter alb. Einfluß, wo 
+    <form lang="sq">prapa</form>
+     „rückwärts“, 
+    <form lang="sq">prapë?</form>
+     „starrköpfig”“ bedeutet, vgl. Dens. H. l. r. 299), so konnte einerseits 
+    <form>îndărăpt</form>
+    , andererseits 
+    <form>îndărătnic</form>
+     entstehen. Vgl. Verfassers: Lat. Ti u. Ki, 9—10. 
+    <!-- Interpretation needed for prape -> prapë?, indärätnic -> îndărătnic -->
+    
+  </etymology>
+  
+  <variants>[ar. năpoi, nipoi].</variants>
+  
+</entry>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="710">
+  
+  <lemma>gheb</lemma>
+  
+  <pos>sm.</pos>
+  
+  <reference type="see">
+    s. 
+    <targetLemma>gheabă</targetLemma>
+    .
+  </reference>
+  
+  <!-- Assuming gheabä -> gheabă -->
+  
+</entry>

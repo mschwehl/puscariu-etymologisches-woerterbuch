@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1007">
+  
+  <lemma>măcel</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Gemetzel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MACELLUM</etymon>
+    : 
+    <!-- Assuming mackuuum -> MACELLUM -->
+    
+    <cognates>
+      
+      <form lang="it">macello</form>
+      ,
+
+      <form lang="lij-GEN">macello?</form>
+       (vgl. 
+      <form lang="sc">magheddare?</form>
+       „maltrattare il bestiame“), 
+      <!-- Interpretation needed for maxello, sard. magheddare -->
+      
+      <form lang="pms">masel</form>
+      , 
+      <form lang="oc">masel</form>
+      , 
+      <!-- Assuming piem. pv. -> pms, oc -->
+      
+      <form lang="fro">maisel</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="wa">mazi?</form>
+      . 
+      <!-- Interpretation needed for waatl. mazi -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

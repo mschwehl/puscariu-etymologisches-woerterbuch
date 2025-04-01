@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="961">
+  
+  <lemma>lege</lemma>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. lege? (in Alban.)]</variants>
+  
+  <!-- Interpretation needed for leadze -> lege? -->
+  
+  <definition>„Gesetz, Glaube“</definition>
+  
+  <etymology source="C. I. L. III, 9508; Dens. Hist. l. r. 192">
+    
+    <etymon lang="Lat">LEX, LEGEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">ligj?</form>
+      , 
+      <!-- Interpretation needed for ige -->
+      
+      <form lang="it">legge</form>
+      ,
+
+      <form lang="roh-ENG">lesch?</form>
+       „Ehe“, 
+      <!-- Interpretation needed for alaid? -->
+      
+      <form lang="oc">lei</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">loi</form>
+      ,
+
+      <form lang="ca">llei</form>
+      , 
+      <!-- Interpretation needed for Uley -->
+      
+      <form lang="es">ley</form>
+      ,
+
+      <form lang="pt">lei</form>
+      . 
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+     Im Sinne von „Religion“ ist 
+    <etymon lang="Lat">LEX</etymon>
+     in 
+    <source_ref>C. I. L. III, 9508</source_ref>
+     belegt (
+    <reference type="bibliographic">Dens. Hist. l. r. 192</reference>
+    ); diese Bedeutung hat das Wort auch im Rum. Alb. A.-frz. und A.-pv. 
+    <!-- Assuming vex -> LEX -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1075">
+  
+  <lemma>miez</lemma>
+  
+  <!-- Assuming misz -> miez -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. niedz?]</variants>
+  
+  <!-- Interpretation needed for nedz -->
+  
+  <definition>„Kern, Schmolle, Mitte“</definition>
+  ,
+
+  <related_forms>
+    <form>miez, miază</form>
+     adj. (nur in 
+    <form>miazăzi</form>
+     sf. „Mittag“ &lt; 
+    <etymon lang="Lat">MEDIA DIES</etymon>
+    : 
+    <!-- Assuming mEnIa Dies -> MEDIA DIES -->
+    
+    <cognates>
+      vgl. 
+      <form lang="sq">mesditë</form>
+      , 
+      <!-- Interpretation needed for alb. mjezdite -->
+      
+      <form lang="it">mezzodì</form>
+      ,
+
+      <form lang="oc">miegdia</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">midi</form>
+      ,
+
+      <form lang="es">mediodía</form>
+      , 
+      <!-- Assuming mediodia -->
+      
+      <form lang="pt">meiodia</form>
+      ; 
+      <!-- Assuming pe. -> pt -->
+      
+    </cognates>
+     
+    <form>amiaz(ăzi)</form>
+    , mgl. 
+    <form lang="ro-MG">miazăzi?</form>
+    , adv. „mittags“ &lt; 
+    <etymon lang="Lat">AD MEDIAM DIEM?</etymon>
+    ; 
+    <!-- Interpretation needed for mniazătsi -> miazăzi?, AD MEDIAN Diem -> AD MEDIAM DIEM? -->
+     
+    <form>miazănoapte</form>
+     sf. „Mitternacht“ &lt; 
+    <etymon lang="Lat">MEDIA NOX</etymon>
+    : 
+    <!-- Assuming mEnra xox -> MEDIA NOX -->
+    
+    <cognates>
+      
+      <form lang="it">mezza notte</form>
+      ,
+
+      <form lang="oc">meia nuech</form>
+      , 
+      <!-- Interpretation needed for pr. -> oc -->
+      
+      <form lang="fr">minuit</form>
+      ,
+
+      <form lang="es">media noche</form>
+      , vgl. 
+      <form lang="sq">mesnatë</form>
+      ) 
+      <!-- Interpretation needed for alb. mjeznate -->
+      
+    </cognates>
+    (ar. 
+    <form lang="ro-AR">nedzu?, nadză?</form>
+     „mittler“, mgl. 
+    <form lang="ro-MG">(m)iez?</form>
+     sb., ir. miez? „Brotkrume“| 
+    <!-- Interpretation needed for nedzu, nadzä, (m)nies -> (m)iez?, mie -> miez? -->
+    
+  </related_forms>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MEDIUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming ÖMEDIUS -> MEDIUS -->
+    
+    <cognates>
+      
+      <form lang="it">mezzo</form>
+      ,
+
+      <form lang="it-SIC">menzu?</form>
+      , 
+      <!-- Interpretation needed for sic. mienzu -->
+      
+      <form lang="roh-ENG">mez</form>
+      ,
+
+      <form lang="fur">mietz?</form>
+      , 
+      <!-- Interpretation needed for Irl. miezz -->
+      
+      <form lang="oc">meig?</form>
+      , 
+      <!-- Interpretation needed for pv. mietă -->
+      
+      <form lang="fro">miei?</form>
+      , 
+      <!-- Interpretation needed for a.-Irz. miei -->
+      
+      <form lang="fr">mi-</form>
+      ,
+(
+      <form lang="es">medio</form>
+      ),
+
+      <form lang="pt">meio</form>
+      . 
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

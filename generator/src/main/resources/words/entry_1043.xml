@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1043">
+  
+  <lemma>măsăriță</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Tischtuch“</definition>
+  , aus einem früheren 
+  <form>*măsare</form>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MENSALIS, -EM?</etymon>
+    : 
+    <!-- Assuming <mels]sarıs -> MENSALIS? -->
+    
+    <cognates>
+      
+      <form lang="sq">mesallë?</form>
+       „langes, schmales Tischtuch‘“, 
+      <!-- Interpretation needed for mesate -->
+      (
+      <form lang="it">mensale</form>
+      ).
+
+    </cognates>
+     Daneben 
+    <form>măsai?</form>
+     sm. &lt; 
+    <etymon lang="Lat">*MENSARIUM?</etymon>
+    . 
+    <!-- Assuming mäsdiü -> măsai?, *\"melx]sarıun -> *MENSARIUM? -->
+     Dagegen ar. 
+    <form lang="ro-AR">misale?</form>
+     &lt; 
+    <etymon lang="el">μεσάλι?</etymon>
+     (vgl. 
+    <form lang="bg">mesal</form>
+    ). 
+    <!-- Interpretation needed for misale, neodhı -> μεσάλι? -->
+    
+  </etymology>
+  
+</entry>

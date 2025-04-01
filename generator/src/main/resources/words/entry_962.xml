@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="962">
+  
+  <lemma>legumă</lemma>
+  
+  <!-- Assuming tegümä -> legumă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Hülsenfrucht“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LEGUMEN</etymon>
+    : 
+    <!-- Assuming wsatuex -> LEGUMEN -->
+    
+    <cognates>
+      
+      <form lang="it">legume</form>
+      ,
+
+      <form lang="it-BOL">legòm?</form>
+      , 
+      <!-- Interpretation needed for legom -->
+      
+      <form lang="vec-VER">liòmi?</form>
+      , 
+      <!-- Interpretation needed for liomi -->
+      
+      <form lang="fur">legums?</form>
+      , 
+      <!-- Interpretation needed for liums -->
+      
+      <form lang="roh-OBW">liema?</form>
+      , 
+      <!-- Interpretation needed for liema -->
+      
+      <form lang="oc">legum</form>
+      , 
+      <!-- Assuming pr. -> oc -->
+      
+      <form lang="fro">leün</form>
+      , 
+      <!-- Interpretation needed for a.-Irz leün -->
+      
+      <form lang="ca">llegum?</form>
+      , 
+      <form lang="es">legumbre</form>
+      , 
+      <!-- Assuming cat. sp. -> ca, es -->
+      
+      <form lang="pt">legume</form>
+      . 
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. verdeață?, zarzavat?].</variants>
+  
+  <!-- Interpretation needed for virdeatsä -> verdeață?, zarzävate -> zarzavat? -->
+  
+</entry>

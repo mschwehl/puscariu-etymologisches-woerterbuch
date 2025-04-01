@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="894">
+  
+  <lemma>întru</lemma>
+  
+  <pos>präp.</pos>
+  
+  <variants>[ar. (în)tru, tu, mgl. întru „zwischen, unter“, ir. întru „neben, vor“]</variants>
+  
+  <!-- Interpretation needed for antru -> întru, äntru -> întru -->
+  
+  <definition>„in“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">INTRO</etymon>
+    : 
+    <!-- Assuming <ıyıkö -> INTRO -->
+    
+    <cognates>
+      
+      <form lang="it">(d)entro</form>
+      , 
+      <!-- Assuming sp. pg. (d)entro -> it? -->
+      
+      <form lang="es">(d)entro</form>
+      ,
+
+      <form lang="pt">(d)entro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

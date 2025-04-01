@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1273">
+  
+  <lemma>partal?</lemma>
+  
+  <!-- Assuming partăl -> partal? -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Stück“</definition>
+  
+  <usage_note>
+    („
+    <example>Spărgeseră ... casa... cărînd în suliți burduși de brînză, partale de slănini afumate și bunătate de cașcavaluri.</example>
+    “ 
+    <source_ref>G. Moroianu: Sămăn. IV, 221</source_ref>
+    . - „
+    <example>Cînd și cînd vedeai cîte un partal de grîu păscut de caii lor.</example>
+    “ 
+    <source_ref>C. Sandu, Sămăn. IV, 6</source_ref>
+    )
+  </usage_note>
+   
+  <!-- Assuming Spärseserä -> Spărgeseră -->
+  
+  <etymology>
+    ursprünglich wohl „Viertel“ 
+    <etymon lang="Lat">QUARTARIUS, -UM</etymon>
+    .
+
+  </etymology>
+  
+</entry>

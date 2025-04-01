@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1101">
+  
+  <lemma>moale</lemma>
+  
+  <!-- Assuming modte -> moale -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. =, mgl. moale?, ir. moale?] „weich‘</variants>
+  
+  <!-- Interpretation needed for => -> =, moali -> moale?, mole -> moale? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MOLLIS, -E</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">molle</form>
+      , 
+      <form lang="pt">molle</form>
+      , 
+      <!-- Assuming pg. -> pt -->
+      
+      <form lang="fur">muel?</form>
+      , 
+      <!-- Interpretation needed for frl. muell -->
+      
+      <form lang="roh-ENG">mol</form>
+      , 
+      <form lang="oc">mol</form>
+      , 
+      <!-- Assuming eng. pv. -> roh-ENG, oc -->
+      
+      <form lang="fr">mou</form>
+      , 
+      <!-- Assuming mon -> mou -->
+      
+      <form lang="ca">moll</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">muelle</form>
+      .
+
+    </cognates>
+     — 
+    <example>Moalele capului</example>
+     „weiche Stelle am Scheitel der kleinen Kinder“ = 
+    <form lang="es">mollera</form>
+    , 
+    <form lang="pt">moleira</form>
+    .
+
+  </etymology>
+  
+</entry>

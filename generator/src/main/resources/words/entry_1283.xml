@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1283">
+  
+  <lemma>Paște</lemma>
+  
+  <lemma_variants>(Paști)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <number>plur. tant.</number>
+  
+  <variants>[ar. paște?, paști?, mgl. paști? u. pastu? sm. sing., ir. poște?]</variants>
+  
+  <!-- Interpretation needed for paste -> paște?, pasti -> paști?, pastu -> pastu?, poste -> poște? -->
+  
+  <definition>„Ostern; geweihtes Osterbrot“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PASCHAE</etymon>
+    , plur. von 
+    <etymon lang="Lat">PASCHA, -AM</etymon>
+    : 
+    <!-- Assuming rasch -> PASCHAE -->
+    
+    <cognates>
+      
+      <form lang="sq">pashkë?</form>
+      , 
+      <!-- Interpretation needed for paske -->
+      
+      <form lang="it">pasqua</form>
+      , 
+      <form lang="roh-ENG">pasqua</form>
+      ,
+
+      <form lang="sc">paska</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="oc">pasca, pasqua</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">pâque(s)</form>
+      ,
+
+      <form lang="es">pascua</form>
+      ,
+
+      <form lang="pt">páscoa</form>
+      . 
+      <!-- Assuming pascoa -> páscoa -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

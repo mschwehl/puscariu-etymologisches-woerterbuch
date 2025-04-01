@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1128">
+  
+  <lemma>munte</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. ir. =, mgl. munte?]</variants>
+  
+  <!-- Assuming © -> =, munti -> munte? -->
+  
+  <definition>„Berg“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MONS, MONTEM</etymon>
+    : 
+    <!-- Assuming Cons -> MONS -->
+    
+    <cognates>
+      
+      <form lang="it">monte</form>
+      , 
+      <form lang="es">monte</form>
+      , 
+      <form lang="pt">monte</form>
+      ,
+
+      <form lang="it-SIC">munti</form>
+      , 
+      <!-- Assuming sic. -> it-SIC -->
+      
+      <form lang="it-CAL">munte</form>
+      , 
+      <!-- Assuming cal. -> it-CAL -->
+      
+      <form lang="roh-ENG">munt</form>
+      , 
+      <form lang="ca">munt</form>
+      , 
+      <!-- Assuming eng. cat. -> roh-ENG, ca -->
+      
+      <form lang="oc">mont</form>
+      , 
+      <form lang="fr">mont</form>
+      . 
+      <!-- Assuming pv. frz. -> oc, fr -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

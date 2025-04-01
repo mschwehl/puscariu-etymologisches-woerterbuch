@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1218">
+  
+  <lemma>olar</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Töpfner“</definition>
+  
+  <etymology source="Jb. VIII, 83">
+    
+    <etymon lang="Lat">OLLARIUS, -UM</etymon>
+    :
+
+    <cognates>
+      (
+      <form lang="oc">olièr?</form>
+      ), 
+      <!-- Interpretation needed for pv. olier -->
+      
+      <form lang="es">ollero</form>
+      , 
+      <form lang="pt">oleiro</form>
+      . 
+      <!-- Assuming olleiro -->
+      
+    </cognates>
+     In der Bedeutung „Kasten für Küchengeschirr“ (
+    <source_ref>Jb. VIII, 83</source_ref>
+    ) hat 
+    <form>olar?</form>
+     das instrum. Suffix 
+    <suffix>-arium</suffix>
+     (vgl. 
+    <etymon lang="Lat">OLLARIUM</etymon>
+     „Aschenbehälter‘“). 
+    <!-- Assuming oldr -> olar? -->
+    
+  </etymology>
+  
+</entry>

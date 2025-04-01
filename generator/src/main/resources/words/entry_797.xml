@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="797">
+  
+  <prefix>II</prefix>
+  
+  <lemma>împut</lemma>
+  
+  <!-- Assuming împt -> împut -->
+  
+  <lemma_variants>(împuț?, împuțesc)</lemma_variants>
+  
+  <!-- Assuming impuf -> împuț? -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. împuț?, împuțăscu?, mgl. împuțesc?]</variants>
+  
+  <!-- Interpretation needed for amput -> împuț?, amputsăscu -> împuțăscu?, amputsos -> împuțesc? -->
+  
+  <definition>„stinkend werden“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PUTESCO, -ERE?</etymon>
+     (statt 
+    <etymon lang="Lat">-ESCERE</etymon>
+    : 
+    <form lang="sc">pudesiri</form>
+    ) mit Anlehnung an 
+    <etymon lang="Lat">PUTEO?</etymon>
+    . 
+    <!-- Assuming puresco, -“ina -> PUTESCO, -ERE?, sard. -> sc, pat -> PUTEO? -->
+    
+  </etymology>
+  
+</entry>

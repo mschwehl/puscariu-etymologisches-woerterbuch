@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="700">
+  
+  <lemma>găun</lemma>
+  
+  <!-- Assuming gain -> găun -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Hornisse, Blattwespe“</definition>
+  
+  <etymology source="Candrea-Hecht, Romania XXXI, 312; Schuchardt: Zeitschrift rom. Phil. XXVI, 588; Zeitschr. rom. Phil. XXVIII, 618; Meyer-Lübke: Rom. Gramm. I § 427; Dens. H. l. r. 111">
+    
+    <etymon lang="Lat">*CAVO, -ONEM</etymon>
+     (eigtl. „Höhler“, von 
+    <etymon lang="Lat">CAVO, -ARE</etymon>
+    ). 
+    <!-- Assuming *cavo -> *CAVO, cavo, -arn -> CAVO, -ARE -->
+    
+    <reference type="bibliographic">Candrea-Hecht, Romania XXXI, 312, dagegen Schuchardt: Zeitschrift rom. Phil. XXVI, 588, vgl. aber Zeitschr. rom. Phil. XXVIII, 618.</reference>
+     —
+
+    <form>Găunoaie?</form>
+     „Bremse“ 
+    <source_ref>Conv. lit. XX, 1010</source_ref>
+    . 
+    <!-- Interpretation needed for Găundiii -->
+     — Wegen c &gt; g bei diesem und dem folgenden Worte vgl. 
+    <reference type="bibliographic">Meyer-Lübke: Rom. Gramm. I § 427, Dens. H. l. r. 111</reference>
+    .
+
+  </etymology>
+  
+</entry>

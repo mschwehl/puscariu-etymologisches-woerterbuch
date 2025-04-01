@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1038">
+  
+  <lemma>măruntaie</lemma>
+  
+  <!-- Assuming märuntdie -> măruntaie -->
+  
+  <pos>sf. Pl.</pos>
+  
+  <lemma_variants>
+    (auch măruntai? sm. Sing. und mănuntaiț? 
+    <source_ref>Varl. Caz. 1643 f. 152</source_ref>
+    )
+  </lemma_variants>
+  
+  <!-- Interpretation needed for măruntait -> măruntai?, mänuntaiit -> mănuntaiț? -->
+  
+  <definition>„Eingeweide“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MINUTALIA</etymon>
+    : 
+    <!-- Assuming uisiraria -> MINUTALIA -->
+    
+    <cognates>
+      
+      <form lang="it">minutaglia</form>
+       „Kleinigkeiten“.
+
+    </cognates>
+     Ar. dafür mit anderem Suffix: 
+    <form lang="ro-AR">minuțăț?</form>
+    , auch 
+    <form lang="ro-AR">mînțăl?</form>
+     sm. pl. tant. (vgl. 
+    <form lang="it">minugia</form>
+    , 
+    <form lang="lmo-OLD">menusie?</form>
+     „budella interiore“, 
+    <form lang="sc-L">minuzzu?</form>
+    , 
+    <form lang="fr">menu</form>
+    , 
+    <form lang="es">menudencia</form>
+    , letztere zwei nur vom Schlachtvieh). 
+    <!-- Interpretation needed for minu-tsăt -> minuțăț?, mintsäl -> mînțăl?, menusie, sard. l. minutssu -> minuzzu? -->
+    
+  </etymology>
+  
+</entry>

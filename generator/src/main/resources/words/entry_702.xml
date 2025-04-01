@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="702">
+  
+  <lemma>geană</lemma>
+  
+  <!-- Assuming geänä -> geană -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. dzeană, mgl. zeană?, ir. geană?]</variants>
+  
+  <!-- Assuming zend -> zeană?, Zone -> geană? -->
+  
+  <definition>„Augenwimper; Bergesrücken“</definition>
+  
+  <etymology source="Zeitschrift rom. Phil. XXVIII, 687; Jb. III, 331">
+    
+    <etymon lang="Lat">GENA, -AM</etymon>
+    : 
+    <!-- Assuming Gina -> GENA -->
+    
+    <cognates>
+      
+      <form lang="it-CAL">jena</form>
+       „cigilione che segna il limite di un campo“ (== rum. 
+      <example>geană de pămînt</example>
+      ),
+
+      <form lang="oc">gena</form>
+       „Wange“. 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+     — Wenn der Sinnesübergang von „Wange“ zu „Augenwimper“ schon auffällt, und auch für die Bewahrung des e vor n die Analogie des sinnverwandten 
+    <etymon lang="Lat">PINNA</etymon>
+     (vgl. ar. 
+    <form lang="ro-AR">peanà di ocli?</form>
+     = 
+    <form lang="it-LEC">pinnula?</form>
+    , 
+    <form lang="it-LAT?">pennalissa de Il ’okkye?</form>
+    , 
+    <form lang="rm?">penantse?</form>
+    , 
+    <form lang="it-CALT?">pinnularu?</form>
+    , 
+    <form lang="fr-SAIN?">plleume des eils?</form>
+     „Augenwimper“) angenommen werden muß (vgl. Zeitschrift rom. Phil. XXVIII, 687?), so ist es um so merkwürdiger, daß im Banat 
+    <form lang="ro-BAN?">geană?</form>
+     „Leute, Volk“ bedeutet: 
+    <example>multă geană s'o strîns</example>
+     „viele Leute sind zusammengekommen“ Jb. III, 331. Sollte dieses mit dem vorhergehenden nichts gemein haben und zu 
+    <form lang="sq">gjiri?</form>
+     „Sippschaft, Verwandtschaft“, 
+    <form lang="it">genia</form>
+     „Gezücht, Gesindel“, 
+    <form lang="it-CAL">jenia</form>
+    , 
+    <form lang="it-SIC?">jinia</form>
+     (auch „razza di animali“), 
+    <form lang="es-OLD">ginea</form>
+     „Geschlecht“ (
+    <etymon lang="el">γενεά?</etymon>
+    ) gehören?
+
+    <!-- Interpretation needed for peana di ocli, pinnlul)a, late, pennalissa de Il ’okkye, rom. penantse, caltagirone pinnularu, saintonge plleume des eils, Zanä& -> geană?, giri -> gjiri?, se. -> it-SIC?, anımali -> animali, yevta -> γενεά? -->
+    
+  </etymology>
+  
+</entry>

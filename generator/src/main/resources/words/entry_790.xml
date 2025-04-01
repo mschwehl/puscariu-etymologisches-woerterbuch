@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="790">
+   
+  <!-- Assuming 190 -> 790 -->
+  
+  <lemma>împlînt?</lemma>
+  
+  <!-- Assuming împtînt -> împlînt? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. plîntu]</variants>
+  
+  <definition>„einsetzen, einstecken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PLANTO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">piantare</form>
+      ,
+
+      <form lang="roh-ENG">(im)planter</form>
+      , 
+      <!-- Assuming eng. -> roh-ENG -->
+      
+      <form lang="fr">planter</form>
+      ,
+
+      <form lang="es">plantar</form>
+      ,
+
+      <form lang="pt">plantar?</form>
+      . 
+      <!-- Interpretation needed for prantar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

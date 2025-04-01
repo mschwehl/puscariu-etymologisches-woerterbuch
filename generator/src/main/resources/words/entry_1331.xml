@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1331">
+  
+  <lemma>plagă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Plage“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PLAGA, -AM</etymon>
+    : 
+    <!-- Assuming praga -> PLAGA -->
+    
+    <cognates>
+      
+      <form lang="it">piaga</form>
+      ,
+
+      <form lang="it-SIC">chiaga?</form>
+      , 
+      <!-- Interpretation needed for kiaga -->
+      
+      <form lang="sc">pia?</form>
+      , 
+      <!-- Interpretation needed for sard. piae -->
+      
+      <form lang="roh-ENG">plegia?</form>
+      , 
+      <!-- Interpretation needed for pleya -->
+      
+      <form lang="fur">plae?</form>
+      , 
+      <!-- Interpretation needed for ir. playe -> fur plae? -->
+      
+      <form lang="oc">plaga</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">plaie</form>
+      , 
+      <!-- Assuming plate -> plaie -->
+      
+      <form lang="es">llaga</form>
+      ,
+
+      <form lang="pt">praga?</form>
+      . 
+      <!-- Interpretation needed for praia -> praga? -->
+      
+    </cognates>
+     Aus dem Ital. (auf der Stufe 
+    <etymon lang="Lat">*PLAGA</etymon>
+    ) stammt alb. 
+    <form lang="sq">plagë</form>
+    , woraus ar. 
+    <form lang="ro-AR">plagă</form>
+     W.
+
+  </etymology>
+  
+</entry>

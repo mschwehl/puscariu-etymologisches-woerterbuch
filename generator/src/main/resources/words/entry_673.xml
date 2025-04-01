@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="673">
+  
+  <lemma>funie</lemma>
+  
+  <!-- Assuming fiimie -> funie -->
+  
+  <pos>sf.</pos>
+  
+  <lemma_variants>(+ fune)</lemma_variants>
+  
+  <variants>[ar. fune, mgl. funi, funi?]</variants>
+  
+  <!-- Assuming far. -> ar., fund -> funi? -->
+  
+  <definition>„Strick“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FUNIS, -EM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">fune</form>
+      ,
+
+      <form lang="vec-OLD">funo</form>
+      , 
+      <!-- Assuming a.-ven. -> vec-OLD -->
+      
+      <form lang="it-TIR">fun</form>
+      , 
+      <!-- Assuming tirol. -> it-TIR -->
+      
+      <form lang="fro">fun</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. șpag?].</variants>
+  
+  <!-- Interpretation needed for spog -->
+  
+</entry>

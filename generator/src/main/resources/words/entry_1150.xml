@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1150">
+  
+  <lemma>nalbă</lemma>
+  
+  <!-- Assuming näţbä -> nalbă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[mgl. =?]</variants>
+  
+  <!-- Assuming | -> =? -->
+  
+  <definition>„Malve“</definition>
+  
+  <etymology source="Dens. H. l. r. 103; Rom. XXVII, 236">
+    
+    <etymon lang="Lat">MALVA, -AM</etymon>
+     (od. 
+    <etymon lang="Lat">MALBA, -AM</etymon>
+    , Dens. H. l. r. 103; Rom. XXVII, 236: 
+    <!-- Assuming CMALVA -> MALVA -->
+    
+    <cognates>
+      
+      <form lang="vec-OLD">malba</form>
+      , 
+      <form lang="lmo-COM">malba</form>
+      , 
+      <!-- Assuming a.-ven. com. -> vec-OLD, lmo-COM -->
+      
+      <form lang="rgn">melba</form>
+      ):
+
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="it">malva</form>
+      , 
+      <form lang="oc">malva</form>
+      , 
+      <form lang="ca">malva</form>
+      , 
+      <form lang="es">malva</form>
+      , 
+      <form lang="pt">malva</form>
+      , 
+      <!-- Assuming pv. cat. sp. pg. malca -> malva -->
+      
+      <form lang="fur">malve</form>
+      , 
+      <!-- Assuming Irl. -> fur -->
+      
+      <form lang="fr">mauve</form>
+      .
+
+    </cognates>
+     Für m &gt; n vgl. 
+    <form lang="sc-L">narvuzza?</form>
+    , 
+    <form lang="sc-C">narbledda?</form>
+    , 
+    <form lang="sc-SAS">naibuzza?</form>
+    , 
+    <!-- Interpretation needed for sard. l. narvutssa, ce. narbledd)a, sass. naibutssa -->
+    
+    <form lang="lmo-MIL">nalba</form>
+    , 
+    <form lang="vec">nalba</form>
+    .
+
+  </etymology>
+  
+  <variants>[ar. moloagă?].</variants>
+  
+  <!-- Interpretation needed for muloahä -->
+  
+</entry>

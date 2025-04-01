@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="879">
+  
+  <lemma>întărît</lemma>
+  
+  <!-- Assuming intärit -> întărît -->
+  
+  <lemma_variants>(întărt?, întart?)</lemma_variants>
+  
+  <!-- Interpretation needed for intärt, intart -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„hetzen, ärgern, erzürnen“</definition>
+  
+  <etymology source="Meyer-Lübke: Einführung, § 73">
+    
+    <etymon lang="Lat">*IN-TERRITO, -ARE</etymon>
+     (— 
+    <etymon lang="Lat">IN-RITARE?</etymon>
+     [= 
+    <etymon lang="Lat">IR-RITARE</etymon>
+    ] : 
+    <form lang="es">enridar</form>
+     + 
+    <etymon lang="Lat">*TERRITARE</etymon>
+     [von 
+    <etymon lang="Lat">TERRERE</etymon>
+    ]: 
+    <form lang="fro">enterier?</form>
+    ): 
+    <!-- Assuming < *®[In- |TERRITO -> *IN-TERRITO, FINRITARE -> IN-RITARE?, a.-fız. enterier -> fro enterier? -->
+    
+    <cognates>
+      
+      <form lang="it-NAP">ndërretà?</form>
+      , 
+      <!-- Interpretation needed for nderreta -->
+      
+      <form lang="fro">(en)tarier?</form>
+      , 
+      <!-- Interpretation needed for a.-frz. -->
+      
+      <form lang="fr-LOR">terie?</form>
+      , 
+      <!-- Interpretation needed for lothr. -->
+      
+      <form lang="oc-N">taridà?</form>
+      . 
+      <!-- Interpretation needed for n.-pv. foridâ -->
+      
+    </cognates>
+     Zuletzt darüber: Meyer-Lübke: Einführung, § 73.
+
+  </etymology>
+  
+  <variants>[ar. aprind, înțep?].</variants>
+  
+  <!-- Interpretation needed for sk'in -> înțep? -->
+  
+</entry>

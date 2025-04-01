@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1059">
+  
+  <lemma>merinde</lemma>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. = „Abend-, Vesperbrot‘, ir. merinde „Mittagessen“]</variants>
+  
+  <definition>„Mundvorrat“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MERENDA, -AM</etymon>
+     „Vesperbrot“: 
+    <!-- Assuming CMBRENDA -> MERENDA -->
+    
+    <cognates>
+      
+      <form lang="it">merenda</form>
+      , 
+      <form lang="pt">merenda</form>
+      , 
+      <!-- Assuming pg. -> pt -->
+      
+      <form lang="fur">merenda?</form>
+      , 
+      <!-- Interpretation needed for trl. mirinde -->
+      
+      <form lang="oc-N">merenda?</form>
+      , 
+      <!-- Interpretation needed for n.-pv. merendo -->
+      
+      <form lang="fro">marende</form>
+      , 
+      <!-- Assuming a.-trz. -> fro -->
+      
+      <form lang="es">merienda</form>
+      . 
+      <!-- Assuming meri-enda -> merienda -->
+      
+    </cognates>
+     — Mgl. 
+    <form lang="ro-MG">merind?</form>
+     adv. „zur Zeit des Vesperbrodes“ steht für 
+    <form lang="ro-MG">*amerind?</form>
+    . 
+    <!-- Interpretation needed for mirindi -> merind?, amirindi -> amerind? -->
+    
+  </etymology>
+  
+</entry>

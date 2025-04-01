@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="898">
+  
+  <lemma>învăț</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. învățu?, învăț? (Fars.), mgl. învăț?, ir. (în)văț?]</variants>
+  
+  <!-- Interpretation needed for nveisu -> învățu?, vels -> învăț?, anvets -> învăț?, (an)metsu -> (în)văț? -->
+  
+  <definition>„lehren, lernen, angewöhnen“</definition>
+  
+  <etymology source="Rom. Forsch. XII, 734">
+    
+    <etymon lang="Lat">*IN-VITIO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">VITIUM</etymon>
+    ): 
+    <!-- Assuming *[im-|virio -> *IN-VITIO, viren -> VITIUM -->
+    
+    <cognates>
+      
+      <form lang="sq">mësoj?</form>
+      , 
+      <!-- Interpretation needed for »igsoj -->
+      
+      <form lang="it">inviziare?</form>
+      , 
+      <!-- Interpretation needed for inverzare -->
+      
+      <form lang="it-LEC">învățare?</form>
+      , 
+      <!-- Interpretation needed for mmetssare -->
+      
+      <form lang="it-SIC">învățare?</form>
+      , 
+      <!-- Interpretation needed for ammitssari -->
+      
+      <form lang="it-CAL">învățare?</form>
+      , 
+      <!-- Interpretation needed for mbitssave -->
+      
+      <form lang="it-LAN?">învățà?</form>
+      , 
+      <!-- Interpretation needed for anımetssä -->
+      
+      <form lang="vec">envetsar?</form>
+      , 
+      <!-- Interpretation needed for envetsar -->
+      
+      <form lang="sc">imbițare?</form>
+      , 
+      <!-- Interpretation needed for sard. imbilssare -->
+      
+      <form lang="oc">(en)vezar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">envoisier</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="es">(en)vezar</form>
+      ,
+
+      <form lang="pt">vezar</form>
+      .
+
+    </cognates>
+     Die Grundbedeutung ist „eine (schlechte) Gewohnheit (= 
+    <etymon lang="Lat">vitium</etymon>
+    ) annehmen“, dann „angewöhnen“ it. rum. alb. sp. pt. oc. vgl. 
+    <reference type="bibliographic">Rom. Forsch. XII, 734</reference>
+    ), dann „an die Schrift gewöhnen“ = „lehren“ od. „lernen“. Andere im Rom. vertretene Bedeutungsentwicklungen („liebkosen‘ ...) 
+    <!-- Assuming pe. pv. -> pt, oc -->
+    
+  </etymology>
+  
+</entry>

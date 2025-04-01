@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="806">
+  
+  <lemma>încălț</lemma>
+  
+  <!-- Assuming încălţ -> încălț -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. încălțu?, ir. încălț?]</variants>
+  
+  <!-- Interpretation needed for ncaltsu -> încălțu?, änkots -> încălț? -->
+  
+  <definition>„beschuhen“</definition>
+  
+  <etymology source="Dens. H. l. r. 169">
+    
+    <etymon lang="Lat">IN-CALCEO, -ARE</etymon>
+     (Dens. H. l. r. 169 = 
+    <etymon lang="Lat">CALCEO, -ARE</etymon>
+    : 
+    <!-- Assuming ın-CALCIO, -Ar& -> IN-CALCEO, -ARE, carceo, -arE -> CALCEO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="it">calzare</form>
+      ,
+
+      <form lang="it-NAP">calzare?</form>
+      , 
+      <!-- Interpretation needed for kautsare -->
+      
+      <form lang="it-ALA?">calză?</form>
+      , 
+      <!-- Interpretation needed for alatri kautsd -->
+      
+      <form lang="it-TRIE">calçar?</form>
+      , 
+      <!-- Interpretation needed for kalsar -->
+      
+      <form lang="sc-L">calțare</form>
+      , 
+      <!-- Interpretation needed for sard. l. kaltsare -->
+      
+      <form lang="roh-ENG">calțar?</form>
+      , 
+      <!-- Interpretation needed for k'otser -->
+      
+      <form lang="oc">cauçar</form>
+      , 
+      <!-- Interpretation needed for pv. caussar -->
+      
+      <form lang="fr">chausser</form>
+      ,
+
+      <form lang="es">calzar</form>
+      ,
+
+      <form lang="pt">calçar</form>
+       
+      <!-- Assuming calcar -> calçar -->
+      
+    </cognates>
+    ):
+
+    <cognates>
+      
+      <form lang="it">incalzare</form>
+      ,
+
+      <form lang="lij-GEA">encalcar?</form>
+      , 
+      <!-- Interpretation needed for a.-gen. enkalcar -->
+      
+      <form lang="oc">encauçar?</form>
+      , 
+      <!-- Interpretation needed for pv. encaussar -->
+      
+      <form lang="fro">enchausser</form>
+      , 
+      <!-- Interpretation needed for a.-frz. -->
+      
+      <form lang="es-OLD">encalzar</form>
+      , 
+      <!-- Interpretation needed for a.-sp. -->
+      (
+      <form lang="pt-OLD">encalço</form>
+       sb.). 
+      <!-- Assuming a.-pg. -> pt-OLD -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

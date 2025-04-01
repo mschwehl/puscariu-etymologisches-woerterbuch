@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1220">
+  
+  <lemma>om</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =, mgl. om?, ir. (h)om?]</variants>
+  
+  <!-- Interpretation needed for >, vom -> om?, (w)om -> (h)om? -->
+  
+  <definition>„Mensch“</definition>
+  
+  <etymology source="C. d. b. I, LXXVI; Jb. I, 38">
+    
+    <etymon lang="Lat">HOMO</etymon>
+    : 
+    <!-- Assuming <nömo -> HOMO -->
+    
+    <cognates>
+      
+      <form lang="it">uomo</form>
+      , 
+      <!-- Assuming womo -> uomo -->
+      
+      <form lang="lmo-MIL">om</form>
+      , 
+      <form lang="fur">om</form>
+      , 
+      <form lang="roh-ENG">om</form>
+      , 
+      <form lang="oc">om</form>
+      , 
+      <!-- Assuming mail. frl. eng. pv. -> lmo-MIL, fur, roh-ENG, oc -->
+      
+      <form lang="fr">on</form>
+      
+    </cognates>
+     (
+    <etymon lang="Lat">HOMINEM</etymon>
+    : 
+    <form lang="fr">homme</form>
+    , 
+    <form lang="es">hombre</form>
+    , 
+    <form lang="pt">homem</form>
+    ). 
+    <!-- Assuming îrz. -> fr -->
+     Die Mehrzahl 
+    <form>oameni</form>
+     [ar. 
+    <form lang="ro-AR">oameni?</form>
+    , mgl. 
+    <form lang="ro-MG">oameni?</form>
+    , ir. 
+    <form lang="ro-IR">oameni?</form>
+    ] geht auf 
+    <etymon lang="Lat">HOMINES</etymon>
+     zurück: 
+    <!-- Interpretation needed for vamin -> oameni?, gamint -> oameni?, omir -> oameni?, Hönises -> HOMINES -->
+    
+    <cognates>
+      
+      <form lang="it">uomini</form>
+      ,
+
+      <form lang="lmo-MIL">òmen?</form>
+      , 
+      <!-- Interpretation needed for omen -->
+      
+      <form lang="it-EMIL">òmen?</form>
+      , 
+      <!-- Interpretation needed for oman -->
+      
+      <form lang="fur">òmin?</form>
+      , 
+      <!-- Interpretation needed for umin -->
+      
+      <form lang="roh-ENG">òmens?</form>
+      , 
+      <!-- Interpretation needed for wnaens -->
+      
+      <form lang="oc">ome</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">hommes</form>
+      ,
+
+      <form lang="es">hombres</form>
+      ,
+
+      <form lang="pt">homens</form>
+      .
+
+    </cognates>
+     — Der Sinn „man“ (= 
+    <form lang="fr">on</form>
+     etc.) ist dem Rum. unbekannt, dagegen bedeutet 
+    <form>om</form>
+     [ir. 
+    <form lang="ro-IR">om</form>
+     
+    <source_ref>Jb. I, 38</source_ref>
+    ], wie 
+    <form lang="fr">homme</form>
+    , auch „Mann“ (als Gegensatz zu „Frau“). — Das Olym.-wal. bildet zu 
+    <form>om</form>
+     ein Fem. 
+    <form lang="ro-OLY?">oamnă?</form>
+     „altes Weib“, in pejorativer Verwendung. — Wie alb. 
+    <form lang="sq">njeri?</form>
+     (Dimin. zu 
+    <form lang="sq">njeri?</form>
+     „Mann, Mensch‘) „Gaumenzäpfchen“, bildet der Rum. das Dimin. 
+    <form>omușor</form>
+    , 
+    <form>omșor?</form>
+    , 
+    <source_ref>C. d. b. I, LXXVI</source_ref>
+     [ar. 
+    <form lang="ro-AR">omul mic?</form>
+    ] „dasselbe“. 
+    <!-- Interpretation needed for odmä -> oamnă?, feri -> njeri?, fer -> njeri?, omwsgör -> omușor, unșor -> omșor?, omlu mic -> omul mic? -->
+    
+  </etymology>
+  
+</entry>

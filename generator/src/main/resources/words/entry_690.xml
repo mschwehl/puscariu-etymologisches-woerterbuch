@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="690">
+  
+  <prefix>+</prefix>
+  
+  <lemma>fust</lemma>
+  
+  <plural>fuști</plural>
+  
+  <!-- Assuming fusti -> fuști -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. fuste „Prügel“, mgl. fustă Pl.]</variants>
+  
+  <definition>„Stock“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FUSTIS, -EM?</etymon>
+    : 
+    <!-- Assuming rüstıs, «eu -> FUSTIS, -EM? -->
+    
+    <cognates>
+      
+      <form lang="it">fusto</form>
+      ,
+
+      <form lang="sc-L">fuste</form>
+      , 
+      <!-- Assuming sard. l. -> sc-L -->
+      
+      <form lang="sc-C">fusti</form>
+      , 
+      <!-- Assuming sard. e. -> sc-C -->
+      
+      <form lang="roh-OBW">fust?</form>
+      , 
+      <!-- Assuming fist -> fust? -->
+      
+      <form lang="oc">fust</form>
+      , 
+      <!-- Assuming pv. Fust -> fust -->
+      
+      <form lang="fr">fût</form>
+      , 
+      <!-- Assuming füt -> fût -->
+      
+      <form lang="ca">fust</form>
+      ,
+
+      <form lang="pt">fusta</form>
+      . 
+      <!-- Assuming pe. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. băț?].</variants>
+  
+  <!-- Interpretation needed for bafl -> băț? -->
+  
+</entry>

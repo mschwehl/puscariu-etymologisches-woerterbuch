@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="814">
+  
+  <prefix>II</prefix>
+  
+  <lemma>încetez</lemma>
+  
+  <!-- Assuming încet -> încetez -->
+  
+  <lemma_variants>(încetaz?)</lemma_variants>
+  
+  <!-- Assuming incetöz -> încetaz? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„aufhören“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*QUIETO, -ARE</etymon>
+     (vom vorigen): 
+    <!-- Assuming *quäro -> *QUIETO -->
+    
+    <cognates>
+      
+      <form lang="sq">qetoj?</form>
+       „beruhige“, 
+      <!-- Interpretation needed for k’et -->
+      
+      <form lang="it">chetare</form>
+       „beruhigen“,
+
+      <form lang="es">quedar</form>
+       „ruhig lassen“,
+
+      <form lang="pt">quedar</form>
+       „ruhig lassen“.
+
+    </cognates>
+     Der Sinnesübergang des rum. Wortes erklärt sich zunächst aus 
+    <example>înceta vorba</example>
+     — „die Rede leise (= 
+    <form>încet</form>
+    ) werden lassen‘ — „aufhören zu reden“ (= 
+    <form lang="sq">qetem?</form>
+    ) — „aufhören“. 
+    <!-- Interpretation needed for k’etem -->
+    
+  </etymology>
+  
+  <variants>[ar. păfsescu?].</variants>
+  
+  <!-- Interpretation needed for päfsescu -->
+  
+</entry>

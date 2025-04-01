@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="643">
+  
+  <lemma>frăsinet</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. frăpsinet?]</variants>
+  
+  <!-- Interpretation needed for fräpsinet -->
+  
+  <definition>„Eschengehölz“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FRAXINETUM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">frassineto</form>
+      ,
+
+      <form lang="fr">frênaie</form>
+      , 
+      <!-- Assuming frenaie -> frênaie -->
+      
+      <form lang="es">fresneda</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

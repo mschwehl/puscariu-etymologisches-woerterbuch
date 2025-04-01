@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="999">
+  
+  <lemma>luni</lemma>
+  
+  <!-- Assuming fani -> luni -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming si. -> sf. -->
+  
+  <variants>[ar. =, ir. luni?]</variants>
+  
+  <!-- Interpretation needed for Zur -> luni? -->
+  
+  <definition>„Montag“</definition>
+  
+  <etymology source="Dens. H. l. r. 504; Grundriß, I², 612">
+    
+    <etymon lang="Lat">LUNIS (DIES)</etymon>
+     (Dens. H. l. r. 504 statt 
+    <etymon lang="Lat">LUNAE (DIES)</etymon>
+     nach 
+    <etymon lang="Lat">MARTIS</etymon>
+     etc. 
+    <!-- Assuming rinis -> LUNIS, marrıs -> MARTIS -->
+    
+    <cognates>
+      
+      <form lang="it-CAL">lune?</form>
+      , 
+      <!-- Interpretation needed for cal. lune -->
+      
+      <form lang="vec-TRI">luni</form>
+      , 
+      <!-- Assuming triest. -> vec-TRI -->
+      
+      <form lang="it">lunedì</form>
+      ,
+
+      <form lang="fr">lundi</form>
+      ,
+
+      <form lang="oc">diluns?</form>
+      ): 
+      <!-- Interpretation needed for pv. dibun -> diluns? -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="fur">lunis</form>
+      , (weitere rtr. Formen in Grundriß, I², 612),
+
+      <form lang="fro">diluns</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="es">lunes</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

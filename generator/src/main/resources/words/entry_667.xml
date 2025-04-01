@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="667">
+  
+  <prefix>II</prefix>
+  
+  <lemma>fulger</lemma>
+  
+  <!-- Assuming fülger -> fulger -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. sfuldzir?]</variants>
+  
+  <!-- Interpretation needed for sfuldzir -->
+  
+  <definition>„blitzen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FULGERO, -ARE</etymon>
+     (= 
+    <etymon lang="Lat">FULGURO</etymon>
+    : 
+    <!-- Assuming PuLaURo -> FULGURO -->
+    
+    <cognates>
+      
+      <form lang="it">fulgorare</form>
+      
+    </cognates>
+    ). Vgl. das vorige. Wegen der s-Prosthese in ar. 
+    <form lang="ro-AR">sfuldzir?</form>
+     vgl. 
+    <form lang="fro">esfoudre</form>
+     
+    <!-- Assuming a.-frz. -> fro -->
+     und die zitierten Formen aus it. Dialekten.
+
+  </etymology>
+  
+  <variants>[mgl. streliște?, trăscolește? „es blitzt“].</variants>
+  
+  <!-- Interpretation needed for strebistă, triscutesti -->
+  
+</entry>

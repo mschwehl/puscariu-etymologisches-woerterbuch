@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1205">
+  
+  <prefix>III</prefix>
+  
+  <prefix_note>+</prefix_note>
+  
+  <lemma>număr</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>
+    „nennen (
+    <source_ref>Cod. Vor. 5%,</source_ref>
+    )\"
+  </definition>
+  
+  <variants>
+    [ar. numer?; 
+    <example lang="ro-AR">cum se numeără?</example>
+     —= wie heißt er?]
+  </variants>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NOMINO, -ARE</etymon>
+    : 
+    <!-- Assuming xöulso -> NOMINO -->
+    
+    <cognates>
+      
+      <form lang="it-LCC?">?</form>
+      , 
+      <!-- Interpretation needed for levent. nord-sard. lină -->
+      
+      <form lang="oc">nomnar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">nommer</form>
+      ,
+
+      <form lang="ca-OLD">nomenar</form>
+      , 
+      <!-- Assuming a.-cat. -> ca-OLD -->
+      
+      <form lang="es">nombrar</form>
+      ,
+
+      <form lang="pt">nomear?</form>
+      , 
+      <!-- Interpretation needed for noninar -->
+      (vgl. 
+      <form lang="it">nomìa?</form>
+       „fama alquanto spregevole"), 
+      <!-- Interpretation needed for nomta -->
+      
+      <form lang="pms-VS">nonià?</form>
+      , 
+      <form lang="pms-VS">numidà?</form>
+       „Beiname“, 
+      <!-- Interpretation needed for valses. noniida, lumida -->
+      
+      <form lang="lmo-COM">numerada?</form>
+       „Beiname‘, 
+      <!-- Interpretation needed for com. numerada -->
+      
+      <form lang="sc">luminada?</form>
+       „fama“. 
+      <!-- Interpretation needed for sard. luninada -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="903">
+  
+  <prefix>+</prefix>
+  
+  <lemma>învitez?</lemma>
+  
+  <!-- Assuming îavit -> învitez? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage_note>
+    (
+    <source_ref>Dos. Viaţa sf. 29b/,, etc.</source_ref>
+    )
+  </usage_note>
+  
+  <definition>„rufen, herausfordern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">INVITO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">invitare</form>
+      ,
+
+      <form lang="it-EMIL">invidar</form>
+      , 
+      <!-- Assuming emil. -> it-EMIL -->
+      
+      <form lang="it-LCC?">invidà?</form>
+      , 
+      <!-- Interpretation needed for leent. învi6 -->
+      
+      <form lang="lmo">invidà?</form>
+      , 
+      <!-- Interpretation needed for lomb. invidd -->
+      
+      <form lang="sc-C">imbidai?</form>
+      , 
+      <!-- Interpretation needed for sard. e. imbidai -->
+      
+      <form lang="oc">envidar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">envidar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">envidar</form>
+      ,
+
+      <form lang="pt">envidar</form>
+      . 
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. aclem?].</variants>
+  
+  <!-- Interpretation needed for aclem -->
+  
+</entry>

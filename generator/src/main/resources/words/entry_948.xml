@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="948">
+  
+  <lemma>lățesc?</lemma>
+  
+  <!-- Assuming Tätese -> lățesc? -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„breit machen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LATESCO, -ERE?</etymon>
+     (= 
+    <etymon lang="Lat">-ERE</etymon>
+    ). 
+    <!-- Assuming *-IRE, (= -ERB) -> -ERE?, (= -ERE) -->
+    
+  </etymology>
+  
+</entry>

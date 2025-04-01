@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="768">
+  
+  <lemma>iernez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. iernez?]</variants>
+  
+  <!-- Interpretation needed for arnedz(#) -->
+  
+  <definition>„überwintern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">HIBERNO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">invernare</form>
+      , 
+      <!-- Assuming jt. -> it -->
+      
+      <form lang="oc">ivernar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">ivernar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="fr">hiverner</form>
+      , 
+      <!-- Assuming îrz. -> fr -->
+      
+      <form lang="es">invernar</form>
+      ,
+
+      <form lang="pt">invernar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

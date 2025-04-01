@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1269">
+  
+  <lemma>părîng?</lemma>
+  
+  <!-- Assuming pärine -> părîng? -->
+  
+  <lemma_variants>
+    (părîng? 
+    <source_ref>Jb. IX, 228</source_ref>
+    )
+  </lemma_variants>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Hirseart“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PANICUM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">panico</form>
+      ,
+
+      <form lang="lmo-MIL">panìch?</form>
+      , 
+      <!-- Interpretation needed for panig -->
+      
+      <form lang="fur">panì?</form>
+      . 
+      <!-- Interpretation needed for îl. pani -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <reference type="see">
+    Vgl. 
+    <targetLemma>păinichel?</targetLemma>
+    .
+  </reference>
+  
+  <!-- Assuming păinichiii -> păinichel? -->
+  
+  <variants>[ar. arov?].</variants>
+  
+  <!-- Interpretation needed for arov -->
+  
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1270">
+  
+  <lemma>pîrîngă</lemma>
+  
+  <!-- Assuming päringä -> pîrîngă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Stange“</definition>
+  
+  <usage_note>(Conv. lit. XX, 1014)</usage_note>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PHALANGA, -AM</etymon>
+     (nb. 
+    <etymon lang="Lat">PALANCA</etymon>
+     (
+    <etymon lang="el">φάλαγξ, φάλαγγα</etymon>
+    )): 
+    <!-- Assuming p[Hu]aLanGa -> PHALANGA -->
+    
+    <cognates>
+      
+      <form lang="it">palanca</form>
+      , 
+      <form lang="es">palanca</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

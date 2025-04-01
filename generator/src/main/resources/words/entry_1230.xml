@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1230">
+  
+  <lemma>ospăț</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. uspăț? auch „Besuch“]</variants>
+  
+  <!-- Interpretation needed for uspâts -->
+  
+  <definition>„Gastmahl“</definition>
+   
+  <!-- Assuming Gastmal -> Gastmahl -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">HOSPITIUM</etymon>
+    . 
+    <!-- Assuming nög-PITIUM -> HOSPITIUM -->
+     Im Rom. ist es nur als Buchwort vorhanden.
+
+  </etymology>
+  
+</entry>

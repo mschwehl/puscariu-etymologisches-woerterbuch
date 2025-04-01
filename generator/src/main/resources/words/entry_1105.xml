@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1105">
+  
+  <lemma>moi</lemma>
+  
+  <lemma_variants>(înmoi?)</lemma_variants>
+  
+  <!-- Interpretation needed for inmorü -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. moi?, mgl. înmoi?]</variants>
+  
+  <!-- Interpretation needed for mol, ammols -> înmoi? -->
+  
+  <definition>„einweichen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*MOLLIO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">MOLLIS</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="sq">multh?</form>
+       (aor. &lt; 
+      <etymon lang="sq">*mulon?</etymon>
+      ), 
+      <!-- Interpretation needed for mulva -->
+      
+      <form lang="vec">mogiar?</form>
+      , 
+      <!-- Interpretation needed for ven. modzar -->
+      
+      <form lang="oc">molhar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">mouiller</form>
+      ,
+
+      <form lang="ca">mullar</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">mojar</form>
+      ,
+
+      <form lang="pt">molhar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="918">
+  
+  <lemma>jugastru</lemma>
+  
+  <!-- Assuming jugaästru -> jugastru -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. giugastru?, mgl. jugastru?]</variants>
+  
+  <!-- Interpretation needed for d£ugastru -> giugastru?, Zugastru -> jugastru? -->
+  
+  <definition>„Maßholder“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. II, § 560">
+    
+    <etymon lang="Lat">*IUGASTER, -TRUM?</etymon>
+     (
+    <etymon lang="grc-CER?">jugia?</etymon>
+    ). 
+    <!-- Assuming FJUGASTER, «ru -> *IUGASTER, -TRUM?, Cer. {uyia -> grc-CER? jugia? -->
+    
+    <reference type="bibliographic">Meyer-Lübke: Rom. Gramm. II, § 560.</reference>
+    
+  </etymology>
+  
+</entry>

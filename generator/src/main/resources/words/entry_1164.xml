@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1164">
+  
+  <lemma>negoț</lemma>
+  
+  <!-- Assuming negöt -> negoț -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Handel“</definition>
+  
+  <etymology source="Hugo Schuchardt an A. Mussafia, Graz, 1905, S. 34-35">
+    
+    <etymon lang="Lat">NEGOTIUM</etymon>
+    . 
+    <!-- Assuming nwucörıum -> NEGOTIUM -->
+     Reste dieses Wortes im Rom. führt Schuchardt an (
+    <reference type="bibliographic">Hugo Schuchardt an A. Mussafia, Graz, 1905, S. 34—35</reference>
+    ).
+
+  </etymology>
+  
+  <variants>[ar. emborie?].</variants>
+  
+  <!-- Interpretation needed for emboriă -->
+  
+</entry>

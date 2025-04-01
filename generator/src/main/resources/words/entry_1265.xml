@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1265">
+  
+  <lemma>părat</lemma>
+  
+  <usage_note>(Psalt. Sch.)</usage_note>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. = W.]</variants>
+  
+  <!-- Assuming » -> = -->
+  
+  <definition>„Gaumen“</definition>
+  
+  <etymology source="Ps. Sch. 136, 6; Lork: Altberg. Sprachdenkmiler, S. 168; Zauner, Körperteile 396">
+    zeigt dieselbe Volksetymologie wie 
+    <form lang="fr">palais</form>
+     &lt; 
+    <etymon lang="Lat">PALATIUM</etymon>
+     „Palast“ für 
+    <etymon lang="Lat">PALATUM</etymon>
+     „Gaumen“ (
+    <form lang="sc">palau</form>
+    , 
+    <form lang="ca">palau</form>
+    , vgl. 
+    <form lang="es">paladar</form>
+    , 
+    <form lang="pt">padar</form>
+     „Gaumen“). 
+    <!-- Assuming rararıun -> PALATIUM, sard. cat. -> sc, ca -->
+     Im D-rum. ist die Volksetymologie um einen Schritt weiter gegangen und das „Zäpfchen‘ heißt, — neben 
+    <form>părătariș?</form>
+     sm. (= 
+    <etymon lang="Lat">*PALATUM?</etymon>
+    , in 
+    <source_ref>Ps. Sch. 136, 6</source_ref>
+    : 
+    <form lang="ro-OLD">pînă?</form>
+     &lt; 
+    <etymon lang="Lat">PALATUM?</etymon>
+     + 
+    <suffix>-uș?</suffix>
+    , eigtl. „der kleine Gaumen‘), 
+    <!-- Interpretation needed for pärätis -> părătariș?, pündt -> pînă?, -ug -> -uș? -->
+     — auch 
+    <form>împărătuș?</form>
+    , gleichsam „der kleine Kaiser (im Palast)“. 
+    <!-- Interpretation needed for împărătiiș -> împărătuș? -->
+     Ähnlich ist es, wenn der „Gaumen“ die „Himmelsdecke des Mundes“, vgl. 
+    <form>cer</form>
+    , und das „Zäpfchen“ in nord-it. Mundarten „der kleine Mond“ (
+    <form lang="lmo-BER">lönela?</form>
+    , 
+    <form lang="it-BRE?">lünela?</form>
+    , 
+    <form lang="it-CREM">lünela?</form>
+    , 
+    <form lang="it-PAR?">lünela?</form>
+    , 
+    <form lang="it-PIA?">lünetta?</form>
+    , 
+    <reference type="bibliographic">Lork: Altberg. Sprachdenkmäler, S. 168; Zauner, Körperteile 396</reference>
+    ) genannt wird. 
+    <!-- Interpretation needed for berg. lönela, brese. crem. parn. lünela, piac. lünetta -->
+    
+  </etymology>
+  
+</entry>

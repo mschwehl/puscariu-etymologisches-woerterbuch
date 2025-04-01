@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="644">
+  
+  <lemma>frate</lemma>
+  
+  <!-- Assuming fräte -> frate -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =, mgl. frati, ir. frate]</variants>
+  
+  <!-- Assuming > -> =, frote -> frate -->
+  
+  <definition>„Bruder“</definition>
+  
+  <etymology source="C. I. L. III Suppl. 3107; Cihac I, 88">
+    
+    <etymon lang="Lat">FRATER, -TREM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">fra(te)</form>
+      ,
+
+      <form lang="roh-ENG">frer</form>
+      ,
+
+      <form lang="oc">fraire</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">fraire</form>
+      ,
+
+      <form lang="pt">fraire</form>
+      ,
+
+      <form lang="fr">frère</form>
+      , 
+      <!-- Assuming frâre -> frère -->
+      
+      <form lang="ca-N">frare</form>
+      .
+
+    </cognates>
+     — Die Mehrzahl
+
+    <form>frați</form>
+     (frăjini?) 
+    <!-- Interpretation needed for frăjini -->
+     „Geschwister” —
+
+    <etymon lang="Lat">FRATRES</etymon>
+    . Davon abgeleitet, und nicht von
+
+    <etymon lang="Lat">FOEDERATUS</etymon>
+     (Cihac I, 88):
+
+    <form>fîrtat</form>
+     sm. (fîr? 
+    <etymon lang="Lat">*frătat</etymon>
+    ?, 
+    <!-- Interpretation needed for fir -->
+     ar.
+
+    <form lang="ro-AR">fărtat</form>
+    , mgl.
+
+    <form lang="ro-MG">fărtat</form>
+    ,
+
+    <form lang="ro-MG">furtat</form>
+    ?) „Verbrüdeter“, vgl.
+
+    <lang>bg.</lang>
+     
+    <!-- Assuming bla. -> bg.? -->
+    
+    <lang>sr.</lang>
+     po-brat-im,
+
+    <lang>sq.</lang>
+     vëllam?. 
+    <!-- Assuming vet-am -> vëllam? -->
+    
+  </etymology>
+  
+</entry>

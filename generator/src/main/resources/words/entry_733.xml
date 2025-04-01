@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="733">
+   
+  <!-- Assuming 133 -> 733 -->
+  
+  <lemma>grec</lemma>
+  
+  <feminine_neuter>greacă</feminine_neuter>
+  
+  <!-- Assuming gredcă -> greacă -->
+  
+  <pos>sb. u. adj.</pos>
+  
+  <variants>[ar. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„Grieche; griechisch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GRAECUS, -A, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="vec">griego</form>
+      ,
+
+      <form lang="lmo-OLD">greo</form>
+      , 
+      <!-- Assuming a.-lomb. -> lmo-OLD -->
+      
+      <form lang="it-LEC">riecu</form>
+      ,
+
+      <form lang="it-SIC">recu</form>
+      ,
+
+      <form lang="oc">grieu</form>
+      , 
+      <!-- Assuming pr. -> oc -->
+      
+      <form lang="fro">grieu</form>
+      , 
+      <!-- Assuming a.-Îrz. -> fro -->
+      
+      <form lang="es">griego</form>
+      ,
+
+      <form lang="pt">grego</form>
+      , vgl.
+
+      <form lang="sc">pizarega?</form>
+       „pece greca“. 
+      <!-- Interpretation needed for pizarega -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

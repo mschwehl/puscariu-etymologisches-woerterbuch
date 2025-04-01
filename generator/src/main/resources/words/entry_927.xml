@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="927">
+  
+  <prefix>II</prefix>
+  
+  <lemma>jur</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[mgl. jur?]</variants>
+  
+  <!-- Interpretation needed for Zur -->
+  
+  <definition>„rings“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GYRUS</etymon>
+    : 
+    <!-- Assuming eykus -> GYRUS -->
+    
+    <cognates>
+      
+      <form lang="it">giro</form>
+      , 
+      <form lang="es">giro</form>
+      , 
+      <form lang="pt">giro</form>
+      ,
+
+      <form lang="oc">gir</form>
+      . 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. (dînvîrligă?)].</variants>
+  
+  <!-- Interpretation needed for (divarligalui) -> (dînvîrligă?) -->
+  
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1297">
+  
+  <prefix>+</prefix>
+  
+  <lemma>pedestru</lemma>
+  
+  <feminine_neuter>-eaștră?</feminine_neuter>
+  
+  <!-- Assuming -edstră -> -eaștră? -->
+  
+  <pos>adj. adv.</pos>
+  
+  <definition>„zu Fuß“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PEDESTER, -ESTREM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="fro">peestre</form>
+      , 
+      <!-- Assuming a.-irz. -> fro -->
+      
+      <form lang="fr">piètre</form>
+       „armselig“. 
+      <!-- Assuming n.-frz. pietre -> piètre -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. pri pade?].</variants>
+  
+  <!-- Interpretation needed for pri pade -->
+  
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="861">
+  
+  <prefix>II</prefix>
+  
+  <lemma>îngustez?</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. îngustu?, îngustedz?]</variants>
+  
+  <definition>„verengen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ANGUSTO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">ngushtoj?</form>
+      ,
+vgl. 
+      <form lang="es">ensangostar</form>
+       (&lt; 
+      <etymon lang="Lat">*EX-ANGUSTARE</etymon>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

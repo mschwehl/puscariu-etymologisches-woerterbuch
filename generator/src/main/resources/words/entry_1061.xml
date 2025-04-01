@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1061">
+  
+  <lemma>mes</lemma>
+  
+  <scope>ar.</scope>
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. =]</variants>
+  
+  <definition>„Monat“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MENSIS, -EM</etymon>
+    : 
+    <!-- Assuming ue|n]srs -> MENSIS -->
+    
+    <cognates>
+      
+      <form lang="it">mese</form>
+      ,
+
+      <form lang="oc">mes</form>
+      , 
+      <form lang="es">mes</form>
+      , 
+      <!-- Assuming pv. sp. -> oc, es -->
+      
+      <form lang="fr">mois</form>
+      ,
+
+      <form lang="pt">mês</form>
+      . 
+      <!-- Assuming mez -> mês -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

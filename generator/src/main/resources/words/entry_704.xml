@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="704">
+  
+  <lemma>geamăn</lemma>
+  
+  <!-- Assuming gemen -> geamăn -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <!-- Assuming -@ -> -ă -->
+  
+  <pos>sb. adj.</pos>
+  
+  <variants>[ar. dzeamin]</variants>
+  
+  <definition>„Zwilling“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GEMINUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming < cunisus -> GEMINUS -->
+    
+    <cognates>
+      
+      <form lang="it">gemino</form>
+      ,
+
+      <form lang="it-SIC">jemmalu?</form>
+      , 
+      <!-- Interpretation needed for jemmalu -->
+      
+      <form lang="it-MOD">zemna?</form>
+      , 
+      <!-- Interpretation needed for zemna -->
+      
+      <form lang="it-BOL">giamma?</form>
+      , 
+      <!-- Interpretation needed for diamma -->
+      
+      <form lang="pt">gémeo</form>
+      . 
+      <!-- Assuming pe. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

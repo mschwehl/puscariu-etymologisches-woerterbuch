@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="987">
+   
+  <!-- Assuming Tnceäfär -> 987? -->
+  
+  <lemma>Luceafăr</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. Luceafire?]</variants>
+  
+  <!-- Interpretation needed for luiseafir(e) -->
+  
+  <definition>„Morgenstern‘</definition>
+   
+  <!-- Assuming Alorgenstern -> Morgenstern -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUCIFER, -ERUM</etymon>
+    : 
+    <!-- Assuming -RUM -->
+    
+    <cognates>
+      
+      <form lang="es">lucero</form>
+      . 
+      <!-- Assuming span. -> es -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

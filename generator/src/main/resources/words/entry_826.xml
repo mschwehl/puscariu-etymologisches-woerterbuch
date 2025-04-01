@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="826">
+  
+  <lemma>înconjur</lemma>
+  
+  <!-- Assuming inetinjur -> înconjur -->
+  
+  <lemma_variants>(înconjor?)</lemma_variants>
+  
+  <!-- Assuming Incunjör -> înconjor? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„umkreisen“</definition>
+  
+  <etymology source="Rönsch: Ital. u. Vulg. 186; C. Gl. V, 334, 40">
+    
+    <etymon lang="Lat">CONGYRO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">gyrus</etymon>
+    ). 
+    <!-- Assuming eyrus -> gyrus -->
+    
+  </etymology>
+  
+  <variants>[mgl. dafür dîn jur? I vb.].</variants>
+  
+  <!-- Interpretation needed for dinztr -->
+  
+</entry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="914">
+  
+  <lemma>judec</lemma>
+  
+  <!-- Assuming jüdce -> judec -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. giudic? auch „tadle“, mgl. judec?, ir. judec?]</variants>
+  
+  <!-- Interpretation needed for dăudie -> giudic?, Zudie -> judec?, Zudee -> judec? -->
+  
+  <definition>„richten, urteilen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IUDICO, -ARE</etymon>
+    : 
+    <!-- Assuming supico, -arn -> IUDICO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="sq">gjykoj</form>
+      , 
+      <!-- Interpretation needed for Jukon -->
+      
+      <form lang="it">giudicare</form>
+      ,
+
+      <form lang="vec">giudegar?</form>
+      , 
+      <!-- Interpretation needed for zat-degar -->
+      
+      <form lang="lmo-OLD">giudegar?</form>
+      , 
+      <!-- Interpretation needed for a.-lomb. guegar, gwiar -->
+      
+      <form lang="oc">jutjar</form>
+      , 
+      <!-- Interpretation needed for pv. jutgar -->
+      
+      <form lang="fr">juger</form>
+      ,
+
+      <form lang="es">juzgar</form>
+      ,
+
+      <form lang="pt">julgar</form>
+      . 
+      <!-- Assuming g. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

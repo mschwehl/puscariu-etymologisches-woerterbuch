@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1123">
+  
+  <lemma>mulsoare</lemma>
+  
+  <!-- Assuming nuulsoirei -> mulsoare -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Melken”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MULCTRA, -AM</etymon>
+    . 
+    <!-- Assuming MULSTRA -> MULCTRA -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1058">
+  
+  <lemma>merg</lemma>
+  
+  <principal_parts>mersei (ban. mers?), mers</principal_parts>
+  
+  <!-- Interpretation needed for mer$ -> mers? -->
+  
+  <verb_class>III</verb_class>
+  
+  <lemma_variants>(dial. Inf. mere)</lemma_variants>
+  
+  <variants>[ar. mergu? u. eg?, mersu?, mersu? III, II, mgl. merg?, mers? III, ir. eg?, mes?, mere?]</variants>
+  
+  <!-- Interpretation needed for nergu -> mergu?, Kersu -> mersu?, nersu -> mersu?, mierg -> merg?, eg, mes -->
+  
+  <definition>„gehen</definition>
+  
+  <etymology source="Conv. lit. XXXV. 817">
+    
+    <etymon lang="Lat">MERGO, MERSI, MERSUM, MERGERE</etymon>
+    : 
+    <!-- Assuming X MERGO -> MERGO -->
+    
+    <cognates>
+      
+      <form lang="sq">mërgoj?</form>
+       „entferne“, 
+      <!-- Interpretation needed for mergon -->
+      
+      <form lang="it">mergere</form>
+      . 
+      <!-- Assuming at. -> it -->
+      
+    </cognates>
+     Der Sinnesübergang ist: „tauche unter‘ — „verschwinde = entferne mich“ — „gehe weg“ — „gehe“. Über die Formen ohne g vgl. 
+    <reference type="bibliographic">Conv. lit. XXXV. 817</reference>
+    .
+
+  </etymology>
+  
+</entry>

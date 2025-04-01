@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="840">
+  
+  <lemma>înfășur</lemma>
+  
+  <!-- Assuming Tufäsur -> înfășur -->
+  
+  <lemma_variants>(înfășăr?)</lemma_variants>
+  
+  <!-- Interpretation needed for înfășâr -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„einwickeln“</definition>
+   
+  <!-- Assuming einwiekeln -> einwickeln -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IN-FASCIOLO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">FASCIOLA</etymon>
+    ). 
+    <!-- Assuming *[in-]rascıöro -> *IN-FASCIOLO, Fasciöua -> FASCIOLA -->
+    
+  </etymology>
+  
+  <variants>[ar. înfaș?, mgl. anfaș?].</variants>
+  
+  <!-- Interpretation needed for nfas -> înfaș?, mel. anfas -> mgl. anfaș? -->
+  
+</entry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="744">
+   
+  <!-- Assuming 144 -> 744 -->
+  
+  <lemma>grunz?</lemma>
+  
+  <!-- Assuming grwmiedzu -> grunzu? -->
+  
+  <scope>ar.</scope>
+  
+  <pos>vb.</pos>
+  
+  <verb_class>I</verb_class>
+  
+  <definition>„grunzen“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. I § 19; Densusianu: Romania XXXIII, 79; Zauner: Körperteile, 407">
+    
+    <etymon lang="Lat">*GRUNNIO, -ARE</etymon>
+     (statt 
+    <etymon lang="Lat">GRUNNIRE</etymon>
+    , die sabellische Form des lat. 
+    <etymon lang="Lat">GRUNDIRE?</etymon>
+     vgl. Meyer-Lübke: Rom. Gramm. I § 19): 
+    <!-- Assuming -Arn -> -ARE, Gruxpırz -> GRUNDIRE? -->
+    
+    <cognates>
+      
+      <form lang="it">grugnare</form>
+      ,
+
+      <form lang="roh-ENG">grunir?</form>
+      . 
+      <!-- Interpretation needed for gruner -->
+      
+    </cognates>
+    
+    <reference type="bibliographic">Densusianu: Romania XXXIII, 79.</reference>
+     Dazu gehört wohl auch ar. 
+    <form lang="ro-AR">grui?</form>
+    , sm. „Kinn“ = 
+    <form lang="roh-UEG">grüon?</form>
+     „Kinn“, die, wie 
+    <form lang="it-LAN?">musse?</form>
+     „Kinn“, ursprünglich „Schnauze, Maul“ geheißen haben mögen. 
+    <!-- Interpretation needed for gri -> grui?, u.-eng. gruon -> roh-UEG grüon?, lanc. musse -> it-LAN? musse? -->
+     Vgl. Zauner: Körperteile, 407. Allerdings kann ar. 
+    <form lang="ro-AR">grui?</form>
+     auch mit daco-rum. 
+    <form>grui</form>
+     „Hügel“ identisch sein. 
+    <!-- Interpretation needed for grüäAü -> grui?, gruiß -> grui -->
+    
+  </etymology>
+  
+</entry>

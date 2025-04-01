@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="922">
+  
+  <lemma>junghietură?</lemma>
+  
+  <!-- Assuming junghetürä -> junghietură? -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Genick“</definition>
+  
+  <etymology source="C. Gl. l. II, 98, 5; Meyer-Lübke: Wiener Studien XXV, 101">
+    
+    <etymon lang="Lat">*IUGULATURA, -AM</etymon>
+     ((
+    <etymon lang="Lat">IUGULUM</etymon>
+     + 
+    <etymon lang="Lat">iunctura?</etymon>
+    ; vgl. 
+    <etymon lang="Lat">IUGULA?</etymon>
+    : 
+    <!-- Assuming JUNGLA -> IUGULA?, aunerüra -> iunctura? -->
+    
+    <cognates>
+      
+      <form lang="la-SEV?">iugulum?</form>
+       
+      <source_ref>C. Gl. l. II, 98, 5</source_ref>
+       
+      <!-- Interpretation needed for rue Sevarızei -->
+      
+    </cognates>
+     &lt; 
+    <etymon lang="Lat">IUGULUM</etymon>
+     + 
+    <etymon lang="Lat">IUNGERE</etymon>
+    , vgl. 
+    <form lang="it-MAN">dzongolo?</form>
+    , „Riemen am Dreschflegel“, 
+    <form lang="fr-POI?">jouelle?</form>
+    , 
+    <!-- Interpretation needed for mant. dzongolo, Hügel -> flegel, poitev. git -> jouelle? -->
+     vgl. Meyer-Lübke: Wiener Studien XXV, 101):
+
+    <cognates>
+      
+      <form lang="it-LAN?">giuntura?</form>
+      . 
+      <!-- Interpretation needed for lanc, jugneture -> giuntura? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

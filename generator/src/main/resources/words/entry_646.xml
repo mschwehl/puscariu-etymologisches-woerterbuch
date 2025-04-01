@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="646">
+  
+  <prefix>II</prefix>
+   
+  <!-- Assuming '1I' is a typo for II -->
+  
+  <lemma>freămăt</lemma>
+   
+  <!-- Assuming fredmät -> freămăt -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„rauschen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FREMITO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">FREMITUS</etymon>
+    ).
+
+    <!-- Assuming * pREMITO -> *FREMITO -->
+    
+  </etymology>
+  
+  <variants>[ar. văzescu?].</variants>
+  
+  <!-- Interpretation needed for văzescu -->
+  
+</entry>

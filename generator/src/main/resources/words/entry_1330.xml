@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1330">
+  
+  <lemma>plăcintă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[mgl. plățintă?]</variants>
+  
+  <!-- Interpretation needed for plătsintă -->
+  
+  <definition>„Mehlspeise“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PLACENTA, -AM</etymon>
+    . Aus dem Rum. stammt 
+    <form lang="uk">плацинда?</form>
+    , 
+    <form lang="hu">palacsinta</form>
+    , vgl. österr. 
+    <form lang="de-AT">Palatschinken</form>
+    . 
+    <!-- Interpretation needed for klruss. patacyuta -> плацинда? -->
+    
+  </etymology>
+  
+  <variants>[ar. pită].</variants>
+  
+</entry>

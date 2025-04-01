@@ -16,3 +16,6 @@ Buch durchsuchbar bereitzustellen
 
 # How to run
 node server.js
+
+# result in net
+https://mschwehl.github.io/puscariu-etymologisches-woerterbuch/

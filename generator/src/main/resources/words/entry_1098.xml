@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1098">
+  
+  <lemma>misină</lemma>
+  
+  <!-- Assuming misind -> misină -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Gewimmel, große Menge“</definition>
+  
+  <usage_note>(J. Adam: Rătăcire 227, Sybaris 191)</usage_note>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVII, 742f.; Delavrancea: Între vis şi viaţă 166; Conv. lit. XXXIX, 323-324">
+    steht für 
+    <form>*misiună?</form>
+     mit dem 
+    <reference type="bibliographic">Zeitschr. rom. Phil. XXVII, 742f.</reference>
+     besprochenem Suffixwechsel, &lt; 
+    <etymon lang="Lat">MISTIO, -ONEM</etymon>
+    . Davon abgeleitet: 
+    <form>mişun</form>
+     I vb. „wimmeln“, auch 
+    <form>mişuiesc?</form>
+     I vb. (nach 
+    <form>îngreun = îngreuiez?</form>
+    ) 
+    <source_ref>Delavrancea: Între vis şi viaţă 166</source_ref>
+    , davon wieder 
+    <form>mușuroi</form>
+     (
+    <form>mușunoi?</form>
+    , 
+    <form>mușuroit?</form>
+    ) sm. [ar. 
+    <form lang="ro-AR">măsuronu?</form>
+    , 
+    <form lang="ro-AR">măsuroru?</form>
+    , 
+    <form lang="ro-AR">musuronu?</form>
+    , 
+    <form lang="ro-AR">sumuronu?</form>
+    ] „Ameisenhaufen, Maulwurfhaufen“ (im Ar. auch „Maulwurf”). 
+    <reference type="bibliographic">Conv. lit. XXXIX, 323-324.</reference>
+     
+    <!-- Interpretation needed for misuis -> mișuiesc?, îngrewifez) -> îngreuiez?, mușindiii -> mușuroi?, mușundiii -> mușunoi?, muguroit -> mușuroit?, mäsironn -> măsuronu?, măsăroriu -> măsuroru?, musuronu, Sumuronu -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="883">
+  
+  <lemma>întîi</lemma>
+  
+  <!-- Assuming Hattti -> întîi -->
+  
+  <feminine_neuter>-îie</feminine_neuter>
+  
+  <pos>num.</pos>
+  
+  <variants>[ar. întîiu?]</variants>
+  
+  <!-- Interpretation needed for ntinu -> întîiu? -->
+  
+  <definition>„der erste“</definition>
+  
+  <etymology source="O. Densusianu: Rom. XXX, 113">
+    
+    <etymon lang="Lat">*ANTANEUS, -A, -UM</etymon>
+    , Wie 
+    <etymon lang="Lat">*DERETRANUS, -A, -UM</etymon>
+     
+    <!-- Assuming * AxTANRUS -> *ANTANEUS -->
+    
+    <cognates>
+      
+      <form lang="it">deretano</form>
+      ,
+
+      <form lang="vec-VER">dreàn?</form>
+      , 
+      <!-- Interpretation needed for a.-ver. drean -->
+      
+      <form lang="it-TRIE">dreàn, -a?</form>
+      , 
+      <!-- Interpretation needed for drean -->
+      
+      <form lang="fro">derrain</form>
+       
+      <!-- Assuming a.-frz. -> fro -->
+       (woraus 
+      <form lang="fr">dernier</form>
+      , nach 
+      <form lang="fr">premier</form>
+      ) „letzter“
+
+    </cognates>
+     aus 
+    <etymon lang="Lat">DE RETRO</etymon>
+     „zurück, rückwärts”, so ist 
+    <etymon lang="Lat">*ANTANEUS</etymon>
+     aus 
+    <etymon lang="Lat">ANTE</etymon>
+     „vor, vorne“ gebildet und hat den entgegengesetzten Sinn: „erster“ bekommen. Einen illyrischen Einfluß, mit O. Densusianu: Rom. XXX, 113 anzunehmen, weil im alb. 
+    <form lang="sq">parë</form>
+     „erster“ und 
+    <form lang="sq">para</form>
+     „vorne“ bedeutet, ist nicht notwendig.
+
+  </etymology>
+  
+  <variants>[mgl. pisim?].</variants>
+  
+  <!-- Interpretation needed for pisim -->
+  
+</entry>

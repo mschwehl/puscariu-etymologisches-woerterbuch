@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="920">
+  
+  <lemma>junca</lemma>
+  
+  <!-- Assuming jüneä -> junca -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„junge Kuh“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IUVENCA, -AM</etymon>
+    : 
+    <!-- Assuming givănca -> IUVENCA -->
+    
+    <cognates>
+      
+      <form lang="it">giovenca</form>
+      ,
+
+      <form lang="gl">xuvenca?</form>
+      . 
+      <!-- Interpretation needed for Zuvenka -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

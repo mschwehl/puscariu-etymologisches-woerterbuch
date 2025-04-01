@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="812">
+   
+  <!-- Assuming lo -> 812 -->
+  
+  <lemma>încep</lemma>
+  
+  <principal_parts>începui, început</principal_parts>
+  
+  <!-- Assuming ui, -üt -> începui, început -->
+  
+  <verb_class>III</verb_class>
+   
+  <!-- LII -> III -->
+  
+  <pos>vb.</pos>
+  
+  <definition>„anfangen“</definition>
+  
+  <variants>[ar. încep? „anzapfen‘']</variants>
+  
+  <!-- Interpretation needed for nisep -> încep? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">INCIPIO, -ERE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="rm">intschaiver?</form>
+      . 
+      <!-- Interpretation needed for rtr. antăeiver -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1299">
+  
+  <lemma>pescar</lemma>
+  
+  <!-- Assuming pescär -> pescar -->
+  
+  <lemma_variants>(pășcar?)</lemma_variants>
+  
+  <!-- Interpretation needed for päscar -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Fisch(händl)er, auch der Vogel: „gemeiner Eisvogel“</definition>
+   
+  <!-- Assuming Risvogel -> Eisvogel -->
+  
+  <variants>[ar. pescar? „Fischer?“]</variants>
+  
+  <!-- Interpretation needed for piscar -> pescar?, Fischfreih)er -> Fischer? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">PISCARIUS, -UM</etymon>
+    : 
+    <!-- Assuming riscarıus -> PISCARIUS -->
+    
+    <cognates>
+      
+      <form lang="pt">peixeiro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>
+    Im Mgl. die Neubildung 
+    <form lang="ro-MG">piștar?</form>
+    .
+  </usage_note>
+  
+  <!-- Interpretation needed for pistar -->
+  
+</entry>

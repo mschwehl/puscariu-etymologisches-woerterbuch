@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1290">
+  
+  <lemma>pătrund</lemma>
+  
+  <!-- Assuming pdtränd -> pătrund -->
+  
+  <lemma_variants>(pătrunz)</lemma_variants>
+  
+  <principal_parts>-unsei, -uns</principal_parts>
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. pătrundu?, -uns?, -untu? III, II]</variants>
+  
+  <!-- Interpretation needed for pitrundu -> pătrundu?, -umSr -> -uns?, -mtu -> -untu? -->
+  
+  <definition>„durchdringen“</definition>
+  
+  <etymology source="Jb. V, 40">
+    
+    <etymon lang="Lat">PERTUNDO, -TUDI, -TUSUM, -ERE</etymon>
+    : 
+    <!-- Assuming -UDI, -USUM -> -TUDI, -TUSUM -->
+    
+    <cognates>
+      
+      <form lang="sc-L">pertungere</form>
+      , 
+      <form lang="sc-C">pertùngiri?</form>
+       
+      <!-- Interpretation needed for pertundZiri -->
+       (sonst im Rom. durch 
+      <etymon lang="Lat">*PERTUSIARE?</etymon>
+       verdrängt). 
+      <!-- Assuming *perruslt]-ARE -> *PERTUSIARE? -->
+      
+    </cognates>
+     Die ursprüngliche Bedeutung „durchbohren“ bewahrt ar. 
+    <form lang="ro-AR">spritund?</form>
+     
+    <source_ref>Jb. V, 40</source_ref>
+    .
+
+  </etymology>
+  
+</entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1328">
+  
+  <lemma>piuiesc?</lemma>
+  
+  <!-- Assuming piutese -> piuiesc? -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„zwitschern (von Küchlein)*</definition>
+  
+  <etymology>
+    ist dasselbe lautnachahmende Wort wie 
+    <form lang="it">pigolare</form>
+     (aus 
+    <form lang="it">*piolare?</form>
+    , cf. 
+    <form lang="it">pio</form>
+     „voce de pulcini e degli uccelletti nidiaci“), 
+    <form lang="it-LUC?">piulare?</form>
+     „lamentarsi a torto per malcontento“, (
+    <form lang="it-PIST?">piurare?</form>
+    , „piangere de’ bambini“). 
+    <!-- Assuming *pivolare -> *piolare?, lueca piulare -> piulare?, pist. piurare -> piurare? -->
+    
+  </etymology>
+  
+</entry>

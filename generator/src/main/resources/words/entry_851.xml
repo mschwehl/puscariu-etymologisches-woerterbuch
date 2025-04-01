@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="851">
+  
+  <lemma>înger</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Engel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ANGELUS, -UM</etymon>
+     (= 
+    <etymon lang="el">ἄγγελος</etymon>
+     &gt; ar. mgl. 
+    <form lang="ro-AR ro-MG">anghel?</form>
+    ): 
+    <!-- Assuming C ANGELUS -> ANGELUS, üpyelos -> ἄγγελος, angil -> anghel? -->
+    
+    <cognates>
+      
+      <form lang="sq">engjëll</form>
+      , 
+      <!-- Assuming engel -> engjëll -->
+      
+      <form lang="it">angelo</form>
+      ,
+
+      <form lang="roh-ENG">aunghel?</form>
+      , 
+      <!-- Interpretation needed for aungel -->
+      
+      <form lang="oc">angel</form>
+      , 
+      <!-- Assuming py. -> oc -->
+      
+      <form lang="ca">angel</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">angel</form>
+      ,
+
+      <form lang="fr">ange</form>
+      ,
+
+      <form lang="pt">anjo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. onel].</variants>
+  
+</entry>

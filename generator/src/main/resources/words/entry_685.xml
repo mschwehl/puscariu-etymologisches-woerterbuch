@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="685">
+  
+  <lemma>furt</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. furtu]</variants>
+  
+  <definition>„Diebstahl”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FURTUM</etymon>
+    
+    <cognates>
+      
+      <form lang="it">furto</form>
+      ,
+
+      <form lang="pt">furto</form>
+      ,
+
+      <form lang="oc">furt</form>
+      ,
+
+      <form lang="ca">furt</form>
+      ,
+
+      <form lang="es">hurto</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

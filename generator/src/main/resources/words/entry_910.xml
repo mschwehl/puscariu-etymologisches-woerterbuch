@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="910">
+  
+  <prefix>II</prefix>
+  
+  <lemma>joc</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (a)dzoc, mgl. joc?, ir. joc?]</variants>
+  
+  <!-- Interpretation needed for Zoc -> joc? -->
+  
+  <definition>„tanzen“</definition>
+  , refl. 
+  <form>mă joc</form>
+   [ar. 
+  <form lang="ro-AR">mi dzoc</form>
+  , mgl. 
+  <form lang="ro-MG">mi joc?</form>
+  ] „spiele“ 
+  <!-- Interpretation needed for mi Foc -> mi joc? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*JOCO, -ARE</etymon>
+     (= 
+    <etymon lang="Lat">JOCOR, -ARI</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="it">giocare</form>
+      ,
+
+      <form lang="roh-ENG">giovar?</form>
+      , 
+      <!-- Interpretation needed for dzover -->
+      
+      <form lang="oc">jogar</form>
+      , 
+      <!-- Assuming pv. Jjogar -> jogar -->
+      
+      <form lang="fr">jouer</form>
+      ,
+
+      <form lang="es">jugar</form>
+      ,
+
+      <form lang="pt">jogar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

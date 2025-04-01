@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="753">
+   
+  <!-- Assuming 193 -> 753 -->
+  
+  <lemma>hică</lemma>
+  
+  <!-- Assuming Rică -> hică -->
+  
+  <scope>ar.</scope>
+  
+  <pos>sf.</pos>
+  
+  <reference type="see">
+    s. 
+    <targetLemma>hic</targetLemma>
+    .
+  </reference>
+  
+  <!-- Assuming hie -> hic -->
+  
+</entry>

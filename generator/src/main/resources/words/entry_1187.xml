@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1187">
+  
+  <lemma>nod</lemma>
+  
+  <pos>sm.</pos>
+   
+  <!-- Assuming sf. -> sm.? based on etymon -->
+  
+  <variants>[ar. mgl. =?]</variants>
+  
+  <!-- Interpretation needed for > -> =? -->
+  
+  <definition>„Knoten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NODUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">nyjë</form>
+      , 
+      <!-- Interpretation needed for ne -->
+      
+      <form lang="it">nodo</form>
+      ,
+
+      <form lang="lmo-MIL-OLD">no?</form>
+      , 
+      <form lang="oc">no?</form>
+      , 
+      <!-- Interpretation needed for a.-mail. pv. no -->
+      
+      <form lang="sc">nodu</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">nuf</form>
+      ,
+
+      <form lang="fr">nœud</form>
+      , 
+      <!-- Assuming neud -> nœud -->
+      
+      <form lang="ca">nu?</form>
+      , 
+      <!-- Interpretation needed for nou -->
+      
+      <form lang="es">nudo</form>
+      ,
+
+      <form lang="pt">nó</form>
+      . 
+      <!-- Assuming nö -> nó -->
+      
+    </cognates>
+     Daneben kommt ein 
+    <form>noadă</form>
+     sf. „Steiß“ vor (als ob das Rückgrat in den Steiß, gleichsam wie in einem Knoten, endigen würde), dessen Geschlechtswechsel wahrscheinlich durch die Analogie von 
+    <form>coadă</form>
+     (mgl. heißt der „Steiß“: 
+    <form lang="ro-MG">codiță?</form>
+    ) entstanden ist. 
+    <!-- Interpretation needed for cuditsă -> codiță? -->
+    
+  </etymology>
+  
+</entry>

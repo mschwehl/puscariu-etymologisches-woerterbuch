@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1080">
+  
+  <lemma>mînc</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <scope>(Banat)</scope>
+  
+  <definition>„verstümmelt“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MANCUS, -A, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">mënk?</form>
+      , 
+      <!-- Interpretation needed for menk -->
+      
+      <form lang="it">manco</form>
+      , 
+      <form lang="ca">manco</form>
+      , 
+      <form lang="es">manco</form>
+      , 
+      <form lang="pt">manco</form>
+      ,
+
+      <form lang="oc">manc</form>
+      , 
+      <form lang="fro">manc</form>
+      . 
+      <!-- Assuming pv. a.-Irz. -> oc, fro -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

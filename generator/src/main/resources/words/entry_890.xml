@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="890">
+  
+  <lemma>între</lemma>
+  
+  <pos>präp.</pos>
+  
+  <variants>[ar. între?, ir. între?]</variants>
+  
+  <!-- Interpretation needed for ntră -> între?, äntre -> între? -->
+  
+  <definition>„unter, zwischen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">INTER</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="oc">entre</form>
+      , 
+      <!-- Assuming pr. -> oc -->
+      
+      <form lang="fr">entre</form>
+      ,
+
+      <form lang="es">entre</form>
+      ,
+
+      <form lang="pt">entre</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

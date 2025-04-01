@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="832">
+  
+  <lemma>Undrea?</lemma>
+  
+  <!-- Assuming Indved -> Undrea? -->
+  
+  <lemma_variants>(Undrea, Andrei)</lemma_variants>
+  
+  <pos>sm?</pos>
+   
+  <!-- Assuming s. -> sm? -->
+  
+  <definition>„Dezember“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">SANCT[US] ANDREAS</etymon>
+     (= 
+    <etymon lang="el">Ἀνδρέας</etymon>
+    ). 
+    <!-- Assuming < [sAncT-"ANDREAS -> SANCTUS ANDREAS, Aroofas -> Ἀνδρέας -->
+     Der Monat wird so genannt nach dem Tage des heil. A. (30. Nov.), welcher im Volksglauben eine sehr bedeutende Rolle spielt:
+
+    <cognates>
+      
+      <form lang="sq">shëndre?</form>
+       „December“, 
+      <!-- Interpretation needed for sen-endr& -->
+      
+      <form lang="sc-OLD">sant'andria</form>
+       „November“, 
+      <!-- Assuming a.-sard. -> sc-OLD -->
+      vgl. 
+      <form lang="sl">andrejščak, andrejček?</form>
+      , 
+      <form lang="hu">szent András hava</form>
+      . 
+      <!-- Interpretation needed for slov. andrejscak, andrejăcek -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. Andriu?, Andreluștu?].</variants>
+  
+  <!-- Interpretation needed for Andreilu, Andrelustu -->
+  
+</entry>

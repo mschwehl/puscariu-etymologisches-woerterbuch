@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="796">
+  
+  <prefix>I</prefix>
+  
+  <lemma>împot?</lemma>
+  
+  <prefix_note>+</prefix_note>
+  
+  <!-- Assuming impuüt -> împot? -->
+  
+  <verb_class>II?</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage_note>
+    (
+    <source_ref>Cor. Psalt. 30</source_ref>
+    , heute noch in Bran in Siebb.)
+  </usage_note>
+  
+  <definition>„anrechnen“</definition>
+   
+  <!-- Assuming anreehnen -> anrechnen -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">IMPUTO, -ARE</etymon>
+    . 
+    <!-- Assuming umpiiro, -aRg -> IMPUTO, -ARE -->
+     Im Rom. nur als Buchwort vorhanden.
+
+  </etymology>
+  
+</entry>

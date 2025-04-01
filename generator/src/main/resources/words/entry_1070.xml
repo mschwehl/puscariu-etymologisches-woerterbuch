@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1070">
+  
+  <lemma>miel</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. nel?, mgl. (m)niel, ir. miel?]</variants>
+  
+  <!-- Interpretation needed for jar. nel -> ar. nel?, mie -->
+  
+  <definition>„Lamm“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">AGNELLUS, -UM</etymon>
+    : 
+    <!-- Assuming aG-NELIUS, -uu -> AGNELLUS, -UM -->
+    
+    <cognates>
+      
+      <form lang="isv">agnial</form>
+      , 
+      <!-- Assuming vegl. -> isv -->
+      
+      <form lang="it">agnello</form>
+      ,
+
+      <form lang="it-CAM?">agnielle?</form>
+      , 
+      <!-- Interpretation needed for campob. ayenielle -->
+      
+      <form lang="lmo-BER">anèl?</form>
+      , 
+      <!-- Interpretation needed for a.-berg. arel -->
+      
+      <form lang="fur">agnel?</form>
+      , 
+      <!-- Interpretation needed for frl. anel -->
+      
+      <form lang="oc">agnel</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">agneau</form>
+      .
+
+    </cognates>
+     — Dazu das neue Fem. 
+    <form>mială?</form>
+     ein Ausdruck des Knöchelspiels (= 
+    <form>capră</form>
+    ). 
+    <!-- Interpretation needed for mialä -->
+    
+  </etymology>
+  
+</entry>

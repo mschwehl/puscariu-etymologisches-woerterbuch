@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1210">
+  
+  <lemma>nutreț</lemma>
+  
+  <!-- Assuming autröt -> nutreț -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Futter“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*NUTRICIUM</etymon>
+     (für 
+    <etymon lang="Lat">-ITIUM?</etymon>
+    ). 
+    <!-- Assuming (*xörkicıun -> *NUTRICIUM -->
+    
+  </etymology>
+  
+  <variants>[ar. hrană].</variants>
+  
+</entry>

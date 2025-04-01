@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1057">
+  
+  <lemma>merd?</lemma>
+  
+  <!-- Assuming merdu -> merd? -->
+  
+  <scope>ar.</scope>
+  
+  <note>W.</note>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Schmutz, Dreck“</definition>
+  
+  <etymology>
+    ist ein postverbales Sbst. zu 
+    <etymon lang="Lat">*MERDARE?</etymon>
+     &lt; 
+    <etymon lang="Lat">*MERDO, -ARE?</etymon>
+     (von 
+    <etymon lang="Lat">MERDA</etymon>
+    : 
+    <!-- Assuming *merdăre -> *MERDARE?, *uEnno -> *MERDO? -->
+    
+    <cognates>
+      
+      <form lang="it">merda</form>
+      , 
+      <form lang="sc">merda</form>
+      , 
+      <form lang="roh-ENG">merda</form>
+      , 
+      <form lang="ca">merda</form>
+      , 
+      <form lang="pt">merda</form>
+      , 
+      <!-- Assuming sard. eng. cat. pg. -> sc, roh-ENG, ca, pt -->
+      
+      <form lang="oc-N">merdo</form>
+      , 
+      <!-- Assuming n.-pv. -> oc-N -->
+      
+      <form lang="fr">merde</form>
+      ,
+
+      <form lang="es">mierda</form>
+      
+    </cognates>
+    ). Vgl. 
+    <form>desmerd?</form>
+    .
+
+  </etymology>
+  
+  <variants>[ar. P. unbekannt.]</variants>
+  
+</entry>

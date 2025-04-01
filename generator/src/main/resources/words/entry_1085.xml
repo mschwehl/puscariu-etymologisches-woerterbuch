@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1085">
+  
+  <lemma>mînecă</lemma>
+  
+  <!-- Assuming mânecă -> mînecă -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. mînică?, mgl. mînecă?, ir. mînecă?]</variants>
+  
+  <!-- Interpretation needed for minica -> mînică?, monică -> mînecă?, mărecă -> mînecă? -->
+  
+  <definition>„Ärmel“</definition>
+   
+  <!-- Assuming Armel -> Ärmel -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MANICA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">mëngë</form>
+      , 
+      <!-- Interpretation needed for menge -->
+      
+      <form lang="it">manica</form>
+      ,
+
+      <form lang="lmo-MIL">manega</form>
+      , 
+      <!-- Assuming mail. -> lmo-MIL -->
+      
+      <form lang="it-EMIL">măneja?</form>
+      , 
+      <!-- Interpretation needed for emil. snandZa -->
+      
+      <form lang="fur">manie?</form>
+      , 
+      <!-- Interpretation needed for frl. mame -->
+      
+      <form lang="roh-ENG">manda?</form>
+      , 
+      <!-- Interpretation needed for manda -->
+      
+      <form lang="oc">manga</form>
+      , 
+      <form lang="es">manga</form>
+      , 
+      <form lang="pt">manga</form>
+      , 
+      <!-- Assuming pv. sp. Pg. -> oc, es, pt -->
+      
+      <form lang="fr">manche</form>
+       (
+      <form lang="it">manico</form>
+      , 
+      <form lang="es">mango</form>
+      , 
+      <form lang="pt">mango</form>
+       „Griff“ &lt; 
+      <etymon lang="Lat">MANICUS, -UM</etymon>
+      ). 
+      <!-- Assuming manicvs -> MANICUS -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

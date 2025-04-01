@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1262">
+  
+  <prefix>I</prefix>
+  
+  <lemma>păr</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. ir. per]</variants>
+  
+  <definition>„Haar“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PILUS, -UM</etymon>
+    : 
+    <!-- Assuming pruus -> PILUS -->
+    
+    <cognates>
+      
+      <form lang="it">pelo</form>
+      , 
+      <form lang="es">pelo</form>
+      ,
+
+      <form lang="it-SIC">pilu</form>
+      ,
+
+      <form lang="roh-ENG">pail</form>
+      ,
+
+      <form lang="oc">pel</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">poil</form>
+      .
+
+    </cognates>
+     — 
+    <form>Păr</form>
+     ist im Rum. Kollektiv; das einzelne Haar nennt man 
+    <form>fir de păr</form>
+    . Wie im Sard. ist im Rum. 
+    <etymon lang="Lat">CAPILLUS</etymon>
+     „Kopfhaar“ gänzlich durch 
+    <etymon lang="Lat">PILUS</etymon>
+     „Körperhaar“ verdrängt worden.
+
+  </etymology>
+  
+</entry>

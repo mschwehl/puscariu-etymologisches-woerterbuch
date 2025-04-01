@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1167">
+  
+  <lemma>negru</lemma>
+  
+  <feminine_neuter>neagră</feminine_neuter>
+  
+  <!-- Assuming nedgra -> neagră -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. =, negur? W., mgl. ir. =]</variants>
+  
+  <!-- Interpretation needed for >, negur -->
+  
+  <definition>„schwarz“</definition>
+  
+  <etymology source="G. Meyer: Indg. Forsch. VI, 113">
+    
+    <etymon lang="Lat">NIGER, -GRA, -GRUM</etymon>
+    : 
+    <!-- Assuming ÄNIGER -> NIGER -->
+    
+    <cognates>
+      
+      <form lang="it">nero</form>
+      ,
+
+      <form lang="roh-ENG">nair</form>
+      ,
+
+      <form lang="oc">negre</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">noir</form>
+      , 
+      <!-- Assuming noire -> noir -->
+      
+      <form lang="es">negro</form>
+      , 
+      <form lang="pt">negro</form>
+      . 
+      <!-- Assuming sp. pg. -> es, pt -->
+      
+    </cognates>
+     In subst. Verwendung: mgl. 
+    <form lang="ro-MG">negru</form>
+     „türkischer Soldat“, 
+    <form lang="ro-MG">neagră</form>
+     „schwarzer Kaffee“. Aus dem Rum. leitet G. Meyer (Indg. Forsch. VI, 113) n.-gr. 
+    <etymon lang="el">μαῦρος?</etymon>
+     „Schaf mit weißen (?!) Haaren“ ab. 
+    <!-- Interpretation needed for mel. -> mgl., negr u -> negru, negrä -> neagră, »ua@yzoov -> μαῦρος? -->
+    
+  </etymology>
+  
+  <usage_note>[Nach P. existiert im Ar. negru nur noch in Ortsnamen: Catrú neagră etc., sonst ist das Wort durch laiț?, -e ersetzt.]</usage_note>
+  
+  <!-- Interpretation needed for Katrü -> Catrú, lait -> laiț? -->
+  
+</entry>

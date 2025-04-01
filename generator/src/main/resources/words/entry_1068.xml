@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1068">
+  
+  <prefix>+</prefix>
+  
+  <lemma>mică</lemma>
+  
+  <!-- Assuming -H mieä -> + mică -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming si. -> sf. -->
+  
+  <definition>„Augenblick“</definition>
+  
+  <usage_note>
+    („
+    <example>să-și piarză viața într'o mică de ceas de atîtea părți ce venia războiu</example>
+    “ 
+    <source_ref>Var. Caz. 1643 213b</source_ref>
+    , „
+    <example>să tămăduiască bolnavul într'o mică de ceas</example>
+    “ 
+    <source_ref>ibid. 242</source_ref>
+    )
+  </usage_note>
+   
+  <!-- Assuming viiata -> viața, ceasii -> ceas, bolnavulii -> bolnavul -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MICA, -AM</etymon>
+     „Krümchen“: 
+    <!-- Assuming Krümehen -> Krümchen -->
+    
+    <cognates>
+      
+      <form lang="it">miga</form>
+      , 
+      <form lang="lmo">miga</form>
+      , 
+      <form lang="oc">miga</form>
+      , 
+      <form lang="es">miga</form>
+      , 
+      <!-- Assuming lomb. pv. sp. -> lmo, oc, es -->
+      
+      <form lang="it-SIC">mica</form>
+      , 
+      <!-- Assuming sie. -> it-SIC -->
+      
+      <form lang="fr">mie</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

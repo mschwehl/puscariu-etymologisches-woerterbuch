@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="770">
+   
+  <!-- Assuming 170 -> 770 -->
+  
+  <lemma>ies</lemma>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>
+    [ar. es, ieși 
+    <source_ref>Cod. Dim. 99/XIII</source_ref>
+    , mgl. ir. ies]
+  </variants>
+   
+  <!-- Assuming far. -> ar. -->
+  
+  <definition>„herausgehen”</definition>
+  
+  <etymology source="Ascoli: Arch. glott. ital. III, 442-452">
+    
+    <etymon lang="Lat">EXEO, -IRE</etymon>
+    : 
+    <!-- Assuming CExEO -> EXEO -->
+    
+    <cognates>
+      
+      <form lang="it">escire, uscire</form>
+      ,
+
+      <form lang="oc">eissir</form>
+      , 
+      <form lang="fro">issir?</form>
+       (die u-Formen erklären sich wohl durch Angleichung an 
+      <form lang="it">uscio</form>
+      , 
+      <form lang="oc">uis</form>
+      , 
+      <form lang="fr">(h)uis</form>
+       „Türe“), 
+      <!-- Assuming pv. a.-frz. -> oc, fro; wissir -> issir? -->
+      
+      <form lang="ca">eixir</form>
+      , 
+      <form lang="es-OLD">exir</form>
+      . 
+      <!-- Assuming eat. -> ca, a.-sp. -> es-OLD -->
+      
+    </cognates>
+     — Im Ar. lautet neben 
+    <form lang="ro-AR">eșu?</form>
+     das Aor. auch 
+    <form lang="ro-AR">inșii?</form>
+     und das Inf. 
+    <form lang="ro-AR">inșire?</form>
+    , das mit 
+    <form lang="lij-GEA">ensir</form>
+    , 
+    <form lang="lmo-MIL">ensir</form>
+    , 
+    <form lang="vec-VER">ensir</form>
+    , 
+    <form lang="vec">ensir</form>
+    , 
+    <form lang="it-CHI?">insir</form>
+     zu vergleichen sind, worüber Ascoli: Arch. glott. ital. III, 442—452. — Zu rum. 
+    <example>ies din minți</example>
+     „werde verrückt‘ vgl. russ. 
+    <example lang="ru">с ума сходить</example>
+    . 
+    <!-- Interpretation needed for esui -> eșu?, insii -> inșii?, insire -> inșire?, a.-gen. mail. a.-ver. ven. -> lij-GEA, lmo-MIL, vec-VER, vec; sii uma shoditi -> с ума сходить -->
+    
+  </etymology>
+  
+</entry>

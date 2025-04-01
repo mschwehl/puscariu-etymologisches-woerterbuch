@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1246">
+  
+  <prefix>+</prefix>
+  
+  <lemma>păinichel?</lemma>
+  
+  <!-- Assuming päintchiüä -> păinichel? -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Getreide: Hirseart”</definition>
+  
+  <usage_note>(Cuv. d. b. I, 296)</usage_note>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PANICULUM?</etymon>
+     (von 
+    <etymon lang="Lat">PANICUM</etymon>
+    ). 
+    <!-- Assuming <*pasiclöluum -> *PANICULUM? -->
+    
+  </etymology>
+  
+  <reference type="see">
+    Vgl. 
+    <targetLemma>pîine</targetLemma>
+    .
+  </reference>
+   
+  <!-- Assuming pärine -> pîine -->
+  
+</entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="991">
+  
+  <prefix>II</prefix>
+  
+  <lemma>lucrez</lemma>
+  
+  <!-- Assuming tierw -> lucrez -->
+  
+  <lemma_variants>(lucrăz?)</lemma_variants>
+  
+  <!-- Interpretation needed for luer&z -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. lucrez?, mgl. lucrez, ir. =?]</variants>
+  
+  <!-- Interpretation needed for lucredzu -> lucrez?, mgk -> mgl. -->
+  
+  <definition>„arbeiten®</definition>
+  
+  <etymology source="Schuchardt: Vok. II, 151">
+    
+    <etymon lang="Lat">LUCRO, -ARE</etymon>
+     „gewinnen“: 
+    <!-- Assuming CLUCRO -> LUCRO -->
+    
+    <cognates>
+      
+      <form lang="it">logorare</form>
+       „verzehren“ (
+      <reference type="bibliographic">Schuchardt: Vok. II, 151</reference>
+      ),
+
+      <form lang="vec-PER?">lograr?</form>
+      , 
+      <!-- Interpretation needed for a.-per. lograre -->
+      
+      <form lang="it-ABR">lucrà?</form>
+       „verzehren‘‘, 
+      <!-- Interpretation needed for lukrd -->
+      
+      <form lang="ca">lograr</form>
+       „erreichen“, 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="oc">lograr</form>
+      , 
+      <form lang="es">lograr</form>
+      , 
+      <form lang="pt">lograr</form>
+      . 
+      <!-- Assuming pv. sp. pg. -> oc, es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

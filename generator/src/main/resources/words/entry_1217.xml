@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1217">
+  
+  <lemma>ochiu</lemma>
+  
+  <!-- Assuming Gehiii -> ochiu -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. = pl?, ir. ochiu?]</variants>
+  
+  <!-- Interpretation needed for mpl. -> = pl?, oklu -> ochiu? -->
+  
+  <definition>„Auge“</definition>
+  
+  <etymology source="App. Probi 111; Zauner, Körperteile: 367; Lucifer von Cagliari">
+    
+    <etymon lang="Lat">OCLUS, -UM</etymon>
+     (App. Probi 111 = 
+    <etymon lang="Lat">OCULUS</etymon>
+    ): 
+    <!-- Assuming öcrus -> OCLUS, octuus -> OCULUS -->
+    
+    <cognates>
+      
+      <form lang="it">occhio</form>
+      ,
+
+      <form lang="lmo-MIL">ögg?</form>
+      , 
+      <!-- Interpretation needed for öfss -->
+      
+      <form lang="sc">oju</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="fur">voli?</form>
+      , 
+      <!-- Interpretation needed for vuli -->
+      
+      <form lang="roh-ENG">ögl?</form>
+      , 
+      <!-- Interpretation needed for el -->
+      
+      <form lang="oc">uelh?</form>
+      , 
+      <!-- Interpretation needed for pv. ueb -->
+      
+      <form lang="fr">œil</form>
+      , 
+      <!-- Assuming cil -> œil -->
+      
+      <form lang="es">ojo</form>
+      ,
+
+      <form lang="pt">olho</form>
+      .
+
+    </cognates>
+     Die Bedeutung „Masche, Schlinge‘ kehrt wieder im alb. 
+    <form lang="sq">sy</form>
+    , 
+    <form lang="sq">si</form>
+    ; dem alb. 
+    <form lang="sq">për sysh?</form>
+     entspricht genau rum. 
+    <form>deochi</form>
+     sm. „böser Blick“. 
+    <!-- Interpretation needed for sii, si, per-süs, de-ochiü -> deochi -->
+     An 
+    <etymon lang="sla">okno?</etymon>
+     „Fenster“ scheint 
+    <form>ochit</form>
+     = „Fensterscheibe“ angelehnt zu sein. Semasiologisch interessant sind die Ableitungen: 
+    <form>ocheș, -ă</form>
+     [ar. 
+    <form lang="ro-AR">oaclus?</form>
+    ] adj. „braun (im Gesicht)“ (urspr. „schwarzäugig“, vgl. alb. 
+    <form lang="sq">syzi?</form>
+     „schwarzäugig“) und 
+    <form>ochesc?</form>
+     IV vb. „zielen“ (urspr. „ins Auge fassen“ — 
+    <example>a lua la ochi</example>
+    ). 
+    <!-- Interpretation needed for lav. okno -> sla okno?, odches -> ocheș, sii-zi -> syzi?, ochisse -> ochesc?, ochiii -> ochi -->
+    
+  </etymology>
+  
+</entry>

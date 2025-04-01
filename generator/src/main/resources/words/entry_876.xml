@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="876">
+  
+  <lemma>înspin</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„mit einem Dorn stechen"</definition>
+  
+  <variants>[ar. înțep? „steche, necke“)</variants>
+  
+  <!-- Interpretation needed for sk’in -> înțep? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*[IN-]SPINO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">SPINA</etymon>
+    ). 
+    <!-- Assuming *[1y-|spiso -> *[IN-]SPINO -->
+    
+  </etymology>
+  
+</entry>

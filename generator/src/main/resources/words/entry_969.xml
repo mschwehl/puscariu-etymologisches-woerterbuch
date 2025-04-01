@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="969">
+  
+  <lemma>limbă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. =, ir. limbă?]</variants>
+  
+  <!-- Interpretation needed for limbe -->
+  
+  <definition>
+    „Zunge, Sprache‘, == 
+    <form>limbi</form>
+    , Pl. „Heiden“
+  </definition>
+  
+  <etymology source="Zauner, Körperteile: 367">
+    
+    <etymon lang="Lat">LINGUA, -AM</etymon>
+    : 
+    <!-- Assuming Lixeva, -au -> LINGUA, -AM -->
+    
+    <cognates>
+      
+      <form lang="it">lingua</form>
+      , 
+      <form lang="it-SIC">lingua</form>
+      , 
+      <!-- Assuming sie. -> it-SIC -->
+      
+      <form lang="sc-L">limba</form>
+      , 
+      <form lang="sc-C">lingua</form>
+      , 
+      <!-- Assuming sard. l. -> sc-L, e. -> sc-C -->
+      
+      <form lang="roh-ENG">leunga?</form>
+      , 
+      <!-- Interpretation needed for leunga -->
+      
+      <form lang="oc">lengua</form>
+      , 
+      <form lang="es">lengua</form>
+      , 
+      <!-- Assuming pv. sp. -> oc, es -->
+      
+      <form lang="fr">langue</form>
+      ,
+
+      <form lang="pt">língua</form>
+      . 
+      <!-- Assuming lingoa -> língua -->
+      
+    </cognates>
+     — Das Dimin. 
+    <form>limbariță?</form>
+     [ar. 
+    <form lang="ro-AR">limbăriță</form>
+    , mgl. 
+    <form lang="ro-MG">limba cea mică?</form>
+    ] bedeutet „Zäpfchen im Halse“, desgleichen: 
+    <form lang="it-SIC">linguetta?</form>
+    , 
+    <form lang="oc-N">lengueta?</form>
+    , 
+    <form lang="es">lengüeta</form>
+    . 
+    <!-- Interpretation needed for limburăș -> limbariță?, limbăritsă -> limbăriță, limba tsea mică -> limba cea mică?, linguedda -> linguetta?, n.-pv. lenguelo -> lengueta?, lengueta -> lengüeta -->
+    
+  </etymology>
+  
+</entry>

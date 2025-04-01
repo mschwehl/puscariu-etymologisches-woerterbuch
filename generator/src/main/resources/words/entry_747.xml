@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="747">
+  
+  <lemma>gușă</lemma>
+  
+  <!-- Assuming güse -> gușă -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming sit. -> sf. -->
+  
+  <variants>[ar. mgl. gușă?, ir. gușă „Kropf von Tieren“]</variants>
+  
+  <!-- Assuming far. -> ar., gugä -> gușă?, guse -> gușă -->
+  
+  <definition>„Kropf“ dial. „Hals“</definition>
+  
+  <etymology source="Meyer-Lübke: Zeitschrift rom, Phil. XV, 242-243; Schuchardt: Zeitschr. rom. Phil. XXI, 199-200">
+    
+    <etymon lang="Lat">GEUSIA?</etymon>
+     (Meyer-Lübke: Zeitschrift rom, Phil. XV, 242—243; Schuchardt: Zeitschr. rom. Phil. XXI, 199 bis 200): 
+    <!-- Assuming erusız -> GEUSIA? -->
+    
+    <cognates>
+      
+      <form lang="sq">gushë</form>
+      , 
+      <!-- Assuming guse -> gushë -->
+      
+      <form lang="lij-GEN">gosu</form>
+      , 
+      <form lang="lij-GEN">desgosà-se?</form>
+       „vuotar il gozzo“, 
+      <!-- Assuming desgosa-se -> desgosà-se? -->
+      
+      <form lang="lmo-BER">gos?</form>
+      , 
+      <!-- Assuming a.-berg. os -> gos? -->
+      
+      <form lang="it-LUC?">gogio?</form>
+       „Kropf“, 
+      <!-- Interpretation needed for luech. yoyio -->
+      
+      <form lang="pms">goso, gos</form>
+       „Kropf, Kehle“, 
+      <!-- Assuming yoso, gose -> goso, gos -->
+      
+      <form lang="lmo">goss</form>
+      ,
+
+      <form lang="rm-GRD?">gos?</form>
+      , 
+      <!-- Interpretation needed for grödn. 905 -->
+      
+      <form lang="wa">joque?</form>
+       „Zahnfleisch“, 
+      <!-- Interpretation needed for wall. d/wek -->
+      
+      <form lang="fr-LOR">jôe?</form>
+       „Wange“, 
+      <!-- Interpretation needed for lotr. 204 -->
+      
+      <form lang="fr">gosier</form>
+       „Schlund“, vgl. 
+      <form lang="it">tragugiare</form>
+      , 
+      <form lang="it-TRIE">tangudàr?</form>
+       „verschlingen“.
+
+      <!-- Interpretation needed for tangudăar -->
+      
+    </cognates>
+     Ableitungen:
+
+    <form>sugrum?</form>
+     I vb. „würgen“ (vgl. 
+    <form>grumaz</form>
+    ) 
+    <!-- Assuming sugüg -> sugrum? -->
+    
+    <form>răgușesc</form>
+     IV vb. „heiser werden“ (Einmischung von 
+    <etymon lang="Lat">RAUCUS?</etymon>
+    ), 
+    <!-- Assuming rägugesc -> răgușesc, karcus? -> RAUCUS? -->
+    
+    <form>gușat, -ă</form>
+     adj. „kröpfig“, 
+    <!-- Assuming gusät -> gușat -->
+    ar. 
+    <form lang="ro-AR">gușescu?</form>
+     IV vb. „schneide den Hals ab“, 
+    <!-- Interpretation needed for qufescn -->
+    mgl. 
+    <form lang="ro-MG">gușănesc?</form>
+     IV vb. „nehme um den Hals“. 
+    <!-- Interpretation needed for guănes -->
+    — Das Wort ist auf der ganzen Balkanhalbinsel verbreitet und wohl dem Rum. od. Alb. entlehnt: 
+    <form lang="bg">gusha?</form>
+    , 
+    <form lang="el">γκούσα?</form>
+    , 
+    <form lang="hr">guša, guša?</form>
+     „Kropf der Vögel“, 
+    <form lang="hu">gusa</form>
+    .
+
+    <!-- Assuming blg. guse -> gusha?, n..gr. yxoöce -> γκούσα?, kroat. güsa, giisa -> guša, guša? -->
+    
+  </etymology>
+  
+</entry>

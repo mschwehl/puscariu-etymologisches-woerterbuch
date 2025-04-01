@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="968">
+  
+  <lemma>leu</lemma>
+  
+  <!-- Assuming teii -> leu -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Löwe“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LEO, -ONEM</etymon>
+    : 
+    <!-- Assuming /rto, -onzu -> LEO, -ONEM -->
+    
+    <cognates>
+      
+      <form lang="sq">luan</form>
+      , 
+      <!-- Assuming lua -> luan -->
+      
+      <form lang="it">leone</form>
+      , 
+      <!-- Assuming lione -> leone -->
+      
+      <form lang="oc">leo</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">lion</form>
+      ,
+
+      <form lang="es">león</form>
+      , 
+      <!-- Assuming leon -> león -->
+      
+      <form lang="pt">leão</form>
+      . 
+      <!-- Assuming leâo -> leão -->
+      
+    </cognates>
+     — Die Bedeutung „Frank“ des 
+    <form>leu</form>
+     übersetzt genau das türk. 
+    <form lang="tr">aslan</form>
+    . 
+    <!-- Assuming tiirk. aslany -> türk. aslan -->
+    
+  </etymology>
+  
+  <variants>[ar. aslän, lioandar?].</variants>
+  
+  <!-- Interpretation needed for Fundar -> lioandar? -->
+  
+</entry>

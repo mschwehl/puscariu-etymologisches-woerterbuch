@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="960">
+  
+  <lemma>legătură</lemma>
+  
+  <!-- Assuming Tegätiträ -> legătură -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. legătură?]</variants>
+  
+  <!-- Interpretation needed for ligătură -->
+  
+  <definition>„Band“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LIGATURA, -AM</etymon>
+    : 
+    <!-- Assuming LIGATTRA -> LIGATURA -->
+    
+    <cognates>
+      
+      <form lang="it">legatura</form>
+      ,
+
+      <form lang="oc">liadura</form>
+      . 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

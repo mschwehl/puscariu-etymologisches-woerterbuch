@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="794">
+  
+  <lemma>împrumut</lemma>
+  
+  <!-- Assuming imprumit -> împrumut -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>
+    [ar. împrumut?, împărumutez? 
+    <source_ref>Cod. Dim. 118b/18</source_ref>
+    ]
+  </variants>
+  
+  <!-- Interpretation needed for mprumut -> împrumut?, mpărmătedzu -> împărumutez? -->
+  
+  <definition>„leihen“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. I, § 386">
+    
+    <etymon lang="Lat">PROMUTUO, -ARE?</etymon>
+    : 
+    <!-- Assuming menomUruo -> PROMUTUO? -->
+    
+    <cognates>
+      
+      <form lang="it">improntare</form>
+      ,
+
+      <form lang="lmo-MIL">împrumeda?</form>
+      , 
+      <!-- Interpretation needed for imprümeda -->
+      
+      <form lang="pms">ampërmüé?, amprümé?</form>
+      , 
+      <!-- Interpretation needed for ampermu£e, amprame -->
+      
+      <form lang="fr">emprunter</form>
+       (
+      <reference type="bibliographic">Meyer-Lübke: Rom. Gramm. I, § 386</reference>
+      ).
+
+    </cognates>
+     Das lat. Verbum ist von 
+    <etymon lang="Lat">in + PROMUTUUS, -A, -UM</etymon>
+     abgeleitet, welches im rum. 
+    <form>împrumut</form>
+     adv. „leihweise“ [ar. 
+    <form lang="ro-AR">împărumut?</form>
+     „gegenseitig“) 
+    <!-- Interpretation needed for mpărmit -->
+     weiterlebt, wofür alt-rum. auch 
+    <form lang="ro-OLD">a-prumut</form>
+     adv. steht. 
+    <!-- Assuming imn -> im -->
+    
+  </etymology>
+  
+</entry>

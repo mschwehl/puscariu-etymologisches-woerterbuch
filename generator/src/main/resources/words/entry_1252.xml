@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1252">
+  
+  <lemma>pană</lemma>
+  
+  <!-- Assuming print -> pană -->
+  
+  <lemma_variants>(peanä)</lemma_variants>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. peană, mgl. penă, ir. pene]</variants>
+  
+  <definition>„Feder“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 682 ff">
+    
+    <etymon lang="Lat">PINNA, -AM</etymon>
+    : 
+    <!-- Assuming CPINNA, -au -> PINNA, -AM -->
+    
+    <cognates>
+      
+      <form lang="sq">pendë</form>
+      , 
+      <!-- Interpretation needed for pende -->
+      
+      <form lang="it">penna</form>
+      , 
+      <form lang="oc">penna</form>
+      , 
+      <form lang="pt">penna</form>
+      , 
+      <!-- Assuming pv. pg. -> oc, pt -->
+      
+      <form lang="it-SIC">pinna</form>
+      , 
+      <form lang="it-CAL">pinna</form>
+      , 
+      <form lang="it-LEC">pinna</form>
+      , 
+      <!-- Assuming sic. cal. lecee -> it-SIC, it-CAL, it-LEC -->
+      
+      <form lang="fr">panne</form>
+      ,
+
+      <form lang="es">peña</form>
+      . 
+      <!-- Interpretation needed for peiia -->
+      
+    </cognates>
+     Über die sehr mannigfaltigen Bedeutungsentwicklungen dieses Wortes vgl. Verfassers Artikel in 
+    <reference type="bibliographic">Zeitschr. rom. Phil. XXVIII, 682 ff</reference>
+    .
+
+  </etymology>
+  
+</entry>

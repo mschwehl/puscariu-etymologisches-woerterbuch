@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="931">
+  
+  <lemma>lacrimă</lemma>
+  
+  <!-- Assuming Tierimä -> lacrimă -->
+  
+  <lemma_variants>(lăcrămă)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. lacrimă, lacrimă?, mgl. lacrimă]</variants>
+  
+  <!-- Interpretation needed for lacärmd -> lacrimă? -->
+  
+  <definition>„Träne“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LACRIMA, -AM</etymon>
+    : 
+    <!-- Assuming vacrina -> LACRIMA -->
+    
+    <cognates>
+      
+      <form lang="it">lacrima</form>
+      , 
+      <form lang="es">lágrima</form>
+      , 
+      <form lang="pt">lágrima</form>
+      , 
+      <!-- Assuming lagrima -> lágrima -->
+      
+      <form lang="roh-ENG">larma</form>
+      ,
+
+      <form lang="oc">lagrima?</form>
+      , 
+      <!-- Interpretation needed for layrema -->
+      
+      <form lang="fr">larme</form>
+      . 
+      <!-- Assuming lare -> larme -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="669">
+  
+  <prefix>II</prefix>
+   
+  <!-- Assuming IE -> II -->
+  
+  <lemma>fum</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <lemma_variants>(fumez „rauche Tabak“)</lemma_variants>
+  
+  <variants>[ar. (a)fum, mgl. =, ir. fumu I u. IV]</variants>
+  
+  <definition>„rauchen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FUMO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">fumare</form>
+      , 
+      <!-- Assuming fimare -> fumare -->
+      
+      <form lang="oc">(sp.) fumar</form>
+      , 
+      <!-- Assuming pr. -> oc -->
+      
+      <form lang="pt">fumar</form>
+      ,
+
+      <form lang="fr">fumer</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>
+    [ar. meist 
+    <example lang="ro-AR">beau tutun</example>
+     „rauche Tabak“].
+  </variants>
+  
+  <!-- Interpretation needed for tutune -->
+  
+</entry>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1168">
+  
+  <lemma>negură</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>
+    „Nebel, Dunkelheit (
+    <source_ref>Jb. III, 322, VIII, 316</source_ref>
+    )“.
+  </definition>
+  
+  <etymology>
+    Es scheint, daß man von einem 
+    <etymon lang="Lat">*NEGULA, -AM</etymon>
+    , das auch alb. 
+    <form lang="sq">mjegull?</form>
+     zugrunde liegt, 
+    <!-- Assuming fegut -> mjegull? -->
+     auszugehen hat, welches, wie dies durch die Bedeutung „Dunkelheit“ wahrscheinlich wird, aus der Kontamination von 
+    <etymon lang="Lat">NEBULA, -AM</etymon>
+     (
+    <form lang="it">nebbia</form>
+    , 
+    <form lang="lmo-MIL">nebbia</form>
+    , 
+    <!-- Assuming mail. -> lmo-MIL -->
+     
+    <form lang="lmo-COM">nebia?</form>
+    , 
+    <!-- Interpretation needed for nebia -->
+     
+    <form lang="pms-MON?">neglia?</form>
+    , 
+    <!-- Interpretation needed for monf. nedZ£a -->
+     
+    <form lang="it-FER">nevola?</form>
+    , 
+    <!-- Interpretation needed for nevula -->
+     
+    <form lang="it-SIC">neggia?</form>
+    , 
+    <!-- Interpretation needed for neggia -->
+     
+    <form lang="sc">neula</form>
+    , 
+    <!-- Assuming sard. -> sc -->
+     
+    <form lang="oc">niebla?</form>
+    , 
+    <!-- Interpretation needed for pv. nieula -->
+     
+    <form lang="es">niebla</form>
+    , 
+    <form lang="pt">névoa?</form>
+    ) 
+    <!-- Interpretation needed for pg. nevoa -->
+     und 
+    <etymon lang="Lat">NIGER</etymon>
+     entstanden ist. 
+    <!-- Assuming xiGer -> NIGER -->
+    
+  </etymology>
+  
+  <variants>[mgl. moglă?].</variants>
+  
+  <!-- Interpretation needed for moglä -->
+  
+</entry>

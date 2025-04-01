@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="775">
+   
+  <!-- Assuming 778 -> 775 -->
+  
+  <lemma>im?</lemma>
+  
+  <!-- Assuming îm -> im? -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Schlamm‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LIMUS, -UM</etymon>
+    : 
+    <!-- Assuming <uintus -> LIMUS -->
+    
+    <cognates>
+      
+      <form lang="it">limo</form>
+       (
+      <form lang="sq">tym?</form>
+      ), 
+      <!-- Interpretation needed for tim -->
+      
+      <form lang="roh-ENG">lima</form>
+      , 
+      <!-- Assuming eng. -> roh-ENG -->
+      
+      <form lang="oc">lim</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      (
+      <form lang="fr">limon</form>
+      ), 
+      <!-- Assuming iz. -> fr -->
+      
+      <form lang="es">limo</form>
+      ,
+
+      <form lang="pt">limo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="816">
+  
+  <lemma>închid</lemma>
+  
+  <principal_parts>-isei, -is</principal_parts>
+  
+  <verb_class>III</verb_class>
+   
+  <!-- IL -> III ? Based on -is ending -->
+  
+  <pos>vb.</pos>
+  
+  <variants>
+    [ar. (în)clid?, -is(u)?, -is, III, II, mgl. înclid?, -is III, ir. (în)clid?, -is III u. zákliď? nach 
+    <form lang="hr">zaključati</form>
+    ]
+  </variants>
+  
+  <!-- Interpretation needed for (in)elid -> (în)clid?, -iSü -> -is(u)?, anklid -> înclid?, (än)klid -> (în)clid?, zaklid -> zákliď?, kljueati -> ključati -->
+  
+  <definition>„schließen, zumachen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">INCLUDO, -USI, -USUM, -ERE</etymon>
+     (= 
+    <etymon lang="Lat">CLAUDO, -ERE</etymon>
+    ): 
+    <!-- Assuming <[m]erino, -usı, -üsun, -ien -> INCLUDO, -USI, -USUM, -ERE -->
+    
+    <cognates>
+      
+      <form lang="oc">claure</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">clore</form>
+      ,
+
+      <form lang="ca">cloure?</form>
+      , 
+      <!-- Interpretation needed for clourer -->
+      
+      <form lang="pt-OLD">chōmir?</form>
+      : 
+      <!-- Interpretation needed for a.-pg. chomir -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="it">chiudere</form>
+      ,
+
+      <form lang="roh-UEG">clüdir?</form>
+      . 
+      <!-- Interpretation needed for u.-eng. kludir -->
+      
+    </cognates>
+     — Ein Partizip 
+    <etymon lang="Lat">*CLAUSUS</etymon>
+     setzt 
+    <etymon lang="Lat">*CLAUTORIA, -AM?</etymon>
+     &gt; 
+    <form>cheotoare</form>
+    , 
+    <form>cheutoare?</form>
+    , 
+    <form>cheptătoare</form>
+     (ban.) sf. „Knopfloch“ voraus. 
+    <!-- Assuming Partz. -> Partizip, * cLaurus -> *CLAUSUS, * CLAUTORIA, -au -> *CLAUTORIA, -AM?, cheutodre -> cheutoare?, cheptoăre -> cheptătoare, st. -> sf. -->
+    
+  </etymology>
+  
+</entry>

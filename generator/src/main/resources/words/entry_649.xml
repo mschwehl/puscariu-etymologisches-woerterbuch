@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="649">
+  
+  <prefix>II</prefix>
+  
+  <lemma>frig</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. =]</variants>
+  
+  <!-- Assuming > -> = -->
+  
+  <definition>„Kälte“</definition>
+  
+  <etymology source="Dens. Hist. l. r. 190">
+    
+    <etymon lang="Lat">FRIGUS</etymon>
+    : 
+    <!-- Assuming rrieus -> FRIGUS -->
+    
+    <cognates>
+      
+      <form lang="sc">frius</form>
+      . 
+      <!-- Assuming sară. -> sc -->
+      
+    </cognates>
+    Der Plur. 
+    <form>friguri</form>
+     [mgl. —] bedeutet „Fieber“, in welchem Sinne 
+    <etymon lang="Lat">FRIGORA</etymon>
+     spätlat. belegt ist, davon ar. 
+    <form lang="ro-AR">friguredzu?</form>
+     I vb. W. „frieren“.
+
+    <!-- Interpretation needed for frigurt -> friguri, friguredzu -->
+    
+  </etymology>
+  
+  <variants>[ir. rece? sf. „Kälte“, febră „Fieber“].</variants>
+  
+  <!-- Interpretation needed for rotse -> rece?, febra -> febră -->
+  
+</entry>

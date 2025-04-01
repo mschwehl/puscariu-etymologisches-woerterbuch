@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="864">
+  
+  <lemma>înjug</lemma>
+  
+  <!-- Assuming injüg -> înjug -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. înjug?, mgl. înjug?]</variants>
+  
+  <!-- Interpretation needed for ndzug -> înjug?, anfug -> înjug? -->
+  
+  <definition>„jochen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">JUGO, -ARE</etymon>
+    . 
+    <!-- Assuming (yo -> JUGO -->
+    
+  </etymology>
+  
+</entry>

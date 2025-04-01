@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1271">
+  
+  <lemma>părinte</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Vater, Priester“</definition>
+  
+  <plural>părinți „Eltern“</plural>
+  
+  <variants>[ar. p(ă)rinte „Priester, Mönch“, Pl. părinți? „Eltern, Verwandte“]</variants>
+  
+  <!-- Interpretation needed for părintsă -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">PARENS, -ENTEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">prind</form>
+       „Vater“, 
+      <form lang="sq">prindër?</form>
+       „Eltern“, 
+      <!-- Interpretation needed for perinte -> prindër? -->
+      
+      <form lang="it">parente</form>
+      , 
+      <form lang="pt">parente</form>
+      , 
+      <!-- Assuming pg. -> pt -->
+      
+      <form lang="roh-ENG">parent?</form>
+      , 
+      <!-- Interpretation needed for paraint -->
+      
+      <form lang="fr">parent</form>
+      , 
+      <!-- Assuming înz. -> fr -->
+      
+      <form lang="es">pariente</form>
+      .
+
+    </cognates>
+     Für die Bedeutung „Priester“ vgl. alb. 
+    <form lang="sq">at?</form>
+    , gr. 
+    <form lang="el">παπᾶς</form>
+     „Priester“. 
+    <!-- Interpretation needed for foto -> at?, zazâs -> παπᾶς -->
+    
+  </etymology>
+  
+</entry>

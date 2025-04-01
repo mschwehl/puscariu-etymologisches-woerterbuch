@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="966">
+  
+  <lemma>leoaie</lemma>
+  
+  <!-- Assuming leodte -> leoaie -->
+  
+  <lemma_variants>(leoaică)</lemma_variants>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <definition>„Löwin"</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*LEONIA</etymon>
+     (wie 
+    <etymon lang="Lat">AVIA</etymon>
+    , 
+    <etymon lang="Lat">*CANIA</etymon>
+    , 
+    <etymon lang="Lat">CERVIA</etymon>
+    ). Da daneben 
+    <form>leu</form>
+     bestand, so konnte ein Suffix 
+    <suffix>-oaie</suffix>
+     zur Bildung von weiblichen Tiernamen abgetrennt werden.
+
+  </etymology>
+  
+  <variants>[ar. aslană?, lioandără?].</variants>
+  
+  <!-- Interpretation needed for asland -> aslană?, lundara -> lioandără? -->
+  
+</entry>

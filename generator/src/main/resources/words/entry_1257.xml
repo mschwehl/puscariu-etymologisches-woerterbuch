@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1257">
+  
+  <prefix>II</prefix>
+  
+  <lemma>pap</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„essen (in der Kindersprache)‘‘</definition>
+  
+  <etymology source="Archiv lat. Lex. XIII, 163">
+    
+    <etymon lang="Lat">PAPPO, -ARE</etymon>
+     (Archiv lat. Lex. XIII, 163):
+
+    <cognates>
+      
+      <form lang="it">pappare</form>
+      ,
+
+      <form lang="sc-C">papai</form>
+      , 
+      <!-- Assuming sard. e. -> sc-C -->
+      
+      <form lang="es">papar</form>
+      , 
+      <form lang="pt">papar</form>
+      , 
+      <!-- Assuming sp. pe. -> es, pt -->
+      (vgl. 
+      <form lang="sr">papati</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

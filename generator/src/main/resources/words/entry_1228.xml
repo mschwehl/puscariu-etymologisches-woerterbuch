@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1228">
+  
+  <lemma>osînză</lemma>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. osînză?]</variants>
+  
+  <!-- Interpretation needed for usändzä -->
+  
+  <definition>„Fett“</definition>
+  
+  <etymology source="C. gl. II, 384, 47">
+    setzt ein 
+    <etymon lang="Lat">*OXUNGIA, -AM</etymon>
+     (vgl. 
+    <etymon lang="grc">ὄξυγγιον?</etymon>
+    : 
+    <example lang="la">arbina unguen unguina haec axungia</example>
+     
+    <source_ref>C. gl. II, 384, 47</source_ref>
+    ) statt 
+    <etymon lang="Lat">AXUNGIA, -AM</etymon>
+     voraus: 
+    <!-- Assuming FOxUNGIA -> *OXUNGIA, ö&tyyıor -> ὄξυγγιον?, arbinaunguen -> arbina unguen -->
+    
+    <cognates>
+      
+      <form lang="it">sugna</form>
+      ,
+
+      <form lang="it-NAP">nzogna?</form>
+      , 
+      <!-- Interpretation needed for nzona -->
+      
+      <form lang="it-SIC">nzunza?</form>
+      , 
+      <!-- Interpretation needed for nzunza -->
+      
+      <form lang="it-CER?">nzogna?</form>
+      , 
+      <!-- Interpretation needed for cerign. nzone -->
+      
+      <form lang="it-LEC">nzugna?, nzogna?</form>
+      , 
+      <!-- Interpretation needed for nzwia, nzondza -->
+      
+      <form lang="it-BAR">nzogna?</form>
+      , 
+      <form lang="it-TAR?">nzogna?</form>
+      , 
+      <!-- Interpretation needed for bari, tarent. ndzone -->
+      
+      <form lang="it-LAN?">nzogna?</form>
+      , 
+      <!-- Interpretation needed for lanc. ndzone -->
+      
+      <form lang="it-CAM?">nzogna?</form>
+      , 
+      <form lang="it-ALA?">nzogna?</form>
+      , 
+      <!-- Interpretation needed for campob. alatri ndzona -->
+      
+      <form lang="it-ARPI?">sunga?</form>
+      , 
+      <!-- Interpretation needed for arpino suta -->
+      
+      <form lang="lmo-GOMB?">sunna?</form>
+      , 
+      <form lang="it-SIL?">sunna?</form>
+      , 
+      <!-- Interpretation needed for gombit. sillano Sundăa -->
+      
+      <form lang="pms">sunza?</form>
+      , 
+      <!-- Interpretation needed for Sundza -->
+      
+      <form lang="sc-L">assundza?</form>
+      , 
+      <!-- Interpretation needed for sard. ]. assundza -->
+      
+      <form lang="sc-SAS">assundia?, (ass)ogna?</form>
+      , 
+      <!-- Interpretation needed for sass. assundia, (ass)una -->
+      
+      <form lang="co">assonna?, unta?</form>
+      , 
+      <!-- Interpretation needed for cors. assundăa, unta -->
+      
+      <form lang="roh-ENG">sondza?</form>
+      . 
+      <!-- Interpretation needed for sondZa -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

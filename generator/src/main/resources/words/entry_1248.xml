@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1248">
+  
+  <lemma>pai</lemma>
+  
+  <!-- Assuming pdiü -> pai -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. pai?]</variants>
+  
+  <!-- Interpretation needed for pati -->
+  
+  <definition>„Strohhalm“</definition>
+  
+  <etymology>
+    ist ein rum. Singular aus dem Kollektiv 
+    <form>paie</form>
+     sf. Plur. tant. [ar. mgl. 
+    <form lang="ro-AR ro-MG">paie?</form>
+    ] „Stroh“ (
+    <etymon lang="Lat">PALEA</etymon>
+    : 
+    <!-- Interpretation needed for pate -> paie? -->
+    
+    <cognates>
+      
+      <form lang="it">paglia</form>
+      ,
+
+      <form lang="lij-GEN-OLD">pàgia?</form>
+      , 
+      <!-- Interpretation needed for a.-gen. padiza -->
+      
+      <form lang="it-SIC">pagghia?</form>
+      , 
+      <!-- Interpretation needed for paygia -->
+      
+      <form lang="sc">paia?</form>
+      , 
+      <!-- Interpretation needed for sard. paza -->
+      
+      <form lang="roh-ENG">paġlia?</form>
+      , 
+      <!-- Interpretation needed for pala -->
+      
+      <form lang="fur">paie</form>
+      , 
+      <!-- Interpretation needed for îrl. -> fur -->
+      
+      <form lang="oc">palha</form>
+      , 
+      <form lang="pt">palha</form>
+      , 
+      <!-- Assuming pv. pa. -> oc, pt -->
+      
+      <form lang="fr">paille</form>
+      ,
+
+      <form lang="es">paja</form>
+      .
+
+    </cognates>
+    )
+
+  </etymology>
+  
+</entry>

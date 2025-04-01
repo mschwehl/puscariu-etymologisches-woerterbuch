@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="926">
+  
+  <prefix>I</prefix>
+  
+  <lemma>jur</lemma>
+  
+  <lemma_variants>(auch mă jur)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+   
+  <!-- Assuming U -> I -->
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. jur?, mgl. jur?, ir. jur?]</variants>
+  
+  <!-- Interpretation needed for dZur -> jur?, Zur -> jur? -->
+  
+  <definition>„schwören“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IURO, -ARE</etymon>
+    : 
+    <!-- Assuming ÖJCRO, -ARB -> IURO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="it">giurare</form>
+      ,
+
+      <form lang="oc">jurar</form>
+      , 
+      <form lang="ca">jurar</form>
+      , 
+      <form lang="es">jurar</form>
+      , 
+      <form lang="pt">jurar</form>
+      , 
+      <!-- Assuming pv. cat, sp. pg. jurat -> jurar -->
+      
+      <form lang="fr">jurer</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

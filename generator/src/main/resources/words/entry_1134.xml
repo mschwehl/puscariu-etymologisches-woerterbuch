@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1134">
+  
+  <lemma>murmur</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. =, murmuredz?]</variants>
+  
+  <!-- Interpretation needed for murmuredz -->
+  
+  <definition>„murmeln“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MURMURO, -ARE</etymon>
+    : 
+    <!-- Assuming mör-MÜRO -> MURMURO -->
+    
+    <cognates>
+      
+      <form lang="sq">murmuroj</form>
+      , 
+      <!-- Interpretation needed for murmuron -->
+      
+      <form lang="it">mormorare</form>
+      ,
+
+      <form lang="oc">murmurar</form>
+      , 
+      <form lang="es">murmurar</form>
+      , 
+      <form lang="pt">murmurar</form>
+      . 
+      <!-- Assuming pv. sp. pg. -> oc, es, pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

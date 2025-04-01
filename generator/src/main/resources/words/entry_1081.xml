@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1081">
+  
+  <lemma>mințun?</lemma>
+  
+  <!-- Assuming mintsün -> mințun? -->
+  
+  <scope>mgl.</scope>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mințunedz?]</variants>
+  
+  <!-- Interpretation needed for mintsunddzu -->
+  
+  <definition>„lügen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MENTIONO, -ARE?</etymon>
+     (vgl. 
+    <form>minciună</form>
+    ). 
+    <!-- Assuming mEx-TIONO -> MENTIONO? -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1229">
+  
+  <lemma>osos</lemma>
+  
+  <!-- Assuming osös -> osos -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„knochig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">OSSUOSUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming ossvösus -> OSSUOSUS -->
+    
+    <cognates>
+      
+      <form lang="it">ossoso</form>
+      , 
+      <!-- Assuming 058080 -> ossoso -->
+      
+      <form lang="oc">ossós</form>
+      , 
+      <!-- Interpretation needed for PY. 08808 -> ossós -->
+      
+      <form lang="fr">osseux</form>
+      ,
+
+      <form lang="es">ososo</form>
+      . 
+      <!-- Assuming 08050 -> ososo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

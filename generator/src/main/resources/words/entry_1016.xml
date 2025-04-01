@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1016">
+  
+  <lemma>maiestru</lemma>
+  
+  <!-- Assuming maiestou -> maiestru -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Meister“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MAGISTER, -TRUM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">mjeshtër</form>
+      , 
+      <!-- Interpretation needed for mjestre -->
+      
+      <form lang="it">maestro</form>
+      , 
+      <form lang="es">maestro</form>
+      ,
+
+      <form lang="it-SIC">maistru</form>
+      ,
+
+      <form lang="sc-L">mastu</form>
+      , 
+      <form lang="sc-C">maistu</form>
+      , 
+      <!-- Assuming sard. Î. -> sc-L, c. -> sc-C -->
+      
+      <form lang="fro">maestre</form>
+      , 
+      <form lang="oc">maestre</form>
+      , 
+      <!-- Assuming a.-frz. pv. -> fro, oc -->
+      
+      <form lang="fr">maître</form>
+      , 
+      <!-- Assuming n.-frz. -> fr -->
+      
+      <form lang="pt">mestre</form>
+      . 
+      <!-- Assuming pg. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. mastur].</variants>
+  
+</entry>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1280">
+  
+  <lemma>pasăre</lemma>
+  
+  <!-- Assuming päsüäre -> pasăre -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming si. -> sf. -->
+  
+  <variants>[ir. pasăre?]</variants>
+  
+  <!-- Interpretation needed for posăre -->
+  
+  <definition>„Vogel“</definition>
+  
+  <etymology source="App. Probi 163">
+    
+    <etymon lang="Lat">PASSER, -AREM</etymon>
+     „Sperling“ (App. Probi 163 für 
+    <etymon lang="Lat">PASSER</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="it">passero, -a</form>
+      ,
+
+      <form lang="fro">passe?</form>
+      , 
+      <!-- Interpretation needed for a.-Irz. passe -->
+      
+      <form lang="es">pájaro, -a</form>
+      , 
+      <!-- Assuming pajaro -> pájaro -->
+      
+      <form lang="pt">pássaro</form>
+      . 
+      <!-- Assuming passaro -> pássaro -->
+      
+    </cognates>
+     Nur im Span. findet sich auch die Bedeutung „Vogel“, wie im Rum.
+
+  </etymology>
+  
+  <variants>[ar. pui?].</variants>
+  
+  <!-- Interpretation needed for puilä -->
+  
+</entry>

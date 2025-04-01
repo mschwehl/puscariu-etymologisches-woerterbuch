@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="995">
+  
+  <lemma>lună</lemma>
+  
+  <!-- Assuming lină -> lună -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. = nur „Mond“, ir. lună?]</variants>
+  
+  <!-- Interpretation needed for ©, lire -> lună? -->
+  
+  <definition>„Mond, Monat“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUNA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">luna</form>
+      , 
+      <form lang="oc">luna</form>
+      , 
+      <form lang="es">luna</form>
+      , 
+      <!-- Assuming pv. sp. bona -> luna -->
+      
+      <form lang="roh-ENG">lüna?</form>
+      , 
+      <!-- Interpretation needed for lina -->
+      
+      <form lang="fr">lune</form>
+      ,
+
+      <form lang="frp-WALD">lüna?</form>
+      , 
+      <!-- Interpretation needed for lüre -->
+      
+      <form lang="oc-GAS">lüa?</form>
+      , 
+      <!-- Interpretation needed for lüa -->
+      
+      <form lang="ca">lluna?</form>
+      , 
+      <!-- Interpretation needed for lama -->
+      
+      <form lang="pt">lua</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

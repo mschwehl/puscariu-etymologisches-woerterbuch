@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1029">
+  
+  <lemma>mărgea</lemma>
+  
+  <lemma_variants>(mărgea?)</lemma_variants>
+  
+  <!-- Assuming märgicd -> mărgea? -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. mărgeá?, mgl. mărgeáuă?]</variants>
+  
+  <!-- Interpretation needed for märdzeao -> mărgeá?, märdzeuä -> mărgeáuă? -->
+  
+  <definition>„Perle“</definition>
+  
+  <etymology source="C. gl. l. II, 353; Dens. Hist. l. r. 200">
+    
+    <etymon lang="Lat">MARGELLA, -AM?</etymon>
+     (C. gl. l. II, 353, übersetzt durch 
+    <etymon lang="grc">μαργαρίτης?</etymon>
+    , Dens. Hist. l. r. 200). 
+    <!-- Assuming MARGELIA -> MARGELLA?, rogdhhtor -> μαργαρίτης? -->
+    
+  </etymology>
+  
+</entry>

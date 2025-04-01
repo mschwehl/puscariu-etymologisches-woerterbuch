@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1206">
+  
+  <lemma>nume</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. numă? sf., olympo-wal. nume?, mgl. nume? sf., ir. nume?]</variants>
+  
+  <!-- Interpretation needed for numä -> numă?, nme -> nume?, numi -> nume?, lime -> nume? -->
+  
+  <definition>„Namen“</definition>
+  
+  <etymology source="Ps. Sch. 58, 12; Cod. Vor. };; Cron. Cant.; Varl. Caz. 1643 f. 197b; Cip. Gram. I, 217; Prince. 138; Meyer-Lübke: Rom. Gramm. II, § 15">
+    
+    <etymon lang="Lat">NOMEN</etymon>
+    : 
+    <!-- Assuming CNOMEX -> NOMEN -->
+    
+    <cognates>
+      
+      <form lang="it">nome</form>
+      , 
+      <form lang="pt">nome</form>
+      , 
+      <!-- Assuming pg. -> pt -->
+      
+      <form lang="it-AQUI-OLD">nume</form>
+      , 
+      <form lang="vec-OLD">nume</form>
+      , 
+      <!-- Assuming a.-aquil. a.-ven. -> it-AQUI-OLD, vec-OLD -->
+      
+      <form lang="rgn">lómna?</form>
+      , 
+      <!-- Interpretation needed for lomina -->
+      
+      <form lang="sc-OLD">numen</form>
+      , 
+      <!-- Assuming a.sard. -> sc-OLD -->
+      
+      <form lang="sc-L">lumene</form>
+      , 
+      <form lang="sc-C">nòmene?</form>
+      , 
+      <!-- Assuming n.sard. l. -> sc-L, c. no-mini -> nòmene? -->
+      
+      <form lang="roh-ENG">nom</form>
+      , 
+      <form lang="oc">nom</form>
+      , 
+      <form lang="fr">nom</form>
+      , 
+      <form lang="ca">nom</form>
+      , 
+      <!-- Assuming eng. pv. frz, cat. -> roh-ENG, oc, fr, ca -->
+      
+      <form lang="es">nombre</form>
+      .
+
+    </cognates>
+     Die Mehrzahl, heute der Einzahl gleich, hieß alt-rum. 
+    <form lang="ro-OLD">numere</form>
+     
+    <source_ref>Ps. Sch. 58, 12, Cod. Vor. },;, Cron. Cant., Varl. Caz. 1643 f. 197b. etc.</source_ref>
+    , neben 
+    <form lang="ro-OLD">numere?</form>
+     und 
+    <form lang="ro-OLD">numene</form>
+     
+    <source_ref>Cip. Gram. I, 217, Prince. 138</source_ref>
+    . 
+    <!-- Interpretation needed for lumere -> numere? -->
+     Letztere Form weist auf 
+    <etymon lang="Lat">NOMINA</etymon>
+    . In den anderen wird n &gt; r durch Dissimil. entstanden sein, obwohl auch ein 
+    <etymon lang="Lat">*NOMERA</etymon>
+    : 
+    <form lang="it">nomora?</form>
+     ‚möglich wäre (vgl. Meyer-Lübke: Rom. Gramm. II, § 15). Der Übergang von o &gt; u ist unregelmäßig (auch im A.-aquil. und A.-ven.). Er erklärt sich wohl durch eine Vermischung mit 
+    <etymon lang="Lat">NUMERUS</etymon>
+    . Diese trat zunächst beim Vb. 
+    <etymon lang="Lat">NOMINARE</etymon>
+     und 
+    <etymon lang="Lat">NUMERARE</etymon>
+     &gt; 
+    <form>număra</form>
+     ein, welches dann nach sich auch 
+    <form>numere</form>
+     „Namen“ = 
+    <form>numere</form>
+     „Zahlen“ zog, woraus wieder im Sing. 
+    <form>nume</form>
+    . — „Vorname“ heißt im Ar. 
+    <form lang="ro-AR">paranume?</form>
+    . 
+    <!-- Interpretation needed for paranıınd -->
+    
+  </etymology>
+  
+</entry>

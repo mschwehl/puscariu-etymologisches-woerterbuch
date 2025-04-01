@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="841">
+  
+  <lemma>înfig</lemma>
+  
+  <!-- Assuming îufig -> înfig -->
+  
+  <principal_parts>-ipsei?, -ipt?</principal_parts>
+  
+  <!-- Interpretation needed for -psei, -ptl -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (în)figu?, -pău?, -ptu? III, II]</variants>
+  
+  <!-- Interpretation needed for (n)ligu -> (în)figu?, -pău, -ptu -->
+  
+  <definition>„hineinstecken, hineinhalten“</definition>
+   
+  <!-- Assuming hineinhelten -> hineinhalten -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">INFIGO, -XI, -CTUM, -GERE</etymon>
+    : 
+    <!-- Assuming [iv]rico, -xı. -crun -> INFIGO, -XI, -CTUM -->
+    
+    <cognates>
+      
+      <form lang="it">(in)figgere</form>
+      , (sonst im Rom. nur noch 
+      <etymon lang="Lat">INFIXUS, -A, -UM?</etymon>
+       erhalten: 
+      <!-- Assuming [ix|ricrus, -a, var -> INFIXUS, -A, -UM? -->
+      
+      <form lang="it">fitto</form>
+      , 
+      <!-- Assuming flfo -> fitto -->
+      
+      <form lang="pms">fit</form>
+      ,
+
+      <form lang="lmo">fit</form>
+      ,
+
+      <form lang="roh-ENG">fitta?</form>
+      , 
+      <!-- Interpretation needed for fitta -->
+      
+      <form lang="es">hito</form>
+       „schwarz“?, 
+      <!-- Meaning "schwarz" likely incorrect for hito -->
+      
+      <form lang="pt">fito</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

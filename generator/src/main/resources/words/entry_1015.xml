@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1015">
+  
+  <lemma>mai</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. ma, mgl. ir. =]</variants>
+  
+  <!-- Interpretation needed for > -> = -->
+  
+  <definition>„noch, mehr, beinahe‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MAGIS</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">mai, ma</form>
+      ,
+
+      <form lang="roh-ENG">ma</form>
+      ,
+
+      <form lang="oc">mais</form>
+      , 
+      <form lang="fr">mais</form>
+      , 
+      <!-- Assuming pv. frz. -> oc, fr -->
+      
+      <form lang="ca">mai?</form>
+      , 
+      <!-- Interpretation needed for may -->
+      
+      <form lang="es">mas</form>
+      , 
+      <form lang="pt">mas</form>
+      . 
+      <!-- Assuming sp. pg. -> es, pt -->
+      
+    </cognates>
+     — Daneben in allen drei Dialekten (auch 
+    <form lang="sq">më?</form>
+     
+    <form lang="el">μά</form>
+     
+    <form lang="hr">ma</form>
+    ) 
+    <form>ma</form>
+     „aber“. — 
+    <form>Mai</form>
+     vor einem Adj. dient zur Bildung des Komparativs. 
+    <!-- Interpretation needed for alb. ngr. kroat. -> sq, el, hr -->
+    
+  </etymology>
+  
+</entry>

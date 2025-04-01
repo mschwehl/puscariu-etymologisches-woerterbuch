@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="767">
+  
+  <lemma>ieri</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. a(i)eri, mgl. ir. ieri]</variants>
+  
+  <definition>„gestern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">HERI</etymon>
+    : 
+    <!-- Assuming <mert -> HERI -->
+    
+    <cognates>
+      
+      <form lang="it">ieri</form>
+      ,
+
+      <form lang="it-LAN?">ajere</form>
+      , 
+      <!-- Interpretation needed for lanc. -->
+      
+      <form lang="it-SIC">ajeri</form>
+      , 
+      <!-- Assuming sie. -> it-SIC -->
+      
+      <form lang="oc">er</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">hier</form>
+      ,
+
+      <form lang="ca-N">ahir</form>
+      ,
+
+      <form lang="es">ayer</form>
+      .
+
+    </cognates>
+     „Vorgestern” heißt 
+    <form>alaltăieri</form>
+     [mgl. 
+    <form lang="ro-MG">alaltăieri?</form>
+    , ir. 
+    <form lang="ro-IR">alaltăieri?</form>
+    ], wie 
+    <example lang="it">ieri l'altro</example>
+    , 
+    <example lang="fro">l'autrier</example>
+    . 
+    <!-- Assuming alaltă iert -> alaltăieri, oaltari -> alaltăieri?, oter -> alaltăieri?, Pautrier -> l'autrier -->
+    
+  </etymology>
+  
+</entry>

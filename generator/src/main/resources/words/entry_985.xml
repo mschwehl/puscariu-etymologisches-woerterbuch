@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="985">
+  
+  <lemma>lis</lemma>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„weiß“.</definition>
+  
+  <etymology source="Liubliana: Mäidan S. 114, 116; Papahagi: Megleno-Romînii, S. 171; Conv. lit. XXXIX, 53-54">
+    Bei 
+    <source_ref>Liubliana: Mäidan S. 114</source_ref>
+     finde ich: „
+    <example>Liseț? e [un cîne] lis în frunte (alb.)</example>
+    *“ 
+    <!-- Interpretation needed for Liseit -->
+     und ebenda S. 116 unter den Pferdenamen: 
+    <form>Lisu?</form>
+    . Auch Papahagi (
+    <source_ref>Megleno-Romînii, S. 171</source_ref>
+    ) erwähnt ein mgl. 
+    <form lang="ro-MG">Lisa</form>
+     als Name von Hündinnen, Schafen. Das rum. Wort könnte direkt aus griech. 
+    <etymon lang="el">λισσός</etymon>
+     „glatt“ (vgl. 
+    <form>blank</form>
+     u. 
+    <form lang="it">bianco</form>
+    ) stammen, 
+    <!-- Assuming Awuss -> λισσός -->
+     doch das griech. Wort ist wahrscheinlich zuerst ins Vulgärlat. als 
+    <etymon lang="Lat">*LISSUS, -A, -UM?</etymon>
+     aufgenommen worden 
+    <!-- Assuming *urssus -> *LISSUS? -->
+     und von da aus nicht nur ins Rum. gedrungen, sondern es ist als Grundlage auch für 
+    <form lang="it">liscio</form>
+     „glatt“, 
+    <form lang="it-SIC">lișu?</form>
+    , 
+    <form lang="oc">lis</form>
+    , 
+    <form lang="fr">lisse</form>
+    , vgl. 
+    <form lang="es">alisar</form>
+     vorauszusetzen. 
+    <!-- Assuming liSu -> lișu?, Eis -> lis -->
+     In diesem Falle muß man annehmen, daß dem griech. ι zwar ein geschlossenes aber kurzes ī entsprochen hat, sonst hätte man rum. 
+    <form>*les</form>
+     oder 
+    <form>*ris</form>
+    . 
+    <reference type="bibliographic">Conv. lit. XXXIX, 53—54.</reference>
+    
+  </etymology>
+  
+</entry>

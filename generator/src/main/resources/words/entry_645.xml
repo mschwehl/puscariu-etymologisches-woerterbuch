@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="645">
+  
+  <prefix>I</prefix>
+  
+  <lemma>freămăt</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>„Geräusch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FREMITUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">fremito</form>
+      ,
+
+      <form lang="es">fremito</form>
+      ,
+
+      <form lang="pt">fremito</form>
+      ,
+
+      <form lang="fro">friente</form>
+      . 
+      <!-- Assuming a.-irz. -> fro -->
+      
+    </cognates>
+     Auch
+
+    <form>vreamăt</form>
+     sm. durch Kontamination mit
+
+    <form>vreme</form>
+     „Wetter, Gewitter“.
+
+  </etymology>
+  
+</entry>

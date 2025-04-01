@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1231">
+  
+  <lemma>ospătez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„bewirten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*HOSPITO, -ARE</etymon>
+     (
+    <etymon lang="Lat">HOSPITARI</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="sc-C">ospedai?</form>
+      , 
+      <!-- Interpretation needed for sard. e. ospedai -->
+      
+      <form lang="es">hospedar</form>
+      , 
+      <form lang="pt">hospedar</form>
+       „bewirten“.
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

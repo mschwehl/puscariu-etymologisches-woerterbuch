@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1255">
+  
+  <lemma>pănură</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Tuch“</definition>
+   
+  <!-- Assuming Luch -> Tuch -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*PANNULA, -AM</etymon>
+     (für 
+    <etymon lang="Lat">PANNULUS</etymon>
+    ). Im Rom. nur 
+    <etymon lang="Lat">PANNUS</etymon>
+    : 
+    <!-- Assuming Ce vasta -> *PANNULA, pasniLus -> PANNULUS -->
+    
+    <cognates>
+      
+      <form lang="it">panno</form>
+      ,
+
+      <form lang="roh-ENG">pan</form>
+      , 
+      <form lang="oc">pan</form>
+      , 
+      <form lang="fro">pan</form>
+      , 
+      <!-- Assuming eng. pv. a.-frz. -> roh-ENG, oc, fro -->
+      
+      <form lang="es">paño</form>
+      . 
+      <!-- Assuming pano -> paño -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. mintilă?, Neolog.].</variants>
+  
+  <!-- Interpretation needed for mintilä -->
+  
+</entry>

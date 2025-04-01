@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1288">
+  
+  <lemma>pătlagină</lemma>
+  
+  <!-- Assuming pätlägine -> pătlagină -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Wegerich“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PLANTAGO, -INEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">piantaggine</form>
+      ,
+
+      <form lang="it-TREV?">piantàsene?</form>
+      , 
+      <!-- Interpretation needed for trev. piantäsene -->
+      
+      <form lang="fur">plantain?</form>
+      , 
+      <!-- Interpretation needed for Irl. plantati -->
+      
+      <form lang="fr">plantain</form>
+      ,
+
+      <form lang="es">llantén</form>
+      , 
+      <!-- Interpretation needed for lanten -->
+      
+      <form lang="pt">tanchagem</form>
+      . 
+      <!-- Interpretation needed for tanchagen -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

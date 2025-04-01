@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="740">
+   
+  <!-- Assuming 140 -> 740 -->
+  
+  <lemma>grîu</lemma>
+  
+  <!-- Assuming grîi -> grîu -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. grîn?, gări?, går?, mgl. grîu?, ir. grîu?]</variants>
+  
+  <!-- Interpretation needed for grăn, gări, gär, gron -> grîu?, gräwu -> grîu? -->
+  
+  <definition>„Korn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GRANUM</etymon>
+    : 
+    <!-- Assuming GRrANUM -> GRANUM -->
+    
+    <cognates>
+      
+      <form lang="it">grano</form>
+      ,
+
+      <form lang="es">grano</form>
+      ,
+
+      <form lang="roh-ENG">grân?</form>
+      , 
+      <!-- Assuming gro -> grân? -->
+      
+      <form lang="oc">gra</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">gra</form>
+      ,
+
+      <form lang="fr">grain</form>
+      , 
+      <!-- Assuming îrz. -> fr -->
+      
+      <form lang="pt">grão</form>
+      . 
+      <!-- Assuming Pg. grâo -> grão -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

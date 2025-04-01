@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1114">
+  
+  <lemma>muchie</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. muchie? W., mgl. muchie?]</variants>
+  
+  <!-- Interpretation needed for mucle -> muchie?, muclă -> muchie? -->
+  
+  <definition>„Kante“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MUTULUS, -UM?</etymon>
+     „Sparrenkopf“? 
+    <!-- Assuming nu-z|üLus -> MUTULUS -->
+    
+  </etymology>
+  
+</entry>

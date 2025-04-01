@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1184">
+  
+  <lemma>nițel</lemma>
+  
+  <!-- Assuming nifel -> nițel -->
+  
+  <feminine_neuter>nițică</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„wenig“.</definition>
+  
+  <etymology source="O. Densusianu, Rom. XXXIII, 79; Verfassers Lat. Ti und Ki">
+    Etymologie unbekannt. O. Densusianu, Rom. XXXIII, 79 sieht darin alb. 
+    <example lang="sq">një çikë</example>
+     „ein wenig‘ (eigtl. „ein Funke“), 
+    <!-- Assuming ne tăike -> një çikë -->
+     woraus 
+    <form>nițică</form>
+    , wozu wieder das masc. 
+    <form>nițel</form>
+    . Doch bleibt dabei der Übergang von 
+    <phon>tš &gt; ț</phon>
+     unerklärt. 
+    <!-- Assuming f5 > îs -> tš > ț -->
+     Das Wort kann, wie die Nebenform 
+    <form>nicuț?, -ă</form>
+     zeigt, kaum vom sic. 
+    <form lang="it-SIC">nicu, nicareddu?</form>
+     „klein“, abruzz. 
+    <form lang="it-ABR">nikke, nikule?</form>
+     „wenig“ getrennt werden. 
+    <!-- Assuming nicüf -> nicuț?, nikaru -> nicareddu?, nike, nilkke -> nikke -->
+     Denkbar ist, daß der Begriff „klein, wenig“ bei diesem Worte ursprünglich nur bei Zeitangaben gebraucht wurde. In dieser Verwendung würde es dann ein 
+    <etymon lang="Lat">*NICILLUM?</etymon>
+     voraussetzen, woraus, nach Verfassers Lat. Ti und Ki, sowohl das kurze, als auch das lange k im Ital. und das ț im Rum. (
+    <form>nițel</form>
+     = 
+    <form>*niț</form>
+     + Diminutivsuff. 
+    <suffix>-el</suffix>
+    ) erklärlich wäre. Das lat. Wort würde eine Ableitung von 
+    <etymon lang="Lat">NICO, -ARE</etymon>
+     „winken“ sein, indem „ein Wink“, ähnlich wie „ein Augenblick (= rum. 
+    <form>o clipă</form>
+    )“ die Kürze einer Zeitdauer bezeichnen kann. 
+    <!-- Assuming nifel -> nițel -->
+    
+  </etymology>
+  
+  <variants>[ar. nicămád?, năhamă?, năhamtă?, niliamătă? etc.).</variants>
+  
+  <!-- Interpretation needed for nikamäd, nähama, nähamtä, niliamätä -->
+  
+</entry>

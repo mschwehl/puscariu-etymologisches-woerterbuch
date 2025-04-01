@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="912">
+  
+  <lemma>jos</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. (în)jos?, mgl. (în)jos?, ir. jos?]</variants>
+  
+  <!-- Interpretation needed for (n)fos -> (în)jos?, (an)zos -> (în)jos?, 205 -> jos? -->
+  
+  <definition>„unten“</definition>
+  
+  <etymology source="Seelman: Aussprache, S. 330; Lindsay, II § 104">
+    
+    <etymon lang="Lat">DEORSUM</etymon>
+     (prorsum? Seelman: Aussprache, S. 330, Lindsay, II § 104. Vgl. 
+    <!-- Assuming prorsusr -> prorsum? -->
+    
+    <cognates>
+      
+      <form lang="it">giuso</form>
+      ,
+
+      <form lang="roh-OBW">jû?</form>
+      , 
+      <!-- Interpretation needed for d£u -->
+      
+      <form lang="fro">jus</form>
+      , 
+      <!-- Assuming a.-frz_ -> fro -->
+      
+      <form lang="es">ayuso</form>
+      , (&lt; 
+      <etymon lang="Lat">DEORSUM?</etymon>
+       nach 
+      <etymon lang="Lat">SUSUM</etymon>
+      )). 
+      <!-- Assuming <pıtsust -> DEORSUM? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

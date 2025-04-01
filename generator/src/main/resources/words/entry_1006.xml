@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1006">
+  
+  <lemma>lutos</lemma>
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsc -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„lehmig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUTOSUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming nwrösus -> LUTOSUS -->
+    
+    <cognates>
+      
+      <form lang="it">lutoso</form>
+      ,
+
+      <form lang="sc">lodosu?</form>
+      , 
+      <!-- Interpretation needed for ludosu -->
+      
+      <form lang="es">lodoso</form>
+      , 
+      <form lang="pt">lodoso</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

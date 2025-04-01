@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="947">
+  
+  <lemma>laț</lemma>
+  
+  <!-- Assuming Tat -> laț -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. laț?, mgl. =]</variants>
+  
+  <!-- Interpretation needed for aläts -> laț?, > -> = -->
+  
+  <definition>„Schlinge“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LAQUEUS, -UM</etymon>
+     (
+    <etymon lang="Lat">SAQUEUS?</etymon>
+    ): 
+    <!-- Assuming aces -> LAQUEUS, sAqurus -> SAQUEUS? -->
+    
+    <cognates>
+      
+      <form lang="sq">lak</form>
+      ,
+
+      <form lang="it">laccio</form>
+      ,
+
+      <form lang="it-SIC">lazzu?</form>
+      , 
+      <form lang="it-CAL">lazzu?</form>
+      , 
+      <form lang="it-LEC">lazzu?</form>
+      , 
+      <form lang="it-NAP">lazzu?</form>
+      , 
+      <form lang="sc">lazzu?</form>
+      , 
+      <!-- Interpretation needed for latssu -->
+      
+      <form lang="it-TAR?">lazze?</form>
+      , 
+      <form lang="it-CER?">lazze?</form>
+      , 
+      <form lang="it-BAR">lazze?</form>
+      , 
+      <!-- Interpretation needed for tarant. cerign. latsse -->
+      
+      <form lang="lmo-MIL">laz?</form>
+      , 
+      <!-- Interpretation needed for latss -->
+      
+      <form lang="lij-GEN">lau?</form>
+      , 
+      <!-- Interpretation needed for lau -->
+      
+      <form lang="it-TRIE">las</form>
+      ,
+
+      <form lang="roh-ENG">laț?</form>
+      , 
+      <!-- Interpretation needed for lată -->
+      
+      <form lang="oc">laç?</form>
+      , 
+      <!-- Interpretation needed for pv. latz -->
+      
+      <form lang="fro">laz</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="fr">lacs</form>
+      , 
+      <!-- Assuming n.-irz. -> fr -->
+      
+      <form lang="ca">llaç</form>
+      , 
+      <!-- Interpretation needed for Has -->
+      
+      <form lang="es">lazo</form>
+      ,
+
+      <form lang="pt">laço</form>
+      . 
+      <!-- Assuming laco -> laço -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

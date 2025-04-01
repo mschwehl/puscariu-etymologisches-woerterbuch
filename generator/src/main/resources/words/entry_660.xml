@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="660">
+  
+  <lemma>frupt</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ir. frupt]</variants>
+  
+  <senses>
+    
+    <sense>
+      
+      <usage_note>in</usage_note>
+       
+      <example>a mânca de frupt</example>
+       „Fleisch essen“,
+
+    </sense>
+    
+    <sense>
+      
+      <definition>
+        <form>frupt alb</form>
+         „geronnene Milch”
+      </definition>
+      
+    </sense>
+    
+  </senses>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FRUCTUS, -UM</etymon>
+    : 
+    <!-- Assuming rrtorus: -um -> FRUCTUS, -UM -->
+    
+    <cognates>
+      
+      <form lang="sq">fryt?</form>
+      , 
+      <!-- Interpretation needed for frät -->
+      
+      <form lang="roh-ENG">früt?</form>
+      , 
+      <!-- Interpretation needed for frät -->
+      
+      <form lang="it">frutto</form>
+      ,
+
+      <form lang="oc">fruch</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">fruit</form>
+      ,
+
+      <form lang="ca">fruit</form>
+      , 
+      <!-- Assuming fruyt -> fruit -->
+      
+      <form lang="es">fruto?</form>
+      , 
+      <!-- Interpretation needed for frucho -->
+      
+      <form lang="pt">fruto</form>
+      .
+
+    </cognates>
+     — Ar. 
+    <form lang="ro-AR">frutu?</form>
+     = 
+    <form lang="el">φροῦτο?</form>
+    .
+
+    <!-- Interpretation needed for frutu, yooüttor -->
+    
+  </etymology>
+  
+</entry>

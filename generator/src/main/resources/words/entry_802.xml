@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="802">
+  
+  <lemma>înalt</lemma>
+  
+  <!-- Assuming indtt -> înalt -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <!-- Assuming -& -> -ă -->
+  
+  <lemma_variants>(nalt)</lemma_variants>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. (a)naltu, mgl. nalt]</variants>
+   
+  <!-- Assuming mel. -> mgl. -->
+  
+  <definition>„hoch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">ALTUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming CALTUS -> ALTUS -->
+    
+    <cognates>
+      
+      <form lang="sq">(i) lartë?</form>
+      , 
+      <!-- Interpretation needed for nalte -->
+      
+      <form lang="it">alto</form>
+      ,
+
+      <form lang="es">alto</form>
+      ,
+
+      <form lang="pt">alto</form>
+      , 
+      <!-- Assuming pe. -> pt -->
+      
+      <form lang="it-SIC">autu</form>
+      , 
+      <!-- Assuming sic. -> it-SIC -->
+      
+      <form lang="roh-ENG">aut?</form>
+      , 
+      <!-- Interpretation needed for hot -->
+      
+      <form lang="fr">haut</form>
+      ,
+
+      <form lang="oc">aut</form>
+      , 
+      <!-- Assuming pv. auf -> aut -->
+      
+      <form lang="wa">ôt?</form>
+      , 
+      <!-- Interpretation needed for waatl. 9 -->
+      
+      <form lang="ca">alt</form>
+      .
+
+    </cognates>
+     Die rum.-alb. Form muß ursprünglich Adverbium 
+    <etymon lang="Lat">IN ALTO</etymon>
+     gewesen sein, vgl. auch 
+    <form lang="oc">naut</form>
+    . 
+    <!-- Assuming ıx -> IN, pv. -> oc -->
+    
+  </etymology>
+  
+</entry>

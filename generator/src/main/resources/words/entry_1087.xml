@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1087">
+  
+  <lemma>mînie</lemma>
+  
+  <lemma_variants>(mănie)</lemma_variants>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming si. -> sf. -->
+  
+  <definition>„Groll, Zorn“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MANIA, -AM</etymon>
+     (= 
+    <etymon lang="el">μανία</etymon>
+    ): 
+    <!-- Assuming pawvia -> μανία -->
+    
+    <cognates>
+      
+      <form lang="sq">mëri?</form>
+       „dass.“, 
+      <!-- Interpretation needed for meni -->
+      
+    </cognates>
+     sonst im Rom. gelehrt. — Davon 
+    <form>mă mînii</form>
+     I vb. [ir. 
+    <form lang="ro-IR">mă mînii?</form>
+    ] „ärgere mich, zürne“. 
+    <!-- Interpretation needed for monu -> mă mînii? -->
+    
+  </etymology>
+  
+</entry>

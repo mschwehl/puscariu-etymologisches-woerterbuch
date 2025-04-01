@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="758">
+   
+  <!-- Assuming 758 -->
+  
+  <lemma>iarnă</lemma>
+  
+  <!-- Assuming îdrnă -> iarnă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. m.?, iarnă?, mgl. iarnă, ir. iarnă?]</variants>
+  
+  <!-- Interpretation needed for far. m, iară, jorne -->
+  
+  <definition>„Winter“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. II, § 391">
+    
+    <etymon lang="Lat">HIBERNUM</etymon>
+     (scil. 
+    <etymon lang="Lat">TEMPUS</etymon>
+    : 
+    <example lang="fro">en iver temps</example>
+    ; verdrängt das Wort 
+    <etymon lang="Lat">HIEMS</etymon>
+     gänzlich. Das weibl. Geschlecht des rum. Wortes erklärt sich durch Angleichung an die übrigen Jahreszeiten. Meyer-Lübke: Rom. Gramm. II, § 391): 
+    <!-- Assuming "hiver -> iver -->
+    
+    <cognates>
+      
+      <form lang="it">(in)verno</form>
+      ,
+
+      <form lang="sc">ierru</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-OBW">enviern?</form>
+      , 
+      <!-- Interpretation needed for unviarn -->
+      
+      <form lang="oc">ivern</form>
+      , 
+      <!-- Assuming PY. -> oc -->
+      
+      <form lang="fr">hiver</form>
+      ,
+
+      <form lang="es">invierno</form>
+      ,
+
+      <form lang="pt">inverno</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

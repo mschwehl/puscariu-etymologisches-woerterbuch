@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="974">
+  
+  <lemma>lînă</lemma>
+  
+  <!-- Assuming Tind -> lînă -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. =, mgl. lînă?, ir. lînă?]</variants>
+  
+  <!-- Interpretation needed for >, lonă -> lînă?, läre -> lînă? -->
+  
+  <definition>„Wolle“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LANA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">lana</form>
+      , 
+      <form lang="oc">lana</form>
+      , 
+      <form lang="es">lana</form>
+      , 
+      <!-- Assuming pv. sp. -> oc, es -->
+      
+      <form lang="fur">lană?</form>
+      , 
+      <!-- Interpretation needed for lane -->
+      
+      <form lang="roh-ENG">launa?</form>
+      , 
+      <!-- Interpretation needed for launa -->
+      
+      <form lang="fr">laine</form>
+      , 
+      <!-- Assuming lame -> laine -->
+      
+      <form lang="frp-WALD">lare</form>
+      , 
+      <!-- Interpretation needed for wald. -->
+      
+      <form lang="oc-GAS">laà?</form>
+      , 
+      <!-- Interpretation needed for laa -->
+      
+      <form lang="ca">llana</form>
+      ,
+
+      <form lang="pt">lã</form>
+      . 
+      <!-- Assuming lâa -> lã -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

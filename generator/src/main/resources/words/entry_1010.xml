@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1010">
+  
+  <lemma>măciucă?</lemma>
+  
+  <!-- Assuming mătădeu -> măciucă? -->
+  
+  <scope>mgl.</scope>
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming sm. -> sf. based on definition and cognates -->
+  
+  <definition>„Keule“</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, 153">
+    
+    <etymon lang="Lat">*MATTEA + UCCUS/UCA?</etymon>
+     (
+    <reference type="bibliographic">Verfassers: Lat. Ti u. Ki, 153</reference>
+    ): 
+    <!-- Assuming *marrzocus, -um -> *MATTEA + UCCUS/UCA? -->
+    
+    <cognates>
+      
+      <form lang="it">mazzocco</form>
+      ,
+
+      <form lang="vec">mazzocca?</form>
+      , 
+      <!-- Interpretation needed for matssok(ol)a -->
+      
+      <form lang="it-SIC">mazzocculu?</form>
+       „specie di martello“, 
+      <!-- Interpretation needed for matzökkulu -->
+      (vgl. 
+      <form lang="fur">mazzocca?</form>
+      , 
+      <form lang="es">mazo</form>
+       „Schlägel“). 
+      <!-- Interpretation needed for îrl. matssotsa -> mazzocca?, mazocho -> mazo -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

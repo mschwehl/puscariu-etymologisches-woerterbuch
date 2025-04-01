@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1329">
+  
+  <lemma>plac</lemma>
+  
+  <principal_parts>plăcui, plăcut</principal_parts>
+  
+  <!-- Assuming -üi, -üt -> plăcui, plăcut -->
+  
+  <verb_class>II</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. plac]</variants>
+  
+  <definition>„gefallen, gerne haben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PLACEO, -UI, -ITUM, -ERE</etymon>
+    : 
+    <!-- Assuming -ker -> -ERE -->
+    
+    <cognates>
+      
+      <form lang="sq">pëlqen?</form>
+      , 
+      <!-- Interpretation needed for pelken -->
+      
+      <form lang="it">piacere</form>
+      ,
+
+      <form lang="roh-ENG">plaschair?</form>
+      , 
+      <!-- Interpretation needed for plasair -->
+      
+      <form lang="oc">plazer</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">plaisir, plaire</form>
+      , 
+      <!-- Assuming fvz. plaisiv -> plaisir -->
+      
+      <form lang="es">placer</form>
+      ,
+
+      <form lang="pt">prazer</form>
+      . 
+      <!-- Assuming plazer -> prazer -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>[Nach P. existiert ar. plac jetzt nicht mehr.]</usage_note>
+  
+</entry>

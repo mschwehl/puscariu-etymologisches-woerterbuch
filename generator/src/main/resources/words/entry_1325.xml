@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1325">
+  
+  <lemma>pisez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. pisez?]</variants>
+  
+  <!-- Interpretation needed for Kisedzu -->
+  
+  <definition>„zerstampfen‘‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PINSO, -ARE?</etymon>
+    : 
+    <!-- Assuming rilx]so -> PINSO? -->
+    
+    <cognates>
+      
+      <form lang="it-CAL">pisare</form>
+      ,
+
+      <form lang="it-CAM?">pesà?</form>
+      , 
+      <!-- Interpretation needed for campob. pesd -->
+      
+      <form lang="lmo-BERG">pisà?</form>
+      , 
+      <!-- Interpretation needed for berg. pisa -->
+      
+      <form lang="roh-ENG">pisar?</form>
+      , 
+      <!-- Interpretation needed for pizâr -->
+      
+      <form lang="oc">pisar</form>
+      , 
+      <!-- Interpretation needed for pv. pizär -> pisar -->
+      
+      <form lang="fr">piser</form>
+      ,
+
+      <form lang="es">pisar</form>
+      , 
+      <form lang="pt">pisar</form>
+      . 
+      <!-- Interpretation needed for sp. pă. pisär -> pisar -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

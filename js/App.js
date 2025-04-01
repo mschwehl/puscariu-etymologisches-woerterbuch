@@ -87,10 +87,6 @@ export default {
         <img src="https://pngimg.com/uploads/github/github_PNG40.png" alt="GitHub" class="w-6 h-6">
       </a>
 
-      <!-- Support Link -->
-      <a href="https://www.sprachenlernen24.de/rumaenisch-lernen/?id=MT132514" target="_blank" rel="noopener noreferrer" class="text-sm text-green-400 hover:underline">
-        Lerne Rumänisch!
-      </a>
     </div>
   </div>
 </nav>

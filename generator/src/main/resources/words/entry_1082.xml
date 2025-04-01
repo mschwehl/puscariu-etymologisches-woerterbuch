@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1082">
+  
+  <lemma>minciună</lemma>
+  
+  <!-- Assuming mincinină -> minciună -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. minciună? W. minciună? P., mgl. minciună?]</variants>
+  
+  <!-- Interpretation needed for mintSune -> minciună?, mintsunä -> minciună?, mintsuni -> minciună? -->
+  
+  <definition>„Lüge“</definition>
+  
+  <etymology source="DuCange; Zeitschrift rom. Phil. XXVII, 743">
+    
+    <etymon lang="Lat">MENTIO, -ONEM</etymon>
+     (= 
+    <etymon lang="el">ψευδής καὶ ψεύστης?</etymon>
+     in Glossen, vgl. 
+    <etymon lang="Lat">MENTIOSUS</etymon>
+    , 
+    <etymon lang="Lat">MENTIONARIUS</etymon>
+     = 
+    <etymon lang="Lat">mendax</etymon>
+     DuCange, vgl. 
+    <form lang="fr">mensonge</form>
+    , 
+    <form lang="oc">menzonga</form>
+    , 
+    <form lang="ca-VAL">mensonja</form>
+     etc.). 
+    <reference type="bibliographic">Zeitschrift rom. Phil. XXVII, 743.</reference>
+     
+    <!-- Assuming drduvros xai wedua -> ψευδής καὶ ψεύστης?, valenc. -> ca-VAL -->
+    
+  </etymology>
+  
+</entry>

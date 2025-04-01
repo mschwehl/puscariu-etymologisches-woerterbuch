@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="754">
+  
+  <lemma>ieduț?</lemma>
+  
+  <!-- Assuming idädd -> ieduț? -->
+  
+  <pos>sm?</pos>
+   
+  <!-- Assuming sf? based on ending -->
+  
+  <reference type="see">
+    vgl. 
+    <targetLemma>ied</targetLemma>
+    .
+  </reference>
+  
+</entry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1048">
+  
+  <lemma>mațe</lemma>
+  
+  <!-- Assuming mäfe -> mațe -->
+  
+  <pos>sf. Pl.</pos>
+  
+  <lemma_variants>(auch maț sm. Sg. „Darm; Schlauch“)</lemma_variants>
+  
+  <variants>[ar. mață?, mațu?, mgl. mață?, maț?, ir. mațe?]</variants>
+  
+  <!-- Interpretation needed for matsă -> mață?, mafsu -> mațu?, matsä -> mață?, mats -> maț?, motse -> mațe? -->
+  
+  <definition>„Gedärme, Darm“</definition>
+  
+  <etymology source="C. Gl. l. V, 83; G. Meyer: Indogerm. Forsch. VI, 116ff.">
+    
+    <etymon lang="Lat">MATTEA?</etymon>
+     „Gedärme“ (C. Gl. l. V, 83: „
+    <example lang="la">intestina quae sordes emittunt, unde matiarii dicuntur, qui eadem tractant ac vendunt</example>
+    “, vgl. G. Meyer: Indogerm. Forsch. VI, 116ff.): 
+    <!-- Assuming maria -> MATTEA? -->
+    
+    <cognates>
+      
+      <form lang="it-NAP">mazze?</form>
+       „Eingeweide“, 
+      <!-- Interpretation needed for matsse -->
+      
+      <form lang="it-SIC">mazzuni?</form>
+       „Eingeweide der Ochsen“, 
+      <!-- Interpretation needed for matssuni -->
+      
+      <form lang="sc-L">matta, mazza?</form>
+       (
+      <form lang="sc-L">matteutsu?, mazzamini?, mazzimini?, mattamine?</form>
+      ) „Eingeweide“. 
+      <!-- Interpretation needed for sard. l. matta, matssa (mattivutssu, matssâmini, matssimini, mattämine) -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

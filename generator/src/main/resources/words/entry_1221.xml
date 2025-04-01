@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1221">
+  
+  <prefix>+</prefix>
+  
+  <lemma>op</lemma>
+  
+  <pos>sm.</pos>
+  
+  <definition>
+    in der Verbindung 
+    <example>e op</example>
+     „es ist nötig“
+  </definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">OPUS</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">uopo?</form>
+      , 
+      <!-- Interpretation needed for wopo -->
+      
+      <form lang="sc-L">obus</form>
+      , 
+      <!-- Assuming sard. l. -> sc-L -->
+      
+      <form lang="oc">ops</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">ues</form>
+      , 
+      <!-- Assuming a.-frz. wes -> ues -->
+      
+      <form lang="es">huebos?</form>
+      . 
+      <!-- Interpretation needed for hitebos -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

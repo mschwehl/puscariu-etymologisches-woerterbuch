@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="653">
+  
+  <lemma>frînghie</lemma>
+   
+  <!-- Assuming fringhie -> frînghie -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ban. frimbie?, Zanne: Proverbele Romînilor II, 152]</variants>
+  
+  <!-- Interpretation needed for frimbie -->
+  
+  <definition>„Seil“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FIMBRIA, -AM?</etymon>
+    : 
+    <!-- Assuming rimBRia, -AN -> FIMBRIA, -AM? -->
+    
+    <cognates>
+      
+      <form lang="oc">fremnha?</form>
+      , 
+      <!-- Interpretation needed for pv. fremnha -->
+      
+      <form lang="fr">frange</form>
+      .
+
+    </cognates>
+     Aus dem Rum. stammt
+
+    <lang>mhr.</lang>
+     frembia?, 
+    <!-- Interpretation needed for frembia -->
+    
+    <lang>ukr.-KRUS?"&gt;frembija?</lang>
+    . 
+    <!-- Interpretation needed for kruss. frembija -->
+    
+  </etymology>
+  
+  <variants>[ar. fune].</variants>
+  
+</entry>

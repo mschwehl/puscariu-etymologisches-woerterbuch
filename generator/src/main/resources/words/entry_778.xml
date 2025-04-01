@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="778">
+   
+  <!-- Assuming 118 -> 778 -->
+  
+  <lemma>îmbin</lemma>
+  
+  <!-- Assuming imbin -> îmbin -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„vereinigen“</definition>
+  
+  <etymology source="Dens. H. l. r. 228">
+    
+    <etymon lang="Lat">*IN-BINO, -ARE</etymon>
+     (Wie 
+    <etymon lang="Lat">COM-BINO</etymon>
+    , vgl. 
+    <etymon lang="Lat">*AD-BINO</etymon>
+    : 
+    <!-- Assuming #ap-Bixo -> *AD-BINO -->
+    
+    <cognates>
+      
+      <form lang="it-TIR">abinà?</form>
+      , 
+      <!-- Interpretation needed for tir, abine -->
+      
+      <form lang="roh-ENG">abinar?</form>
+       
+      <!-- Interpretation needed for abbiner -->
+      
+    </cognates>
+     Dens. H. l. r. 228):
+
+    <cognates>
+      
+      <form lang="fur">imbina</form>
+       „unire . . due... cose in uno“. 
+      <!-- Assuming frl. -> fur -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. amestec? I „bl.“].</variants>
+   
+  <!-- Interpretation needed for ameastic, bl. -->
+   — Dazu 
+  <form>dezbin</form>
+   I „entzweien, trennen‘, vgl. 
+  <form lang="sq">zbanoj?</form>
+   „jagen“. 
+  <!-- Interpretation needed for dzbon -->
+  
+</entry>

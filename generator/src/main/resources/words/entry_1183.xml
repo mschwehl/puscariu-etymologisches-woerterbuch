@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1183">
+  
+  <lemma>ning</lemma>
+  
+  <principal_parts>ninsei, nins</principal_parts>
+  
+  <!-- Assuming -nsei, -ns -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„schneien“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NINGO, -NXI, -NGERE</etymon>
+    .
+
+  </etymology>
+  
+  <variants>[ar. da neao].</variants>
+  
+</entry>

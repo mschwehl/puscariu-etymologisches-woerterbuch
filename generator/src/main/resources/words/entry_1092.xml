@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1092">
+  
+  <lemma>mînz</lemma>
+  
+  <!-- Assuming nıinz -> mînz -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mânzu?, mgl. mânz?]</variants>
+  
+  <!-- Interpretation needed for mändzu -> mânzu?, mondz -> mânz? -->
+  
+  <definition>„Fohlen“</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, S. 49-50">
+    
+    <etymon lang="Lat">*MANDIUS, -UM</etymon>
+     (von 
+    <etymon lang="Lat">MANDERE</etymon>
+     vgl. Verfassers: Lat. Ti u. Ki, S. 49—50):
+
+    <cognates>
+      
+      <form lang="sq">mëz</form>
+      , 
+      <!-- Interpretation needed for alb, t. ses -> g. maz -->
+      
+      <form lang="sq">mazat?</form>
+       (rum. 
+      <form>mânzat</form>
+      ) „junger Stier“, 
+      <!-- Interpretation needed for ma(e)zat -->
+      
+      <form lang="sc-L">manzu</form>
+       „giovenco“, 
+      <!-- Assuming sard. l. -> sc-L -->
+      
+      <form lang="it">manzo</form>
+       „giovine torello ancora mansueto o reso tale colla evirazione“,
+
+      <form lang="lmo-COM">manza?</form>
+       „junge Kuh“, 
+      <!-- Interpretation needed for comask, sanza -->
+      
+      <form lang="co">mandzonu?</form>
+       „sopranome di bue“, 
+      <!-- Interpretation needed for ımandzonw -->
+      
+      <form lang="lmo-BER-OLD">manz?</form>
+       „juvencus“, 
+      <form lang="lmo-BER-OLD">manza?</form>
+       „juvenca“, 
+      <!-- Interpretation needed for a.-berg. mandz, mandza -->
+      
+      <form lang="vec-TRI">manzo</form>
+       „junger Ochs“,
+
+      <form lang="rm-GRD?">manz?</form>
+       „Stier, 
+      <form lang="rm-GRD?">manza?</form>
+       „weibliches Kalb“ 
+      <!-- Interpretation needed for grödn. mants, manzä -->
+      (
+      <form lang="gmh-BAY?">manz, menz</form>
+       „sterilis vacca“, 
+      <form lang="de-RHEIN?">Minzekalb</form>
+       „juvenca“). 
+      <!-- Interpretation needed for bair. manz, menz, rheinländ. minzekalb -->
+      
+    </cognates>
+     Das Ar. kennt neben 
+    <form lang="ro-AR">mîndz?</form>
+     auch 
+    <form lang="ro-AR">mîngu?</form>
+     das offenbar zu 
+    <etymon lang="Lat">MANDUCARE?</etymon>
+     „essen‘ gehört. 
+    <!-- Interpretation needed for mindz -> mîndz?, mingare -> MANDUCARE? -->
+    
+  </etymology>
+  
+</entry>

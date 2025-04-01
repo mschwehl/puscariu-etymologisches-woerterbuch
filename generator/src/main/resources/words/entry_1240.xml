@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1240">
+  
+  <lemma>păduche</lemma>
+  
+  <!-- Assuming pädiche -> păduche -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. piduche?, biduche? (Thessal.), mgl. piduche, biduclu?, ir. păduche?]</variants>
+  
+  <!-- Interpretation needed for piductu -> piduche?, biductu -> biduche?, biduelu -> biduclu?, peduefw -> păduche? -->
+  
+  <definition>„Laus“</definition>
+  
+  <etymology source="Dens. H. l. r. 161">
+    
+    <etymon lang="Lat">PEDUC[U]LUS, -UM</etymon>
+     (für 
+    <etymon lang="Lat">PEDICULUS</etymon>
+    ; Belege bei Dens. H. l. r. 161): 
+    <!-- Assuming penicți]Lus -> PEDUC[U]LUS -->
+    
+    <cognates>
+      
+      <form lang="it">pidocchio</form>
+      ,
+
+      <form lang="vec">peòcio?</form>
+      , 
+      <!-- Interpretation needed for peotăo -->
+      
+      <form lang="fr">pou</form>
+      ,
+
+      <form lang="es">piojo</form>
+      ,
+
+      <form lang="pt">piolho</form>
+      
+    </cognates>
+     (
+    <form lang="it-CAL">peducchia?</form>
+     
+    <form lang="it-TAR?">peducchia?</form>
+     ist fem.). 
+    <!-- Interpretation needed for pedukkia -->
+     — Der Übergang in die III. Dekl. geschah unter Einfluß von 
+    <form>purece</form>
+    . — Die „Wanze‘ heißt 
+    <form>păduche de lemn</form>
+    , vgl. deutsch „Wandlaus“.
+
+  </etymology>
+  
+</entry>

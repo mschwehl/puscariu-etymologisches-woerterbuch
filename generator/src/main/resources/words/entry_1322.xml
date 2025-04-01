@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1322">
+  
+  <lemma>pîntecos</lemma>
+  
+  <!-- Assuming pîntecds -> pîntecos -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. pîntecos?]</variants>
+  
+  <!-- Interpretation needed for pinticos -->
+  
+  <definition>„dickwanstig“</definition>
+   
+  <!-- Assuming dieckwanstig -> dickwanstig -->
+  
+  <etymology source="Servius in Verg. Aen. 3, 219">
+    
+    <etymon lang="Lat">PANTICOSUS, -A, -UM?</etymon>
+     (Servius in Verg. Aen. 3, 219). 
+    <!-- Assuming pAxTI-cösus, -A, -Tu -> PANTICOSUS, -A, -UM? -->
+    
+  </etymology>
+  
+</entry>

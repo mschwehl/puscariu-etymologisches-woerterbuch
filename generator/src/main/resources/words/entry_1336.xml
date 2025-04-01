@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1336">
+  
+  <lemma>plimb</lemma>
+  
+  <lemma_variants>(preumblu?)</lemma_variants>
+  
+  <!-- Interpretation needed for preimblu -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. primblu?, plimbu? (Fars.), mgl. preumblu?]</variants>
+  
+  <!-- Interpretation needed for primmu -> primblu?, plimbu, priamnu -> preumblu? -->
+  
+  <definition>„spazieren gehen, spazieren führen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PERAMBULO, -ARE</etymon>
+    .
+
+  </etymology>
+  
+</entry>

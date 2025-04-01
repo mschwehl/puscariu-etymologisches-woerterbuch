@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1012">
+  
+  <lemma>macru</lemma>
+  
+  <!-- Assuming midern -> macru -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <!-- Interpretation needed for > -> = -->
+  
+  <definition>„mager“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MACER, -CRA, -CRUM?</etymon>
+    : 
+    <!-- Assuming macer, -A, -Um -> MACER, -CRA, -CRUM? -->
+    
+    <cognates>
+      
+      <form lang="it">magro</form>
+      , 
+      <form lang="es">magro</form>
+      , 
+      <form lang="pt">magro</form>
+      ,
+
+      <form lang="roh-ENG">meger</form>
+      ,
+
+      <form lang="oc">magre</form>
+      , 
+      <form lang="ca">magre</form>
+      , 
+      <!-- Assuming pv. cat. -> oc, ca -->
+      
+      <form lang="fr">maigre</form>
+      .
+
+    </cognates>
+     Hierher gehört auch ar. 
+    <form lang="ro-AR">mărcat?</form>
+     sm. „sauere Milch“, aus 
+    <example lang="ro-AR">(lapte) *macrat?</example>
+    . 
+    <!-- Interpretation needed for mărcât -> mărcat?, "mäcrat -> *macrat? -->
+    
+  </etymology>
+  
+</entry>

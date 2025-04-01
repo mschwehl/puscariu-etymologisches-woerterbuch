@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="709">
+  
+  <lemma>gheață</lemma>
+  
+  <!-- Assuming gheätä -> gheață -->
+  
+  <lemma_variants>(ghiață?)</lemma_variants>
+  
+  <!-- Assuming ghiafü -> ghiață? -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. gliață?, ir. glodze?]</variants>
+  
+  <!-- Assuming glaisă -> gliață?, glotse -> glodze? -->
+  
+  <definition>„Eis“</definition>
+  
+  <etymology source="C. Gl. l. II, 54, 4">
+    
+    <etymon lang="Lat">GLACIA, -AM</etymon>
+     (C. Gl. l. II, 54, 4 etc. = 
+    <etymon lang="Lat">GLACIES, -EM</etymon>
+    ): 
+    <!-- Assuming auacıa -> GLACIA, cnacızs -> GLACIES -->
+    
+    <cognates>
+      
+      <form lang="it">ghiaccia?</form>
+      , 
+      <!-- Interpretation needed for ghiaceia -->
+      
+      <form lang="pms">giassa?</form>
+      , 
+      <!-- Interpretation needed for dzaca -->
+      
+      <form lang="lmo-BER">giața?</form>
+      , 
+      <!-- Interpretation needed for dZatsa -->
+      
+      <form lang="oc">glassa</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">glace</form>
+      .
+
+    </cognates>
+     Daneben auch
+
+    <form>îngheț?</form>
+     sm. [ar. mgl. gletsu] „Eis?“ 
+    <!-- Assuming inghef -> îngheț?, Bis -> Eis? -->
+     (
+    <etymon lang="Lat">*GLACIUM</etymon>
+     (Postverbal zu 
+    <etymon lang="Lat">GLACIARE</etymon>
+    ): 
+    <!-- Assuming *aacium -> *GLACIUM -->
+    
+    <cognates>
+      
+      <form lang="it">ghiaccio, diaccio</form>
+      ,
+
+      <form lang="it-SIC">ghiacciu?</form>
+      , 
+      <!-- Interpretation needed for jatssu -->
+      
+      <form lang="it-CER?">ghiacciu?</form>
+      , 
+      <!-- Interpretation needed for cerign. jatssu -->
+      
+      <form lang="it-NAP">ghiacco?</form>
+      , 
+      <!-- Interpretation needed for jat$$o -->
+      
+      <form lang="it-LAN?">ghiacce?</form>
+      , 
+      <!-- Interpretation needed for jatsse -->
+      
+      <form lang="lmo-GOMB?">ghiacce?</form>
+      , 
+      <!-- Interpretation needed for ggiatsse -->
+      
+      <form lang="it-SIL?">ghiacce?</form>
+      , 
+      <!-- Interpretation needed for biatsse -->
+      
+      <form lang="lmo-MIL">ghiacch?</form>
+      , 
+      <!-- Interpretation needed for diatss -->
+      
+      <form lang="rgn">ghiacch?</form>
+      , 
+      <!-- Interpretation needed for romg. diatss -->
+      
+      <form lang="vec-TRI">giazo?</form>
+      , 
+      <!-- Interpretation needed for jatso -->
+      
+      <form lang="it-TRIE">giats?</form>
+      , 
+      <!-- Interpretation needed for d£ats -->
+      
+      <form lang="co">ghelsu?</form>
+      , 
+      <!-- Interpretation needed for gelSsu -->
+      
+      <form lang="sc-SAS">latsu?</form>
+      , 
+      <!-- Interpretation needed for latssu -->
+      
+      <form lang="roh-ENG">glatsch?</form>
+      , 
+      <!-- Interpretation needed for glată -->
+      
+      <form lang="oc">glatz</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">glas</form>
+      ,
+
+      <form lang="ca">glas</form>
+      .
+
+    </cognates>
+    ).
+
+  </etymology>
+  
+</entry>

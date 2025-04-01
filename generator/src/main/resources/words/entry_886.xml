@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="886">
+  
+  <lemma>înting</lemma>
+  
+  <principal_parts>-inseĭ?, -ins</principal_parts>
+  
+  <!-- Assuming -nset -> -inseĭ? -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„eintunken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">[IN-]TINGO, -NXI, -NCTUM, -NGERE</etymon>
+    : 
+    <!-- Assuming [ms-]rIsGo, -vx1, -NCTUN -> [IN-]TINGO, -NXI, -NCTUM -->
+    
+    <cognates>
+      
+      <form lang="it">(in)tingere</form>
+      , 
+      <!-- Assuming (in)tignere -> (in)tingere -->
+      
+      <form lang="roh-ENG">teinder?</form>
+      , 
+      <!-- Interpretation needed for taindier -->
+      
+      <form lang="fr">teindre</form>
+      , 
+      <!-- Assuming Irz. -> fr -->
+      
+      <form lang="es">teñir</form>
+      , 
+      <!-- Assuming tenir -> teñir -->
+      
+      <form lang="pt">tingir</form>
+      . 
+      <!-- Assuming fingir -> tingir -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

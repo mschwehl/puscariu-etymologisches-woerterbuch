@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1179">
+  
+  <lemma>nici</lemma>
+  
+  <!-- Assuming niet -> nici -->
+  
+  <pos>conj.</pos>
+  
+  <variants>[ar. niți? W. P., ninți? W., mgl. niți?]</variants>
+  
+  <!-- Interpretation needed for nitsi, nintsi, nitsi -->
+  
+  <definition>„weder (— noch)“</definition>
+  
+  <etymology source="Dens. H. l. r. 164">
+    
+    <etymon lang="Lat">NEQUE</etymon>
+     
+    <!-- Assuming xäqur -> NEQUE -->
+    Die Verbindung 
+    <form>nici-un</form>
+     [ar. mgl. 
+    <form lang="ro-AR ro-MG">nici-un?</form>
+    , ir. 
+    <form lang="ro-IR">niciun?</form>
+    ] „keiner“ &lt; 
+    <etymon lang="Lat">NEQUE-UNUS</etymon>
+     (Dens. H. l. r. 164) entspricht der rom. Verbindung 
+    <etymon lang="Lat">NEC-UNUS</etymon>
+    :
+
+    <!-- Interpretation needed for nilsi-un -> nici-un?, nitsur -> niciun? -->
+    
+    <cognates>
+      
+      <form lang="lmo-BERG">nigü</form>
+      
+      <form lang="ist">ningun</form>
+      
+      <form lang="it-PAD">negun</form>
+      
+      <form lang="lmo-COM">negun</form>
+      
+      <form lang="oc">negun</form>
+       
+      <!-- Assuming pad. com. pv. -> it-PAD, lmo-COM, oc -->
+      
+      <form lang="es">ninguno</form>
+      
+      <form lang="pt">nenhum</form>
+       
+      <!-- Assuming nengum -> nenhum -->
+      
+    </cognates>
+    Auffallend ist ar. 
+    <form lang="ro-AR">necă?</form>
+     P. neben 
+    <form lang="ro-AR">niți?</form>
+     
+    <!-- Interpretation needed for necä -->
+    
+  </etymology>
+  
+</entry>

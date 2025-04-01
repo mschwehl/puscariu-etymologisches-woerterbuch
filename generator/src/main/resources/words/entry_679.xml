@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="679">
+  
+  <lemma>furceliță?</lemma>
+  
+  <!-- Assuming furced -> furceliță? based on meaning and -ella -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„kleine Gabel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FURCILLA, -AM</etymon>
+     oder 
+    <etymon lang="Lat">*-ELLA, -AM</etymon>
+    : 
+    <!-- Assuming rürciLna -> FURCILLA -->
+    
+    <cognates>
+      
+      <form lang="it">forcella</form>
+      ,
+
+      <form lang="sc">furkidda</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="oc">forsela</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">fourcelle</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. furculitsă].</variants>
+  
+  <!-- Interpretation needed for furculitsă -->
+  
+</entry>

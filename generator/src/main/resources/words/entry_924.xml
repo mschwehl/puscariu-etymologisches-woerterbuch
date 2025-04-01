@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="924">
+   
+  <!-- Assuming junfce -> 924? -->
+  
+  <lemma>junice</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Färse“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IUNIX, -ICEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it-SIC">giunitsa?</form>
+      , 
+      <!-- Interpretation needed for dZinitsa -->
+      
+      <form lang="rm-POSCH">junisa?</form>
+      , 
+      <!-- Interpretation needed for dZoniSa -->
+      
+      <form lang="lmo-BLE?">junisa?</form>
+      . 
+      <!-- Interpretation needed for blen. Znisa -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. bică].</variants>
+  
+</entry>

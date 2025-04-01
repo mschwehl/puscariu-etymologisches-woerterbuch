@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1079">
+  
+  <lemma>mînă</lemma>
+  
+  <lemma_variants>
+    (+ mînu? 
+    <source_ref>Varl. Caz. 1643 f. 83 b. etc.</source_ref>
+    )
+  </lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mînă?, mân(d)ă?, mgl. mână?, ir. mână?, mână?]</variants>
+  
+  <definition>
+    „Hand“, auch „handvoll“ (
+    <source_ref>Sämän. II, 218</source_ref>
+     = ar. 
+    <form lang="ro-AR">mănată?</form>
+    ) und „Sorte“
+(
+    <example>de-a doua mînă</example>
+     „geringerer Sorte“, vgl.
+
+    <example lang="lmo-BER">casa de meza ma</example>
+    ,
+
+    <example lang="lmo">pal de mezza ma</example>
+     „palo mezzano“,
+
+    <example lang="lmo-BER">povero de mezza ma?</example>
+    ,
+
+    <example lang="lmo-BER">d’ogne ma?</example>
+    ,
+
+    <example lang="lmo-BER">de molte man?</example>
+     „allerhand“,
+
+    <example lang="vec-VER-OLD">Pur de li gran diavoli tanti ne corro en plaça, ke quigi de meça man no par ke se ge faça</example>
+    = „cît despre diavolii cei mari, atîția fugeau pe locul [acela], că cei de mîna a doua parcă nu știau ce să facă“.
+
+    <source_ref>Fra Giacom. B. 177—178 ed. Mussafia</source_ref>
+    )
+
+  </definition>
+  
+  <etymology source="Archiv lat. Lex. II, 419">
+    
+    <etymon lang="Lat">MANUS, -UM</etymon>
+     m. u. f. (Archiv lat. Lex. II, 419):
+
+    <cognates>
+      
+      <form lang="it">mano</form>
+      ,
+
+      <form lang="es">mano</form>
+      ,
+
+      <form lang="it-SIC">manu?</form>
+      ,
+
+      <form lang="it-CAL">manu?</form>
+      ,
+
+      <form lang="roh-ENG">main</form>
+      ,
+
+      <form lang="fur">man</form>
+      ,
+
+      <form lang="es">man</form>
+      ,
+
+      <form lang="oc-OLD">ma</form>
+      ,
+
+      <form lang="ca">ma</form>
+      ,
+
+      <form lang="fr">main</form>
+      ,
+
+      <form lang="pt">mão</form>
+      .
+
+    </cognates>
+    
+    <etymon lang="Lat">MANA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="vulg">mana?</form>
+      ,
+
+      <form lang="sq-TOSK">mana?</form>
+      ,
+
+      <form lang="it-SIE">mana?</form>
+      ,
+
+      <form lang="vec-VER-OLD">mana?</form>
+      ,
+
+      <form lang="co">mana?</form>
+      ,
+
+      <form lang="oc-GAS">màa?</form>
+      .
+
+    </cognates>
+    — Abgeleitet: mgl. 
+    <form lang="ro-MG">moindă?</form>
+     IV vb. „mit der Hand werfen“.
+
+  </etymology>
+  
+</entry>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1107">
+  
+  <lemma>mor</lemma>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. ir. =?]</variants>
+  
+  <!-- Interpretation needed for = -->
+  
+  <definition>„sterben“</definition>
+  
+  <etymology source="Neue-Wagener: Formenlehre III, 72, 76, 247">
+    
+    <etymon lang="Lat">MORIOR, -IRI</etymon>
+     (Neue-Wagener: Formenlehre III, 72, 76, 247, = 
+    <etymon lang="Lat">MORIOR</etymon>
+    ): 
+    <!-- Assuming YMĂRIO -> MORIOR, wmörıor -> MORIOR -->
+    
+    <cognates>
+      
+      <form lang="it">morire</form>
+      , 
+      <!-- Assuming i morire -> it morire -->
+      
+      <form lang="lmo-MIL">morir?</form>
+      , 
+      <!-- Interpretation needed for muri -->
+      
+      <form lang="roh-ENG">murir</form>
+      ,
+
+      <form lang="oc">morir</form>
+      , 
+      <form lang="es">morir</form>
+      , 
+      <!-- Assuming pv. sp. -> oc, es -->
+      
+      <form lang="fr">mourir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

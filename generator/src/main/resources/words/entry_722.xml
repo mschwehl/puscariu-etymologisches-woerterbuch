@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="722">
+  
+  <prefix>+</prefix>
+   
+  <!-- Assuming 4 -> + -->
+  
+  <lemma>gintă?</lemma>
+  
+  <!-- Assuming gintu -> gintă? (based on cognates) -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming sf. based on cognates -->
+  
+  <definition>„Volk“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GENS, -ENTEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sq">gint</form>
+       (woraus ar. 
+      <form lang="ro-AR">gintă?</form>
+      ), 
+      <!-- Interpretation needed for jimtä -->
+      
+      <form lang="it">gente</form>
+      ,
+
+      <form lang="es">gente</form>
+      ,
+
+      <form lang="pt">gente</form>
+      ,
+
+      <form lang="vec">gente?</form>
+      , 
+      <!-- Interpretation needed for dzente -->
+      
+      <form lang="sc">zente</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="fr">gent</form>
+      ,
+
+      <form lang="ca">gent</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

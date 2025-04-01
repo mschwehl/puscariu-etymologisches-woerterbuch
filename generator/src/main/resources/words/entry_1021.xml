@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1021">
+  
+  <lemma>mănunchiu</lemma>
+  
+  <!-- Assuming mäninehiii -> mănunchiu -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mănuchi?]</variants>
+  
+  <!-- Interpretation needed for mânuctu -->
+  
+  <definition>„Bündel“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. I, § 488; Schulze, Archiv. lat. Lex. VIII, 134; XII, 20">
+    
+    <etymon lang="Lat">MANUCULUS, -UM?</etymon>
+     (für 
+    <etymon lang="Lat">MANIPULUS</etymon>
+    , Meyer-Lübke: Rom. Gramm. I, § 488 u. Schulze, Archiv. lat. Lex. VIII, 134, ferner: XII, 20); 
+    <!-- Assuming manwdclöluus, -us -> MANUCULUS, -UM?, maxupuLus -> MANIPULUS -->
+    
+    <cognates>
+      
+      <form lang="it">manocchio</form>
+      ,
+
+      <form lang="it-TER?">manucchio?</form>
+      , 
+      <!-- Interpretation needed for teram. manukkyo -->
+      
+      <form lang="fro">manoil</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="es">manojo</form>
+      , 
+      <!-- Assuming mano)jo -> manojo -->
+      
+      <form lang="pt">molho</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

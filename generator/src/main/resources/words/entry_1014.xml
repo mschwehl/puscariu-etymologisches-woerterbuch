@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1014">
+  
+  <lemma>mădular</lemma>
+  
+  <!-- Assuming miädular -> mădular -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mădular]</variants>
+  
+  <definition>„Glied“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MEDULLARIS, -EM</etymon>
+    . 
+    <!-- Assuming maDULLARIS, Eu -> MEDULLARIS, -EM -->
+    
+  </etymology>
+  
+</entry>

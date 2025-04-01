@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1086">
+  
+  <lemma>mîndru</lemma>
+   
+  <!-- Assuming minder -> mîndru -->
+  
+  <pos>sm.?</pos>
+  
+  <reference type="see">
+    vgl. 
+    <targetLemma>amnar?</targetLemma>
+    .
+  </reference>
+   
+  <!-- Assuming ammar -> amnar? -->
+  
+</entry>

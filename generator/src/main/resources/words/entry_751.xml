@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="751">
+  
+  <lemma>guturai</lemma>
+  
+  <!-- Assuming guturâiti -> guturai -->
+  
+  <lemma_variants>(gutunar?)</lemma_variants>
+  
+  <!-- Assuming gutundr -> gutunar? -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Schnupfen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*GUTTURAGIUM?</etymon>
+     (von 
+    <etymon lang="Lat">GUTTUR?</etymon>
+    ). 
+    <!-- Assuming / *surtvrauıen -> *GUTTURAGIUM?, surtor -> GUTTUR? -->
+    
+  </etymology>
+  
+  <variants>[ar. simalie?].</variants>
+  
+  <!-- Interpretation needed for sinalie -->
+  
+</entry>

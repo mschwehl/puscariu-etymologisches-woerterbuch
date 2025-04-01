@@ -10,7 +10,7 @@ public class SimpleEntrySeparator {
 
 
     public static void main(String[] args) {
-        try (BufferedReader reader = new BufferedReader(new FileReader("D:\\github\\puscariu-etymologisches-woerterbuch\\allEntries.xml"))) {
+        try (BufferedReader reader = new BufferedReader(new FileReader("D:\\github\\puscariu-etymologisches-woerterbuch\\go.xml"))) {
             String line;
             StringBuilder entryContent = new StringBuilder();
             String entryNumber = null;
@@ -36,7 +36,7 @@ public class SimpleEntrySeparator {
                     	String content = entryContent.toString().trim();
                     	content = PrettyPrinter.prettyPrint(content);
                     	
-                        try (BufferedWriter writer = new BufferedWriter(new FileWriter("D:\\github\\puscariu-etymologisches-woerterbuch\\generator\\src\\main\\resources\\entries\\entry_" + entryNumber + ".xml"))) {
+                        try (BufferedWriter writer = new BufferedWriter(new FileWriter("D:\\github\\puscariu-etymologisches-woerterbuch\\generator\\src\\main\\resources\\words\\entry_" + entryNumber + ".xml"))) {
                             writer.write(content);
                         }
                         

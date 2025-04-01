@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="654">
+  
+  <lemma>friptură</lemma>
+  
+  <!-- Assuming friptiră -> friptură -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming si. -> sf. -->
+  
+  <variants>[ar. =?]</variants>
+  
+  <!-- Assuming no -> =? -->
+  
+  <definition>„Braten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FRICTURA, -AM</etymon>
+    : 
+    <!-- Assuming PICTURA -> FRICTURA, -ax -> -AM -->
+    
+    <cognates>
+      
+      <form lang="it">frittura</form>
+      ,
+
+      <form lang="fr">friture</form>
+      ,
+
+      <form lang="es">fritura</form>
+      ,
+
+      <form lang="pt">fritura</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

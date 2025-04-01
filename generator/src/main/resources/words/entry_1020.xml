@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1020">
+  
+  <lemma>mămăruță?</lemma>
+  
+  <!-- Assuming miemärntä -> mămăruță? -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Marienkäfer“</definition>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki, S. 47">
+    scheint auf 
+    <etymon lang="Lat">MAMMA + *VERMICULA, -AM?</etymon>
+     (von 
+    <etymon lang="Lat">ERUCA</etymon>
+    , vgl. Verfassers: Lat. Ti u. Ki, S. 47): 
+    <!-- Assuming * BRUCULA -> *VERMICULA -->
+    
+    <cognates>
+      
+      <form lang="sc">mammarùgula?</form>
+       (vgl. 
+      <form lang="it">mammuccia, mammolino</form>
+      ) 
+      <!-- Interpretation needed for mammarăgula -->
+      
+    </cognates>
+     zurückzugehen.
+
+  </etymology>
+  
+</entry>

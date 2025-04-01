@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1224">
+  
+  <lemma>orbec?</lemma>
+  
+  <!-- Assuming örbee -> orbec? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„tasten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*ORBICO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">ORBUS</etymon>
+     „blind“). Davon 
+    <form>orbăcăiesc?</form>
+     IV vb., Iterativ zu 
+    <form>orbec</form>
+    . 
+    <!-- Assuming orbäcäöse -> orbăcăiesc? -->
+    
+  </etymology>
+  
+</entry>

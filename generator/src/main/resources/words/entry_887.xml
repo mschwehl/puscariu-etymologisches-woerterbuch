@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="887">
+  
+  <lemma>întîrzii</lemma>
+  
+  <!-- Assuming întirziu -> întîrzii -->
+  
+  <lemma_variants>(întîrziez?)</lemma_variants>
+  
+  <!-- Assuming întirzicz -> întîrziez? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„verspäten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IN-TARDIVO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">TARDIVUS</etymon>
+    ): 
+    <!-- Assuming *[ıx-]rARDIVo -> *IN-TARDIVO, rarpıvvus -> TARDIVUS -->
+    
+    <cognates>
+      
+      <form lang="lmo">tardià?</form>
+      , 
+      <!-- Interpretation needed for tardia -->
+      
+      <form lang="lij-GEA">tardiar</form>
+      , 
+      <!-- Assuming a.-gen. -> lij-GEA -->
+      
+      <form lang="fur">(in)tardivà?</form>
+      , 
+      <!-- Interpretation needed for îrl. (in)tardiva -->
+      
+      <form lang="roh-ENG">(in)tardiver?</form>
+      . 
+      <!-- Interpretation needed for (in)tardiver -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. amîn].</variants>
+  
+  <!-- Interpretation needed for amin -->
+  
+</entry>

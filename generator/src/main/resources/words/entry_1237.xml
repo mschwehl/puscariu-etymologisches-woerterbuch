@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1237">
+  
+  <lemma>păcură</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Pech“</definition>
+  
+  <etymology source="Archivio glott. ital. XV, 180">
+    
+    <etymon lang="Lat">PICULA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">pegola</form>
+       „Pech“, 
+      <form lang="it">peccia?</form>
+       „materia colorante in nero“ (
+      <source_ref>Archivio glott. ital. XV, 180</source_ref>
+      ), 
+      <!-- Interpretation needed for peechia -> peccia? -->
+      
+      <form lang="it-ABR">pecule?</form>
+      , 
+      <!-- Interpretation needed for pekule -->
+      
+      <form lang="fur">peula</form>
+      , 
+      <!-- Interpretation needed for peula -->
+      
+      <form lang="roh-ENG">pievla</form>
+      ,
+
+      <form lang="oc">pet</form>
+       „Fackel“. 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. kisă?].</variants>
+  
+  <!-- Interpretation needed for kisä -->
+  
+</entry>

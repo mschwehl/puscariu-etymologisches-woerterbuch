@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1149">
+  
+  <lemma>naie</lemma>
+  
+  <!-- Assuming ndie -> naie -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Schiff“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NAVIS, -EM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">nave</form>
+      , 
+      <form lang="es">nave</form>
+      , 
+      <form lang="pt">nave</form>
+      ,
+
+      <form lang="roh-ENG">naf</form>
+      ,
+
+      <form lang="oc">nau</form>
+      , 
+      <form lang="ca">nau</form>
+      , 
+      <!-- Assuming pv. cat. -> oc, ca -->
+      
+      <form lang="fr">nef</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. căravă?, pampur?].</variants>
+  
+  <!-- Interpretation needed for cärave, pampore -->
+  
+</entry>

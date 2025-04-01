@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1025">
+  
+  <lemma>mărăcine</lemma>
+  
+  <lemma_variants>(mărăcină)</lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mărăține? W., mgl. mărțin?, mărățină? „Dornstrauch“]</variants>
+  
+  <!-- Interpretation needed for mărătsine -> mărăține?, märtsin -> mărțin?, mărătsină -> mărățină? -->
+  
+  <definition>„Dornstrauch“</definition>
+  
+  <etymology source="Kuhn’s Zeitschr. 1905, 604f.">
+    
+    <etymon lang="Lat">MARRICINA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">MARRA</etymon>
+     „Hacke“; zum Suffix vgl. Kuhn’s Zeitschr. 1905, 604f.). Vgl.
+
+    <cognates>
+      
+      <form lang="sq">murriz?</form>
+       „Schwarzdorn“, 
+      <!-- Interpretation needed for mufis -->
+      
+      <form lang="it">marruca</form>
+       „Art Dornstrauch“.
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. P. nur arug?, spin?].</variants>
+  
+  <!-- Interpretation needed for arug, skin. -->
+  
+</entry>

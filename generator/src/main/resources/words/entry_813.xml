@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="813">
+  
+  <prefix>I</prefix>
+  
+  <lemma>încet</lemma>
+  
+  <!-- Assuming ?ucct -> încet? -->
+  
+  <feminine_neuter>-eată?</feminine_neuter>
+  
+  <!-- Assuming -edtä -> -eată? -->
+  
+  <pos>adj. adv.</pos>
+  
+  <variants>[ar. încet?]</variants>
+  
+  <!-- Interpretation needed for întset -->
+  
+  <definition>„langsam, leise“</definition>
+  
+  <etymology source="C. I. L. VIII, 8128">
+    
+    <etymon lang="Lat">QUIETUS, -A, -UM</etymon>
+     (C. I. L. VIII, 8128 etc. = 
+    <etymon lang="Lat">QUIETUS</etymon>
+    ): 
+    <!-- Assuming querus -> QUIETUS, guierus -> QUIETUS -->
+    
+    <cognates>
+      
+      <form lang="sq">qetë?</form>
+       „schweigend“, 
+      <!-- Interpretation needed for let -->
+      
+      <form lang="it">cheto</form>
+      ,
+
+      <form lang="it-SIC">kitu</form>
+      , 
+      <!-- Assuming sie. -> it-SIC -->
+      
+      <form lang="roh-ENG">quiet?</form>
+      , 
+      <!-- Interpretation needed for quait -->
+      
+      <form lang="oc">quet</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">coi</form>
+      ,
+
+      <form lang="es">quedo</form>
+      ,
+
+      <form lang="pt">quedo</form>
+      . 
+      <!-- Assuming pe. -> pt -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <usage_note>[Papahagi kennt nur (pre-)agale].</usage_note>
+   
+  <!-- Assuming kenut -> kennt -->
+  
+</entry>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="785">
+  
+  <lemma>împărat</lemma>
+  
+  <!-- Assuming impärdt -> împărat -->
+  
+  <lemma_variants>(+ părat)</lemma_variants>
+   
+  <!-- Assuming 4 -> + -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. împărat?]</variants>
+  
+  <!-- Interpretation needed for ampirat -->
+  
+  <definition>„Kaiser“</definition>
+  
+  <etymology source="Dens. H. l. r. 160">
+    
+    <etymon lang="Lat">IMPERATOR (-TOREM)</etymon>
+    : 
+    <!-- Assuming <IMPERATOR -> IMPERATOR -->
+    
+    <cognates>
+      
+      <form lang="it">imperatore</form>
+      ,
+
+      <form lang="it-LCC?">imperator?</form>
+      , 
+      <!-- Interpretation needed for leent, imparadı -->
+      
+      <form lang="oc">emperador</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">empereür</form>
+      , 
+      <!-- Assuming a.-Irz. -> fro -->
+      
+      <form lang="fr">empereur</form>
+      , 
+      <!-- Assuming n.-Irz. -> fr -->
+      
+      <form lang="ca">emperador</form>
+      , 
+      <!-- Assuming eat. -> ca -->
+      
+      <form lang="es">emperador</form>
+      ,
+
+      <form lang="pt">emperador</form>
+      
+    </cognates>
+    ):
+
+    <cognates>
+      
+      <form lang="sq">mbret</form>
+       „König“,
+
+      <form lang="oc">emperaire</form>
+      , 
+      <!-- Assuming pr. -> oc -->
+      
+      <form lang="fro">emperere</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+     — Das Fem. dazu heißt 
+    <form>împărăteasă</form>
+    , das Dens. H. l. r. 160 auf spätlat. 
+    <etymon lang="Lat">IMPERATRISSA</etymon>
+     zurückführen will. Letzteres ist jedoch eine Latinisierung des frz. Vertreters von 
+    <etymon lang="Lat">IMPERATRIX</etymon>
+    , ersteres rum. Bildung. 
+    <!-- Assuming împărătedsă -> împărăteasă -->
+    
+  </etymology>
+  
+  <variants>[ar. amiră?].</variants>
+  
+  <!-- Interpretation needed for amird. -->
+  
+</entry>

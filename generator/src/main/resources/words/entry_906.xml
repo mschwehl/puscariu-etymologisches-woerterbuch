@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="906">
+  
+  <lemma>ițe</lemma>
+  
+  <pos>sf.</pos>
+  
+  <number>plur. tant.</number>
+  
+  <variants>[ar. mgl. iță?]</variants>
+  
+  <!-- Interpretation needed for mol. fitsă -> mgl. iță? -->
+  
+  <definition>„Litze, Schaft“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LICIA, -AM</etymon>
+     (Plur. von 
+    <etymon lang="Lat">LICIUM</etymon>
+    ): 
+    <!-- Assuming zicra, *-AM -> LICIA, -AM, icıwn -> LICIUM -->
+    
+    <cognates>
+      
+      <form lang="it">liccio</form>
+      ,
+
+      <form lang="it-SIC">licciu?</form>
+      , 
+      <form lang="it-LEC">licciu?</form>
+      , 
+      <!-- Interpretation needed for litssu -->
+      
+      <form lang="it-NAP">liccio?</form>
+      , 
+      <!-- Interpretation needed for lits$o -->
+      
+      <form lang="lmo-BER">liz?</form>
+      , 
+      <!-- Interpretation needed for a.-berg. lits -->
+      
+      <form lang="sc-L">littos</form>
+      , 
+      <!-- Interpretation needed for sard. l. -->
+      
+      <form lang="roh-OBW">letsch?</form>
+      , 
+      <!-- Interpretation needed for lets -->
+      
+      <form lang="fur">liț?</form>
+      , 
+      <!-- Interpretation needed for frl. litss -->
+      
+      <form lang="roh-ENG">liț?</form>
+      , 
+      <!-- Interpretation needed for fits -->
+      
+      <form lang="es">lizo</form>
+      ,
+
+      <form lang="it">liccia</form>
+      ,
+
+      <form lang="oc">lissa</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">lice</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

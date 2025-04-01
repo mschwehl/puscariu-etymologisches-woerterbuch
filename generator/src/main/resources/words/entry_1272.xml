@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1272">
+  
+  <lemma>păros</lemma>
+  
+  <!-- Assuming pärds -> păros -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odăsă -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. mgl. piros]</variants>
+  
+  <definition>„haarig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PILOSUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming Br -> UM -->
+    
+    <cognates>
+      
+      <form lang="it">peloso</form>
+      , 
+      <form lang="es">peloso</form>
+      , 
+      <form lang="pt">peloso</form>
+      ,
+
+      <form lang="oc">pelós</form>
+      , 
+      <!-- Assuming pv. pelos -> pelós -->
+      (vgl. 
+      <form lang="fr">pelouse</form>
+       „Rasenplatz“ &lt; 
+      <form lang="oc-N">pelosa?</form>
+      ). 
+      <!-- Interpretation needed for n.-pY. -> oc-N -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

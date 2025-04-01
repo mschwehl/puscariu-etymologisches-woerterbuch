@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1100">
+  
+  <lemma>mie</lemma>
+  
+  <scope>mgl.</scope>
+  
+  <lemma_variants>((m)ie?)</lemma_variants>
+  
+  <!-- Assuming (m)nieura -> (m)ie? -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Bröckchen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MICULA, -AM?</etymon>
+    : 
+    <!-- Assuming mictina,'-AM -> MICULA, -AM? -->
+    
+    <cognates>
+      
+      <form lang="lmo">micola?</form>
+      , 
+      <form lang="it-BRE?">micola?</form>
+      , 
+      <form lang="it-TRIE">micola?</form>
+      , 
+      <!-- Interpretation needed for lomb. bresc. trient. igola -->
+      
+      <form lang="lmo-BERG">migola?</form>
+      , 
+      <!-- Interpretation needed for berg. migla -->
+      
+      <form lang="lmo-VALT?">migol?</form>
+      , 
+      <!-- Interpretation needed for valtell. migol -->
+      
+      <form lang="roh-ENG">mirla?</form>
+      , 
+      <!-- Interpretation needed for mirla -->
+      
+      <form lang="roh-OBW">smicola?</form>
+      . 
+      <!-- Interpretation needed for Smieulas -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

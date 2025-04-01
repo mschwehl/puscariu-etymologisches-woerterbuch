@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="684">
+  
+  <lemma>furn</lemma>
+  
+  <scope>ar.</scope>
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. furnă? sf.]</variants>
+  
+  <!-- Assuming fürnu -> furn, fürn@ -> furnă? -->
+  
+  <definition>„Backofen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FURNUS, -UM</etymon>
+    : 
+    <!-- Assuming vürxus -> FURNUS -->
+    
+    <cognates>
+      
+      <form lang="sq">furrë?</form>
+      , 
+      <!-- Interpretation needed for fur(e) -->
+      
+      <form lang="it">forno</form>
+      ,
+
+      <form lang="pt">forno</form>
+      ,
+
+      <form lang="sc">furru</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">fuorn</form>
+      ,
+
+      <form lang="oc">forn</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">four</form>
+      , 
+      <!-- Assuming frs. -> fr -->
+      
+      <form lang="ca">forn</form>
+      ,
+
+      <form lang="es">horno</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ir. cuptor?].</variants>
+  
+  <!-- Interpretation needed for coptâr -->
+  
+</entry>

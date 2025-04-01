@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="718">
+  
+  <lemma>ghioc</lemma>
+  
+  <!-- Assuming ghiöc -> ghioc -->
+  
+  <lemma_variants>ghiocel?, ghioace?, găoace?</lemma_variants>
+  
+  <!-- Assuming ghioded -> ghiocel?, ghioäce -> ghioace?, găodce -> găoace? -->
+  
+  <definition>
+    „Schale“, letzteres bei 
+    <source_ref>Dos. Acatist 1673 f. 6b</source_ref>
+     „Gebärmutter“, ghioc „Muschel“
+  </definition>
+  
+  <etymology source="Schuchardt: Romanische Etymologien II">
+    
+    <etymon lang="Lat">COCHLEA, -AM</etymon>
+     etc., vgl. Schuchardt: Romanische Etymologien II. 
+    <!-- Assuming cocLEA -> COCHLEA -->
+    
+  </etymology>
+  
+</entry>

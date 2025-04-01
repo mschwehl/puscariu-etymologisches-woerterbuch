@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1234">
+  
+  <lemma>păcat</lemma>
+  
+  <!-- Assuming p&edt -> păcat -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. păcat?, ir. păcat?]</variants>
+  
+  <!-- Interpretation needed for picat -> păcat?, pecot -> păcat? -->
+  
+  <definition>„Sünde“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PECCATUM</etymon>
+    : 
+    <!-- Assuming rrocatun -> PECCATUM -->
+    
+    <cognates>
+      
+      <form lang="sq">mëkat, mëkat?</form>
+      , 
+      <!-- Interpretation needed for m(e)kat, mıukat -->
+      
+      <form lang="it">peccato</form>
+      ,
+
+      <form lang="roh-ENG">pchiò?</form>
+      , 
+      <!-- Interpretation needed for pk’o -->
+      
+      <form lang="fr">péché</form>
+      , 
+      <!-- Assuming peche -> péché -->
+      
+      <form lang="es">pecado</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

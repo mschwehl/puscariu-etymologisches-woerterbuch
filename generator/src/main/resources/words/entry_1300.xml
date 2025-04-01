@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1300">
+  
+  <lemma>pește</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. pescu? und peaște? (Samarina), mgl. pește?, ir. pește?]</variants>
+  
+  <!-- Interpretation needed for pescu, peaste, pesti -> pește?, pest -> pește? -->
+  
+  <definition>„Fisch“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PISCIS, -EM</etymon>
+    : 
+    <!-- Assuming riscıs -> PISCIS -->
+    
+    <cognates>
+      
+      <form lang="sq">peshk</form>
+      , 
+      <!-- Assuming pesk -->
+      
+      <form lang="it">pesce</form>
+      ,
+
+      <form lang="it-SIC">pisci?</form>
+      , 
+      <!-- Interpretation needed for pisi -->
+      
+      <form lang="it-LEC">pisce?</form>
+       und 
+      <form lang="it-LEC">piscu?</form>
+      , 
+      <!-- Interpretation needed for pise, pisku -->
+      
+      <form lang="lij-GEN">pesciu?</form>
+      , 
+      <!-- Interpretation needed for pesu -->
+      
+      <form lang="roh-ENG">pesch</form>
+      , 
+      <!-- Interpretation needed for pes -->
+      
+      <form lang="fro">pois?</form>
+      , 
+      <!-- Interpretation needed for a.-frz. pour-pois -> pois? -->
+      
+      <form lang="oc">peis</form>
+      , 
+      <form lang="fr">?</form>
+      , 
+      <!-- Interpretation needed for pv. peis, £ pez -> fr ? -->
+      
+      <form lang="pt">peixe</form>
+      .
+
+    </cognates>
+     Die Annahme eines 
+    <etymon lang="Lat">*PISCUS, -UM</etymon>
+     ist kaum berechtigt und würde nur die ar. alb. und leccesische Form erklären, dagegen sind die anderen Formen der II. Dekl. sicherlich späte Neuerungen.
+
+  </etymology>
+  
+</entry>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1094">
+  
+  <lemma>mir</lemma>
+  
+  <lemma_variants>(mold. mier)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. =, mgl. mir?, ir. mir? IV?]</variants>
+  
+  <!-- Interpretation needed for fir -> =, main -> mir? -->
+  
+  <usage_note>
+    nur reflexiv (nach sl. 
+    <etymon lang="chu">čuditi sę?</etymon>
+    ) „sich wundern“
+  </usage_note>
+   
+  <!-- Assuming &uditi se -> čuditi sę? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">MIROR, -ARI</etymon>
+    : 
+    <!-- Assuming MIRO, -ARE -> MIROR, -ARI -->
+    
+    <cognates>
+      (vgl. 
+      <form lang="sq">mrekullim?</form>
+       „wunderbar“, 
+      <!-- Interpretation needed for alb, merüersim -->
+      
+      <form lang="it">mirare</form>
+      ,
+
+      <form lang="oc">mirar</form>
+      , 
+      <form lang="ca">mirar</form>
+      , 
+      <form lang="es">mirar</form>
+      , 
+      <form lang="pt">mirar</form>
+      , 
+      <!-- Assuming pv. cat. sp. pg. -> oc, ca, es, pt -->
+      
+      <form lang="fr">mirer</form>
+       (überall „betrachten“)), 
+      <!-- Assuming mürer -> mirer -->
+      
+    </cognates>
+     — Davon: 
+    <form>minune</form>
+     sf. „Wunder“ (statt 
+    <form>*mirune?</form>
+    ).
+
+  </etymology>
+  
+</entry>

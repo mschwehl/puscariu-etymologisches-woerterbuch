@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="996">
+  
+  <lemma>lunatic</lemma>
+  
+  <!-- Assuming tacadtec -> lunatic -->
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <pos>adj.</pos>
+  
+  <definition>„mondsüchtig“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUNATICUS, -A, -UM</etymon>
+    . Im Rom. sonst pur als gelehrtes Wort erhalten.
+
+  </etymology>
+  
+</entry>

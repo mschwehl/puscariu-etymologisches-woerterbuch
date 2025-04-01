@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="827">
+  
+  <lemma>încur?</lemma>
+  
+  <!-- Assuming incüre -> încur? -->
+  
+  <pos>vb.</pos>
+  
+  <reference type="see">
+    s. 
+    <targetLemma>descur</targetLemma>
+    .
+  </reference>
+  
+</entry>

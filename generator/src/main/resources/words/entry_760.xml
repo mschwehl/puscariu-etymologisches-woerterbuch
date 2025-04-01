@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="760">
+  
+  <lemma>iau</lemma>
+  
+  <principal_parts>luai, luat, luare</principal_parts>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. iau?, luai, luat I, mgl. iau?, luai?, luat?, luare?, ir. iau?, luat?, lua?]</variants>
+  
+  <definition>„nehmen“</definition>
+  
+  <etymology source="Dens. H. l. r. 192; Säm. I, 217; Jb. VIII, 71">
+    
+    <etymon lang="Lat">LEVO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="isv">levar?</form>
+      
+      <form lang="it">levare</form>
+      
+      <form lang="it-LEC">luare</form>
+      
+      <form lang="it-CER">luà?</form>
+      
+      <form lang="it-CAL">levare</form>
+      
+      <form lang="it-SIC">livari</form>
+      
+      <form lang="pms">levà?</form>
+      
+      <form lang="sc-OLD">leuare</form>
+      
+      <form lang="sc-N">leare</form>
+      
+      <form lang="fur">jevà?</form>
+      
+      <form lang="oc">levar</form>
+      
+      <form lang="pt">levar</form>
+      
+      <form lang="fr">lever</form>
+      
+      <form lang="es">levar</form>
+       „aufheben“,
+
+      <form lang="es">llevar</form>
+       „wegnehmen“.
+
+    </cognates>
+    Der Sinnesübergang von „aufheben“ (it., frz., sp.) zu „(weg)nehmen“ (cal., sic., sard., piem., sp., pg.) ist ohne weiteres verständlich und auch fürs Spätlat. nachweisbar (Dens. H. l. r. 192).
+Zur Phraseologie von 
+    <form lang="ro">iau</form>
+     ist der Sinn „zur Frau, zum Manne nehmen“
+(
+    <example lang="isv">me aviato levuot per mulier vuastra?</example>
+    ), dann „kaufen“ (auch 
+    <form lang="fur">jevà?</form>
+     und ähnlich
+
+    <form lang="sq">marr</form>
+     und 
+    <form lang="sq">blej?</form>
+     
+    <etymon lang="Lat">*AB-LEVO</etymon>
+    ) bemerkenswert; zum Sinne „gähren“ (aus „sich heben“) vgl. 
+    <form lang="ro">aluat</form>
+    ;
+endlich steht im Rumänischen einzeln da:
+
+    <example lang="ro">o iau</example>
+     „ich breche auf“
+(
+    <example lang="ro">a luato agale-agale pe cărăruia ce ducea la casa Saftei.</example>
+    
+    <source_ref>Säm. I, 217</source_ref>
+    ),
+
+    <example lang="ro">mă iau cu cineva</example>
+     „ich behandle jemanden“
+(
+    <example lang="ro">să ia bine cu slugile</example>
+    ).
+Charakteristisch ist der Satz:
+
+    <example lang="ro">după aia s-au luat (= sie sind aufgebrochen) şi s-au dus în tîrg și i-au luat fetei (= haben dem Mädchen gekauft) cămăși [și] haine... și-au luat cu el (= hat mit sich genommen) și o nevastă mai bătrînă, care au ştiut s'o îmbrace.</example>
+    
+    <source_ref>Jb. VIII, 71</source_ref>
+    .
+
+  </etymology>
+  
+</entry>

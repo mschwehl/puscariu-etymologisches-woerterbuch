@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="818">
+  
+  <lemma>închin</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„weihen“</definition>
+  , 
+  <form>mă închin</form>
+   „neige mich, bete“
+
+  <variants>(ar. mgl. mă închin?)</variants>
+  
+  <!-- Interpretation needed for mel. mi nelin -> mgl. mă închin? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">INCLINO, -ARE</etymon>
+    : 
+    <!-- Assuming C(ax]erixo -> INCLINO -->
+    
+    <cognates>
+      
+      <form lang="it">(in)chinare</form>
+      ,
+
+      <form lang="oc">(en)clinar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">(en)cliner</form>
+      . 
+      <!-- Assuming a.-frz. -> fro -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

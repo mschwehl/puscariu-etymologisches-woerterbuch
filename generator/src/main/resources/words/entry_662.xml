@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="662">
+  
+  <prefix>II</prefix>
+  
+  <lemma>fug</lemma>
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mgl. ir. =]</variants>
+   
+  <!-- Assuming mal. -> mgl., > -> = -->
+  
+  <definition>
+    „laufen“ (ar. u. mgl. auch „gehen” nach 
+    <example lang="el">φεύγω</example>
+     „fliehe u. gehe“)
+  </definition>
+   
+  <!-- Assuming ye'yo -> φεύγω -->
+  
+  <etymology source="Dens., H. l. r. 148; Meyer-Lübke: Rom. Gramm. I § 147">
+    
+    <etymon lang="Lat">FUGIO, -IRE</etymon>
+     (= 
+    <etymon lang="Lat">-ERE</etymon>
+    , Belege): 
+    <!-- Assuming FÜcIo, -IRR -> FUGIO, -IRE -->
+    
+    <cognates>
+      
+      <form lang="it">fuggire</form>
+      ,
+
+      <form lang="roh-ENG">fuir</form>
+      ,
+
+      <form lang="fr">fuir</form>
+      ,
+
+      <form lang="es">huir</form>
+      ,
+
+      <form lang="pt">fugir</form>
+      .
+
+    </cognates>
+     — Über u in 
+    <etymon lang="Lat">FUGIO</etymon>
+     vgl. Meyer-Lübke: Rom. Gramm. I § 147. 
+    <!-- Assuming rucıo -> FUGIO, üramm -> Gramm. -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="874">
+  
+  <prefix>I</prefix>
+  
+  <lemma>însor</lemma>
+  
+  <!-- Assuming inscr -> însor -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. însor?, mgl. (a)nsor, ir. însor]</variants>
+  
+  <!-- Interpretation needed for nsor -->
+  
+  <definition>„heiraten“</definition>
+  
+  <etymology source="Ps. Augustin. serm. 36 ad fratres in eremo, Migne 40, 1301; Weigand: Die Aromunen II, 190; Jb. I. 128; Subak: Zeitschr. rom. Phil. XXII, 554">
+    
+    <etymon lang="Lat">UXORO, -ARE?</etymon>
+     (
+    <etymon lang="Lat">UXOROR</etymon>
+     ist bei Ps. Augustin. serm. 36 ad fratres in eremo, Migne 40, 1301 belegt): 
+    <!-- Assuming FUXÖRO -> UXORO? -->
+    
+    <cognates>
+      
+      <form lang="it-BRI?">nzuri?</form>
+      , 
+      <!-- Interpretation needed for brindisi -->
+      
+      <form lang="it-CAM?">nzurà?</form>
+      , 
+      <!-- Interpretation needed for campob. ndzore -->
+      
+      <form lang="it-CER">nzurà?</form>
+      , 
+      <!-- Interpretation needed for cerign. nzüre -->
+      
+      <form lang="it-BAR">nzurà?</form>
+      , 
+      <!-- Interpretation needed for bari ndzerd -->
+      
+      <form lang="it-NAP">nzurà?</form>
+      , 
+      <!-- Interpretation needed for neap. arpino nzurd -->
+      
+      <form lang="it-TAR">nzurare?</form>
+      , 
+      <!-- Interpretation needed for tarent. -->
+      
+      <form lang="it-ABR">nzurar</form>
+      ,
+
+      <form lang="it-CAL">nzurare</form>
+       (
+      <form lang="it-CAL">nzuratu</form>
+       = rum. 
+      <form>însurat</form>
+       „verheiratet“)
+
+      <form lang="it-ALA?">m'assore?</form>
+      . 
+      <!-- Interpretation needed for alatri -->
+      
+    </cognates>
+     Im D-rum. kann 
+    <form>însor</form>
+     nur vom Manne gebraucht werden (unter den it. Formen kann ich diesen Gebrauch nur für Cal. und Arpino belegen), im Ar. und Ir. dagegen kann es sich auch auf die Frau beziehen (Weigand: Die Aromunen II, 190; Jb. I. 128). Im Megl. heißt „zum zweiten Male heiraten“ vom Manne: 
+    <form lang="ro-MG">prînsor?</form>
+     I vb. von der Frau: 
+    <form lang="ro-MG">primărit?</form>
+     I vb. — Über den Anlaut der ital. Formen vgl. Subak: Zeitschr. rom. Phil. XXII, 554. 
+    <!-- Interpretation needed for Drum., prinsör, primärit -->
+    
+  </etymology>
+  
+</entry>

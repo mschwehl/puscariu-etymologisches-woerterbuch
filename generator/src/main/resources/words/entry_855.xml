@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="855">
+  
+  <lemma>îngînf</lemma>
+  
+  <!-- Assuming inginf -> îngînf -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„sich aufblasen“</definition>
+  
+  <etymology source="Archiv lat. Lex. II, 439; Archivio glott. ital. XIV, 454">
+    
+    <etymon lang="Lat">CONFLO, -ARE</etymon>
+     (Archiv lat. Lex. II, 439; vgl. auch Archivio glott. ital. XIV, 454, für 
+    <etymon lang="Lat">CON-FLO, -ARE</etymon>
+    : 
+    <!-- Assuming GonrLo -> CONFLO, cox-eLo -> CON-FLO -->
+    
+    <cognates>
+      
+      <form lang="roh-OBW">cunflar?</form>
+      , 
+      <!-- Interpretation needed for kuflar -->
+      
+      <form lang="oc-TAR?">gonflar?</form>
+      , 
+      <!-- Interpretation needed for tarn. languedoe lonflă -->
+      
+      <form lang="frp-ARD?">confiar?</form>
+      , 
+      <!-- Interpretation needed for ard&che "konfld -->
+      
+      <form lang="oc-QUE?">conflar?</form>
+      , 
+      <!-- Interpretation needed for queır. kom-flar -->
+      
+      <form lang="lij-VIO?">conflà?</form>
+       etc.): 
+      <!-- Interpretation needed for vion. konhla -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="it">gonfiare</form>
+       (&gt; 
+      <form lang="fr">gonfler</form>
+      ),
+
+      <form lang="it-ABR">gunfià?</form>
+      , 
+      <!-- Interpretation needed for gunfä -->
+      
+      <form lang="lmo-TES">göflà?</form>
+      , 
+      <!-- Interpretation needed for tess. Jüfl -->
+      vgl. 
+      <form lang="sq">ngufas?, ngefas?</form>
+       „Keime, sprosse“. 
+      <!-- Interpretation needed for ngufö), ngefö) -->
+      
+    </cognates>
+     — Das Bild welches dem rum. Sinnesübergang zugrunde liegt ist durch deutsch. „aufblasen“ ohne weiteres ersichtlich, vgl. auch rum. 
+    <example>se umflă în pene</example>
+     „ist stolz” (von den Vögeln übernommen) wofür mgl. einfach: 
+    <example lang="ro-MG">si anflă</example>
+    . 
+    <!-- Assuming Sinnesiibergang -> Sinnesübergang -->
+    
+  </etymology>
+  
+</entry>

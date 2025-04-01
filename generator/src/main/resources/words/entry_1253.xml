@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1253">
+  
+  <prefix>+</prefix>
+  
+  <lemma>pămînt?</lemma>
+  
+  <!-- Assuming pändt -> pămînt? -->
+  
+  <pos>sm.</pos>
+  
+  <reference type="see">
+    vgl. 
+    <targetLemma>pîine</targetLemma>
+    .
+  </reference>
+  
+  <!-- Assuming pära -> pîine? -->
+  
+</entry>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1132">
+  
+  <prefix>II</prefix>
+  
+  <lemma>mur</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =]</variants>
+  
+  <definition>„Maulbeerbaum“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MORUS, -UM</etymon>
+    : 
+    <!-- Assuming sörvs -> MORUS -->
+    
+    <cognates>
+      
+      <form lang="it">moro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

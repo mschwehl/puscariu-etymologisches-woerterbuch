@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="711">
+   
+  <!-- Assuming 7il -> 711 -->
+  
+  <lemma>ghem</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. glem]</variants>
+  
+  <definition>„Knäuel“</definition>
+  
+  <etymology source="Delavrancea: Hagi Tudose 252; Meyer-Lübke in Grundriß I², 468">
+    Neben 
+    <etymon lang="Lat">GLOMUS, -ERIS?</etymon>
+    : 
+    <!-- Assuming cLönus, -um -> GLOMUS, -ERIS? -->
+    
+    <cognates>
+      
+      <form lang="it">ghiomo</form>
+      ,
+
+      <form lang="it-LUC">ghiomo?</form>
+      , 
+      <!-- Interpretation needed for lucca diomo -->
+      
+      <form lang="it-ROV?">ghiom?</form>
+      , 
+      <!-- Interpretation needed for rov. diom -->
+      
+      <form lang="it-TRIE">ghiom?</form>
+      , 
+      <!-- Interpretation needed for trient. diom -->
+      
+      <form lang="it-SIC">ghiomaru?</form>
+      , 
+      <!-- Interpretation needed for ghiömaru -->
+      
+      <form lang="sc-S">lomburu?</form>
+      , 
+      <!-- Interpretation needed for süd-sard. lomburu -->
+      
+      <form lang="co">grombulu?</form>
+      , 
+      <!-- Interpretation needed for grombulu -->
+      
+    </cognates>
+     das im ar. 
+    <form lang="ro-AR">glom</form>
+     und in der daco-rum. Ableitung 
+    <form>ghiomotoc</form>
+     sm. (Delavrancea: Hagi Tudose 252) erhalten ist, kannte das Urromanische auch eine Form 
+    <etymon lang="Lat">*GLEMUS, -UM?</etymon>
+     (worüber zuletzt Meyer-Lübke in Grundriß I², 468 handelt), 
+    <!-- Assuming * Linus -> *GLEMUS? -->
+     die außer in rum. 
+    <form>ghem</form>
+     [ar. mgl. ir. glem] noch in 
+    <form lang="sq">lemë?</form>
+    , 
+    <form lang="vec">gemo?</form>
+    , 
+    <form lang="it-FER">gemb?</form>
+    , 
+    <form lang="it-MAN">gemb?</form>
+    , 
+    <form lang="vec-TRI">gemo?</form>
+    , 
+    <form lang="it-LEC">temmaru?</form>
+    , 
+    <form lang="it-BAR">ghjemmere?</form>
+    , 
+    <form lang="co">grembulu?</form>
+     erhalten ist.
+
+    <!-- Interpretation needed for fems -> lemë?, dZemo, dZemb, dZemo, temmaru, ghjemmere, grembulu -->
+    
+  </etymology>
+  
+</entry>

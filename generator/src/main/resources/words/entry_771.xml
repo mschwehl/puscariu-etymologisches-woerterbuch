@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="771">
+   
+  <!-- Assuming 71 -> 771 -->
+  
+  <lemma>eu</lemma>
+  
+  <!-- Assuming teii -> eu -->
+  
+  <pos>pron.</pos>
+  
+  <variants>[ar. eu?, iu?, oi?, mgl. ir. eu?]</variants>
+  
+  <!-- Interpretation needed for et -> eu?, io -> iu?, 0 -> eu? -->
+  
+  <definition>„ich“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">EGO</etymon>
+    : 
+    <!-- Assuming <rfejo -> EGO -->
+    
+    <cognates>
+      
+      <form lang="sq">unë</form>
+      , 
+      <!-- Assuming ung -> unë -->
+      
+      <form lang="isv">ju</form>
+      , 
+      <!-- Assuming vegl. -> isv -->
+      
+      <form lang="it">io</form>
+      ,
+
+      <form lang="sc">eo</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">jau?</form>
+      , 
+      <!-- Interpretation needed for iau -->
+      
+      <form lang="fr">je</form>
+      , 
+      <!-- Assuming îrz. -> fr -->
+      
+      <form lang="oc">eu?</form>
+      , 
+      <!-- Interpretation needed for pY. teu -->
+      
+      <form lang="es">yo</form>
+      , 
+      <!-- Assuming 1/0 -> yo -->
+      
+      <form lang="pt">eu</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1285">
+  
+  <lemma>pășune</lemma>
+  
+  <!-- Assuming päsüne -> pășune -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. =, ir. pășune?]</variants>
+  
+  <!-- Interpretation needed for >, păsure -> pășune? -->
+  
+  <definition>„Weide(platz)'</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PASTIO, -ONEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">pasciona</form>
+      ,
+
+      <form lang="roh-ENG">pasciun?</form>
+      , 
+      <!-- Interpretation needed for paun -->
+      
+      <form lang="fr">paisson</form>
+      .
+
+    </cognates>
+     Davon 
+    <form>pășun</form>
+     I vb. (pășunez) „weiden“.
+
+  </etymology>
+  
+</entry>

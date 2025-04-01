@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="732">
+   
+  <!-- Assuming 132 -> 732 -->
+  
+  <lemma>greață</lemma>
+  
+  <!-- Assuming gredţă -> greață -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. greață? auch „Gewicht“]</variants>
+  
+  <!-- Assuming greafă -> greață? -->
+  
+  <definition>„Übelkeit (eigtl. Schwere des Magens)“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*GRAVITIA, -AM</etymon>
+     (von 
+    <etymon lang="Lat">GREVIS</etymon>
+     = 
+    <etymon lang="Lat">GRAVIS</etymon>
+    ): 
+    <!-- Assuming *GREYITIA, "AM -> *GRAVITIA, -AM, FGREVIS -> GREVIS -->
+    
+    <cognates>
+      
+      <form lang="roh-ENG">greivezza?</form>
+      , 
+      <!-- Interpretation needed for greiveissa -->
+      
+      <form lang="oc">greveza</form>
+      . 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+     
+    <form>Greață?</form>
+     kann aber auch rum. Bildung von 
+    <form>greu</form>
+     sein.
+
+    <!-- Assuming Greafü -> Greață? -->
+    
+  </etymology>
+  
+</entry>

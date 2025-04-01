@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="731">
+   
+  <!-- Assuming 131 -> 731 -->
+  
+  <lemma>graur</lemma>
+  
+  <!-- Assuming grâu -> graur -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Dohle“</definition>
+   
+  <!-- Dohle usually = stăncuță. Graur = Star. -->
+  
+  <etymology source="C. Gl. l. II, 35, 52; III, 71, 42; Meyer-Lübke: Zeitschrift rom. Phil. X, 172; Wiener Studien XXV, 109">
+    
+    <etymon lang="Lat">GRACULUS, -UM?</etymon>
+     (C. Gl. l. II, 35, 52; III, 71, 42, vgl. Meyer-Lübke: Zeitschrift rom. Phil. X, 172; Wiener Studien XXV, 109): 
+    <!-- Assuming enatLus, -vu -> GRACULUS, -UM? -->
+    
+    <cognates>
+      
+      <form lang="it-LEC">graulu?</form>
+      , 
+      <!-- Interpretation needed for raulu -->
+      
+      <form lang="it-GIU?">grolo?</form>
+      , 
+      <!-- Interpretation needed for judik. grolo -->
+      
+      <form lang="fr">grolle</form>
+      ,
+
+      <form lang="oc-GAS">agraulo?</form>
+      , 
+      <!-- Interpretation needed for gasc. albi. agraulo -->
+      
+      <form lang="frp-LYO">grolo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

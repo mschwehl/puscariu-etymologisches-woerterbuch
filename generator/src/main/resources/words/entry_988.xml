@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="988">
+  
+  <lemma>lucesc</lemma>
+  
+  <!-- Assuming tucese -> lucesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. lucescu? „glänze“ P. lucește? „es wird Tag“ W., luci? „heilig“ W., ir. rălucesc?]</variants>
+  
+  <!-- Interpretation needed for lulsescu -> lucescu?, glinze -> glänze, lutseaste -> lucește?, lutsil -> luci?, rerlutgeseu -> rălucesc? -->
+  
+  <definition>„leuchten“</definition>
+  
+  <etymology source="Dens. Hist. l. r. 147">
+    
+    <etymon lang="Lat">LUCESCO, -ERE</etymon>
+     (Dens. Hist. l. r. 147 = 
+    <etymon lang="Lat">-ERE</etymon>
+    ): 
+    <!-- Assuming -ire -> -ERE -->
+    
+    <cognates>
+      
+      <form lang="roh-ENG">lüsair?</form>
+      , 
+      <!-- Interpretation needed for lüsair -->
+      
+      <form lang="sc">lughere</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="fro">luisir</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="oc">luzir</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="it-N">lüsir?, luzir?</form>
+      , 
+      <!-- Interpretation needed for nord.-it. lüzi, luzi -->
+      
+      <form lang="es">lucir</form>
+      ,
+
+      <form lang="pt">luzir</form>
+      .
+
+    </cognates>
+     — Davon: 
+    <form>strălucesc</form>
+     IV. vb. „glänzen“, vgl. 
+    <form lang="it-BEL">straluce</form>
+    , 
+    <form lang="istro-ROV?">stralusir?</form>
+    , 
+    <form lang="roh-ENG">stralüsir?</form>
+    . 
+    <!-- Interpretation needed for rovign. stralusir, eng. stralüsir -->
+    
+  </etymology>
+  
+</entry>

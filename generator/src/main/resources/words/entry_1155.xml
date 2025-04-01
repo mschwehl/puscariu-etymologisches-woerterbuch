@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1155">
+  
+  <lemma>nasc</lemma>
+  
+  <principal_parts>-ui?, -ut?</principal_parts>
+  
+  <!-- Not in text, inferred from NASCI -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. nascu „wachse“ W., mgl. =, ir. nasc?]</variants>
+  
+  <!-- Interpretation needed for >, noscu -> nasc? -->
+  
+  <definition>„gebären, geboren werden (in letzter Bedeutung meist mă nasc)“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NASCOR, NASCI</etymon>
+    : 
+    <!-- Assuming FNAsco, -ERE -> NASCOR, NASCI -->
+    
+    <cognates>
+      
+      <form lang="it">nascere</form>
+      ,
+
+      <form lang="roh-ENG">naître?</form>
+      , 
+      <!-- Interpretation needed for nafer -->
+      
+      <form lang="oc">naisser</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">naître</form>
+      , 
+      <!-- Assuming naütre -> naître -->
+      
+      <form lang="es">nacer</form>
+      ,
+
+      <form lang="pt">nascer</form>
+      .
+
+    </cognates>
+     Vgl. 
+    <form>nat</form>
+    .
+
+  </etymology>
+  
+  <variants>[ar. P. amintu?, fac?].</variants>
+  
+  <!-- Interpretation needed for amintu, fac -->
+  
+</entry>

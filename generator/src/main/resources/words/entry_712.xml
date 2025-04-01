@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="712">
+  
+  <lemma>ghețar</lemma>
+  
+  <!-- Assuming ghetär -> ghețar -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Eisgrube, Gletscher“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">GLACIARIUM</etymon>
+    : 
+    <!-- Assuming aracıarıun -> GLACIARIUM -->
+    
+    <cognates>
+      
+      <form lang="it">ghiacciaio</form>
+      ,
+
+      <form lang="vec-TRI">giațar?</form>
+      , 
+      <!-- Interpretation needed for jatsär -->
+      
+      <form lang="fr">glacier</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

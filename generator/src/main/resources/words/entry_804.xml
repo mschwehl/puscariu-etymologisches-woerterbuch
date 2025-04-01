@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="804">
+  
+  <lemma>încă</lemma>
+  
+  <pos>adv.</pos>
+  
+  <variants>[ar. încă?, ni(n)că?, mgl. încă?, ir. încă?]</variants>
+  
+  <definition>„noch, sogar, auch”</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. III, § 495; D’Ovidio: Archivio glott. ital. IV, 171 n.; Meyer-Lübke: Rom. Gramm. III, § 692">
+    
+    <comment>Die Etymologie ist dunkel.</comment>
+    Meyer-Lübke: Rom. Gramm. III, § 495 konstruiert ein nicht näher erklärtes
+
+    <etymon lang="Lat">*ANQUE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">anche</form>
+      
+      <form lang="roh-OBW">anca?</form>
+      
+      <form lang="fro">ainc?</form>
+      
+      <form lang="oc">anc</form>
+      
+      <form lang="ast">anque</form>
+      
+      <form lang="gl">anque</form>
+      
+    </cognates>
+    welches sich im Auslaut mit rum. 
+    <form>încă</form>
+     nicht deckt; auch 
+    <form lang="it">anche</form>
+     scheint auf älteres
+
+    <form lang="it">anca</form>
+     (so in Trient) mit Anlehnung an 
+    <form lang="it">dunque?</form>
+     entstanden zu sein
+(D’Ovidio: Archivio glott. ital. IV, 171 n.), so daß schwerlich ein Grundwort aufzustellen ist, welches zu allen romanischen
+Formen passen könnte.
+Formell würde ein 
+    <etymon lang="Lat">AD + USQUAM?</etymon>
+     entsprechen:
+
+    <form lang="ro-AR">ningă?</form>
+     &lt; 
+    <etymon lang="Lat">NUNQUAM?</etymon>
+    , vgl.
+
+    <form lang="oc">nonca</form>
+     und 
+    <form lang="fro">neainc</form>
+    , Meyer-Lübke: Rom. Gramm. III, § 692.
+Dieses lässt sich auch syntaktisch erklären, wenn man von negierten, fragenden und Bedingungssätzen ausgeht,
+wo es zur Verstärkung der Negation etc. dient:
+
+    <example lang="la">si quando unquam ....</example>
+     „cînd încă”.
+
+Davon etymologisch verschieden scheint mir das nur in der Moldau und Siebenbürgen vorhandene
+
+    <form>încai</form>
+    , 
+    <form>încailea</form>
+    , 
+    <form>încalte</form>
+    , 
+    <form>încă?</form>
+    , adv. „wenigstens“, das zu dem gleichbedeutenden
+
+    <form lang="hu">inkább</form>
+     (das 
+    <suffix>-bb</suffix>
+     ist ein Komparativsuffix) paßt.
+
+  </etymology>
+  
+</entry>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="934">
+  
+  <lemma>lăcustă</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. lăcustă]</variants>
+  
+  <definition>„Heuschrecke"</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*LACUSTA, -AM</etymon>
+     (für 
+    <etymon lang="Lat">LOCUSTA</etymon>
+     mit Volksetymologie nach 
+    <etymon lang="Lat">LACUS</etymon>
+     oder 
+    <etymon lang="Lat">LACERTA?</etymon>
+    ): 
+    <!-- Assuming (*racisra -> *LACUSTA, Lackrra? -> LACERTA? -->
+    
+    <cognates>
+      
+      <form lang="lmo-OLD">lagosta</form>
+      , 
+      <!-- Assuming a.-lomb. -> lmo-OLD -->
+      
+      <form lang="it-SIC">lagusta</form>
+      ,
+
+      <form lang="lmo-VALM?">lavosta?</form>
+      , 
+      <!-- Interpretation needed for valmagg. -->
+      
+      <form lang="pms">laüsta?</form>
+      , 
+      <!-- Interpretation needed for läusta -->
+      
+      <form lang="lmo-LAGM?">lavusta?</form>
+      , 
+      <!-- Interpretation needed for lago-magg. -->
+      
+      <form lang="it-TAR">ragosta?</form>
+      , 
+      <!-- Interpretation needed for ragoste -->
+      
+      <form lang="oc">langosta</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fro">laoste?</form>
+      , 
+      <!-- Interpretation needed for a.-frz. laouste -->
+      
+      <form lang="ca">llagosta?</form>
+      , 
+      <!-- Interpretation needed for Hangosta -->
+      
+      <form lang="pt">lagosta</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. P. auch: carcalec?, acridă în Thess.?]</variants>
+  
+  <!-- Interpretation needed for carcalef, 'Lhess. -->
+  
+</entry>

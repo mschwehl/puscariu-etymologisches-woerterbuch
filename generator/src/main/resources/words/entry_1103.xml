@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1103">
+  
+  <lemma>moare</lemma>
+  
+  <!-- Assuming modre -> moare -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. = „Krautsuppe“)</variants>
+  
+  <definition>„Salzbrühe”</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 689">
+    
+    <etymon lang="Lat">MURIA, -AM</etymon>
+    : 
+    <!-- Assuming mürıa -> MURIA -->
+    
+    <cognates>
+      
+      <form lang="it">moia</form>
+      ,
+
+      <form lang="oc-N">muira?</form>
+      , 
+      <!-- Interpretation needed for n.-pr. muli)ro -->
+      
+      <form lang="fro">muire</form>
+      , 
+      <!-- Assuming a.-Irz. -> fro -->
+      
+      <form lang="es">muera</form>
+      .
+
+    </cognates>
+     Über die lautliche Unregelmäßigkeit vgl. 
+    <reference type="bibliographic">Zeitschr. rom. Phil. XXVIII, 689.</reference>
+    
+  </etymology>
+  
+</entry>

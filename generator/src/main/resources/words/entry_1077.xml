@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1077">
+  
+  <prefix>I</prefix>
+  
+  <lemma>mîn</lemma>
+  
+  <!-- Assuming min -> mîn -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mîn?, ir. mîn?]</variants>
+  
+  <!-- Interpretation needed for min, mir -> mîn? -->
+  
+  <definition>„treiben (Vieh), führen (Pferde)“</definition>
+  
+  <etymology source="Apul. Met. 3. 8. 141; C.Gl.l.V, 484, 15">
+    
+    <etymon lang="Lat">MINO, -ARE</etymon>
+     („drohe“ — „drohe dem Vieh um es fortzutreiben" — „treiben“, vgl. Apul. Met. 3. 8. 141 u. C.Gl.l.V, 484, 15: „
+    <example lang="la">quotiens aliquis dicat: ‘vade, mina carrum illum’, non carrum minat, sed vobes [= boves], qui eum trahunt</example>
+    “):
+
+    <cognates>
+      
+      <form lang="it">menare</form>
+      ,
+(
+      <form lang="lmo-BER">venor?</form>
+      , glossiert durch: 
+      <example lang="lmo-BER">colu chi mena</example>
+      ), 
+      <!-- Interpretation needed for a.-berg: vEoror -> venor?, »mena -> mena -->
+      
+      <form lang="oc">menar</form>
+      , 
+      <form lang="ca">menar</form>
+      , 
+      <form lang="es-OLD">menar</form>
+      , 
+      <!-- Assuming py. cat. a.-sp. -> oc, ca, es-OLD -->
+      
+      <form lang="fr">mener</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

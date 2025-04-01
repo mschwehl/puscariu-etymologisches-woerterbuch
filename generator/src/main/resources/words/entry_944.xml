@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="944">
+  
+  <lemma>lărgesc</lemma>
+  
+  <!-- Assuming Tärgese -> lărgesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. lărgescu?, ir. lărgesc? „breit machen, entfernen'']</variants>
+  
+  <!-- Interpretation needed for lărdzescu -> lărgescu?, lărzesc -> lărgesc? -->
+  
+  <definition>„breit machen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*LARGIO, -IRE</etymon>
+     (= 
+    <etymon lang="Lat">LARGIRI</etymon>
+    ):
+
+    <cognates>
+      
+      <form lang="it">largire</form>
+      , vgl. 
+      <form lang="fr">élargir?</form>
+      . 
+      <!-- Interpretation needed for dargir -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

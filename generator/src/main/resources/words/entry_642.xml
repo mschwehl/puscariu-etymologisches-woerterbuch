@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="642">
+  
+  <lemma>frasin(e)</lemma>
+  
+  <!-- Assuming frăsin(e) -> frasin(e) -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ban. frăpsăn?, ar. frapsin, mgl. frasin, frasim?, ir. frăsír?]</variants>
+  
+  <!-- Interpretation needed for frapsän, frasim, frosir -->
+  
+  <definition>„Esche“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FRAXINUS, -UM</etymon>
+    :
+
+    <!-- Assuming € rraxivus -> FRAXINUS -->
+    
+    <cognates>
+      
+      <form lang="sq">frashër</form>
+      , 
+      <!-- Assuming frasen -> frashër -->
+      
+      <form lang="it">frassino</form>
+      ,
+
+      <form lang="vec">frassene</form>
+      ,
+
+      <form lang="it-PAD">frassene</form>
+      ,
+
+      <form lang="pms-MON">frassu</form>
+      , 
+      <!-- Assuming monf. frasu -> frassu -->
+      
+      <form lang="pms-MON?">fresu?</form>
+      , 
+      <!-- Interpretation needed for fresu -->
+      
+      <form lang="it-TES?">freșan?</form>
+      , 
+      <!-- Interpretation needed for tess, frecan -->
+      
+      <form lang="lmo-OSS">frasi</form>
+      , 
+      <!-- Assuming ossol. -> lmo-OSS -->
+      
+      <form lang="roh-ENG">fraissen</form>
+      ,
+
+      <form lang="oc">fraisse</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">frêne</form>
+      , 
+      <!-- Assuming frene -> frêne -->
+      
+      <form lang="ca">freixe</form>
+      , 
+      <!-- Assuming freze -> freixe -->
+      
+      <form lang="es">fresno</form>
+      ,
+
+      <form lang="pt">freixo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

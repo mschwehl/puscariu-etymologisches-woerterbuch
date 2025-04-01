@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="978">
+   
+  <!-- „978 -> 978 -->
+  
+  <lemma>ling</lemma>
+  
+  <principal_parts>linsei, lins</principal_parts>
+  
+  <!-- Assuming Tinsei, Tins -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. ling?, linsu?, lintu? III, mgl. ling? II, ir. ling, lins, linse?]</variants>
+  
+  <!-- Interpretation needed for alinga -> ling?, alimău -> linsu?, alimtu -> lintu?, ling -> ling?, linze -> linse? -->
+  
+  <definition>„lecken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LINGO, LINXI, LINCTUM?, LINGERE</etymon>
+    : 
+    <!-- Assuming LINOTUM -> LINCTUM? -->
+    
+    <cognates>
+      
+      <form lang="it-SIC">lìnciri?</form>
+      , 
+      <!-- Interpretation needed for lintsire -->
+      
+      <form lang="lmo-OLD">lènzer?</form>
+      , 
+      <!-- Interpretation needed for a.-lomb. lenzer -->
+      
+      <form lang="sc-C">lìngiri?</form>
+      , 
+      <form lang="sc-G">lìngere?</form>
+      , 
+      <!-- Interpretation needed for lindziri, lindăi -->
+      
+      <form lang="it-FELT?">lènder?</form>
+      , 
+      <!-- Interpretation needed for feltr. lender -->
+      (
+      <form lang="roh-OBW">lènger?</form>
+      ), 
+      <!-- Interpretation needed for lenser -->
+      
+      <form lang="fur">leuzi?</form>
+      . 
+      <!-- Interpretation needed for leuzi -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

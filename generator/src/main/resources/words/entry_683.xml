@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="683">
+  
+  <lemma>furnicar</lemma>
+  
+  <!-- Assuming furnică” -> furnicar -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[mgl. furnigar]</variants>
+  
+  <definition>„Ameisenhaufen, wimmelnde Menge“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FORMICARIUM</etymon>
+    : 
+    <!-- Assuming *rormicarıum -> *FORMICARIUM -->
+    
+    <cognates>
+      
+      <form lang="it">formicajo</form>
+      , 
+      <!-- Assuming formicajo -> formicajo -->
+      
+      <form lang="es">hormiguero</form>
+      ,
+
+      <form lang="pt">formigueiro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. furnigăme?].</variants>
+  
+  <!-- Interpretation needed for furnigäme -->
+  
+</entry>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1046">
+  
+  <lemma>măsur</lemma>
+  
+  <lemma_variants>(măsăr?)</lemma_variants>
+  
+  <!-- Interpretation needed for măsâr -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. măsur?, ir. măsur?]</variants>
+  
+  <!-- Interpretation needed for mistr -> măsur?, mesür -> măsur? -->
+  
+  <definition>„messen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MENSURŌ, -ARE</etymon>
+    : 
+    <!-- Assuming sEIN]SURO -> MENSURŌ -->
+    
+    <cognates>
+      
+      <form lang="it">misurare</form>
+      ,
+
+      <form lang="oc">mesurar</form>
+      , 
+      <form lang="ca">mesurar</form>
+      , 
+      <form lang="es">mesurar</form>
+      , 
+      <form lang="pt">mesurar</form>
+      , 
+      <!-- Assuming pv. cat. sp. pg. -> oc, ca, es, pt -->
+      
+      <form lang="fr">mesurer</form>
+      . 
+      <!-- Assuming irz. -> fr -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

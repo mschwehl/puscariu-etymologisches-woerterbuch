@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1064">
+  
+  <lemma>*met</lemma>
+  
+  <lemma_variants>od. *mit</lemma_variants>
+  
+  <definition>„schicken“?</definition>
+   Erhalten ist nur die Partizipialform 
+  <form>mis</form>
+   (
+  <source_ref>G. Dem. Teodorescu: Poesii populare S. 20</source_ref>
+  )
+
+  <etymology>
+    
+    <etymon lang="Lat">MITTO, MISI, MISSUM, MITTERE</etymon>
+    : 
+    <!-- Assuming X NITTO -> MITTO -->
+    
+    <cognates>
+      
+      <form lang="it">mettere</form>
+      , 
+      <!-- Assuming metlere -> mettere -->
+      
+      <form lang="roh-ENG">metter</form>
+      , 
+      <form lang="pt">meter</form>
+      , 
+      <!-- Assuming eng. pg. -> roh-ENG, pt -->
+      
+      <form lang="oc">metre</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">mettre</form>
+      , 
+      <!-- Assuming îrz. -> fr -->
+      
+      <form lang="es">meter</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1323">
+  
+  <lemma>pînză</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. pîndză?, mgl. pînză?, ir. pînză?]</variants>
+  
+  <!-- Interpretation needed for pindzä -> pîndză?, pondză -> pînză?, pänze -> pînză? -->
+  
+  <definition>„Leinen“</definition>
+  ,
+
+  <etymology source="Verfassers: Lat. Ti u. Ki S. 50">
+    setzt ein von 
+    <etymon lang="Lat">PANDERE</etymon>
+     „der Länge nach ausbreiten“ (vgl. 
+    <example lang="la">pandere vela</example>
+    ) abgeleitetes 
+    <etymon lang="Lat">*PANDIA, -AM?</etymon>
+     voraus, worüber Verfassers: Lat. Ti u. Ki S. 50 zu vergleichen ist.
+
+  </etymology>
+  
+</entry>

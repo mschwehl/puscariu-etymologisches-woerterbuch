@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1022">
+  
+  <lemma>mănînc</lemma>
+  
+  <!-- Assuming mänine -> mănînc -->
+  
+  <lemma_variants>(mînc?)</lemma_variants>
+  
+  <!-- Assuming mine -> mînc? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. mănâncu?, mănânc?, mîc?, măc?, mîngu? W., mgl. mănânc?, mănânc?, ir. mănânc?, inf. mînca?]</variants>
+  
+  <!-- Interpretation needed for măncu -> mănâncu?, mâne -> mănânc?, mic, măc, mîngu, mängne -> mănânc?, mone -> mănânc?, märäneu -> mănânc?, manco -> mînca? -->
+  
+  <definition>„essen“</definition>
+  ,
+
+  <etymology>
+     
+    <!-- Etymology missing in provided text -->
+    
+    <etymon lang="Lat">MANDUCO, -ARE?</etymon>
+     
+    <!-- Likely etymon -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="904">
+  
+  <lemma>învolb</lemma>
+  
+  <!-- Assuming invold -> învolb -->
+  
+  <lemma_variants>(înholb?)</lemma_variants>
+  
+  <!-- Interpretation needed for inhölb -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„rollen“ (meist von den Augen gebraucht, daher auch „glotzen‘)</definition>
+  
+  <variants>[ar. îmvolbu?, învulbedz?, mgl. volbu „aufspulen, aufrollen“, davon das Verbalsubst. ar. mgl. volbu? sm. „Gerät zum Wickeln des Garnes']</variants>
+  
+  <!-- Interpretation needed for mvolbu -> îmvolbu?, mwulbedz -> învulbedz?, völbu -> volbu? -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">[IN-]VOLVO, -ERE</etymon>
+    : 
+    <!-- Assuming [ıs-]voLvo -> [IN-]VOLVO -->
+    
+    <cognates>
+      
+      <form lang="it">volgere</form>
+      ,
+
+      <form lang="oc">volvre?</form>
+      , 
+      <!-- Interpretation needed for pr. volere -->
+      
+      <form lang="es">volver</form>
+      ,
+
+      <form lang="pt-OLD">bolver</form>
+      . 
+      <!-- Assuming a.-pg. -> pt-OLD -->
+      
+    </cognates>
+     Der Konjugationswechsel hat sich auf rum. Boden vollzogen; ein Partizip 
+    <etymon lang="Lat">*VOLUTUM</etymon>
+    , den auch 
+    <form lang="it">volto</form>
+    , 
+    <form lang="oc">vout</form>
+     etc. fordern, 
+    <!-- Assuming *vorLrux -> *VOLUTUM -->
+     lebt im Rum. 
+    <form>vîltoare?</form>
+     sf. „Wirbel“ &lt; 
+    <etymon lang="Lat">VOLUTORIA, -AM?</etymon>
+    , 
+    <form>învolt, -oaltă?</form>
+     adj. „entwickelt“ (z. B. von der Knospe, vom Haar etc.) fort. 
+    <!-- Interpretation needed for rîltodre -> vîltoare?, FVOLTÖRIA -> VOLUTORIA?, invölt -> învolt, -odltä -> -oaltă? -->
+     Dazu 
+    <form>dezvolt</form>
+     I vb. „entwickeln“. 
+    <!-- Assuming dezvdit -> dezvolt -->
+    
+  </etymology>
+  
+</entry>

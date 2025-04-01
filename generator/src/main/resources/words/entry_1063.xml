@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1063">
+  
+  <prefix>II</prefix>
+  
+  <lemma>mestec</lemma>
+  
+  <!-- Assuming m&stee -> mestec -->
+  
+  <lemma_variants>(meist amestec)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. (a)mestec?, mgl. mestec?]</variants>
+  
+  <!-- Interpretation needed for (a)meastik -> (a)mestec?, mestic -> mestec? -->
+  
+  <definition>„mischen“</definition>
+  
+  <etymology source="Rom. XXXIII, 72; Tiktin: Rum.-deutsches Wörterbuch 59">
+    
+    <etymon lang="Lat">*(AD-)MIXTICO, -ARE</etymon>
+     (von 
+    <etymon lang="Lat">MIXTUS, -A, -UM</etymon>
+    , vgl. 
+    <form lang="wa">mâsci?</form>
+     &lt; 
+    <etymon lang="Lat">*MIXTIARE</etymon>
+    , 
+    <form lang="lmo-MIL">misturà?</form>
+    , 
+    <form lang="es">mesturar?</form>
+     &lt; 
+    <etymon lang="Lat">*MISTURARE</etymon>
+     
+    <reference type="bibliographic">Rom. XXXIII, 72</reference>
+    ): 
+    <!-- Assuming *(AM-)MIXTICO -> *(AD-)MIXTICO, wall. masi -> mâsci?, mail. misturd -> misturà? -->
+    
+    <cognates>
+      
+      <form lang="it-OLD">misticare</form>
+      , 
+      <!-- Assuming a.-it. -> it-OLD -->
+      
+      <form lang="it-ABR">(am)misteca?</form>
+      . 
+      <!-- Interpretation needed for (am)misteka -->
+      
+    </cognates>
+    
+    <reference type="bibliographic">Tiktin: Rum.-deutsches Wörterbuch 59.</reference>
+    
+  </etymology>
+  
+</entry>

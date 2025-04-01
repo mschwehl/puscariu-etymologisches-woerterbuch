@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="986">
+   
+  <!-- Assuming 957 -> 986? -->
+  
+  <lemma>loc</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mgl. — „Platz, Erde‘, ir. =]</variants>
+   
+  <!-- Assuming m -->
+  
+  <definition>„Platz“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LOCUS, -UM</etymon>
+    : 
+    <!-- Assuming ăcus -> LOCUS -->
+    
+    <cognates>
+      
+      <form lang="it">luogo</form>
+      , 
+      <!-- Assuming Inogo -> luogo -->
+      
+      <form lang="lmo-MIL">löch?</form>
+      , 
+      <!-- Interpretation needed for lög -->
+      
+      <form lang="roh-ENG">lö?</form>
+      , 
+      <!-- Interpretation needed for (6 -->
+      
+      <form lang="fur">lûc?</form>
+      , 
+      <!-- Interpretation needed for irl. lug -->
+      
+      <form lang="oc">loc</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">lieu</form>
+      , 
+      <!-- Assuming irz. -> fr -->
+      
+      <form lang="ca">lloc?</form>
+      , 
+      <!-- Interpretation needed for cat. loc -->
+      
+      <form lang="es">luego</form>
+      , 
+      <!-- Assuming lego -> luego -->
+      
+      <form lang="pt">logo</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

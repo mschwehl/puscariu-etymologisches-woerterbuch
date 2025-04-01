@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="762">
+  
+  <lemma>ied</lemma>
+  
+  <!-- Assuming ted -> ied -->
+  
+  <pos>sm.</pos>
+  
+  <related_forms>
+    <form>iadă</form>
+     sf.
+  </related_forms>
+   
+  <!-- Assuming iddäü -> iadă -->
+  
+  <variants>[ar. ed(u?), eadă, mgl. ied, iadă?, ir. ied, iadă? u. ieduță?]</variants>
+  
+  <!-- Interpretation needed for ed(ü), iedă -> iadă?, iode -> iadă?, icditse -> ieduță? -->
+  
+  <definition>„Böcklein; Junge Ziege“</definition>
+  
+  <etymology source="Salvioni">
+    
+    <etymon lang="Lat">HAEDUS, -UM</etymon>
+    , 
+    <etymon lang="Lat">*HAEDA, -AM</etymon>
+    : 
+    <!-- Assuming <Hzpus -> HAEDUS -->
+    
+    <cognates>
+      
+      <form lang="sq">edh</form>
+      , 
+      <!-- Assuming e© -> edh -->
+      
+      <form lang="sc">edu</form>
+      . 
+      <!-- Assuming sard. -> sc -->
+      
+    </cognates>
+     Sonst im Rom. nur das Diminut. 
+    <etymon lang="Lat">HAEDULUS, -UM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="co">eddu?, eu?</form>
+      , 
+      <!-- Interpretation needed for e&u -->
+      
+    </cognates>
+     oder 
+    <etymon lang="Lat">*HAEDIONUS, -A?</etymon>
+    : 
+    <!-- Assuming *&pIonus -> *HAEDIONUS? -->
+    
+    <cognates>
+      
+      <form lang="lmo-TES">jöl?</form>
+      , 
+      <!-- Interpretation needed for yöw -->
+      
+      <form lang="it-ARB?">jora</form>
+       „capretta“ („da Belluno fin quasi alla Sesia“ Salvioni), 
+      <!-- Assuming Bellunv -> Belluno -->
+      
+      <form lang="roh-ENG">edöl?</form>
+      . 
+      <!-- Interpretation needed for azöl -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="824">
+  
+  <prefix>+</prefix>
+  
+  <lemma>încrunt</lemma>
+  
+  <!-- Assuming inerünt -> încrunt -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <usage_note>(Jb. III, 175 etc.)</usage_note>
+  
+  <definition>„blutig machen, mit Blut bespritzen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">CRUENTO, -ARE</etymon>
+    . 
+    <!-- Assuming <crurxto, -ark -> CRUENTO, -ARE -->
+     Heute bedeutet dial. (Bukow.) 
+    <form>încrunt</form>
+     auch „beiße“ (
+    <example>„un cîne turbat a încruntat zece oameni; unul şi acuma are fața încruntată“</example>
+    ), sonst nur noch „wütenden Gesichtsausdruck annehmen‘. 
+    <!-- Assuming cine -> cîne, incruntatä -> încruntată -->
+    
+  </etymology>
+  
+</entry>

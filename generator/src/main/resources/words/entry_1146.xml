@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1146">
+  
+  <lemma>muț?</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„die Hunde hetzen dadurch, dass man die Lippen spitzt und durch Einsaugen der Luft, ähnlich wie beim Küssen, einen zischenden Ton hervorbringt“</definition>
+  
+  <usage_note>(Tribuna, 1890, Nr. 93)</usage_note>
+  
+  <variants>[ar. muț? I vb. „saugen“]</variants>
+  
+  <etymology source="Verfassers: Lat. Ti u. Ki 109-111">
+    
+    <etymon lang="Lat">*MUCCEO, -ARE?</etymon>
+    , daneben gewöhnlicher 
+    <form>amuț?</form>
+     I vb. &lt; 
+    <etymon lang="Lat">*AD-MUCCEO, -ARE</etymon>
+    
+    <cognates>
+      
+      <form lang="fr-POI">amoissier?</form>
+       „exciter les chiens à nous défendre“
+
+    </cognates>
+    
+    <form>asmuț?</form>
+     I vb. &lt; 
+    <etymon lang="Lat">*EX-MUCCEO, -ARE</etymon>
+    , 
+    <form>sumuț?</form>
+     I vb. &lt; 
+    <etymon lang="Lat">*SUB-MUCCEO, -ARE</etymon>
+    .
+Daneben existiert im Ar. auch ein Sb. 
+    <form lang="ro-AR">muț?</form>
+     sm. 
+    <form lang="ro-AR">muță?</form>
+     sf. [mgl. 
+    <form lang="ro-MG">muțe?</form>
+    ] „Maul, Schnauze, Rüssel“ &lt; 
+    <etymon lang="Lat">*MUCCEUS, -UM?</etymon>
+    , 
+    <etymon lang="Lat">*MUCCEA, -AM?</etymon>
+    .
+Alle diese Wörter stehen in Verbindung mit 
+    <etymon lang="Lat">MUCCUS, -UM</etymon>
+     „Rotz“, wie dies ausführlich in Verfassers: Lat. Ti u. Ki 109—111 gezeigt wurde.
+Von den rom. Vertretern seien hier nur folgende genannt (einige zeigen einen Einfluss von gr. 
+    <etymon lang="el">μῶκος</etymon>
+    , 
+    <etymon lang="el">μῶθος?</etymon>
+     „spotten, Grimasse“):
+
+    <form lang="vec">moche?</form>
+    , 
+    <form lang="it-BOL">moche?</form>
+     „diconsi gli atti e le parole che ci paiono superflue e leziose“
+
+    <example lang="vec">fa di moche a ergü</example>
+     „vezzeggiare, far carezze eccedenti ed affetiate“
+
+    <example lang="lmo">fa la moka</example>
+     „aguzzare le labbra inverso uno o cacciar fuori la lingua o altrimenti fargli brutto viso in segno di disprezzo“
+
+    <example lang="lmo-BER-OLD">fa la moka</example>
+     „torzer ol nas“
+
+    <example lang="fr">faire la moue</example>
+     „grimasse qu’on fait en allongeant les lèvres, en signe de mécontentement ou de dérision“
+
+    <example lang="es">hacer muecas</example>
+     „sich zieren“
+
+    <form lang="it-OLD">mucciare</form>
+     „verspotten, verhohnen“
+
+    <form lang="lmo-VALT">mochena?</form>
+     „scherzo“
+
+    <form lang="it-ARB">musciaru?</form>
+     „Spott“
+
+    <form lang="fr">se moquer</form>
+    
+    <form lang="oc">se mocà?</form>
+     „spotten“
+
+  </etymology>
+  
+</entry>

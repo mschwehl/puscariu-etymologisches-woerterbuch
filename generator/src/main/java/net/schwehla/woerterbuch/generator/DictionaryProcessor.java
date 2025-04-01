@@ -126,7 +126,7 @@ public class DictionaryProcessor {
 
 					try {
 						System.out.println("Processing: " + xmlPath);
-						String xmlContent = readResourceFile("entries/" + xmlPath);
+						String xmlContent = readResourceFile("words/" + xmlPath);
 						Document doc = docBuilder.parse(new InputSource(new StringReader(xmlContent)));
 
 						doc.getDocumentElement().normalize();

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1127">
+  
+  <lemma>mundă</lemma>
+  
+  <scope>ar.</scope>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Strahl* W.`</definition>
+  
+  <etymology source="Conv. lit. XXXIX, 70">
+    
+    <etymon lang="Lat">MUNDUS, -UM</etymon>
+    : 
+    <!-- Assuming <müxpvus -> MUNDUS -->
+    
+    <cognates>
+      
+      <form lang="it">mondo</form>
+      ,
+
+      <form lang="sc">mundu</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">muond</form>
+      ,
+
+      <form lang="oc">mon</form>
+      , 
+      <form lang="ca">mon</form>
+      , 
+      <!-- Assuming pv. cat. -> oc, ca -->
+      
+      <form lang="fr">monde</form>
+      , 
+      <!-- Assuming irz. -> fr -->
+      
+      <form lang="es">mundo</form>
+      , 
+      <form lang="pt">mundo</form>
+      . 
+      <!-- Assuming sp. pg. muundo -> mundo -->
+      
+    </cognates>
+     Ursprünglich muß im Rum. ein 
+    <form>*mund</form>
+     „Welt“ und ein 
+    <form>lume</form>
+     „Licht“, dem Lat. 
+    <etymon lang="Lat">MUNDUS</etymon>
+     und 
+    <etymon lang="Lat">LUMEN</etymon>
+     entsprechend, existiert haben. 
+    <!-- Assuming nöxpvs -> MUNDUS, LOmEx -> LUMEN -->
+     Dann lernten die Rum. das kslav. Wort 
+    <etymon lang="chu">světŭ?</etymon>
+     kennen, welches „Licht und „Welt“ gleichzeitig bedeutete (auch ung. 
+    <form lang="hu">világ</form>
+     = „Licht und „Welt“) und seinem Einflusse ist es zu verdanken, daß die zwei Wörter heute die Bedeutungen unter sich gewechselt haben. 
+    <reference type="bibliographic">Conv. lit. XXXIX, 70</reference>
+    . Den Geschlechtswechsel hat 
+    <form lang="ro-AR">mundă</form>
+     entweder der Analogie von 
+    <form>lume</form>
+     sf. oder von 
+    <form>rază</form>
+     „Strahl“ (vielleicht hat einst auch ein 
+    <etymon lang="Lat">*RADIUS</etymon>
+     existiert) zu verdanken. 
+    <!-- Assuming svr&tü -> světŭ? -->
+    
+  </etymology>
+  
+  <variants>[P. kennt nur ein mundzi? als plur. tant., welches neben „Strahl“ auch die Bedeutung „Nasenstüber“ hat.]</variants>
+  
+  <!-- Interpretation needed for miundzi -> mundzi? -->
+  
+</entry>

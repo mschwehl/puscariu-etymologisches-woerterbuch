@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="776">
+  
+  <lemma>îmbăt</lemma>
+  
+  <!-- Assuming imbät -> îmbăt -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. îmbăt?, mgl. ambet]</variants>
+  
+  <!-- Interpretation needed for mbet -->
+  
+  <definition>„betrinken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*IMBIBITO, -ARE</etymon>
+    : 
+    <!-- Assuming <*ım-BIBITO -> *IMBIBITO -->
+    
+    <cognates>
+      
+      <form lang="es">embeodar</form>
+      ,
+
+      <form lang="pt">embebedar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1054">
+  
+  <lemma>mătușă</lemma>
+  
+  <!-- Assuming mätüse -> mătușă -->
+  
+  <pos>sf.</pos>
+  
+  <definition>„Tante“</definition>
+  
+  <etymology source="Haşdeu: Etym. Magn. II Addenda XXVII; Meyer-Lübke: Rom. Gramm. II, § 364; Literaturblatt für germ. u. rom. Phil. XXIV, 169">
+    ist ein mit 
+    <suffix>-ușă</suffix>
+     abgeleitetes Diminutivum von 
+    <etymon lang="Lat">AMITA, -AM</etymon>
+    : 
+    <!-- Assuming -uge -> -ușă, aulra -> AMITA -->
+    
+    <cognates>
+      
+      <form lang="sq">emtë?</form>
+      , 
+      <!-- Interpretation needed for emfe -->
+      
+      <form lang="lij-GEN">amea?</form>
+      , 
+      <!-- Interpretation needed for gen. amea -->
+      
+      <form lang="lmo">màdes?</form>
+      , 
+      <!-- Interpretation needed for mâdas -->
+      
+      <form lang="lmo-OSS?">lama?</form>
+      , 
+      <!-- Interpretation needed for ossol. lama -->
+      
+      <form lang="fur">amda?</form>
+      , 
+      <!-- Interpretation needed for frl. anda -->
+      
+      <form lang="roh-OBW">amda?</form>
+      , 
+      <!-- Interpretation needed for obw. omda -->
+      
+      <form lang="oc">anta</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">tante</form>
+      .
+
+    </cognates>
+    
+    <reference type="bibliographic">Haşdeu: Etym. Magn. II Addenda XXVII; Meyer-Lübke: Rom. Gramm. II, § 364 und Literaturblatt für germ. u. rom. Phil. XXIV, 169.</reference>
+    
+  </etymology>
+  
+  <variants>[ar. tetă, mgl. nină].</variants>
+  
+</entry>

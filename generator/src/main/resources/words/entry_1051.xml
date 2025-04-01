@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1051">
+  
+  <lemma>mătrice</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Mutterschaf“</definition>
+  
+  <usage_note>(Lyuba-Yana: Topografia satului Măidan, S. 109)</usage_note>
+   
+  <!-- Assuming LYuba-Jana -> Lyuba-Yana -->
+  
+  <etymology source="A. Thomas in Revue des parlers populaires 1903, 19; Conv. lit. XXXVI, 561">
+    
+    <etymon lang="Lat">MATRIX, -ICEM</etymon>
+    : 
+    <!-- Assuming markıxz -> MATRIX -->
+    
+    <cognates>
+      
+      <form lang="sc-L">madrighe</form>
+      , 
+      <!-- Assuming sard. l. -> sc-L -->
+      
+      <form lang="oc-N">meiri?</form>
+       „Mutterschaf“ (vgl. A. Thomas in Revue des parlers populaires 1903, 19) 
+      <!-- Interpretation needed for n.-pv. meiri -->
+      (vgl. 
+      <form lang="oc-BEAR?">marre?</form>
+      ). 
+      <!-- Interpretation needed for bearn. marrego -->
+      
+    </cognates>
+     Im Ar. entspricht dem 
+    <form>mătrice</form>
+     ein 
+    <form lang="ro-AR">mătrică</form>
+     (
+    <form lang="ro-AR">mitrică</form>
+    ), das wie nord-sard. 
+    <form lang="sc-N">matrica</form>
+    , sass. 
+    <form lang="sc-SAS">madriga?</form>
+     auf 
+    <etymon lang="Lat">*MATRICA, -AM</etymon>
+     weist. 
+    <!-- Interpretation needed for madrigga -->
+     Das Wort bedeutet im Nordsard. „lievito“, wofür 
+    <form lang="lmo-MIL">mader</form>
+     „fondo dell’ aceto“, rum. 
+    <form>mumă</form>
+     (
+    <form>vinului</form>
+    ) „Weinhefe” zu vergleichen ist. Das rum. 
+    <form>mătrice</form>
+     hat noch die Bedeutung „Bauchgrimmen der kleinen Kinder“ (
+    <source_ref>Conv. lit. XXXVI, 561</source_ref>
+    ). 
+    <!-- Assuming numa -> mumă -->
+    
+  </etymology>
+  
+</entry>

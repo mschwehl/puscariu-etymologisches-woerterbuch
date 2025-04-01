@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="908">
+  
+  <lemma>ienupăr</lemma>
+  
+  <!-- Assuming nedpt(ăn) -> ienupăr? -->
+  
+  <lemma_variants>(juniper?, jurepăr?, jivepăn?, jinăpăn?, ienupăr?)</lemma_variants>
+  
+  <!-- Interpretation needed for juneipän -> juniper?, juredpăr, jivedpän, jin(e)ăpăn, sneap(än) -> ienupăr? -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. giuneapină?]</variants>
+  
+  <!-- Interpretation needed for diuneapine -->
+  
+  <definition>„Wacholder“</definition>
+  
+  <etymology source="Appendix Probi 197; C. Gl. II, 351, 22">
+    
+    <etymon lang="Lat">IUNIPERUS, -UM</etymon>
+     u. 
+    <etymon lang="Lat">IUNIPERUS, -UM</etymon>
+     (Appendix Probi 197, C. Gl. II, 351. 22): 
+    <!-- Assuming yuxip£res, -UA -> IUNIPERUS, -UM -->
+    
+    <cognates>
+      
+      <form lang="it">ginepro</form>
+      ,
+
+      <form lang="it-SIC">jiniparu</form>
+      ,
+
+      <form lang="sc">nibaru?</form>
+      , 
+      <!-- Interpretation needed for sard. nibaru -->
+      
+      <form lang="roh-ENG">ginaiver?</form>
+      , 
+      <!-- Interpretation needed for dinaiver -->
+      
+      <form lang="fro">genièvre?</form>
+      , 
+      <!-- Interpretation needed for a.-Irz. geneizre -->
+      
+      <form lang="es">enebro</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

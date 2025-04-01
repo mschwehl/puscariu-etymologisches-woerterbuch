@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="893">
+  
+  <lemma>intru</lemma>
+  
+  <lemma_variants>(întru)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. ir. =, mgl. intru?]</variants>
+  
+  <!-- Interpretation needed for antru -> intru? -->
+  
+  <definition>„eintreten“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">INTRO, -ARE</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">intrare</form>
+      , 
+      <!-- Assuming tntrare -> intrare -->
+      
+      <form lang="roh-ENG">entrar</form>
+      , 
+      <!-- Assuming eng. -> roh-ENG -->
+      
+      <form lang="fr">entrer</form>
+      ,
+
+      <form lang="oc">entrar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">entrar</form>
+      ,
+
+      <form lang="pt">entrar</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

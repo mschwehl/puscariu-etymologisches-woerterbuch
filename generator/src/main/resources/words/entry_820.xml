@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="820">
+   
+  <!-- Assuming 320 -> 820 -->
+  
+  <lemma>încind</lemma>
+  
+  <!-- Assuming ineind -> încind -->
+  
+  <principal_parts>-insei, -ins</principal_parts>
+  
+  <!-- Assuming -nsei, -ns -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„anzünden‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">INCENDO, -NDI, -NSUM, -ERE</etymon>
+    : 
+    <!-- Assuming C ISCENDO -> INCENDO -->
+    
+    <cognates>
+      
+      <form lang="it">incendere</form>
+      ,
+
+      <form lang="vec">encender</form>
+       „prurire“, 
+      <!-- Assuming ven. -> vec -->
+      
+      <form lang="it-ABR">ncenne?</form>
+       „frizzare”, 
+      <!-- Interpretation needed for ndZenne -->
+      
+      <form lang="roh-OBW">antsender?</form>
+       „bruciare“, 
+      <!-- Interpretation needed for antsender -->
+      
+      <form lang="fur">incindi?</form>
+       „frizzare“, 
+      <!-- Interpretation needed for fil. încindi -->
+      
+      <form lang="oc">encendre</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">encender</form>
+      ,
+
+      <form lang="pt">encender</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. aprind].</variants>
+  
+  <!-- Interpretation needed for aprindı -> aprind -->
+  
+</entry>

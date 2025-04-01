@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="755">
+  
+  <lemma>iapă</lemma>
+  
+  <!-- Assuming îdpă -> iapă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. iapă?, ir. iapă?]</variants>
+  
+  <!-- Assuming fape -> iapă?, Zope -> iapă? -->
+  
+  <definition>„Stute</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">EQUA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="sc">ebba</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="oc-N">èga?</form>
+      , 
+      <!-- Interpretation needed for n.-pv. ego -->
+      
+      <form lang="fro">ieve</form>
+      , 
+      <!-- Assuming a.-trz. -> fro -->
+      
+      <form lang="ca">egua</form>
+      , 
+      <!-- Assuming cat. cgua -> egua -->
+      
+      <form lang="pt">égua</form>
+      , 
+      <!-- Assuming pg. cgua -> égua -->
+      
+      <form lang="es">yegua</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

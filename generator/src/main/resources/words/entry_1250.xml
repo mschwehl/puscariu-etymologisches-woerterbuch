@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1250">
+  
+  <lemma>paltin</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. =?]</variants>
+  
+  <!-- Interpretation needed for | -->
+  
+  <definition>„Platane“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">PLATANUS, -UM</etymon>
+     (aus 
+    <etymon lang="Lat">PLATANUS</etymon>
+    : 
+    <!-- Assuming PLATINTS -> PLATANUS -->
+    
+    <cognates>
+      
+      <form lang="it-NAP">chiatanu?</form>
+      , 
+      <!-- Interpretation needed for Äiatano -->
+      
+      <form lang="pms">plàtanu?</form>
+      , 
+      <!-- Interpretation needed for piaju -->
+      
+      <form lang="pms">plaja?</form>
+      , 
+      <!-- Interpretation needed for piaje -->
+      
+      <form lang="pms-MON?">ciaja?</form>
+      , 
+      <!-- Interpretation needed for tSaja -->
+      
+      <form lang="fr">plane</form>
+      ,
+
+    </cognates>
+     mit Suffixwechsel nach 
+    <etymon lang="Lat">CARPINUS, FRAXINUS</etymon>
+    ).
+
+  </etymology>
+  
+</entry>

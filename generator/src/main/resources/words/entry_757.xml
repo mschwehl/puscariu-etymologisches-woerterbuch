@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="757">
+   
+  <!-- Assuming 157 -> 757 -->
+  
+  <lemma>iarbă</lemma>
+  
+  <!-- Assuming iärba -> iarbă -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <variants>[ar. mgl. iarbă, ir. iarbă?]</variants>
+  
+  <!-- Assuming jarbă -> iarbă, jorbe -> iarbă? -->
+  
+  <definition>„Gras“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVI, 657; W. Meyer: Lat. Neutr. 58">
+    
+    <etymon lang="Lat">HERBA, -AM</etymon>
+    : 
+    <!-- Assuming -aı -> -AM -->
+    
+    <cognates>
+      
+      <form lang="isv">jarba</form>
+      , 
+      <!-- Assuming vegl. -> isv -->
+      
+      <form lang="it">erba</form>
+      ,
+
+      <form lang="it-SIC">erba</form>
+      , 
+      <!-- Assuming sie. -> it-SIC -->
+      
+      <form lang="lmo-MIL">erba</form>
+      , 
+      <!-- Assuming mail. -> lmo-MIL -->
+      
+      <form lang="roh-ENG">erba</form>
+      , 
+      <!-- Assuming eng. -> roh-ENG -->
+      
+      <form lang="oc">erba</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fur">iarbe?</form>
+      , 
+      <!-- Assuming frl. ierbe -> iarbe? -->
+      
+      <form lang="fro">erbe, èvre?</form>
+       (Zeitschr. rom. Phil. XXVI, 657), 
+      <!-- Assuming a.-frz. ebre, evre -> erbe, èvre? -->
+      
+      <form lang="fr">herbe</form>
+      , 
+      <!-- Assuming n.-frz. -> fr -->
+      
+      <form lang="fr-LOR">yerb</form>
+      , 
+      <!-- Assuming lothr. -> fr-LOR -->
+      
+      <form lang="es">yerba</form>
+      ,
+
+      <form lang="pt">herva</form>
+      .
+
+    </cognates>
+     Die Mehrzahl 
+    <form>ierburi</form>
+     „Grasarten“, sowie 
+    <form lang="fr">ers</form>
+    , 
+    <form lang="oc">ers</form>
+     (vgl. 
+    <form lang="it">erborare</form>
+    ) setzt ein 
+    <etymon lang="Lat">*HERBORA</etymon>
+     von 
+    <etymon lang="Lat">*HERBUS</etymon>
+     (statt 
+    <etymon lang="Lat">ERVUM</etymon>
+    ) voraus, das man fälschlich als Plural von 
+    <form>iarbă</form>
+     fühlt. W. Meyer: Lat. Neutr. 58. 
+    <!-- Assuming *envona -> *HERBORA, *ervus -> *HERBUS -->
+    
+  </etymology>
+  
+</entry>

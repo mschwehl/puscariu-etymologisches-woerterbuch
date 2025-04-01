@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="997">
+  
+  <lemma>lunec</lemma>
+  
+  <!-- Assuming Tiinee -> lunec -->
+  
+  <lemma_variants>(alunec)</lemma_variants>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. alunic?, arunic?, mgl. lunec?]</variants>
+  
+  <!-- Interpretation needed for alınic, arunic, luree -> lunec? -->
+  
+  <definition>„(aus)gleiten”“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LUBRICO, -ARE</etymon>
+     (
+    <form lang="it">lubricare</form>
+    , 
+    <form lang="es">lubricar</form>
+    , 
+    <form lang="pt">lubricar</form>
+    ). Vgl. ar. 
+    <form lang="ro-AR">aludic?</form>
+     I vb. „gleite aus“, 
+    <form lang="ro-AR">aludicare?</form>
+     sf. „Ausgleiten“, 
+    <form lang="ro-AR">aludicos?, -oasă?</form>
+     adj. „glatt“ W. 
+    <!-- Interpretation needed for arıdie -> aludic?, ardicâre -> aludicare?, arudicös -> aludicos?, -oăsă -> -oasă? -->
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1137">
+  
+  <lemma>muscă</lemma>
+  
+  <!-- Assuming müseä -> muscă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. =, ir. muscă?]</variants>
+  
+  <!-- Interpretation needed for >, muske -->
+  
+  <definition>„Fliege“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MUSCA, -AM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">mosca</form>
+      , 
+      <form lang="oc">mosca</form>
+      , 
+      <form lang="es">mosca</form>
+      , 
+      <form lang="ca">mosca</form>
+      , 
+      <form lang="pt">mosca</form>
+      , 
+      <!-- Assuming pv. sp. cat. pg. -> oc, es, ca, pt -->
+      
+      <form lang="roh-ENG">musca?</form>
+      , 
+      <!-- Interpretation needed for muska -->
+      
+      <form lang="fr">mouche</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

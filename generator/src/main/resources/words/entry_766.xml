@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="766">
+  
+  <lemma>ierbos</lemma>
+  
+  <!-- Assuming terbos -> ierbos -->
+  
+  <feminine_neuter>-oasă</feminine_neuter>
+  
+  <!-- Assuming -odsd -> -oasă -->
+  
+  <pos>adj.</pos>
+  
+  <variants>[ar. ierbos?]</variants>
+  
+  <!-- Assuming irbos -> ierbos? -->
+  
+  <definition>„reich an Gras‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">HERBOSUS, -A, -UM</etymon>
+    : 
+    <!-- Assuming < nERBOSUS -> HERBOSUS -->
+    
+    <cognates>
+      
+      <form lang="it">erboso</form>
+      ,
+
+      <form lang="roh-ENG">erbós?</form>
+      , 
+      <!-- Interpretation needed for ervnos -->
+      
+      <form lang="oc">erbós</form>
+      , 
+      <!-- Assuming pv. erbos -> erbós -->
+      
+      <form lang="fr">herbeux</form>
+      , 
+      <!-- Assuming Irz. -> fr -->
+      
+      <form lang="es">herboso</form>
+      ,
+
+      <form lang="pt">hervoso</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1024">
+  
+  <lemma>mărât</lemma>
+  
+  <!-- Assuming märdt -> mărât -->
+  
+  <scope>ar.</scope>
+  
+  <feminine_neuter>-ă</feminine_neuter>
+  
+  <!-- Assuming -c -> -ă -->
+  
+  <pos>adj.</pos>
+  
+  <definition>„armselig, arm“</definition>
+  
+  <etymology source="Conv. lit. XXIX, 297">
+     
+    <!-- Assuming XXAIX -> XXIX -->
+    
+    <etymon lang="Lat">MALE HABITUS, -A, -UM</etymon>
+     (vgl. Rom. III, 377—878, von 
+    <etymon lang="Lat">HABITUS</etymon>
+     „bien soigné, bien portant“, Partizip von 
+    <etymon lang="Lat">HABERE</etymon>
+    ): 
+    <!-- Assuming mau[r H]ABITUS -> MALE HABITUS, nagirus -> HABITUS, soignd -> soigné -->
+    
+    <cognates>
+      
+      <form lang="it">malato</form>
+       (aber 
+      <form lang="it">malattia</form>
+      ),
+
+      <form lang="oc">malaut?, malapte?</form>
+      , 
+      <!-- Interpretation needed for pv. malaute, malapte -->
+      
+      <form lang="fro">malabde?</form>
+      , 
+      <!-- Interpretation needed for a.-frz. malabde -->
+      
+      <form lang="fr">malade</form>
+      , 
+      <!-- Assuming trz. -> fr -->
+      
+      <form lang="ca">malalt</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es-OLD">malato</form>
+      . 
+      <!-- Assuming a.-sp. -> es-OLD -->
+      
+    </cognates>
+    
+    <reference type="bibliographic">Conv. lit. XXIX, 297.</reference>
+    
+  </etymology>
+  
+</entry>

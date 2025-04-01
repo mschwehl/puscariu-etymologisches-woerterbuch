@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1274">
+  
+  <lemma>parte</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, mgl. parte?, ir. parte?]</variants>
+  
+  <!-- Interpretation needed for © -> =, parti -> parte?, porăt-u -> parte? -->
+  
+  <definition>„Teil, Anteil, Seite, Richtung“</definition>
+  
+  <etymology source="Meyer-Lübke: Rom. Gramm. III, § 221">
+    
+    <etymon lang="Lat">PARS, -RTEM</etymon>
+    :
+
+    <cognates>
+      
+      <form lang="it">parte</form>
+      , 
+      <form lang="es">parte</form>
+      , 
+      <form lang="pt">parte</form>
+      ,
+
+      <form lang="fur">part</form>
+      , 
+      <form lang="roh-ENG">part</form>
+      , 
+      <form lang="oc">part</form>
+      , 
+      <form lang="fr">part</form>
+      . 
+      <!-- Assuming frl. eng. pv. frz. -> fur, roh-ENG, oc, fr -->
+      
+    </cognates>
+     — Das Adj. 
+    <example>parte — parte</example>
+     „teils — teils“ entspricht lat. 
+    <example lang="la">PARTIM — PARTIM</example>
+    : 
+    <form lang="it">parte — parte</form>
+    , 
+    <form lang="es">parte — parte</form>
+    , vgl. Meyer-Lübke: Rom. Gramm. III, § 221. 
+    <!-- Assuming val. -> vgl. -->
+    
+  </etymology>
+  
+</entry>

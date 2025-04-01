@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="959">
+  
+  <lemma>legămînt</lemma>
+  
+  <!-- Assuming Tegämint -> legămînt -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. legămîntu?]</variants>
+  
+  <!-- Interpretation needed for ligămintu -->
+  
+  <definition>„Bund“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">LIGAMENTUM</etymon>
+    : 
+    <!-- Assuming Lisanestox -> LIGAMENTUM -->
+    
+    <cognates>
+      
+      <form lang="it">legamento</form>
+      . 
+      <!-- Assuming legainento -> legamento -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

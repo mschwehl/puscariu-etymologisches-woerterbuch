@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="889">
+  
+  <lemma>întortochez</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <lemma_variants>
+    întortocez I vb. (
+    <form>întortocheat?</form>
+    , 
+    <source_ref>Liubliana: Mäidan 71</source_ref>
+    )
+  </lemma_variants>
+  
+  <!-- Assuming intortocat -> întortocheat?, Liuba-Jana -> Liubliana -->
+  
+  <definition>„verdrehen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*[IN-]TORTUCULO, -ARE?</etymon>
+     (mit anderem Suffix 
+    <etymon lang="Lat">*IN-TORTICULO, -ARE?</etymon>
+    : 
+    <!-- Assuming *[ws]-rorr-oc[ölLo, -Arz -> *[IN-]TORTUCULO, -ARE?, *[ın]rorrscüLo, -Ark -> *IN-TORTICULO, -ARE? -->
+    
+    <cognates>
+      
+      <form lang="roh-ENG">(in)stortilier?</form>
+      , 
+      <!-- Interpretation needed for (in)stortilier -->
+      
+      <form lang="fr">(en)tortiller</form>
+      ,
+
+      <form lang="es">entortijar</form>
+      ).
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="666">
+  
+  <prefix>I</prefix>
+  
+  <lemma>fulger</lemma>
+  
+  <!-- Assuming fülger -> fulger -->
+  
+  <pos>sm.</pos>
+  
+  <definition>„Blitz“</definition>
+  
+  <etymology source="Georges: Lex. lat. Wortf. 291; Schuchardt: Vokal. II, 210; Kritisch. Jahresber. VI, 122">
+    
+    <etymon lang="Lat">FULGUR, -UREM</etymon>
+     (Belege ..., durch Einfluß der männl. u. neutral. er-Stämme od. dissimiliert aus 
+    <etymon lang="Lat">FULGOREM?</etymon>
+    : 
+    <!-- Assuming rÜnGur, -£rem -> FULGUR, -UREM; rüLGüREn -> FULGOREM? -->
+    
+    <cognates>
+      
+      <form lang="it">folgore</form>
+      
+    </cognates>
+    ):
+
+    <cognates>
+      
+      <form lang="it-ABR">foldzore?</form>
+      , 
+      <!-- Interpretation needed for foldZore -->
+      
+      <form lang="fro">foudre</form>
+      , 
+      <!-- Assuming a.-frz. fuildre -> foudre -->
+      
+      <form lang="oc">folzer</form>
+      . 
+      <!-- Assuming pv. -> oc -->
+      
+    </cognates>
+     Im Ar. heißt der Blitz 
+    <form lang="ro-AR">sfulgu</form>
+    , welches auf 
+    <etymon lang="Lat">FULGUR</etymon>
+     zurückgehen könnte (vgl. 
+    <form lang="pms">(s)furgu</form>
+    , 
+    <form lang="lij-GEA">exforgo</form>
+    , 
+    <form lang="it-NAP">furgolo</form>
+    , 
+    <form lang="it-NAP?">fruvolo?</form>
+    ), aber es kann auch mit 
+    <form>fulg</form>
+     identisch und von 
+    <form lang="ro-AR">sfuldzir?</form>
+     beeinflußt sein. 
+    <!-- Interpretation needed for fruvolo, sfuldzir -->
+    
+  </etymology>
+  
+  <variants>[mgl. strelă, ir. strela].</variants>
+  
+</entry>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="678">
+  
+  <lemma>furcă</lemma>
+  
+  <!-- Assuming fărcă -> furcă -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. —, ir. furcă? „Spinnrocken“]</variants>
+  
+  <!-- Assuming furke -> furcă -->
+  
+  <definition>„Spinnrocken, Heugabel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FURCA, -AM</etymon>
+    : 
+    <!-- Assuming rürca, -au -> FURCA, -AM -->
+    
+    <cognates>
+      
+      <form lang="sq">furkë</form>
+      , 
+      <!-- Assuming furke -> furkë -->
+      
+      <form lang="it">forca</form>
+      ,
+
+      <form lang="oc">forca</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="ca">forca</form>
+      ,
+
+      <form lang="pt">forca</form>
+      ,
+
+      <form lang="it-SIC">furka</form>
+      , 
+      <!-- Assuming sie -> it-SIC -->
+      
+      <form lang="sc">furka</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">fuorcla?</form>
+      , 
+      <!-- Interpretation needed for fuork’a -->
+      
+      <form lang="fr">fourche</form>
+      ,
+
+      <form lang="es">horca</form>
+      .
+
+    </cognates>
+     Die Mehrzahl 
+    <form>furci</form>
+     bedeutet „Galgen“, wie 
+    <example lang="it">le forche</example>
+    , 
+    <example lang="fro">les fourches</example>
+     (
+    <form lang="es">horca</form>
+    , 
+    <form lang="pt">forca</form>
+     die Einzahl). Das Dim. 
+    <form>furculiță</form>
+     heißt „Speisegabel“ (ar. mgl. =, auch 
+    <form lang="sq">furkulitsë?</form>
+    , 
+    <form lang="el">φουρκουλίτσα?</form>
+    ), wie 
+    <form lang="it">forchetta</form>
+    , 
+    <form lang="fr">fourchette</form>
+    . 
+    <example>Furca pieptului</example>
+     wie 
+    <example lang="lmo-BER">la forcella del stomech</example>
+     (= Brust).
+
+    <!-- Assuming furculli)fä -> furculiță, furkulitse -> furkulitsë?, govozoviizoa -> φουρκουλίτσα?, fowrchette -> fourchette, stomeg -> stomech -->
+    
+  </etymology>
+  
+</entry>

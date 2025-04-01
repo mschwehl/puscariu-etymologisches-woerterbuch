@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1259">
+  
+  <lemma>papură</lemma>
+  
+  <pos>sf.</pos>
+  
+  <variants>[mgl. papură?]</variants>
+  
+  <!-- Interpretation needed for papră -->
+  
+  <definition>„Binse, Schilfrohr, Kork“</definition>
+  
+  <etymology source="Dens. H. l. r. 85; Schuchardt: Zeitschr. rom. Phil. XXVI, 403; Rom. XXVIII, 197-199">
+    geht, nach Dens. H. l. r. 85 auf 
+    <etymon lang="Lat">PAPYRA, -AM</etymon>
+     (mit Suffixwechsel aus 
+    <etymon lang="Lat">PAPYRUM</etymon>
+    : 
+    <!-- Assuming papua -> PAPYRA -->
+    
+    <cognates>
+      
+      <form lang="sc">pabiru</form>
+       „cârta“ 
+      <!-- Assuming sard. -> sc -->
+      
+    </cognates>
+    ) zurück. Den Sinnesübergang, welchen auch frz. Dialektformen aufweisen (
+    <source_ref>Rom. XXVIII, 197 bis 199</source_ref>
+    ) erklärt Schuchardt: 
+    <reference type="bibliographic">Zeitschr. rom. Phil. XXVI, 403</reference>
+    .
+
+  </etymology>
+  
+</entry>

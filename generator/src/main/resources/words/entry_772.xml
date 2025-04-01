@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="772">
+   
+  <!-- Assuming TI -> 772 -->
+  
+  <lemma>i?</lemma>
+  
+  <!-- Assuming ir. it -> i? -->
+  
+  <scope>ir.?</scope>
+  
+  <pos>vb.</pos>
+  
+  <definition>„gehen“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IRE</etymon>
+    : 
+    <!-- Assuming Cine -> IRE -->
+    
+    <cognates>
+      
+      <form lang="it">ire</form>
+       (vgl. 
+      <form lang="it">gire</form>
+      ),
+
+      <form lang="roh-ENG">ir-</form>
+      , 
+      <!-- Assuming eng. -> roh-ENG -->
+      
+      <form lang="oc">ir-</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">ir-</form>
+      ,
+
+      <form lang="pt">ir-</form>
+      ,
+
+      <form lang="fr">ir-</form>
+       (in 
+      <form lang="fr">irai(s)</form>
+      ).
+
+    </cognates>
+     Überall defektiv. Die Interjektion ar. 
+    <form lang="ro-AR">i!</form>
+     [= rum. 
+    <form>Ai!</form>
+    ], 
+    <!-- Assuming i) -> i!, ae -> = -->
+     die zum Antreiben der Pferde, Esel etc. gebraucht wird, ist kaum ein erstarrtes Imperat. von 
+    <etymon lang="Lat">IRE</etymon>
+    .
+
+  </etymology>
+  
+</entry>

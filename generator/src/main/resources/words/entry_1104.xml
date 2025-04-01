@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1104">
+  
+  <lemma>moarte</lemma>
+  
+  <!-- Assuming modrte -> moarte -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, mgl. moarte?, ir. moarte?]</variants>
+  
+  <!-- Interpretation needed for moarti, morte -->
+  
+  <definition>„Tod</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MORS, -RTEM</etymon>
+    : 
+    <!-- Assuming bas -> MORS -->
+    
+    <cognates>
+      
+      <form lang="sq">vdekje?</form>
+      , 
+      <form lang="it">morte</form>
+      , 
+      <form lang="pt">morte</form>
+      , 
+      <!-- Assuming alb. -> sq, pg. -> pt -->
+      
+      <form lang="fur">muart?</form>
+      , 
+      <!-- Interpretation needed for frl. "muert -->
+      
+      <form lang="fr">mort</form>
+      , 
+      <form lang="ca">mort</form>
+      , 
+      <!-- Assuming cat. -> ca -->
+      
+      <form lang="es">muerte</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+</entry>

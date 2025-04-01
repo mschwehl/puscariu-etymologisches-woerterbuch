@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1165">
+  
+  <lemma>negoțez</lemma>
+  
+  <!-- Assuming negofez -> negoțez -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„Handelsgeschäfte treiben“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NEGOTIOR, -ARI?</etymon>
+     (= 
+    <etymon lang="Lat">NEGOTIOR, -ARI</etymon>
+    ). 
+    <!-- Assuming E NEGOTIO, -ARE -> NEGOTIOR, -ARI? -->
+     Davon 
+    <form>neguțător, negustor</form>
+     sm. „Händler“.
+
+  </etymology>
+  
+  <variants>[ar. face emborie?].</variants>
+  
+  <!-- Interpretation needed for face emboriă -->
+  
+</entry>

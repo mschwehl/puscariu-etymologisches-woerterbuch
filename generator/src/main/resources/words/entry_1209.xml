@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1209">
+  
+  <lemma>nutresc</lemma>
+  
+  <!-- Assuming nutröse -> nutresc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„nähren”</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NUTRIO, -IRE</etymon>
+    : 
+    <!-- Assuming xÜrkio -> NUTRIO -->
+    
+    <cognates>
+      
+      <form lang="it">nutrire</form>
+      , 
+      <!-- Assuming nudrire -> nutrire -->
+      
+      <form lang="roh-ENG">nudrir</form>
+      ,
+
+      <form lang="oc">noirir</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">nourrir</form>
+      , 
+      <!-- Assuming mourrir -> nourrir -->
+      
+      <form lang="es">nodrir</form>
+      .
+
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. hărnescu?, hrănescu?].</variants>
+  
+  <!-- Interpretation needed for härnesen, hrănescu -->
+  
+</entry>

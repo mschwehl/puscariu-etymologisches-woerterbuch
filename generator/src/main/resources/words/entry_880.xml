@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="880">
+  
+  <lemma>înțeleg</lemma>
+  
+  <!-- Assuming infeleg -> înțeleg -->
+  
+  <principal_parts>-înțelesei?, -înțeles</principal_parts>
+  
+  <!-- Assuming -esei -> -înțelesei?, -6s -> -înțeles -->
+  
+  <verb_class>III</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. înțeleg?, mgl. înțeleg?, ir. înțeleg?]</variants>
+  
+  <!-- Interpretation needed for ntsüleg -> înțeleg?, antsiley -> înțeleg?, antselög -> înțeleg? -->
+  
+  <definition>„verstehen“</definition>
+  , aus älterem 
+  <form>*înțeleg</form>
+  
+  <etymology source="Grundriß I², 618">
+    
+    <etymon lang="Lat">INTELLIGO, -LEXI, -LECTUM, -IGERE</etymon>
+    . 
+    <!-- Assuming -EXT, -BOTUM -> -LEXI, -LECTUM -->
+     Außer im Rum. und Alb. (
+    <form lang="sq">kuptoj?</form>
+    ) ist das Wort nur auf rtr. Gebiet vorhanden: 
+    <!-- Interpretation needed for digon -->
+    
+    <cognates>
+      
+      <form lang="roh-OBW">inteleger?</form>
+      , 
+      <form lang="roh-OHST?">anchlear?</form>
+      , 
+      <form lang="roh-OENG?">încleger?</form>
+      , 
+      <form lang="roh-UEG">incler?, intler?</form>
+       (1562, jetzt 
+      <form lang="roh-UEG">emprender?</form>
+      ), 
+      <!-- Interpretation needed for enteldZir, anklekr, în-kledyer, încler, intler, imprender -->
+       vgl. Grundriß I², 618 (wo 
+      <form lang="fro">entelgir</form>
+       als „unecht“ bezeichnet wird).
+
+    </cognates>
+     — Das alte Partizip 
+    <etymon lang="Lat">INTELLECTUS, -A, -UM</etymon>
+     ist noch im Adj. 
+    <form>înțelept, -eaptă</form>
+     „klug“ erhalten 
+    <!-- Assuming înfelepi -> înțelept -->
+     und in:
+
+  </etymology>
+  
+</entry>

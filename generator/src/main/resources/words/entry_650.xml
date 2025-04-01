@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="650">
+  
+  <lemma>frigare</lemma>
+  
+  <!-- Assuming frigdre -> frigare -->
+  
+  <pos>sf.</pos>
+   
+  <!-- Assuming st. -> sf. -->
+  
+  <definition>„Bratspieß“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">*FRIGALIS, -EM?</etymon>
+     
+    <!-- Assuming -EX -> -EM? for sf. -->
+     (von 
+    <etymon lang="Lat">FRIGO</etymon>
+    ).
+
+  </etymology>
+  
+  <variants>[ar. sulă (di fridzare?)].</variants>
+  
+  <!-- Interpretation needed for fridzeare -->
+  
+</entry>

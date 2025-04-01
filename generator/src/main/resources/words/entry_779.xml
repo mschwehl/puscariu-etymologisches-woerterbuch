@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="779">
+   
+  <!-- Assuming 179 -> 779 -->
+  
+  <lemma>îmblînzesc</lemma>
+  
+  <!-- Assuming Tmblinzese -> îmblînzesc -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <definition>„zähmen“</definition>
+   
+  <!-- Assuming zihmen -> zähmen -->
+  
+  <etymology>
+    
+    <etymon lang="Lat">*BLANDIO, -IRE</etymon>
+     (für 
+    <etymon lang="Lat">BLANDIOR, -IRI</etymon>
+    ).
+
+  </etymology>
+  
+  <variants>[ar. imiripsescu?, fac imir?].</variants>
+  
+  <!-- Interpretation needed for imiripsescu, fac imir -->
+  
+</entry>

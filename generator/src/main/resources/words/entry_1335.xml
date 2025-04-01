@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1335">
+  
+  <lemma>pleapă</lemma>
+  
+  <!-- Assuming pleodpä -> pleapă -->
+  
+  <lemma_variants>
+    (plopă? 
+    <source_ref>Jb. VIII, 317</source_ref>
+    )
+  </lemma_variants>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Augenlid‘“</definition>
+  
+  <etymology source="Zeitschr. rom. Phil. XXVIII, 689">
+    
+    <etymon lang="Lat">*PLUPPEA, -AM?</etymon>
+    . Lat. 
+    <etymon lang="Lat">PUPILLA?</etymon>
+     „Augapfel“, kann in einer sehr frühen Periode über 
+    <etymon lang="Lat">*PIPPA?</etymon>
+     zu 
+    <etymon lang="Lat">*PLUPPA?</etymon>
+     geworden sein, wie 
+    <etymon lang="Lat">POPULUS</etymon>
+     zu 
+    <etymon lang="Lat">*PLOPPUS</etymon>
+    . Ein davon abgeleitetes 
+    <etymon lang="Lat">*PLUPPEA?</etymon>
+     (scil. 
+    <etymon lang="Lat">pellis</etymon>
+    ) konnte sehr gut das „Augenlid“ (eigentl. „die den Augapfel zudeckende Haut“) bezeichnen.“ 
+    <reference type="bibliographic">Zeitschr. rom. Phil. XXVIII, 689</reference>
+    . 
+    <!-- Assuming *pLörpea -> *PLUPPEA?, pürüna -> PUPILLA?, *rLürrea -> *PLUPPEA? -->
+    
+  </etymology>
+  
+  <variants>[ar. peană di-ochi?, mgl. clipelă?].</variants>
+  
+  <!-- Interpretation needed for peană di-octu -> peană di-ochi?, clipelä -> clipelă? -->
+  
+</entry>

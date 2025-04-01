@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1138">
+  
+  <prefix>I</prefix>
+  
+  <lemma>mușchi</lemma>
+  
+  <!-- Assuming maişehiii -> mușchi -->
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. mușclu]</variants>
+  
+  <definition>„Muskel“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">MUSCULUS, -UM</etymon>
+    : 
+    <!-- Assuming musciLus -> MUSCULUS -->
+    
+    <cognates>
+      
+      <form lang="sq">musk</form>
+       „Schulter“,
+(
+      <form lang="it">muscolo</form>
+      , 
+      <form lang="oc">muscle</form>
+      , 
+      <form lang="fr">muscle</form>
+      , 
+      <form lang="ca">múscul?</form>
+      , 
+      <form lang="pt-OLD">musculo?</form>
+      ). 
+      <!-- Assuming pv. frz. cat. -> oc, fr, ca, muscle -> múscul?, a.-pg. 7148900 -> musculo? -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

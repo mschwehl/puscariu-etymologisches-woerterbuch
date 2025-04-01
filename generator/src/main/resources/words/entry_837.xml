@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="837">
+  
+  <lemma>înegresc</lemma>
+  
+  <!-- Assuming imegrese -> înegresc -->
+  
+  <lemma_variants>(înnegresc, negresc)</lemma_variants>
+  
+  <!-- Assuming innegrese -->
+  
+  <verb_class>IV</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[mgl. nigres?]</variants>
+  
+  <!-- Interpretation needed for mel nigres -> mgl. nigres? -->
+  
+  <definition>„schwärzen, schwarz schimmern“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NIGRESCO, -ERE</etymon>
+     (= 
+    <etymon lang="Lat">-ESCERE</etymon>
+    : 
+    <!-- Assuming "FIRE -> -ERE -->
+    
+    <cognates>
+      
+      <form lang="es">negrecer</form>
+      ,
+
+      <form lang="pt">ennegrecer?</form>
+      , 
+      <!-- Assuming annegrecer -> ennegrecer? -->
+      vgl. 
+      <form lang="oc">negrezir?</form>
+      , 
+      <!-- Interpretation needed for pv. neyrezir -->
+      
+      <form lang="fr">noircir?</form>
+      ): 
+      <!-- Interpretation needed for noireir -->
+      
+    </cognates>
+    
+    <cognates>
+      
+      <form lang="roh-ENG">innigrir?</form>
+      . 
+      <!-- Interpretation needed for innairir -->
+      
+    </cognates>
+    
+  </etymology>
+  
+  <variants>[ar. îluescu?].</variants>
+  
+  <!-- Interpretation needed for lăeseu -->
+  
+</entry>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="869">
+  
+  <lemma>înnourez?</lemma>
+  
+  <!-- Assuming Tuounrcez) -> înnourez? -->
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. înoorez?]</variants>
+  
+  <!-- Interpretation needed for niuredz -> înoorez? -->
+  
+  <definition>„umwölken“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IN-NUBILO, -ARE</etymon>
+    : 
+    <!-- Assuming IS5CBILO, -ARB -> IN-NUBILO, -ARE -->
+    
+    <cognates>
+      
+      <form lang="vec">innuvolar?</form>
+      , 
+      <!-- Interpretation needed for inwwolar -->
+      (vgl. 
+      <form lang="it">annuvolarsi</form>
+      , 
+      <form lang="es">anublarse</form>
+      , 
+      <form lang="pt">anuviar-se?</form>
+      ). 
+      <!-- Interpretation needed for anı-viarse -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

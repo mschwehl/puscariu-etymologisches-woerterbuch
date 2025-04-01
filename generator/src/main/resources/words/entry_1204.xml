@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1204">
+  
+  <prefix>II</prefix>
+  
+  <lemma>număr</lemma>
+  
+  <verb_class>I</verb_class>
+  
+  <pos>vb.</pos>
+  
+  <variants>[ar. număr?, mgl. număr? P., număr? W., ir. număr?]</variants>
+  
+  <!-- Interpretation needed for mumir -> număr?, mei. numir -> mgl. număr?, număr, rumer -> număr? -->
+  
+  <definition>„zählen‘</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">NUMERO, -ARE</etymon>
+    : 
+    <!-- Assuming xUMERO -> NUMERO -->
+    
+    <cognates>
+      
+      <form lang="sq">numëroj</form>
+       (
+      <form lang="sq">numëroj?</form>
+      ), 
+      <!-- Interpretation needed for alb. munero), dembron -->
+      
+      <form lang="it">numerare</form>
+      , 
+      <!-- Assuming noverare -> numerare -->
+      
+      <form lang="lmo-TES">nombrà?</form>
+      , 
+      <!-- Interpretation needed for tess. lombră -->
+      
+      <form lang="lmo-BERG">? ? ? romà?</form>
+      , 
+      <!-- Interpretation needed for berg. brese. crem. com. rommd -->
+      
+      <form lang="lmo-VALT?">nombrà?</form>
+      , 
+      <!-- Interpretation needed for valtell. nonibră -->
+      
+      <form lang="lmo-VALS?">?</form>
+      , 
+      <!-- Interpretation needed for valsass. ornă -->
+      
+      <form lang="it-BOL?">numerar?</form>
+      , 
+      <!-- Interpretation needed for bolgen. arınar -->
+      
+      <form lang="rm-BREG?">nombràr?</form>
+      , 
+      <!-- Interpretation needed for valbreg. drombär -->
+      
+      <form lang="roh-OBW">nombrar?</form>
+      , 
+      <!-- Interpretation needed for dumbrar -->
+      
+      <form lang="oc">nombrar</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="fr">nombrer</form>
+      . 
+      <!-- Assuming îrz. -> fr -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

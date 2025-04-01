@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1294">
+  
+  <lemma>pecingine</lemma>
+  
+  <pos>sf.</pos>
+  
+  <definition>„Flechte“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">IMPETIGO, -IGINEM</etymon>
+    : 
+    <!-- Assuming ( [mı]p&TıGo, -icixeu -> IMPETIGO, -IGINEM -->
+    
+    <cognates>
+      
+      <form lang="it">impetiggine</form>
+      , 
+      <!-- Assuming empetig-gine -> impetiggine -->
+      
+      <form lang="it-LAC?">petiggine?</form>
+      , 
+      <!-- Interpretation needed for lacea pitiggine -->
+      
+      <form lang="it-NAP">petinia?</form>
+      , 
+      <!-- Interpretation needed for petinia -->
+      
+      <form lang="it-CAL">pitiina?</form>
+      , 
+      <!-- Interpretation needed for pitiina -->
+      
+      <form lang="it-LCC?">(am)pedin?</form>
+      , 
+      <!-- Interpretation needed for leent. (am)pedin -->
+      
+      <form lang="es">empeine</form>
+      , 
+      <!-- Interpretation needed for empeine -->
+      
+      <form lang="pt">empigem</form>
+      . 
+      <!-- Interpretation needed for eimpigem -->
+      
+    </cognates>
+    
+  </etymology>
+  
+</entry>

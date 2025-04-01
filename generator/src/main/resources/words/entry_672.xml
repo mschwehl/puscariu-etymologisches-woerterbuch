@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="672">
+  
+  <lemma>fund</lemma>
+  
+  <pos>sm.</pos>
+  
+  <variants>[ar. fundu, mgl. ir. =]</variants>
+   
+  <!-- Assuming > -> = -->
+  
+  <definition>„Grund“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">FUNDUS, -UM</etymon>
+    : 
+    <!-- Assuming săNDUS -> FUNDUS -->
+    
+    <cognates>
+      
+      <form lang="sq">fund</form>
+      ,
+
+      <form lang="it">fondo</form>
+      ,
+
+      <form lang="sc">fundu</form>
+      , 
+      <!-- Assuming sard. -> sc -->
+      
+      <form lang="roh-ENG">fuond</form>
+      ,
+
+      <form lang="fr">fond(s)</form>
+      ,
+
+      <form lang="oc">fons</form>
+      , 
+      <!-- Assuming pv. -> oc -->
+      
+      <form lang="es">hondo</form>
+      ,
+
+      <form lang="pt">fundo</form>
+      .
+
+    </cognates>
+     — Mgl. 
+    <form lang="ro-MG">fund</form>
+     bedeutet auch „Winterherberge für Vieh“, welche Bedeutung im dr. 
+    <form>fundac</form>
+     „Herberge im Feld“ wiederkehrt.
+
+    <!-- Assuming Mel. -> Mgl., fundäc -> fundac -->
+    
+  </etymology>
+  
+</entry>

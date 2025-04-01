@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1211">
+  
+  <lemma>oaie</lemma>
+  
+  <!-- Assuming odie -> oaie -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. =, mgl. oaie?, ir. oaie?]</variants>
+  
+  <!-- Interpretation needed for oază -> oaie?, öie -> oaie? -->
+  
+  <definition>„Schaf“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">OVIS, -EM?</etymon>
+    . 
+    <!-- Assuming Căvrs, -ru -> OVIS, -EM? -->
+    
+  </etymology>
+  
+</entry>

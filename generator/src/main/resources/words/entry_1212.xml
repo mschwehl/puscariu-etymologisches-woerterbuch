@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<entry number="1212">
+  
+  <lemma>oală</lemma>
+  
+  <!-- Assuming odlă -> oală -->
+  
+  <pos>sf.</pos>
+  
+  <variants>[ar. mgl. =, ir. oală?]</variants>
+  
+  <!-- Interpretation needed for => -> =, ole -> oală? -->
+  
+  <definition>„Topf“</definition>
+  
+  <etymology>
+    
+    <etymon lang="Lat">OLLA, -AM</etymon>
+    : 
+    <!-- Assuming Cora -> OLLA -->
+    
+    <cognates>
+      
+      <form lang="it">olla</form>
+      , 
+      <form lang="ca">olla</form>
+      , 
+      <form lang="es">olla</form>
+      ,
+
+      <form lang="lmo">ola</form>
+      , 
+      <form lang="lmo-BER-OLD">ola</form>
+      , 
+      <form lang="oc">ola</form>
+      , 
+      <!-- Assuming lomb. a.-berg. pv. -> lmo, lmo-BER-OLD, oc -->
+      
+      <form lang="fro">oule</form>
+      , 
+      <!-- Assuming a.-frz. -> fro -->
+      
+      <form lang="oc-GAS">ola?</form>
+      . 
+      <!-- Interpretation needed for gasc. ura -->
+      
+    </cognates>
+     Die regelrechte Form 
+    <form>*oaie?</form>
+     ist durch 
+    <form>oală</form>
+     verdrängt worden, welches vom Plural 
+    <form>oale</form>
+     aus gebildet ist. 
+    <!-- Assuming *oauă -> *oaie? -->
+     Daneben kommt ein Masc. 
+    <form>ol</form>
+     „Krug“ (
+    <source_ref>Conv. lit. XX, 1014</source_ref>
+    ) vor, vielleicht rückgebildet aus 
+    <form>olar</form>
+    .
+
+  </etymology>
+  
+</entry>
